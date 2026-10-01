@@ -1,0 +1,1001 @@
+student_id,full_name,age,city,university,major,gpa,enroll_year,phone
+S001,Layla Aziz Hassan,22,Erbil,UKH,Computer Science,3.85,2022,+964-750-111-0001
+S002,Sardar Mohammed Karimi,24,Sulaymaniyah,SPU,Software Engineering,3.2,2021,+964-770-222-0002
+S003,Zhyan Omar Mustafa,21,Duhok,UKH,Data Science,3.9,2023,+964-750-333-0003
+S004,Dilan Jalal Nasser,23,Erbil,UKH,Computer Science,2.75,2022,+964-750-444-0004
+S005,Karwan Farid Rashid,25,Zakho,UZakho,Mathematics,3.5,2020,+964-772-555-0005
+S006,Shilan Bakr Saeed,22,Sulaymaniyah,SPU,Data Science,3.1,2023,+964-770-666-0006
+S007,Hawkar Salam Taha,23,Halabja,SPU,Software Engineering,3.65,2022,+964-770-777-0007
+S008,Randa Ihsan Nuri,21,Duhok,UZakho,Computer Science,3.4,2023,+964-750-888-0008
+S009,Naz Saber Kadir,22,Erbil,UKH,Cybersecurity,3.72,2022,+964-750-999-0009
+S010,Avan Dara Salih,24,Sulaymaniyah,UoS,Electrical Engineering,3.33,2021,+964-770-100-0010
+S011,Baran Hama Ali,20,Erbil,EBU,Business Informatics,3.55,2024,+964-750-111-0011
+S012,Dara Barzan Tahir,23,Duhok,UKH,Computer Science,2.9,2022,+964-750-222-0012
+S013,Helin Azad Mahmoud,21,Sulaymaniyah,UoS,Data Science,3.8,2023,+964-770-333-0013
+S014,Kavar Jamal Omar,25,Zakho,UZakho,Mathematics,3.15,2020,+964-772-444-0014
+S015,Lana Nawzad Hassan,22,Halabja,SPU,Software Engineering,3.45,2022,+964-770-555-0015
+S016,Mazin Rebaz Faris,24,Erbil,EBU,Business Informatics,3.6,2021,+964-750-666-0016
+S017,Narin Fuad Karim,21,Sulaymaniyah,SPU,Computer Science,3.88,2023,+964-770-777-0017
+S018,Pishtiwan Soran Aziz,23,Duhok,UZakho,Electrical Engineering,3.25,2022,+964-750-888-0018
+S019,Rozhan Latif Said,22,Erbil,UKH,Cybersecurity,3.7,2022,+964-750-999-0019
+S020,Saman Kamaran Hasan,20,Sulaymaniyah,UoS,Data Science,3.05,2024,+964-770-100-0020
+S021,Tara Raber Qadir,24,Zakho,UZakho,Mathematics,3.4,2021,+964-772-111-0021
+S022,Vian Nawzad Salih,21,Halabja,SPU,Software Engineering,3.55,2023,+964-770-222-0022
+S023,Wrya Hasan Jalal,23,Erbil,EBU,Business Informatics,3.2,2022,+964-750-333-0023
+S024,Xezal Samir Ahmad,22,Sulaymaniyah,SPU,Computer Science,3.78,2022,+964-770-444-0024
+S025,Yara Karzan Rashid,21,Duhok,UKH,Data Science,3.92,2023,+964-750-555-0025
+S026,Zeynep Aryan Hama,24,Erbil,UKH,Computer Science,2.65,2021,+964-750-666-0026
+S027,Alan Sherzad Othman,20,Sulaymaniyah,UoS,Electrical Engineering,3.48,2024,+964-770-777-0027
+S028,Bestun Farhad Kadir,23,Zakho,UZakho,Mathematics,3.3,2022,+964-772-888-0028
+S029,Chnar Rizgar Salih,21,Halabja,SPU,Software Engineering,3.62,2023,+964-770-999-0029
+S030,Dashni Niyaz Omar,22,Erbil,EBU,Business Informatics,3.47,2022,+964-750-100-0030
+S031,Chnar Jalal Karimi,20,Erbil,U779,Data Science,3.76,2023,+964-750-488-7813
+S032,Xezal Rebaz Hasan,27,Sulaymaniyah,U028,Network Engineering,2.36,2020,+964-770-603-9286
+S033,Xezal Omar Saeed,20,Duhok,U412,Software Engineering,3.25,2025,+964-750-503-2449
+S034,Tara Dara Ahmad,19,Erbil,U927,Cybersecurity,2.71,2023,+964-750-116-9671
+S035,Narin Salam Aziz,22,Zakho,U210,Electrical Engineering,3.96,2020,+964-772-601-5219
+S036,Saman Saber Faris,24,Sulaymaniyah,U061,Cybersecurity,2.68,2022,+964-770-867-7505
+S037,Zhyan Farid Qadir,18,Erbil,U405,Artificial Intelligence,3.47,2020,+964-750-409-6236
+S038,Yara Mohammed Ahmad,28,Sulaymaniyah,U648,Business Informatics,2.54,2023,+964-770-443-6009
+S039,Vian Farid Tahir,22,Halabja,U583,Business Informatics,3.1,2023,+964-770-388-4369
+S040,Tara Latif Nasser,18,Erbil,U547,Software Engineering,3.62,2020,+964-750-348-1219
+S041,Avan Aryan Nuri,19,Sulaymaniyah,U509,Software Engineering,3.73,2020,+964-770-840-0220
+S042,Avan Aryan Hama,25,Duhok,U771,Software Engineering,3.26,2022,+964-750-904-1733
+S043,Naz Salam Mustafa,20,Halabja,U182,Computer Science,2.18,2020,+964-770-103-7093
+S044,Shilan Jamal Ali,28,Sulaymaniyah,U277,Computer Science,3.06,2023,+964-770-937-3232
+S045,Aryan Dara Othman,27,Zakho,U841,Data Science,3.73,2020,+964-772-553-3029
+S046,Dara Salam Kadir,20,Halabja,U016,Software Engineering,3.76,2024,+964-770-293-2031
+S047,Tara Saeed Nuri,20,Erbil,U206,Data Science,2.79,2024,+964-750-403-9855
+S048,Kavar Nawzad Kadir,23,Zakho,U651,Mathematics,3.47,2024,+964-772-107-4123
+S049,Karwan Mohammed Mustafa,25,Duhok,U923,Data Science,2.69,2025,+964-750-161-7046
+S050,Layla Karim Othman,19,Erbil,U799,Information Systems,2.64,2022,+964-750-814-9920
+S051,Tara Rebaz Tahir,25,Erbil,U692,Mathematics,2.74,2022,+964-750-881-8013
+S052,Lana Aryan Saeed,18,Duhok,U673,Cybersecurity,3.38,2023,+964-750-576-7563
+S053,Dashni Rebaz Faris,20,Duhok,U984,Business Informatics,2.28,2023,+964-750-529-0401
+S054,Avan Jamal Tahir,18,Sulaymaniyah,U439,Business Informatics,2.87,2025,+964-770-276-2474
+S055,Hawkar Aziz Mahmoud,25,Halabja,U267,Cybersecurity,2.3,2022,+964-770-302-0355
+S056,Saman Raber Kadir,21,Zakho,U498,Data Science,2.38,2024,+964-772-841-8177
+S057,Rebaz Rizgar Karimi,23,Zakho,U548,Data Science,3.92,2020,+964-772-431-7810
+S058,Mazin Latif Karim,21,Halabja,U400,Data Science,2.83,2020,+964-770-415-2598
+S059,Rami Nawzad Qadir,19,Duhok,U782,Mathematics,3.2,2024,+964-750-388-5588
+S060,Xezal Aryan Karim,19,Duhok,U992,Data Science,2.04,2022,+964-750-527-4032
+S061,Tara Farhad Karim,22,Sulaymaniyah,U449,Cybersecurity,3.11,2024,+964-770-912-5424
+S062,Kamaran Ihsan Ahmad,27,Sulaymaniyah,U150,Electrical Engineering,3.22,2021,+964-770-600-9229
+S063,Fuad Jalal Mahmoud,20,Zakho,U033,Electrical Engineering,3.25,2020,+964-772-641-8043
+S064,Karwan Rebaz Mahmoud,21,Zakho,U841,Mathematics,3.58,2022,+964-772-828-2344
+S065,Aryan Ihsan Nuri,28,Duhok,U968,Computer Science,2.01,2022,+964-750-944-7906
+S066,Tara Fuad Ali,27,Halabja,U217,Mathematics,3.77,2021,+964-770-943-3083
+S067,Rozhan Karim Karimi,21,Halabja,U835,Software Engineering,3.05,2024,+964-770-389-4066
+S068,Saman Saber Taha,20,Zakho,U529,Computer Science,2.59,2020,+964-772-767-6904
+S069,Avan Rebaz Hama,24,Erbil,U451,Information Systems,3.11,2024,+964-750-554-5146
+S070,Pishtiwan Salam Ahmad,27,Erbil,U320,Information Systems,2.91,2021,+964-750-700-2105
+S071,Dilan Hama Said,25,Duhok,U021,Software Engineering,2.74,2022,+964-750-951-6144
+S072,Tara Jamal Saeed,23,Halabja,U039,Business Informatics,3.23,2020,+964-770-759-4635
+S073,Zhyan Latif Karimi,20,Duhok,U702,Network Engineering,2.99,2020,+964-750-243-2483
+S074,Mazin Omar Tahir,23,Erbil,U630,Data Science,2.68,2023,+964-750-451-1139
+S075,Dilan Latif Omar,28,Zakho,U511,Artificial Intelligence,3.58,2025,+964-772-258-8980
+S076,Chnar Bakr Nasser,22,Erbil,U950,Cybersecurity,2.45,2020,+964-750-760-9137
+S077,Aryan Mohammed Karimi,21,Erbil,U042,Cybersecurity,3.52,2021,+964-750-991-2255
+S078,Yara Saeed Hama,28,Halabja,U436,Electrical Engineering,2.79,2024,+964-770-883-4745
+S079,Farhad Omar Karimi,21,Zakho,U053,Business Informatics,3.18,2021,+964-772-335-9547
+S080,Shilan Aryan Tahir,26,Zakho,U020,Electrical Engineering,3.8,2021,+964-772-506-3486
+S081,Rami Dara Kadir,26,Sulaymaniyah,U698,Computer Science,2.75,2023,+964-770-263-3302
+S082,Helin Hama Kadir,24,Halabja,U363,Electrical Engineering,2.24,2022,+964-770-562-0472
+S083,Zeynep Salam Saeed,19,Zakho,U841,Artificial Intelligence,2.08,2020,+964-772-860-3368
+S084,Saman Kamaran Othman,21,Sulaymaniyah,U981,Network Engineering,3.77,2022,+964-770-469-7598
+S085,Kamaran Saber Taha,26,Erbil,U760,Cybersecurity,2.05,2020,+964-750-321-2964
+S086,Yara Karim Ali,25,Duhok,U269,Information Systems,3.97,2024,+964-750-871-2707
+S087,Azad Dara Othman,21,Zakho,U618,Artificial Intelligence,2.16,2020,+964-772-100-0511
+S088,Pishtiwan Aziz Salih,25,Halabja,U085,Computer Science,2.76,2024,+964-770-263-1593
+S089,Helin Nawzad Tahir,19,Erbil,U451,Cybersecurity,2.56,2025,+964-750-122-4873
+S090,Avan Saber Faris,21,Erbil,U115,Mathematics,2.24,2025,+964-750-862-0497
+S091,Randa Omar Nuri,25,Zakho,U214,Computer Science,3.74,2024,+964-772-811-9133
+S092,Kamaran Fuad Mustafa,20,Duhok,U357,Computer Science,2.43,2023,+964-750-794-6183
+S093,Bestun Rebaz Omar,20,Erbil,U025,Information Systems,3.95,2024,+964-750-145-1032
+S094,Aryan Salam Kadir,18,Duhok,U865,Mathematics,3.34,2021,+964-750-340-7339
+S095,Kamaran Nawzad Said,25,Erbil,U762,Computer Science,3.58,2025,+964-750-968-0774
+S096,Azad Barzan Faris,25,Duhok,U441,Software Engineering,3.09,2022,+964-750-774-6082
+S097,Tara Karim Hama,23,Halabja,U755,Data Science,2.81,2024,+964-770-511-6096
+S098,Avan Rizgar Karim,28,Zakho,U425,Mathematics,3.08,2022,+964-772-542-1416
+S099,Vian Barzan Hama,25,Halabja,U356,Data Science,2.9,2024,+964-770-982-2691
+S100,Avan Sherzad Ali,26,Erbil,U421,Artificial Intelligence,3.27,2025,+964-750-263-9399
+S101,Shilan Nawzad Nasser,26,Sulaymaniyah,U276,Business Informatics,3.09,2024,+964-770-206-9428
+S102,Baran Karim Nuri,28,Erbil,U296,Artificial Intelligence,3.42,2022,+964-750-600-1915
+S103,Farhad Jamal Aziz,28,Duhok,U885,Electrical Engineering,3.64,2021,+964-750-690-5752
+S104,Lana Farhad Hama,25,Zakho,U944,Software Engineering,2.31,2025,+964-772-871-3085
+S105,Hawkar Fuad Rashid,19,Erbil,U938,Artificial Intelligence,3.39,2022,+964-750-347-6653
+S106,Hawkar Salam Hassan,18,Duhok,U272,Artificial Intelligence,2.06,2020,+964-750-312-3042
+S107,Chnar Jalal Omar,23,Erbil,U056,Mathematics,3.32,2020,+964-750-814-9790
+S108,Xezal Salam Salih,24,Duhok,U414,Business Informatics,3.24,2023,+964-750-750-9721
+S109,Zhyan Fuad Ali,23,Erbil,U802,Information Systems,2.06,2025,+964-750-584-6287
+S110,Nawzad Sherzad Tahir,28,Halabja,U156,Business Informatics,2.98,2020,+964-770-489-0633
+S111,Narin Raber Mustafa,19,Zakho,U124,Information Systems,2.49,2025,+964-772-746-1540
+S112,Mazin Sherzad Karim,18,Zakho,U489,Electrical Engineering,2.65,2024,+964-772-895-7392
+S113,Hawkar Aziz Othman,20,Sulaymaniyah,U785,Business Informatics,3.19,2025,+964-770-899-0462
+S114,Fuad Bakr Faris,22,Halabja,U598,Software Engineering,3.39,2023,+964-770-920-8776
+S115,Randa Kamaran Aziz,25,Erbil,U285,Network Engineering,2.35,2023,+964-750-400-2666
+S116,Vian Nawzad Nasser,28,Erbil,U341,Network Engineering,2.31,2020,+964-750-303-7899
+S117,Yara Saeed Hama,20,Zakho,U295,Computer Science,3.54,2020,+964-772-409-2992
+S118,Rebaz Ihsan Ahmad,25,Sulaymaniyah,U477,Network Engineering,3.62,2020,+964-770-203-2694
+S119,Kamaran Aziz Faris,25,Sulaymaniyah,U161,Network Engineering,2.73,2025,+964-770-540-0336
+S120,Jalal Jalal Omar,25,Halabja,U957,Electrical Engineering,2.07,2023,+964-770-670-6918
+S121,Narin Rizgar Tahir,25,Erbil,U055,Software Engineering,2.8,2021,+964-750-996-2253
+S122,Shilan Aryan Saeed,28,Erbil,U014,Data Science,2.39,2025,+964-750-659-6116
+S123,Karwan Mustafa Othman,20,Halabja,U365,Information Systems,3.16,2020,+964-770-673-0651
+S124,Saman Farid Ahmad,24,Sulaymaniyah,U275,Data Science,2.02,2020,+964-770-622-0199
+S125,Nawzad Latif Hassan,22,Erbil,U634,Mathematics,3.76,2021,+964-750-427-3992
+S126,Aryan Fuad Karim,21,Zakho,U233,Cybersecurity,2.2,2023,+964-772-666-8870
+S127,Fuad Farid Mustafa,25,Erbil,U151,Data Science,3.03,2020,+964-750-679-2698
+S128,Xezal Ihsan Kadir,24,Sulaymaniyah,U791,Business Informatics,2.12,2023,+964-770-143-5250
+S129,Xezal Jamal Faris,27,Zakho,U057,Cybersecurity,3.67,2021,+964-772-866-2086
+S130,Alan Farhad Hama,20,Zakho,U852,Artificial Intelligence,2.48,2024,+964-772-394-8145
+S131,Sardar Nawzad Mustafa,26,Erbil,U523,Network Engineering,2.17,2021,+964-750-891-0654
+S132,Pishtiwan Rebaz Hama,23,Duhok,U361,Business Informatics,2.61,2024,+964-750-719-5359
+S133,Rebaz Jamal Ahmad,27,Duhok,U579,Artificial Intelligence,3.39,2025,+964-750-719-9819
+S134,Vian Omar Ahmad,25,Halabja,U198,Information Systems,3.95,2024,+964-770-629-1031
+S135,Pishtiwan Dara Qadir,26,Duhok,U782,Mathematics,2.46,2022,+964-750-345-9273
+S136,Helin Hama Aziz,28,Sulaymaniyah,U492,Mathematics,2.82,2022,+964-770-712-6944
+S137,Rozhan Salam Othman,28,Sulaymaniyah,U778,Data Science,2.72,2024,+964-770-666-5261
+S138,Salih Bakr Nasser,22,Sulaymaniyah,U635,Network Engineering,3.28,2021,+964-770-712-5527
+S139,Xezal Ihsan Mahmoud,25,Sulaymaniyah,U805,Information Systems,3.43,2024,+964-770-570-8804
+S140,Azad Omar Kadir,19,Duhok,U209,Mathematics,3.93,2024,+964-750-502-0053
+S141,Rebaz Rebaz Said,27,Erbil,U206,Mathematics,3.64,2024,+964-750-681-6889
+S142,Bestun Farhad Karim,27,Sulaymaniyah,U368,Computer Science,2.22,2023,+964-770-496-5130
+S143,Randa Barzan Karimi,18,Erbil,U144,Data Science,3.69,2022,+964-750-210-8986
+S144,Hawkar Karim Othman,24,Halabja,U367,Data Science,2.41,2025,+964-770-680-0981
+S145,Rami Karim Kadir,22,Erbil,U105,Electrical Engineering,2.86,2021,+964-750-325-9890
+S146,Wrya Ihsan Rashid,18,Halabja,U367,Artificial Intelligence,3.11,2022,+964-770-880-3602
+S147,Jalal Sherzad Hassan,20,Sulaymaniyah,U537,Cybersecurity,2.18,2025,+964-770-728-4419
+S148,Mazin Nawzad Nuri,21,Zakho,U155,Software Engineering,2.92,2021,+964-772-277-3610
+S149,Mazin Rizgar Salih,24,Duhok,U167,Computer Science,3.16,2024,+964-750-969-6335
+S150,Hawkar Omar Omar,25,Zakho,U233,Cybersecurity,2.89,2025,+964-772-493-6228
+S151,Kavar Rizgar Karim,24,Erbil,U661,Mathematics,3.58,2024,+964-750-450-5276
+S152,Rami Jamal Faris,27,Erbil,U595,Artificial Intelligence,2.41,2021,+964-750-820-1267
+S153,Baran Mustafa Mahmoud,21,Halabja,U959,Business Informatics,2.44,2022,+964-770-514-4491
+S154,Lana Jamal Qadir,25,Sulaymaniyah,U901,Mathematics,3.92,2025,+964-770-676-3998
+S155,Yara Aryan Tahir,23,Erbil,U547,Computer Science,2.76,2023,+964-750-546-7296
+S156,Narin Barzan Nuri,22,Zakho,U124,Business Informatics,2.73,2022,+964-772-590-2590
+S157,Salih Sherzad Aziz,21,Sulaymaniyah,U312,Network Engineering,3.69,2023,+964-770-473-0786
+S158,Shilan Sherzad Ahmad,26,Sulaymaniyah,U114,Data Science,2.1,2020,+964-770-637-4180
+S159,Avan Nawzad Kadir,20,Zakho,U179,Mathematics,2.46,2022,+964-772-270-8528
+S160,Rami Mohammed Hasan,28,Erbil,U268,Software Engineering,3.57,2025,+964-750-280-4722
+S161,Baran Ihsan Hassan,21,Halabja,U636,Business Informatics,3.21,2020,+964-770-168-1663
+S162,Jalal Jalal Faris,26,Duhok,U970,Data Science,3.52,2025,+964-750-283-2502
+S163,Layla Hama Saeed,22,Halabja,U267,Cybersecurity,3.03,2020,+964-770-612-8265
+S164,Baran Mohammed Karim,20,Erbil,U482,Data Science,3.69,2021,+964-750-982-9977
+S165,Dashni Ihsan Faris,20,Duhok,U722,Mathematics,3.42,2025,+964-750-354-2655
+S166,Yara Farid Hassan,22,Halabja,U069,Software Engineering,2.92,2023,+964-770-793-6471
+S167,Salih Rebaz Hama,26,Halabja,U755,Business Informatics,2.71,2024,+964-770-691-6638
+S168,Baran Latif Karim,20,Duhok,U642,Business Informatics,3.61,2021,+964-750-175-9827
+S169,Azad Nawzad Mahmoud,24,Duhok,U378,Software Engineering,2.6,2020,+964-750-422-7982
+S170,Kavar Nawzad Hama,20,Sulaymaniyah,U967,Computer Science,2.9,2024,+964-770-909-2291
+S171,Avan Aziz Nuri,25,Duhok,U475,Cybersecurity,2.51,2023,+964-750-577-7621
+S172,Naz Nawzad Karimi,21,Duhok,U269,Information Systems,3.9,2025,+964-750-203-4840
+S173,Dashni Jamal Hama,24,Duhok,U075,Electrical Engineering,2.16,2022,+964-750-463-8397
+S174,Aryan Omar Tahir,23,Halabja,U645,Computer Science,2.39,2024,+964-770-269-0181
+S175,Pishtiwan Mohammed Hassan,26,Erbil,U151,Artificial Intelligence,2.44,2024,+964-750-480-0395
+S176,Rami Rebaz Tahir,27,Zakho,U516,Electrical Engineering,2.65,2022,+964-772-152-8470
+S177,Rebaz Nawzad Aziz,18,Halabja,U182,Information Systems,3.33,2024,+964-770-846-9279
+S178,Yara Hama Othman,25,Halabja,U107,Data Science,3.46,2025,+964-770-373-2358
+S179,Shilan Sherzad Mahmoud,22,Sulaymaniyah,U982,Cybersecurity,2.79,2020,+964-770-145-4962
+S180,Alan Aryan Taha,24,Erbil,U138,Cybersecurity,3.6,2021,+964-750-537-8962
+S181,Layla Omar Saeed,18,Halabja,U363,Cybersecurity,2.53,2023,+964-770-905-1082
+S182,Rebaz Jalal Mustafa,28,Sulaymaniyah,U638,Data Science,2.92,2022,+964-770-731-6096
+S183,Farhad Raber Ali,28,Zakho,U307,Network Engineering,3.33,2024,+964-772-259-9662
+S184,Azad Saeed Nuri,21,Halabja,U948,Mathematics,3.63,2023,+964-770-594-4459
+S185,Rebaz Karim Mahmoud,18,Duhok,U624,Mathematics,3.9,2022,+964-750-920-4221
+S186,Farhad Ihsan Nuri,21,Erbil,U953,Data Science,2.93,2021,+964-750-200-8883
+S187,Zeynep Nawzad Hasan,23,Halabja,U476,Business Informatics,2.6,2021,+964-770-266-7883
+S188,Dilan Nawzad Mahmoud,24,Erbil,U915,Electrical Engineering,2.31,2023,+964-750-131-5468
+S189,Mazin Fuad Karim,24,Duhok,U184,Mathematics,3.18,2023,+964-750-540-3852
+S190,Baran Hama Saeed,27,Duhok,U317,Network Engineering,2.65,2023,+964-750-973-1357
+S191,Layla Farid Said,24,Erbil,U073,Software Engineering,2.99,2020,+964-750-912-2488
+S192,Dara Mohammed Rashid,22,Erbil,UKH,Information Systems,3.97,2022,+964-750-795-5853
+S193,Baran Dara Ali,19,Halabja,U130,Computer Science,2.08,2024,+964-770-184-0647
+S194,Baran Jamal Karim,19,Halabja,U011,Cybersecurity,2.53,2022,+964-770-730-8619
+S195,Rozhan Farid Mustafa,25,Erbil,U958,Network Engineering,3.21,2022,+964-750-261-8435
+S196,Lana Kamaran Salih,18,Erbil,U595,Network Engineering,2.79,2022,+964-750-780-2667
+S197,Fuad Dara Salih,28,Zakho,U587,Electrical Engineering,3.41,2023,+964-772-528-3852
+S198,Kavar Ihsan Faris,20,Duhok,U815,Electrical Engineering,3.41,2020,+964-750-181-0962
+S199,Hawkar Rebaz Rashid,20,Halabja,U172,Data Science,3.45,2022,+964-770-888-5451
+S200,Aryan Nawzad Omar,19,Duhok,U727,Cybersecurity,3.86,2025,+964-750-787-9045
+S201,Aryan Farhad Karimi,23,Halabja,U409,Cybersecurity,2.31,2021,+964-770-453-1082
+S202,Yara Bakr Karim,25,Erbil,U022,Mathematics,3.32,2023,+964-750-902-5301
+S203,Bestun Rizgar Ali,27,Zakho,U164,Electrical Engineering,3.74,2021,+964-772-107-2689
+S204,Rebaz Hama Rashid,18,Duhok,U501,Software Engineering,3.77,2021,+964-750-625-9894
+S205,Dara Nawzad Karimi,18,Zakho,U322,Cybersecurity,3.26,2025,+964-772-451-6111
+S206,Aryan Saeed Aziz,21,Duhok,U012,Software Engineering,2.42,2022,+964-750-796-8273
+S207,Salih Aryan Qadir,27,Duhok,U643,Business Informatics,2.39,2025,+964-750-919-0645
+S208,Farhad Dara Said,25,Zakho,U986,Network Engineering,2.09,2022,+964-772-118-6673
+S209,Aryan Nawzad Faris,27,Halabja,U866,Software Engineering,3.14,2022,+964-770-954-9681
+S210,Saman Farhad Karimi,21,Sulaymaniyah,U603,Mathematics,3.34,2024,+964-770-360-6468
+S211,Lana Mohammed Nuri,25,Duhok,U013,Artificial Intelligence,2.48,2020,+964-750-540-0782
+S212,Jalal Raber Omar,18,Erbil,U942,Mathematics,3.0,2025,+964-750-913-5016
+S213,Rebaz Aryan Taha,26,Halabja,U934,Computer Science,3.32,2022,+964-770-898-1898
+S214,Vian Bakr Said,28,Sulaymaniyah,U539,Artificial Intelligence,2.4,2025,+964-770-539-1305
+S215,Aryan Aziz Nasser,20,Duhok,U796,Cybersecurity,3.86,2025,+964-750-364-2769
+S216,Alan Bakr Omar,21,Duhok,U819,Mathematics,3.46,2022,+964-750-199-4731
+S217,Karwan Omar Rashid,19,Duhok,U670,Artificial Intelligence,3.71,2020,+964-750-345-1081
+S218,Chnar Hama Nasser,26,Duhok,U248,Software Engineering,3.53,2024,+964-750-576-8368
+S219,Pishtiwan Mustafa Mustafa,23,Erbil,U576,Network Engineering,3.58,2022,+964-750-280-6355
+S220,Sardar Sherzad Mustafa,19,Sulaymaniyah,U705,Mathematics,2.32,2022,+964-770-264-8553
+S221,Wrya Aziz Ali,24,Halabja,U279,Information Systems,3.59,2023,+964-770-206-8395
+S222,Helin Sherzad Hama,25,Zakho,U233,Data Science,3.55,2025,+964-772-814-1096
+S223,Farhad Saeed Faris,24,Sulaymaniyah,U822,Information Systems,2.64,2022,+964-770-303-0687
+S224,Layla Aryan Tahir,18,Erbil,U547,Cybersecurity,3.98,2022,+964-750-764-5549
+S225,Dashni Omar Rashid,19,Zakho,U020,Electrical Engineering,3.19,2024,+964-772-884-1908
+S226,Rebaz Raber Said,23,Halabja,U195,Information Systems,2.24,2020,+964-770-905-5194
+S227,Bestun Dara Karimi,19,Sulaymaniyah,U430,Artificial Intelligence,2.11,2022,+964-770-780-2243
+S228,Pishtiwan Hama Omar,19,Duhok,U457,Data Science,3.95,2022,+964-750-176-8163
+S229,Alan Aziz Hassan,22,Duhok,U898,Mathematics,2.66,2025,+964-750-195-2251
+S230,Hawkar Barzan Nasser,19,Halabja,U835,Network Engineering,3.95,2022,+964-770-425-2027
+S231,Nawzad Mustafa Mustafa,21,Sulaymaniyah,U740,Cybersecurity,2.1,2022,+964-770-961-9014
+S232,Kamaran Kamaran Said,22,Halabja,U120,Artificial Intelligence,3.81,2025,+964-770-404-1645
+S233,Alan Omar Othman,23,Zakho,U070,Mathematics,2.54,2020,+964-772-240-1126
+S234,Hawkar Fuad Karimi,25,Erbil,U712,Computer Science,3.62,2023,+964-750-654-1751
+S235,Farhad Mustafa Nuri,19,Duhok,U229,Network Engineering,2.67,2021,+964-750-764-9322
+S236,Aryan Salam Ahmad,20,Erbil,U750,Computer Science,2.34,2025,+964-750-621-3909
+S237,Pishtiwan Aryan Taha,25,Zakho,U020,Artificial Intelligence,3.1,2020,+964-772-540-3457
+S238,Helin Latif Salih,23,Halabja,U936,Business Informatics,2.27,2024,+964-770-521-9475
+S239,Rami Jalal Ahmad,24,Duhok,U354,Cybersecurity,2.51,2024,+964-750-609-0023
+S240,Helin Karim Kadir,20,Erbil,U503,Network Engineering,3.15,2025,+964-750-694-1965
+S241,Lana Ihsan Karimi,19,Sulaymaniyah,U161,Computer Science,3.37,2021,+964-770-323-4530
+S242,Kavar Kamaran Nasser,18,Erbil,U706,Computer Science,2.83,2022,+964-750-311-7324
+S243,Xezal Hama Omar,24,Sulaymaniyah,U185,Software Engineering,3.32,2025,+964-770-381-7264
+S244,Kavar Jamal Tahir,21,Sulaymaniyah,U794,Data Science,3.74,2025,+964-770-348-8026
+S245,Dilan Saber Hassan,24,Zakho,U315,Business Informatics,2.93,2020,+964-772-900-0976
+S246,Kavar Nawzad Nasser,22,Zakho,U664,Mathematics,2.28,2022,+964-772-281-6982
+S247,Karwan Aryan Faris,23,Erbil,U568,Artificial Intelligence,2.61,2021,+964-750-560-3291
+S248,Pishtiwan Bakr Karim,21,Duhok,U590,Business Informatics,2.88,2021,+964-750-117-3840
+S249,Farhad Latif Hama,20,Zakho,U493,Cybersecurity,2.22,2025,+964-772-479-8552
+S250,Pishtiwan Rizgar Aziz,22,Duhok,U848,Software Engineering,3.49,2020,+964-750-164-9292
+S251,Narin Mustafa Nuri,28,Erbil,U280,Mathematics,3.86,2024,+964-750-688-8682
+S252,Salih Aziz Rashid,18,Sulaymaniyah,U791,Information Systems,2.65,2025,+964-770-888-9074
+S253,Layla Fuad Taha,20,Zakho,U743,Electrical Engineering,2.22,2022,+964-772-838-6960
+S254,Nawzad Salam Hama,24,Duhok,U857,Mathematics,3.34,2024,+964-750-678-9240
+S255,Aryan Sherzad Taha,21,Duhok,U141,Business Informatics,2.65,2022,+964-750-465-7723
+S256,Rebaz Ihsan Omar,26,Sulaymaniyah,U696,Electrical Engineering,2.03,2020,+964-770-205-9259
+S257,Zhyan Salam Faris,24,Sulaymaniyah,U329,Business Informatics,3.07,2025,+964-770-174-1681
+S258,Lana Karim Taha,21,Halabja,U591,Data Science,2.74,2020,+964-770-362-0191
+S259,Pishtiwan Farhad Hasan,25,Halabja,U549,Software Engineering,3.79,2020,+964-770-448-3878
+S260,Narin Mustafa Qadir,26,Halabja,U172,Software Engineering,3.49,2021,+964-770-145-7798
+S261,Layla Fuad Taha,24,Duhok,U670,Data Science,3.77,2020,+964-750-190-8252
+S262,Pishtiwan Aziz Omar,23,Halabja,U328,Network Engineering,3.87,2023,+964-770-669-2691
+S263,Kamaran Aziz Othman,22,Erbil,U879,Software Engineering,2.39,2021,+964-750-339-0740
+S264,Helin Farid Salih,25,Sulaymaniyah,U274,Cybersecurity,2.12,2023,+964-770-331-2203
+S265,Xezal Farhad Salih,28,Erbil,U115,Cybersecurity,2.86,2025,+964-750-164-2606
+S266,Baran Barzan Karimi,26,Zakho,U487,Computer Science,2.35,2023,+964-772-211-1389
+S267,Avan Nawzad Nasser,24,Sulaymaniyah,U291,Software Engineering,2.46,2021,+964-770-372-8523
+S268,Nawzad Aryan Ali,25,Halabja,U945,Artificial Intelligence,2.31,2024,+964-770-645-9294
+S269,Dara Sherzad Faris,22,Sulaymaniyah,U602,Business Informatics,2.63,2024,+964-770-319-0328
+S270,Yara Saeed Said,25,Sulaymaniyah,U552,Mathematics,3.85,2024,+964-770-218-2077
+S271,Randa Raber Karim,24,Erbil,U263,Artificial Intelligence,3.82,2024,+964-750-829-2215
+S272,Jalal Ihsan Rashid,21,Erbil,U629,Data Science,3.82,2024,+964-750-978-9943
+S273,Jalal Raber Mustafa,23,Halabja,U110,Cybersecurity,3.05,2020,+964-770-365-4278
+S274,Dara Mohammed Omar,25,Duhok,U681,Data Science,3.7,2021,+964-750-243-3612
+S275,Rami Rebaz Mustafa,24,Erbil,U629,Data Science,3.44,2024,+964-750-182-5273
+S276,Vian Aziz Karimi,18,Zakho,U208,Mathematics,3.56,2025,+964-772-807-0396
+S277,Baran Saeed Hama,27,Erbil,U073,Electrical Engineering,2.16,2025,+964-750-294-7877
+S278,Xezal Mohammed Hama,27,Erbil,U533,Artificial Intelligence,2.05,2021,+964-750-461-5125
+S279,Fuad Farhad Salih,22,Zakho,U926,Software Engineering,2.52,2020,+964-772-658-2423
+S280,Jalal Fuad Salih,25,Halabja,U937,Network Engineering,3.04,2020,+964-770-254-2879
+S281,Zhyan Hama Mahmoud,25,Duhok,U614,Network Engineering,2.08,2023,+964-750-578-0430
+S282,Layla Rizgar Kadir,21,Erbil,U720,Computer Science,2.76,2025,+964-750-449-1453
+S283,Pishtiwan Latif Rashid,24,Duhok,U873,Artificial Intelligence,2.76,2020,+964-750-341-6766
+S284,Lana Hama Tahir,28,Sulaymaniyah,U368,Artificial Intelligence,2.1,2022,+964-770-941-2789
+S285,Farhad Kamaran Karimi,28,Halabja,U491,Computer Science,2.94,2023,+964-770-312-3938
+S286,Farhad Rebaz Qadir,23,Zakho,U841,Network Engineering,3.57,2020,+964-772-890-8615
+S287,Dilan Saber Karimi,19,Sulaymaniyah,U150,Software Engineering,3.73,2022,+964-770-954-8660
+S288,Layla Saber Hama,22,Erbil,U679,Artificial Intelligence,3.92,2025,+964-750-281-8969
+S289,Salih Salam Mahmoud,21,Zakho,U637,Cybersecurity,3.06,2020,+964-772-509-4387
+S290,Avan Kamaran Mahmoud,27,Sulaymaniyah,U187,Software Engineering,3.36,2025,+964-770-274-8547
+S291,Alan Dara Saeed,18,Halabja,U893,Mathematics,2.49,2023,+964-770-874-2138
+S292,Bestun Salam Nasser,22,Duhok,U870,Artificial Intelligence,3.92,2022,+964-750-184-7568
+S293,Rozhan Farhad Mahmoud,20,Erbil,U953,Business Informatics,2.71,2022,+964-750-875-4761
+S294,Lana Karim Othman,23,Erbil,U201,Business Informatics,2.68,2025,+964-750-291-4814
+S295,Shilan Fuad Mahmoud,22,Sulaymaniyah,U922,Computer Science,2.82,2022,+964-770-983-4761
+S296,Fuad Aziz Nuri,19,Halabja,U809,Artificial Intelligence,2.74,2024,+964-770-814-8207
+S297,Vian Karim Rashid,25,Halabja,U262,Mathematics,3.22,2025,+964-770-163-5569
+S298,Rozhan Ihsan Taha,21,Erbil,U341,Computer Science,2.42,2022,+964-750-298-8621
+S299,Randa Jamal Nuri,20,Duhok,U735,Electrical Engineering,3.61,2020,+964-750-196-9828
+S300,Randa Raber Karimi,27,Zakho,U664,Information Systems,3.95,2021,+964-772-707-1497
+S301,Naz Jamal Hama,23,Sulaymaniyah,U658,Cybersecurity,4.0,2020,+964-770-516-0569
+S302,Fuad Fuad Ali,24,Erbil,U073,Network Engineering,2.19,2024,+964-750-978-6671
+S303,Layla Aziz Saeed,21,Halabja,U985,Artificial Intelligence,3.64,2020,+964-770-700-1748
+S304,Randa Raber Rashid,27,Duhok,U968,Business Informatics,3.05,2020,+964-750-350-6181
+S305,Narin Karim Salih,27,Duhok,U579,Information Systems,2.24,2025,+964-750-525-0050
+S306,Zeynep Barzan Qadir,23,Halabja,U948,Cybersecurity,2.27,2020,+964-770-178-5099
+S307,Salih Farhad Hasan,22,Halabja,U110,Software Engineering,2.22,2022,+964-770-331-3790
+S308,Vian Aziz Hasan,20,Zakho,U674,Information Systems,3.51,2023,+964-772-299-2795
+S309,Azad Latif Rashid,19,Sulaymaniyah,U300,Network Engineering,2.48,2022,+964-770-443-5532
+S310,Narin Mohammed Ahmad,22,Zakho,U117,Software Engineering,2.26,2024,+964-772-517-0702
+S311,Vian Ihsan Karim,24,Duhok,U782,Computer Science,2.86,2025,+964-750-147-8508
+S312,Bestun Saeed Hassan,18,Erbil,U109,Data Science,3.89,2020,+964-750-632-3328
+S313,Azad Omar Hassan,24,Duhok,U466,Business Informatics,2.31,2023,+964-750-174-5249
+S314,Kavar Saber Ali,23,Sulaymaniyah,U128,Data Science,2.1,2023,+964-770-621-9015
+S315,Hawkar Fuad Hama,25,Sulaymaniyah,U580,Network Engineering,2.85,2024,+964-770-759-2336
+S316,Narin Dara Karimi,19,Halabja,U290,Artificial Intelligence,2.48,2024,+964-770-105-8647
+S317,Saman Ihsan Karim,28,Zakho,U221,Electrical Engineering,3.83,2025,+964-772-641-2236
+S318,Lana Farhad Tahir,27,Zakho,U072,Cybersecurity,3.45,2020,+964-772-204-6071
+S319,Azad Mohammed Aziz,23,Zakho,U944,Computer Science,3.99,2024,+964-772-824-1062
+S320,Dara Aziz Ahmad,25,Duhok,U373,Network Engineering,3.98,2024,+964-750-926-2713
+S321,Rami Farhad Omar,27,Zakho,U838,Network Engineering,3.15,2023,+964-772-990-4856
+S322,Azad Karim Othman,28,Halabja,U883,Network Engineering,3.52,2023,+964-770-191-8555
+S323,Xezal Aryan Mahmoud,28,Duhok,U209,Artificial Intelligence,3.9,2021,+964-750-250-5412
+S324,Sardar Saeed Aziz,22,Halabja,U159,Mathematics,3.14,2021,+964-770-279-3119
+S325,Rozhan Saeed Rashid,24,Erbil,U201,Cybersecurity,2.81,2024,+964-750-156-6681
+S326,Farhad Fuad Rashid,24,Halabja,U961,Computer Science,3.28,2023,+964-770-882-6843
+S327,Dara Karim Taha,22,Erbil,U758,Information Systems,3.12,2025,+964-750-333-8519
+S328,Azad Barzan Hama,21,Halabja,U319,Electrical Engineering,3.8,2024,+964-770-241-9193
+S329,Layla Barzan Omar,28,Erbil,U972,Mathematics,2.24,2021,+964-750-811-9277
+S330,Sardar Raber Rashid,24,Halabja,U588,Electrical Engineering,3.18,2022,+964-770-657-2402
+S331,Shilan Mustafa Said,24,Zakho,U914,Mathematics,3.15,2022,+964-772-516-1192
+S332,Aryan Mustafa Omar,19,Sulaymaniyah,U019,Artificial Intelligence,3.34,2025,+964-770-249-3117
+S333,Vian Saeed Nasser,22,Halabja,U434,Network Engineering,3.69,2022,+964-770-508-8871
+S334,Saman Latif Kadir,28,Sulaymaniyah,U331,Network Engineering,3.8,2020,+964-770-952-2690
+S335,Layla Rizgar Aziz,24,Zakho,U244,Computer Science,3.2,2023,+964-772-164-0903
+S336,Fuad Salam Mustafa,19,Erbil,U971,Business Informatics,3.34,2024,+964-750-442-0417
+S337,Salih Mohammed Qadir,28,Erbil,U055,Business Informatics,2.56,2022,+964-750-744-9937
+S338,Dilan Rebaz Omar,20,Erbil,U874,Electrical Engineering,3.73,2024,+964-750-300-9543
+S339,Avan Mohammed Tahir,21,Zakho,U890,Business Informatics,3.28,2022,+964-772-117-8114
+S340,Rozhan Jamal Saeed,18,Zakho,U561,Network Engineering,3.43,2023,+964-772-243-6606
+S341,Azad Farid Tahir,18,Zakho,U920,Data Science,3.11,2020,+964-772-863-8062
+S342,Baran Aryan Ahmad,27,Zakho,U493,Computer Science,2.13,2022,+964-772-123-6509
+S343,Narin Omar Taha,21,Halabja,U940,Artificial Intelligence,2.41,2021,+964-770-191-2173
+S344,Helin Barzan Mahmoud,19,Duhok,U431,Data Science,2.93,2020,+964-750-575-0174
+S345,Shilan Sherzad Saeed,18,Sulaymaniyah,U226,Software Engineering,2.76,2021,+964-770-868-6912
+S346,Naz Rebaz Karim,26,Sulaymaniyah,U685,Electrical Engineering,3.15,2022,+964-770-485-1986
+S347,Karwan Rizgar Said,22,Sulaymaniyah,U300,Information Systems,2.61,2024,+964-770-150-2763
+S348,Avan Jamal Salih,26,Halabja,U437,Computer Science,2.09,2020,+964-770-541-4512
+S349,Chnar Salam Othman,22,Duhok,U075,Cybersecurity,3.66,2023,+964-750-581-8752
+S350,Rebaz Rizgar Aziz,20,Erbil,U148,Information Systems,3.83,2020,+964-750-114-2645
+S351,Jalal Bakr Nasser,28,Erbil,U582,Network Engineering,2.39,2024,+964-750-529-2811
+S352,Rebaz Mustafa Othman,27,Halabja,U757,Electrical Engineering,2.88,2023,+964-770-987-3795
+S353,Fuad Bakr Said,28,Halabja,U348,Software Engineering,3.99,2023,+964-770-129-5545
+S354,Sardar Fuad Ahmad,27,Sulaymaniyah,U739,Information Systems,3.09,2025,+964-770-538-6599
+S355,Dilan Jamal Karim,21,Erbil,U551,Information Systems,3.8,2024,+964-750-898-2400
+S356,Yara Raber Rashid,19,Erbil,U448,Computer Science,3.32,2021,+964-750-284-3668
+S357,Shilan Jamal Othman,28,Duhok,U401,Data Science,2.73,2022,+964-750-652-7328
+S358,Zeynep Aryan Rashid,19,Erbil,U808,Mathematics,3.05,2021,+964-750-174-9349
+S359,Zeynep Rebaz Qadir,18,Sulaymaniyah,U449,Network Engineering,3.12,2024,+964-770-891-4399
+S360,Azad Raber Salih,26,Sulaymaniyah,U578,Network Engineering,3.74,2021,+964-770-229-0619
+S361,Azad Kamaran Nuri,28,Duhok,U987,Computer Science,3.68,2023,+964-750-836-9801
+S362,Naz Dara Qadir,23,Duhok,U619,Mathematics,3.69,2024,+964-750-624-9069
+S363,Rozhan Barzan Faris,28,Erbil,U760,Software Engineering,3.09,2023,+964-750-929-0586
+S364,Dara Ihsan Said,24,Zakho,U131,Electrical Engineering,2.9,2023,+964-772-300-8835
+S365,Chnar Saber Mahmoud,19,Sulaymaniyah,U030,Network Engineering,3.93,2020,+964-770-836-7559
+S366,Rebaz Jamal Said,20,Zakho,U846,Artificial Intelligence,3.71,2024,+964-772-546-8287
+S367,Naz Hama Aziz,27,Zakho,U976,Data Science,2.39,2025,+964-772-139-8718
+S368,Layla Jamal Hama,20,Duhok,U840,Artificial Intelligence,3.36,2021,+964-750-477-0849
+S369,Yara Jamal Qadir,23,Duhok,U041,Electrical Engineering,3.37,2024,+964-750-139-0501
+S370,Jalal Bakr Ali,23,Erbil,U180,Mathematics,2.54,2021,+964-750-636-6441
+S371,Helin Farid Tahir,27,Zakho,U826,Business Informatics,2.59,2025,+964-772-352-2180
+S372,Pishtiwan Mustafa Mahmoud,21,Halabja,U997,Network Engineering,3.73,2021,+964-770-659-9381
+S373,Baran Saber Mustafa,28,Erbil,U421,Business Informatics,3.36,2022,+964-750-291-8733
+S374,Dara Hama Mahmoud,20,Duhok,U870,Information Systems,3.94,2021,+964-750-513-9652
+S375,Vian Latif Qadir,28,Sulaymaniyah,U877,Cybersecurity,2.74,2021,+964-770-981-8265
+S376,Xezal Barzan Hassan,28,Erbil,U683,Business Informatics,2.98,2022,+964-750-495-9153
+S377,Tara Saeed Karim,28,Duhok,U021,Network Engineering,2.57,2022,+964-750-329-0124
+S378,Randa Rizgar Aziz,27,Sulaymaniyah,U429,Network Engineering,2.15,2020,+964-770-592-9814
+S379,Helin Latif Ahmad,23,Zakho,U208,Computer Science,3.16,2022,+964-772-912-0617
+S380,Kavar Jamal Salih,19,Erbil,U972,Electrical Engineering,2.65,2023,+964-750-210-5353
+S381,Kavar Karim Saeed,23,Duhok,U265,Software Engineering,3.24,2021,+964-750-937-6872
+S382,Hawkar Ihsan Omar,25,Zakho,U996,Artificial Intelligence,3.7,2020,+964-772-116-4354
+S383,Rozhan Saeed Mustafa,18,Sulaymaniyah,U886,Software Engineering,3.55,2021,+964-770-567-6273
+S384,Nawzad Latif Karim,26,Halabja,U736,Software Engineering,2.12,2025,+964-770-954-2156
+S385,Xezal Farid Nuri,26,Zakho,U020,Mathematics,3.05,2022,+964-772-511-2667
+S386,Bestun Nawzad Karimi,23,Sulaymaniyah,U454,Artificial Intelligence,3.73,2024,+964-770-618-6807
+S387,Pishtiwan Dara Saeed,20,Zakho,U676,Information Systems,2.99,2022,+964-772-622-5526
+S388,Nawzad Nawzad Tahir,23,Duhok,U670,Electrical Engineering,3.58,2024,+964-750-394-2912
+S389,Rami Jalal Mustafa,24,Halabja,U191,Mathematics,3.97,2020,+964-770-239-0102
+S390,Saman Barzan Hama,21,Erbil,U026,Data Science,3.17,2021,+964-750-174-3873
+S391,Tara Hama Mustafa,21,Sulaymaniyah,U803,Software Engineering,2.01,2022,+964-770-592-0553
+S392,Farhad Karim Saeed,28,Halabja,U288,Business Informatics,2.2,2022,+964-770-391-8516
+S393,Yara Aryan Qadir,25,Halabja,U856,Business Informatics,2.29,2025,+964-770-327-6931
+S394,Rozhan Farhad Omar,20,Zakho,U889,Information Systems,3.49,2021,+964-772-475-8442
+S395,Kavar Omar Aziz,21,Sulaymaniyah,U507,Mathematics,3.61,2021,+964-770-824-8902
+S396,Helin Omar Rashid,21,Erbil,U874,Data Science,3.21,2025,+964-750-107-4994
+S397,Yara Karim Hassan,19,Halabja,U137,Computer Science,3.04,2023,+964-770-368-8020
+S398,Dashni Barzan Hassan,26,Sulaymaniyah,U276,Artificial Intelligence,2.33,2023,+964-770-513-8498
+S399,Dara Mustafa Saeed,23,Erbil,U784,Information Systems,2.96,2022,+964-750-366-5950
+S400,Aryan Farid Mahmoud,20,Halabja,U866,Mathematics,3.73,2020,+964-770-433-2333
+S401,Dashni Jamal Othman,26,Halabja,U137,Artificial Intelligence,2.48,2020,+964-770-501-0869
+S402,Randa Farhad Karim,20,Halabja,U266,Information Systems,2.13,2025,+964-770-320-3249
+S403,Kamaran Farhad Hasan,20,Zakho,U976,Cybersecurity,3.91,2020,+964-772-433-2978
+S404,Kamaran Sherzad Taha,24,Sulaymaniyah,U187,Network Engineering,3.76,2020,+964-770-850-6997
+S405,Karwan Farhad Salih,21,Duhok,U806,Network Engineering,3.11,2021,+964-750-342-2728
+S406,Mazin Mustafa Hasan,26,Duhok,U801,Electrical Engineering,2.41,2024,+964-750-415-4370
+S407,Dashni Karim Karim,21,Zakho,U155,Information Systems,2.32,2023,+964-772-396-4049
+S408,Narin Saber Hasan,25,Erbil,U694,Electrical Engineering,3.22,2025,+964-750-219-2956
+S409,Chnar Aziz Saeed,27,Zakho,U841,Network Engineering,2.35,2020,+964-772-265-0908
+S410,Dashni Saeed Aziz,25,Duhok,U321,Network Engineering,3.44,2021,+964-750-602-5355
+S411,Salih Ihsan Rashid,20,Sulaymaniyah,U748,Artificial Intelligence,2.06,2025,+964-770-870-1614
+S412,Dilan Raber Taha,20,Sulaymaniyah,U502,Business Informatics,2.08,2020,+964-770-371-9080
+S413,Salih Latif Aziz,27,Zakho,U844,Information Systems,2.88,2025,+964-772-315-6098
+S414,Mazin Farhad Said,24,Halabja,U474,Data Science,3.85,2020,+964-770-306-0284
+S415,Yara Farhad Mustafa,27,Duhok,U389,Cybersecurity,3.71,2024,+964-750-428-1793
+S416,Baran Salam Hasan,19,Zakho,U111,Electrical Engineering,2.05,2021,+964-772-758-9456
+S417,Wrya Rizgar Hassan,19,Sulaymaniyah,U922,Network Engineering,2.61,2023,+964-770-383-8378
+S418,Helin Aziz Hasan,24,Sulaymaniyah,U071,Network Engineering,3.98,2020,+964-770-315-9723
+S419,Randa Farid Mahmoud,18,Zakho,U131,Network Engineering,3.27,2025,+964-772-255-1893
+S420,Dashni Nawzad Faris,28,Sulaymaniyah,U199,Software Engineering,2.28,2020,+964-770-720-1462
+S421,Zeynep Jalal Rashid,20,Erbil,U105,Business Informatics,2.08,2024,+964-750-838-0522
+S422,Salih Saeed Faris,21,Zakho,U164,Electrical Engineering,2.4,2024,+964-772-864-3507
+S423,Helin Nawzad Mahmoud,23,Erbil,U346,Network Engineering,2.42,2020,+964-750-776-2930
+S424,Salih Jalal Rashid,22,Zakho,U897,Mathematics,2.35,2020,+964-772-391-0372
+S425,Salih Farid Ali,18,Halabja,U948,Business Informatics,3.15,2022,+964-770-237-2459
+S426,Naz Aziz Hasan,21,Halabja,U385,Business Informatics,3.4,2022,+964-770-458-6234
+S427,Kavar Kamaran Othman,27,Erbil,U947,Computer Science,3.19,2021,+964-750-897-9559
+S428,Lana Rebaz Nasser,20,Zakho,U033,Software Engineering,2.55,2023,+964-772-467-9006
+S429,Yara Dara Rashid,21,Duhok,U670,Electrical Engineering,3.69,2022,+964-750-176-2558
+S430,Dilan Nawzad Nasser,23,Erbil,U148,Information Systems,3.23,2023,+964-750-336-9134
+S431,Baran Sherzad Qadir,18,Zakho,U322,Computer Science,2.89,2025,+964-772-187-7065
+S432,Alan Ihsan Rashid,20,Zakho,U826,Computer Science,3.72,2024,+964-772-765-1753
+S433,Baran Rizgar Hama,28,Duhok,U397,Mathematics,2.02,2025,+964-750-827-4676
+S434,Randa Aziz Qadir,23,Erbil,U284,Computer Science,3.82,2023,+964-750-608-9247
+S435,Saman Sherzad Mustafa,23,Zakho,U479,Business Informatics,2.89,2025,+964-772-897-5702
+S436,Dara Ihsan Kadir,25,Duhok,U371,Business Informatics,3.68,2021,+964-750-956-4114
+S437,Randa Mohammed Said,18,Zakho,U548,Computer Science,3.54,2024,+964-772-225-0634
+S438,Farhad Ihsan Nasser,25,Sulaymaniyah,U030,Business Informatics,2.8,2020,+964-770-600-2652
+S439,Jalal Aziz Aziz,19,Zakho,U660,Computer Science,3.62,2025,+964-772-475-7336
+S440,Sardar Karim Nasser,23,Erbil,U151,Network Engineering,3.41,2023,+964-750-186-3202
+S441,Chnar Jalal Nuri,18,Halabja,U069,Business Informatics,2.92,2021,+964-770-440-1305
+S442,Xezal Latif Kadir,25,Erbil,U950,Mathematics,2.6,2023,+964-750-279-1871
+S443,Kamaran Nawzad Saeed,23,Sulaymaniyah,U030,Computer Science,3.06,2024,+964-770-792-5821
+S444,Azad Saber Karim,18,Zakho,U534,Business Informatics,2.41,2024,+964-772-105-5468
+S445,Azad Jamal Saeed,25,Sulaymaniyah,U831,Cybersecurity,3.84,2023,+964-770-503-7156
+S446,Nawzad Omar Aziz,21,Sulaymaniyah,U095,Electrical Engineering,3.66,2025,+964-770-974-7782
+S447,Pishtiwan Jamal Omar,24,Erbil,U022,Computer Science,2.2,2022,+964-750-741-9655
+S448,Randa Mohammed Faris,27,Erbil,U903,Software Engineering,2.97,2023,+964-750-227-4133
+S449,Nawzad Ihsan Said,26,Erbil,U010,Mathematics,2.14,2025,+964-750-676-4416
+S450,Mazin Rizgar Ahmad,19,Halabja,U011,Electrical Engineering,2.63,2021,+964-770-143-4186
+S451,Zhyan Mustafa Hasan,22,Halabja,U839,Artificial Intelligence,3.29,2024,+964-770-941-8141
+S452,Rebaz Farhad Nuri,28,Zakho,U844,Artificial Intelligence,2.13,2023,+964-772-704-7192
+S453,Yara Sherzad Said,22,Erbil,U950,Business Informatics,2.2,2023,+964-750-201-2432
+S454,Dilan Fuad Karim,27,Sulaymaniyah,U653,Mathematics,2.53,2021,+964-770-950-2854
+S455,Kavar Karim Ahmad,26,Duhok,U538,Data Science,3.34,2024,+964-750-396-9549
+S456,Chnar Mustafa Hassan,19,Halabja,U168,Network Engineering,3.42,2022,+964-770-269-7058
+S457,Dashni Mohammed Aziz,25,Sulaymaniyah,U030,Cybersecurity,3.64,2024,+964-770-964-2810
+S458,Dilan Bakr Othman,28,Erbil,U074,Business Informatics,3.32,2025,+964-750-922-4251
+S459,Shilan Ihsan Tahir,28,Erbil,U999,Artificial Intelligence,3.4,2024,+964-750-685-8404
+S460,Chnar Farid Nasser,19,Halabja,U697,Network Engineering,3.95,2020,+964-770-848-8806
+S461,Rozhan Rizgar Aziz,18,Halabja,U866,Network Engineering,3.63,2020,+964-770-659-6537
+S462,Naz Bakr Nasser,25,Duhok,U389,Artificial Intelligence,3.89,2022,+964-750-634-8407
+S463,Fuad Barzan Faris,18,Sulaymaniyah,U739,Information Systems,3.08,2020,+964-770-931-0420
+S464,Alan Fuad Ali,25,Duhok,U670,Computer Science,3.33,2021,+964-750-962-3095
+S465,Saman Sherzad Mahmoud,19,Zakho,U738,Software Engineering,3.53,2025,+964-772-186-2585
+S466,Pishtiwan Mustafa Saeed,27,Halabja,U682,Network Engineering,3.34,2024,+964-770-616-2464
+S467,Nawzad Rizgar Karim,28,Zakho,U991,Business Informatics,3.27,2022,+964-772-144-9647
+S468,Narin Mustafa Mustafa,27,Duhok,U301,Software Engineering,2.85,2022,+964-750-537-0721
+S469,Dara Fuad Salih,28,Zakho,U717,Cybersecurity,3.79,2025,+964-772-666-9145
+S470,Wrya Jalal Faris,27,Sulaymaniyah,U462,Business Informatics,3.6,2025,+964-770-786-6523
+S471,Azad Nawzad Ahmad,28,Sulaymaniyah,U416,Computer Science,2.57,2024,+964-770-485-6287
+S472,Rami Nawzad Hassan,22,Halabja,U349,Mathematics,2.91,2022,+964-770-255-1061
+S473,Farhad Hama Nasser,24,Zakho,U027,Data Science,2.28,2022,+964-772-693-3983
+S474,Jalal Farid Hassan,26,Zakho,U315,Artificial Intelligence,3.94,2021,+964-772-372-8759
+S475,Lana Sherzad Karimi,24,Zakho,U675,Artificial Intelligence,2.27,2022,+964-772-504-7856
+S476,Chnar Sherzad Hasan,19,Sulaymaniyah,U967,Artificial Intelligence,2.85,2024,+964-770-953-1038
+S477,Kavar Jalal Hasan,21,Erbil,U347,Software Engineering,2.72,2024,+964-750-755-2674
+S478,Hawkar Ihsan Taha,25,Sulaymaniyah,U896,Business Informatics,3.44,2020,+964-770-449-3056
+S479,Tara Raber Aziz,19,Sulaymaniyah,U052,Mathematics,2.8,2025,+964-770-122-2712
+S480,Rebaz Farid Kadir,19,Duhok,U361,Mathematics,3.23,2023,+964-750-425-0517
+S481,Pishtiwan Aziz Hasan,24,Sulaymaniyah,U886,Mathematics,2.8,2020,+964-770-581-7933
+S482,Naz Kamaran Kadir,27,Erbil,U911,Artificial Intelligence,3.08,2024,+964-750-745-0685
+S483,Zeynep Rebaz Said,20,Halabja,U755,Computer Science,2.19,2020,+964-770-553-4437
+S484,Lana Hama Qadir,20,Zakho,U660,Software Engineering,3.84,2025,+964-772-485-4342
+S485,Jalal Sherzad Nuri,27,Halabja,U583,Network Engineering,2.79,2024,+964-770-662-7214
+S486,Kamaran Dara Ahmad,19,Duhok,U619,Business Informatics,2.65,2024,+964-750-367-5137
+S487,Rami Farid Qadir,28,Erbil,U105,Software Engineering,2.36,2025,+964-750-899-7827
+S488,Zhyan Barzan Nasser,19,Duhok,U321,Business Informatics,2.95,2023,+964-750-799-1013
+S489,Farhad Mustafa Mahmoud,21,Sulaymaniyah,U761,Artificial Intelligence,2.84,2021,+964-770-520-2060
+S490,Narin Hama Tahir,27,Erbil,U626,Network Engineering,2.11,2023,+964-750-107-0805
+S491,Saman Mustafa Rashid,22,Erbil,U719,Network Engineering,3.06,2024,+964-750-356-2931
+S492,Yara Rizgar Kadir,26,Erbil,U346,Business Informatics,3.23,2023,+964-750-609-6724
+S493,Narin Bakr Hassan,22,Erbil,U388,Business Informatics,2.63,2022,+964-750-601-7259
+S494,Kamaran Rebaz Salih,23,Duhok,U666,Computer Science,3.93,2021,+964-750-900-8297
+S495,Naz Ihsan Tahir,22,Halabja,U048,Business Informatics,3.6,2023,+964-770-902-2143
+S496,Rozhan Mohammed Nasser,24,Sulaymaniyah,U565,Electrical Engineering,3.27,2024,+964-770-722-5685
+S497,Bestun Bakr Saeed,19,Sulaymaniyah,U061,Computer Science,2.35,2022,+964-770-285-7404
+S498,Saman Jamal Rashid,23,Zakho,U618,Information Systems,3.23,2023,+964-772-128-1698
+S499,Hawkar Omar Tahir,26,Erbil,U196,Mathematics,3.63,2022,+964-750-646-8471
+S500,Jalal Aziz Nasser,25,Zakho,U100,Computer Science,3.18,2023,+964-772-592-8102
+S501,Shilan Bakr Hasan,27,Halabja,U191,Cybersecurity,3.76,2022,+964-770-554-0223
+S502,Alan Mustafa Kadir,20,Duhok,U553,Data Science,3.28,2023,+964-750-177-2412
+S503,Kavar Latif Kadir,21,Erbil,U180,Computer Science,3.47,2023,+964-750-450-3735
+S504,Yara Saeed Said,18,Zakho,U425,Network Engineering,2.92,2022,+964-772-938-2765
+S505,Dara Dara Rashid,19,Duhok,U335,Artificial Intelligence,3.34,2025,+964-750-869-3810
+S506,Xezal Mustafa Kadir,18,Halabja,U442,Mathematics,2.06,2023,+964-770-360-5005
+S507,Vian Karim Rashid,21,Duhok,U373,Information Systems,3.69,2020,+964-750-214-2292
+S508,Rozhan Saeed Said,27,Sulaymaniyah,U187,Information Systems,3.53,2025,+964-770-603-1390
+S509,Kavar Ihsan Othman,22,Zakho,U555,Business Informatics,3.29,2025,+964-772-860-2725
+S510,Helin Raber Said,24,Zakho,U210,Computer Science,3.37,2020,+964-772-586-5793
+S511,Dilan Mustafa Mustafa,27,Erbil,U763,Artificial Intelligence,3.57,2021,+964-750-946-0683
+S512,Zhyan Jamal Qadir,21,Duhok,U403,Cybersecurity,2.65,2024,+964-750-615-2372
+S513,Vian Ihsan Salih,18,Duhok,U773,Cybersecurity,2.07,2025,+964-750-906-1701
+S514,Chnar Fuad Aziz,22,Halabja,U107,Business Informatics,3.03,2020,+964-770-962-6962
+S515,Narin Saber Othman,23,Duhok,U245,Mathematics,2.52,2023,+964-750-154-8711
+S516,Karwan Fuad Qadir,27,Sulaymaniyah,U696,Electrical Engineering,2.43,2025,+964-770-903-9051
+S517,Mazin Farhad Qadir,19,Erbil,U008,Electrical Engineering,2.29,2023,+964-750-614-8396
+S518,Rami Aryan Hasan,24,Duhok,U666,Business Informatics,3.98,2024,+964-750-626-2539
+S519,Tara Fuad Hasan,20,Halabja,U101,Mathematics,3.68,2020,+964-770-380-7363
+S520,Lana Mohammed Mustafa,27,Sulaymaniyah,U355,Business Informatics,3.08,2023,+964-770-827-4139
+S521,Kavar Raber Hama,21,Sulaymaniyah,U368,Data Science,3.18,2021,+964-770-633-3857
+S522,Avan Jalal Hama,28,Sulaymaniyah,U728,Software Engineering,3.1,2020,+964-770-501-2574
+S523,Salih Latif Karimi,27,Halabja,U290,Data Science,3.11,2021,+964-770-271-2387
+S524,Layla Bakr Nuri,20,Erbil,U031,Software Engineering,3.78,2020,+964-750-164-8552
+S525,Yara Jalal Karimi,18,Zakho,U607,Business Informatics,3.02,2025,+964-772-711-9144
+S526,Randa Aziz Said,19,Zakho,U976,Business Informatics,3.64,2021,+964-772-481-6286
+S527,Mazin Raber Salih,23,Erbil,U339,Computer Science,3.3,2025,+964-750-187-9660
+S528,Pishtiwan Nawzad Said,28,Halabja,U085,Information Systems,2.28,2022,+964-770-416-6695
+S529,Zhyan Aziz Taha,18,Halabja,U434,Software Engineering,2.91,2023,+964-770-286-0057
+S530,Nawzad Jamal Faris,19,Duhok,U361,Electrical Engineering,2.66,2025,+964-750-147-7141
+S531,Bestun Saber Mustafa,19,Zakho,U920,Business Informatics,2.03,2025,+964-772-502-6077
+S532,Lana Dara Hassan,25,Duhok,U122,Software Engineering,3.08,2020,+964-750-508-9690
+S533,Aryan Mohammed Aziz,27,Duhok,U963,Network Engineering,2.03,2024,+964-750-878-3189
+S534,Helin Dara Said,20,Zakho,U525,Artificial Intelligence,2.76,2025,+964-772-681-9250
+S535,Yara Sherzad Faris,18,Halabja,U544,Data Science,3.06,2024,+964-770-543-9142
+S536,Randa Fuad Aziz,28,Halabja,U716,Network Engineering,3.32,2023,+964-770-900-1190
+S537,Nawzad Nawzad Saeed,23,Duhok,U041,Electrical Engineering,2.91,2020,+964-750-683-7446
+S538,Mazin Farid Hassan,19,Zakho,U036,Network Engineering,2.27,2025,+964-772-882-5873
+S539,Kamaran Raber Saeed,24,Zakho,U880,Artificial Intelligence,2.03,2020,+964-772-666-0095
+S540,Karwan Mustafa Faris,23,Halabja,U485,Data Science,2.67,2022,+964-770-220-7545
+S541,Shilan Rizgar Rashid,25,Zakho,U601,Mathematics,2.59,2024,+964-772-289-1222
+S542,Avan Saber Mustafa,27,Erbil,U661,Artificial Intelligence,3.43,2023,+964-750-241-7139
+S543,Avan Sherzad Karim,23,Duhok,U248,Data Science,3.02,2020,+964-750-560-0874
+S544,Pishtiwan Farid Nasser,26,Duhok,U870,Electrical Engineering,2.69,2022,+964-750-481-7964
+S545,Fuad Farid Hassan,27,Erbil,U384,Business Informatics,2.28,2022,+964-750-608-0000
+S546,Karwan Farhad Mahmoud,21,Halabja,U037,Computer Science,3.85,2022,+964-770-519-4507
+S547,Kavar Farid Kadir,25,Erbil,U557,Data Science,3.98,2024,+964-750-266-9174
+S548,Layla Mohammed Mustafa,25,Halabja,U442,Mathematics,3.04,2024,+964-770-287-2636
+S549,Mazin Omar Rashid,24,Duhok,U869,Information Systems,2.14,2024,+964-750-913-6113
+S550,Dilan Mustafa Tahir,26,Erbil,U576,Software Engineering,3.28,2020,+964-750-193-1903
+S551,Rami Bakr Faris,19,Halabja,U486,Computer Science,3.96,2025,+964-770-188-5160
+S552,Zhyan Karim Tahir,21,Sulaymaniyah,U572,Software Engineering,3.89,2023,+964-770-154-9330
+S553,Zhyan Rebaz Mustafa,24,Sulaymaniyah,U275,Computer Science,3.19,2025,+964-770-115-0075
+S554,Fuad Aryan Salih,26,Zakho,U302,Software Engineering,3.42,2025,+964-772-400-3719
+S555,Dashni Nawzad Hasan,26,Sulaymaniyah,U728,Artificial Intelligence,3.15,2023,+964-770-452-2154
+S556,Aryan Saeed Nasser,24,Halabja,U363,Mathematics,3.67,2020,+964-770-739-8432
+S557,Saman Mustafa Said,19,Sulaymaniyah,U649,Cybersecurity,2.43,2025,+964-770-892-1158
+S558,Zhyan Farid Tahir,26,Erbil,U303,Electrical Engineering,3.33,2023,+964-750-327-3001
+S559,Kavar Mustafa Tahir,25,Erbil,U566,Mathematics,2.51,2021,+964-750-445-2480
+S560,Zeynep Saber Said,24,Zakho,U674,Computer Science,2.08,2023,+964-772-558-3174
+S561,Narin Dara Said,26,Halabja,U769,Cybersecurity,2.39,2022,+964-770-281-5208
+S562,Zeynep Farid Said,18,Sulaymaniyah,U532,Mathematics,2.66,2020,+964-770-556-7279
+S563,Zeynep Barzan Faris,27,Duhok,U864,Computer Science,2.67,2020,+964-750-472-6505
+S564,Dara Karim Hassan,27,Sulaymaniyah,U276,Network Engineering,2.07,2022,+964-770-884-5317
+S565,Saman Karim Hassan,28,Erbil,U026,Information Systems,3.98,2020,+964-750-339-1633
+S566,Fuad Jamal Nasser,27,Erbil,U083,Information Systems,3.97,2020,+964-750-245-5382
+S567,Yara Mohammed Othman,20,Duhok,U864,Information Systems,2.34,2020,+964-750-515-6077
+S568,Shilan Rizgar Saeed,18,Sulaymaniyah,U433,Mathematics,3.79,2025,+964-770-238-2985
+S569,Wrya Mohammed Hassan,20,Zakho,U375,Network Engineering,3.72,2025,+964-772-151-1293
+S570,Kavar Karim Saeed,23,Duhok,U169,Electrical Engineering,3.93,2025,+964-750-802-9637
+S571,Vian Mohammed Faris,22,Duhok,U546,Network Engineering,2.09,2023,+964-750-202-7257
+S572,Azad Raber Karimi,23,Sulaymaniyah,U161,Information Systems,3.42,2024,+964-770-790-5999
+S573,Dilan Aziz Mahmoud,22,Erbil,U268,Software Engineering,3.91,2024,+964-750-321-4981
+S574,Randa Aziz Kadir,23,Erbil,U227,Network Engineering,2.25,2020,+964-750-999-3514
+S575,Rami Kamaran Salih,19,Zakho,U072,Artificial Intelligence,2.14,2022,+964-772-741-1536
+S576,Rami Sherzad Saeed,26,Sulaymaniyah,U817,Electrical Engineering,2.72,2021,+964-770-482-9291
+S577,Xezal Jamal Mustafa,18,Duhok,U209,Computer Science,2.12,2023,+964-750-683-9463
+S578,Zeynep Aryan Omar,26,Erbil,U758,Computer Science,2.12,2024,+964-750-496-7196
+S579,Mazin Fuad Aziz,22,Zakho,U311,Computer Science,3.39,2021,+964-772-833-3568
+S580,Saman Aryan Ahmad,23,Sulaymaniyah,U728,Mathematics,3.72,2020,+964-770-102-6432
+S581,Baran Hama Ali,18,Zakho,U604,Business Informatics,2.44,2025,+964-772-456-0181
+S582,Yara Hama Kadir,20,Erbil,U593,Cybersecurity,3.8,2021,+964-750-392-1732
+S583,Dara Aryan Karimi,28,Zakho,U676,Mathematics,2.37,2024,+964-772-819-2448
+S584,Vian Jalal Mustafa,18,Sulaymaniyah,U312,Mathematics,3.47,2020,+964-770-685-0652
+S585,Wrya Ihsan Hassan,28,Zakho,U929,Computer Science,3.53,2024,+964-772-669-6783
+S586,Layla Farid Nasser,19,Halabja,U356,Cybersecurity,2.77,2023,+964-770-325-2229
+S587,Vian Rebaz Ali,27,Halabja,U016,Mathematics,3.11,2024,+964-770-561-5296
+S588,Baran Aryan Hasan,24,Halabja,U267,Software Engineering,2.62,2023,+964-770-147-3783
+S589,Layla Kamaran Rashid,25,Sulaymaniyah,U565,Data Science,2.74,2024,+964-770-291-1273
+S590,Sardar Kamaran Qadir,20,Duhok,U573,Information Systems,2.0,2023,+964-750-217-1488
+S591,Farhad Aziz Saeed,21,Duhok,U230,Cybersecurity,2.86,2021,+964-750-201-9961
+S592,Salih Mustafa Nasser,26,Sulaymaniyah,U089,Electrical Engineering,3.15,2023,+964-770-840-0070
+S593,Bestun Jalal Nasser,26,Duhok,U702,Software Engineering,2.87,2024,+964-750-480-5444
+S594,Nawzad Hama Hasan,25,Halabja,U769,Software Engineering,3.38,2023,+964-770-271-1543
+S595,Zhyan Kamaran Karimi,23,Zakho,U730,Artificial Intelligence,3.83,2023,+964-772-647-9893
+S596,Yara Sherzad Rashid,26,Sulaymaniyah,U089,Artificial Intelligence,3.82,2023,+964-770-276-8340
+S597,Dilan Rizgar Nasser,26,Duhok,U403,Mathematics,2.28,2025,+964-750-872-7811
+S598,Dara Raber Taha,27,Sulaymaniyah,SPU,Computer Science,2.59,2021,+964-770-740-3746
+S599,Dilan Saber Mustafa,22,Sulaymaniyah,U823,Data Science,2.56,2022,+964-770-770-3463
+S600,Randa Omar Omar,23,Sulaymaniyah,U960,Artificial Intelligence,3.15,2025,+964-770-300-0167
+S601,Naz Mohammed Hama,21,Sulaymaniyah,U930,Computer Science,3.96,2022,+964-770-831-2445
+S602,Chnar Fuad Tahir,20,Sulaymaniyah,U161,Data Science,3.39,2020,+964-770-349-6110
+S603,Fuad Omar Omar,23,Sulaymaniyah,U051,Data Science,3.77,2023,+964-770-359-6485
+S604,Wrya Kamaran Qadir,21,Sulaymaniyah,SPU,Computer Science,3.87,2023,+964-770-567-7530
+S605,Hawkar Sherzad Said,21,Duhok,U475,Network Engineering,2.26,2020,+964-750-800-0375
+S606,Alan Rizgar Othman,19,Sulaymaniyah,U765,Software Engineering,2.94,2023,+964-770-985-9963
+S607,Salih Salam Nasser,18,Erbil,U175,Network Engineering,2.53,2025,+964-750-654-4520
+S608,Zeynep Bakr Rashid,27,Erbil,U733,Business Informatics,2.16,2021,+964-750-221-6877
+S609,Dilan Barzan Mahmoud,26,Zakho,U029,Artificial Intelligence,3.77,2023,+964-772-961-6443
+S610,Lana Kamaran Mahmoud,20,Zakho,U070,Business Informatics,2.17,2024,+964-772-923-6450
+S611,Saman Aryan Salih,22,Duhok,U432,Computer Science,2.6,2020,+964-750-551-7069
+S612,Azad Saeed Taha,21,Zakho,U222,Mathematics,3.14,2022,+964-772-108-4952
+S613,Dashni Salam Rashid,20,Halabja,U491,Data Science,2.77,2023,+964-770-954-1924
+S614,Narin Salam Omar,28,Erbil,U346,Data Science,2.27,2025,+964-750-451-9089
+S615,Hawkar Rizgar Aziz,26,Duhok,U354,Data Science,3.27,2020,+964-750-646-8077
+S616,Hawkar Karim Qadir,24,Halabja,U951,Network Engineering,2.3,2021,+964-770-841-5097
+S617,Kamaran Rizgar Mahmoud,22,Erbil,U776,Network Engineering,2.44,2024,+964-750-446-3922
+S618,Dashni Bakr Tahir,28,Sulaymaniyah,U902,Mathematics,2.12,2024,+964-770-341-3684
+S619,Zhyan Mustafa Ahmad,21,Sulaymaniyah,U359,Cybersecurity,2.16,2025,+964-770-954-5993
+S620,Sardar Barzan Kadir,23,Halabja,U682,Business Informatics,3.73,2025,+964-770-499-9235
+S621,Dashni Jamal Hasan,22,Duhok,U606,Electrical Engineering,3.44,2025,+964-750-443-3266
+S622,Xezal Aryan Karim,22,Duhok,U316,Business Informatics,2.79,2025,+964-750-708-8237
+S623,Kavar Saber Rashid,19,Zakho,U106,Business Informatics,2.35,2022,+964-772-478-0362
+S624,Kamaran Hama Qadir,22,Halabja,U959,Computer Science,3.02,2022,+964-770-289-6538
+S625,Xezal Aryan Mahmoud,24,Halabja,U204,Electrical Engineering,2.6,2023,+964-770-286-1848
+S626,Pishtiwan Farid Nuri,23,Sulaymaniyah,U019,Information Systems,3.55,2024,+964-770-221-4353
+S627,Rozhan Mohammed Othman,22,Sulaymaniyah,U537,Software Engineering,3.3,2024,+964-770-300-4060
+S628,Saman Saeed Ali,22,Sulaymaniyah,U562,Software Engineering,2.43,2020,+964-770-563-9282
+S629,Lana Jalal Othman,18,Zakho,U243,Information Systems,2.06,2025,+964-772-802-1998
+S630,Baran Farid Nasser,19,Zakho,U674,Electrical Engineering,2.74,2024,+964-772-557-1513
+S631,Baran Salam Tahir,28,Halabja,U380,Electrical Engineering,2.56,2021,+964-770-543-8281
+S632,Rebaz Mohammed Nasser,25,Zakho,U307,Mathematics,2.39,2021,+964-772-990-0414
+S633,Avan Ihsan Faris,25,Halabja,U563,Electrical Engineering,2.91,2024,+964-770-540-6558
+S634,Helin Rebaz Hassan,19,Duhok,U490,Cybersecurity,2.56,2020,+964-750-761-0764
+S635,Jalal Omar Hassan,23,Duhok,U224,Information Systems,2.65,2024,+964-750-774-0747
+S636,Aryan Rizgar Saeed,20,Erbil,U014,Data Science,2.13,2021,+964-750-427-7587
+S637,Sardar Sherzad Salih,21,Sulaymaniyah,U143,Business Informatics,3.94,2025,+964-770-910-2022
+S638,Salih Mustafa Hama,19,Sulaymaniyah,U982,Business Informatics,2.99,2021,+964-770-135-3251
+S639,Rami Barzan Tahir,20,Erbil,U212,Business Informatics,3.04,2023,+964-750-280-0438
+S640,Kamaran Karim Hama,25,Halabja,U893,Data Science,3.57,2022,+964-770-230-6119
+S641,Mazin Farid Saeed,20,Halabja,U469,Cybersecurity,3.28,2023,+964-770-332-3114
+S642,Dara Aziz Salih,23,Halabja,U835,Network Engineering,3.71,2025,+964-770-810-3638
+S643,Lana Nawzad Omar,19,Duhok,U298,Data Science,3.01,2020,+964-750-580-6506
+S644,Dashni Mohammed Aziz,20,Erbil,U034,Artificial Intelligence,2.78,2023,+964-750-906-1979
+S645,Yara Mohammed Nasser,18,Halabja,U241,Cybersecurity,2.98,2021,+964-770-505-1634
+S646,Lana Raber Othman,26,Duhok,U796,Artificial Intelligence,3.26,2021,+964-750-823-1468
+S647,Narin Raber Kadir,24,Zakho,U916,Business Informatics,2.96,2022,+964-772-553-4303
+S648,Kavar Kamaran Rashid,20,Sulaymaniyah,U185,Cybersecurity,3.9,2025,+964-770-620-0276
+S649,Rozhan Saber Rashid,23,Erbil,U903,Network Engineering,3.12,2025,+964-750-978-9274
+S650,Dara Karim Tahir,24,Sulaymaniyah,U901,Data Science,2.11,2021,+964-770-940-5530
+S651,Yara Ihsan Hama,25,Sulaymaniyah,U509,Computer Science,3.73,2021,+964-770-168-1879
+S652,Zeynep Rizgar Karim,22,Halabja,U099,Mathematics,2.21,2021,+964-770-106-7955
+S653,Saman Saeed Nasser,28,Duhok,U301,Artificial Intelligence,3.12,2021,+964-750-113-1175
+S654,Zeynep Rizgar Karimi,26,Sulaymaniyah,U537,Data Science,3.57,2025,+964-770-508-3755
+S655,Xezal Jamal Mustafa,23,Halabja,U985,Information Systems,3.46,2023,+964-770-146-5923
+S656,Karwan Mustafa Saeed,28,Duhok,U323,Network Engineering,3.32,2022,+964-750-188-7014
+S657,Kamaran Saeed Othman,23,Duhok,U088,Software Engineering,2.66,2022,+964-750-117-9331
+S658,Nawzad Salam Hasan,23,Erbil,U706,Business Informatics,2.9,2023,+964-750-466-3028
+S659,Naz Aziz Kadir,20,Erbil,U569,Computer Science,2.87,2021,+964-750-782-0244
+S660,Hawkar Farid Othman,19,Erbil,U742,Information Systems,2.3,2020,+964-750-306-9364
+S661,Rami Jamal Faris,26,Sulaymaniyah,U967,Business Informatics,3.13,2023,+964-770-515-0595
+S662,Kavar Omar Saeed,24,Halabja,U716,Information Systems,2.98,2023,+964-770-336-1309
+S663,Chnar Farhad Mahmoud,28,Halabja,U267,Data Science,3.53,2023,+964-770-447-9449
+S664,Aryan Farhad Said,24,Halabja,U746,Network Engineering,2.7,2025,+964-770-312-9366
+S665,Azad Omar Hama,24,Duhok,U265,Software Engineering,2.66,2021,+964-750-131-8396
+S666,Dara Ihsan Nasser,20,Halabja,U881,Electrical Engineering,2.09,2020,+964-770-700-1134
+S667,Rebaz Mustafa Mahmoud,22,Duhok,U040,Electrical Engineering,3.99,2024,+964-750-755-7472
+S668,Dilan Aziz Rashid,24,Duhok,U590,Computer Science,3.94,2023,+964-750-505-5016
+S669,Rebaz Jamal Salih,27,Duhok,U673,Business Informatics,2.9,2023,+964-750-416-1458
+S670,Wrya Nawzad Ahmad,18,Zakho,U225,Business Informatics,2.51,2022,+964-772-133-0377
+S671,Tara Kamaran Nuri,25,Zakho,U294,Electrical Engineering,2.4,2024,+964-772-856-6326
+S672,Rami Bakr Faris,25,Duhok,U702,Business Informatics,2.16,2025,+964-750-679-5867
+S673,Lana Hama Taha,18,Sulaymaniyah,U728,Business Informatics,3.39,2024,+964-770-577-0130
+S674,Randa Bakr Aziz,20,Sulaymaniyah,U507,Electrical Engineering,2.93,2025,+964-770-311-6988
+S675,Tara Sherzad Salih,26,Duhok,U308,Software Engineering,3.24,2024,+964-750-960-9337
+S676,Wrya Dara Omar,28,Duhok,U764,Business Informatics,2.87,2022,+964-750-438-4288
+S677,Saman Kamaran Kadir,19,Duhok,U899,Cybersecurity,3.58,2022,+964-750-726-1987
+S678,Nawzad Ihsan Qadir,21,Zakho,U743,Network Engineering,3.67,2022,+964-772-382-9475
+S679,Kamaran Saber Omar,22,Zakho,U336,Cybersecurity,2.03,2025,+964-772-956-9197
+S680,Dilan Aryan Ali,26,Sulaymaniyah,U185,Cybersecurity,2.84,2024,+964-770-840-7815
+S681,Salih Aryan Kadir,19,Sulaymaniyah,U740,Artificial Intelligence,2.5,2020,+964-770-108-9355
+S682,Dara Jalal Karim,18,Zakho,U160,Computer Science,2.96,2022,+964-772-972-8496
+S683,Alan Barzan Ali,25,Duhok,U259,Mathematics,3.6,2021,+964-750-979-2058
+S684,Zhyan Dara Kadir,27,Erbil,U281,Computer Science,2.87,2022,+964-750-490-1050
+S685,Lana Aryan Karimi,18,Sulaymaniyah,U907,Network Engineering,2.28,2025,+964-770-995-5828
+S686,Kavar Karim Faris,23,Erbil,U138,Software Engineering,3.72,2022,+964-750-641-9746
+S687,Nawzad Hama Hama,28,Zakho,U220,Electrical Engineering,3.68,2020,+964-772-668-7049
+S688,Kavar Omar Kadir,23,Erbil,U694,Network Engineering,3.11,2021,+964-750-365-5361
+S689,Shilan Omar Nuri,26,Zakho,U495,Cybersecurity,3.1,2020,+964-772-309-4859
+S690,Baran Rizgar Rashid,18,Sulaymaniyah,U254,Business Informatics,3.72,2021,+964-770-417-7495
+S691,Alan Salam Hama,19,Duhok,U252,Mathematics,2.04,2021,+964-750-779-7385
+S692,Zeynep Mustafa Said,18,Halabja,U570,Artificial Intelligence,2.07,2025,+964-770-421-2307
+S693,Nawzad Mohammed Rashid,28,Halabja,U380,Business Informatics,2.18,2025,+964-770-598-7178
+S694,Narin Salam Karimi,22,Duhok,U078,Information Systems,2.42,2022,+964-750-159-2542
+S695,Dilan Bakr Saeed,26,Sulaymaniyah,U698,Electrical Engineering,3.22,2022,+964-770-532-6403
+S696,Vian Karim Saeed,21,Duhok,U252,Information Systems,2.4,2024,+964-750-256-3830
+S697,Naz Hama Mahmoud,27,Erbil,U138,Computer Science,3.98,2021,+964-750-309-0163
+S698,Helin Saber Omar,25,Sulaymaniyah,U028,Cybersecurity,2.88,2025,+964-770-808-2012
+S699,Layla Rebaz Omar,20,Zakho,U601,Electrical Engineering,3.55,2024,+964-772-724-5691
+S700,Dara Saber Hama,23,Duhok,U321,Computer Science,2.42,2020,+964-750-277-3781
+S701,Rebaz Bakr Nuri,18,Halabja,U774,Mathematics,2.43,2025,+964-770-911-2159
+S702,Rozhan Rebaz Mustafa,27,Erbil,U126,Artificial Intelligence,3.62,2020,+964-750-193-7441
+S703,Rozhan Mohammed Tahir,18,Sulaymaniyah,U211,Data Science,2.88,2025,+964-770-523-4242
+S704,Aryan Farhad Hama,25,Halabja,U623,Software Engineering,2.64,2022,+964-770-523-1734
+S705,Narin Mohammed Mahmoud,23,Halabja,U833,Data Science,3.28,2021,+964-770-649-7220
+S706,Avan Hama Aziz,19,Sulaymaniyah,U847,Information Systems,2.36,2022,+964-770-713-0657
+S707,Yara Jamal Said,22,Halabja,U956,Electrical Engineering,3.43,2024,+964-770-842-2415
+S708,Helin Rebaz Hasan,19,Sulaymaniyah,U653,Cybersecurity,3.59,2020,+964-770-233-1385
+S709,Salih Rebaz Aziz,18,Erbil,U034,Software Engineering,2.47,2022,+964-750-804-9057
+S710,Karwan Rebaz Karimi,25,Zakho,U852,Computer Science,2.58,2020,+964-772-917-3695
+S711,Hawkar Aryan Qadir,27,Halabja,U223,Electrical Engineering,2.5,2022,+964-770-282-9800
+S712,Rebaz Jalal Saeed,20,Duhok,U888,Software Engineering,2.28,2023,+964-750-497-4170
+S713,Dashni Bakr Saeed,18,Sulaymaniyah,U312,Artificial Intelligence,2.72,2022,+964-770-253-2364
+S714,Yara Rizgar Ali,28,Erbil,U456,Data Science,3.62,2024,+964-750-761-6266
+S715,Jalal Salam Taha,22,Sulaymaniyah,U273,Computer Science,2.59,2023,+964-770-998-0303
+S716,Rebaz Latif Qadir,27,Duhok,U614,Artificial Intelligence,3.84,2020,+964-750-377-7612
+S717,Layla Barzan Qadir,28,Erbil,U942,Data Science,2.76,2024,+964-750-800-5723
+S718,Helin Mustafa Othman,25,Erbil,U726,Electrical Engineering,2.99,2024,+964-750-818-2976
+S719,Baran Sherzad Ali,24,Zakho,U534,Cybersecurity,2.47,2021,+964-772-563-8159
+S720,Baran Barzan Hasan,20,Zakho,U383,Data Science,2.04,2020,+964-772-508-5722
+S721,Azad Farid Hassan,28,Halabja,U125,Data Science,2.74,2025,+964-770-261-2472
+S722,Karwan Hama Omar,21,Halabja,U385,Software Engineering,2.08,2024,+964-770-425-5174
+S723,Bestun Ihsan Faris,28,Halabja,U536,Cybersecurity,3.44,2021,+964-770-761-6694
+S724,Dara Mohammed Omar,24,Sulaymaniyah,U788,Mathematics,2.15,2025,+964-770-365-8427
+S725,Vian Jalal Taha,21,Erbil,U760,Artificial Intelligence,3.45,2021,+964-750-770-8819
+S726,Kamaran Raber Nuri,20,Erbil,U031,Mathematics,2.13,2025,+964-750-185-2896
+S727,Karwan Barzan Salih,26,Sulaymaniyah,U119,Data Science,3.33,2020,+964-770-828-6102
+S728,Jalal Nawzad Said,25,Halabja,U238,Business Informatics,3.98,2022,+964-770-108-1703
+S729,Tara Saber Said,26,Halabja,U163,Artificial Intelligence,2.12,2022,+964-770-412-2188
+S730,Dara Aryan Aziz,25,Erbil,U026,Business Informatics,2.88,2024,+964-750-591-4006
+S731,Yara Farhad Mahmoud,22,Duhok,U633,Electrical Engineering,3.89,2023,+964-750-866-5092
+S732,Naz Salam Salih,28,Erbil,U719,Business Informatics,2.36,2024,+964-750-244-7145
+S733,Helin Bakr Hassan,22,Sulaymaniyah,U239,Software Engineering,3.38,2020,+964-770-391-2672
+S734,Kavar Mustafa Nasser,22,Halabja,U356,Artificial Intelligence,3.47,2024,+964-770-681-1833
+S735,Chnar Farid Omar,27,Erbil,U567,Network Engineering,3.22,2024,+964-750-384-9426
+S736,Fuad Kamaran Taha,19,Halabja,U146,Data Science,3.47,2020,+964-770-158-3593
+S737,Sardar Karim Ahmad,20,Zakho,U529,Business Informatics,3.41,2020,+964-772-105-5698
+S738,Jalal Hama Taha,26,Sulaymaniyah,U960,Data Science,2.79,2020,+964-770-103-5271
+S739,Pishtiwan Ihsan Aziz,21,Erbil,U388,Data Science,3.1,2020,+964-750-463-9062
+S740,Baran Rizgar Hasan,27,Sulaymaniyah,U562,Network Engineering,2.12,2023,+964-770-507-8748
+S741,Bestun Ihsan Nuri,20,Zakho,U203,Information Systems,3.69,2021,+964-772-993-8218
+S742,Kavar Fuad Omar,19,Halabja,U515,Cybersecurity,3.01,2025,+964-770-216-8885
+S743,Dashni Jalal Nuri,24,Zakho,U215,Business Informatics,3.1,2020,+964-772-100-1218
+S744,Baran Salam Nuri,27,Sulaymaniyah,U187,Artificial Intelligence,2.3,2025,+964-770-653-8324
+S745,Dashni Karim Qadir,19,Sulaymaniyah,U492,Data Science,3.06,2022,+964-770-825-0324
+S746,Yara Jalal Hama,18,Zakho,U620,Information Systems,2.84,2025,+964-772-840-6065
+S747,Jalal Latif Nasser,28,Halabja,U247,Computer Science,3.63,2021,+964-770-888-1229
+S748,Azad Rebaz Omar,19,Halabja,U191,Information Systems,2.92,2024,+964-770-811-1813
+S749,Nawzad Raber Hama,21,Duhok,U737,Business Informatics,3.08,2022,+964-750-458-8150
+S750,Avan Kamaran Mahmoud,24,Sulaymaniyah,U930,Computer Science,2.74,2023,+964-770-646-6299
+S751,Kamaran Jalal Rashid,23,Sulaymaniyah,U778,Electrical Engineering,2.9,2022,+964-770-731-8310
+S752,Vian Hama Nuri,27,Halabja,U781,Data Science,2.55,2023,+964-770-743-0147
+S753,Nawzad Sherzad Hassan,25,Zakho,U350,Data Science,2.54,2023,+964-772-246-6750
+S754,Karwan Saeed Faris,27,Zakho,U826,Mathematics,3.24,2023,+964-772-122-9214
+S755,Dashni Dara Othman,28,Erbil,U678,Network Engineering,3.0,2024,+964-750-460-9354
+S756,Karwan Latif Taha,27,Duhok,U483,Mathematics,3.6,2022,+964-750-215-6733
+S757,Dashni Latif Hama,23,Zakho,U294,Mathematics,2.41,2025,+964-772-695-8788
+S758,Rozhan Saeed Hasan,26,Halabja,U162,Business Informatics,2.06,2022,+964-770-423-0161
+S759,Zeynep Aziz Ali,20,Halabja,U247,Artificial Intelligence,2.24,2020,+964-770-267-6528
+S760,Zeynep Jamal Salih,26,Sulaymaniyah,U612,Computer Science,3.2,2020,+964-770-118-8918
+S761,Narin Barzan Aziz,19,Sulaymaniyah,U372,Artificial Intelligence,3.54,2020,+964-770-669-8841
+S762,Zhyan Hama Karim,22,Halabja,U774,Cybersecurity,3.33,2024,+964-770-664-3882
+S763,Narin Karim Nasser,26,Halabja,U828,Information Systems,2.7,2021,+964-770-114-2447
+S764,Dilan Aziz Taha,18,Zakho,U479,Computer Science,3.36,2025,+964-772-499-6607
+S765,Wrya Farhad Taha,18,Erbil,U714,Network Engineering,3.82,2022,+964-750-496-4796
+S766,Kamaran Salam Faris,26,Erbil,U679,Mathematics,3.33,2022,+964-750-542-7353
+S767,Aryan Karim Hassan,28,Halabja,U086,Artificial Intelligence,2.24,2023,+964-770-265-6790
+S768,Kavar Nawzad Tahir,19,Erbil,U018,Software Engineering,2.1,2022,+964-750-402-4964
+S769,Azad Mohammed Mahmoud,25,Duhok,U194,Network Engineering,2.55,2022,+964-750-532-9152
+S770,Saman Mohammed Mahmoud,20,Zakho,U481,Data Science,3.57,2021,+964-772-219-5301
+S771,Bestun Fuad Rashid,23,Duhok,U764,Network Engineering,3.86,2021,+964-750-288-2962
+S772,Vian Ihsan Taha,28,Erbil,U725,Computer Science,3.3,2022,+964-750-550-0481
+S773,Aryan Jamal Salih,26,Duhok,U606,Mathematics,2.58,2022,+964-750-481-9785
+S774,Tara Bakr Nasser,21,Sulaymaniyah,U765,Business Informatics,3.07,2022,+964-770-106-8013
+S775,Vian Karim Tahir,21,Erbil,U144,Mathematics,2.2,2025,+964-750-948-9763
+S776,Zeynep Farid Othman,20,Erbil,UKH,Cybersecurity,3.89,2020,+964-750-834-7738
+S777,Dashni Fuad Saeed,24,Sulaymaniyah,U798,Data Science,3.54,2024,+964-770-757-8938
+S778,Farhad Hama Ahmad,28,Sulaymaniyah,U787,Electrical Engineering,2.64,2022,+964-770-275-2964
+S779,Baran Rizgar Tahir,20,Halabja,U937,Mathematics,3.43,2022,+964-770-203-6653
+S780,Rebaz Barzan Qadir,19,Erbil,U597,Electrical Engineering,2.9,2020,+964-750-444-0855
+S781,Xezal Dara Qadir,19,Halabja,U881,Computer Science,2.52,2023,+964-770-414-4411
+S782,Kavar Barzan Rashid,22,Zakho,U264,Electrical Engineering,2.88,2024,+964-772-849-4846
+S783,Randa Barzan Hasan,22,Erbil,U971,Information Systems,3.4,2024,+964-750-570-3267
+S784,Kavar Mohammed Ali,21,Duhok,U374,Network Engineering,2.98,2024,+964-750-131-3641
+S785,Kavar Nawzad Mustafa,19,Sulaymaniyah,U145,Artificial Intelligence,3.38,2021,+964-770-945-8538
+S786,Zhyan Latif Karim,26,Halabja,U266,Business Informatics,3.07,2021,+964-770-931-9122
+S787,Aryan Raber Karim,21,Erbil,U435,Data Science,2.02,2024,+964-750-545-3013
+S788,Tara Bakr Nasser,25,Duhok,U845,Software Engineering,3.38,2023,+964-750-434-3484
+S789,Aryan Mustafa Aziz,18,Duhok,U878,Cybersecurity,2.2,2024,+964-750-984-1759
+S790,Helin Dara Kadir,24,Duhok,U526,Information Systems,2.99,2025,+964-750-590-7253
+S791,Zeynep Aryan Mustafa,22,Zakho,U203,Network Engineering,2.45,2023,+964-772-239-9628
+S792,Yara Farhad Omar,22,Halabja,U809,Mathematics,3.94,2022,+964-770-153-9987
+S793,Sardar Kamaran Karimi,19,Halabja,U809,Network Engineering,2.1,2024,+964-770-667-5575
+S794,Sardar Raber Nuri,28,Zakho,U264,Network Engineering,3.42,2021,+964-772-197-1392
+S795,Salih Dara Salih,20,Halabja,U828,Business Informatics,3.3,2023,+964-770-383-8431
+S796,Rami Karim Faris,27,Halabja,U404,Network Engineering,2.74,2021,+964-770-674-6077
+S797,Wrya Saeed Aziz,20,Zakho,U399,Network Engineering,3.89,2025,+964-772-213-9704
+S798,Karwan Rebaz Hasan,25,Erbil,U196,Data Science,3.46,2024,+964-750-776-1212
+S799,Jalal Salam Hama,27,Sulaymaniyah,U420,Artificial Intelligence,3.81,2023,+964-770-183-7571
+S800,Salih Dara Kadir,23,Erbil,U395,Network Engineering,3.62,2022,+964-750-913-3376
+S801,Salih Jamal Aziz,19,Zakho,U637,Data Science,2.17,2025,+964-772-322-0486
+S802,Vian Saeed Omar,26,Sulaymaniyah,U693,Artificial Intelligence,2.23,2020,+964-770-691-4026
+S803,Shilan Saber Ali,27,Halabja,U668,Artificial Intelligence,2.02,2020,+964-770-855-9385
+S804,Dashni Aryan Karimi,23,Sulaymaniyah,U129,Information Systems,2.63,2024,+964-770-982-6966
+S805,Lana Mustafa Tahir,19,Zakho,U795,Cybersecurity,3.26,2025,+964-772-420-8267
+S806,Layla Saeed Othman,23,Halabja,U038,Information Systems,2.39,2025,+964-770-504-0327
+S807,Mazin Mustafa Hasan,19,Erbil,U118,Network Engineering,2.02,2024,+964-750-228-9396
+S808,Tara Barzan Nasser,21,Zakho,U366,Data Science,3.45,2020,+964-772-687-0967
+S809,Hawkar Latif Ahmad,19,Halabja,U442,Artificial Intelligence,2.09,2022,+964-770-162-2222
+S810,Kavar Jamal Mustafa,23,Duhok,U286,Information Systems,3.87,2024,+964-750-608-3369
+S811,Chnar Omar Taha,23,Zakho,U511,Data Science,3.02,2024,+964-772-510-9311
+S812,Mazin Mustafa Qadir,18,Sulaymaniyah,U277,Electrical Engineering,3.41,2025,+964-770-441-8921
+S813,Shilan Barzan Hama,22,Duhok,U918,Business Informatics,2.9,2021,+964-750-188-5477
+S814,Nawzad Fuad Hasan,20,Zakho,U487,Cybersecurity,2.71,2020,+964-772-203-6223
+S815,Rami Mohammed Othman,20,Duhok,U321,Business Informatics,3.68,2021,+964-750-582-7965
+S816,Baran Raber Qadir,24,Sulaymaniyah,U608,Computer Science,3.99,2025,+964-770-487-6715
+S817,Rozhan Bakr Aziz,19,Erbil,U421,Cybersecurity,2.76,2022,+964-750-362-1125
+S818,Hawkar Sherzad Ahmad,25,Zakho,U117,Computer Science,3.92,2022,+964-772-749-3354
+S819,Alan Saber Karimi,23,Duhok,U666,Mathematics,3.93,2020,+964-750-293-9178
+S820,Rebaz Salam Hassan,22,Halabja,U011,Data Science,2.29,2023,+964-770-313-6917
+S821,Narin Farhad Kadir,28,Sulaymaniyah,U684,Software Engineering,2.54,2020,+964-770-641-9486
+S822,Kavar Aziz Hasan,24,Sulaymaniyah,U759,Electrical Engineering,3.15,2020,+964-770-528-8114
+S823,Layla Aryan Saeed,20,Zakho,U307,Network Engineering,3.01,2022,+964-772-728-8341
+S824,Wrya Jalal Ahmad,21,Zakho,U314,Electrical Engineering,3.66,2022,+964-772-650-7433
+S825,Dashni Saber Taha,18,Sulaymaniyah,U655,Software Engineering,3.28,2023,+964-770-925-9057
+S826,Yara Saber Karimi,21,Halabja,U172,Software Engineering,2.61,2021,+964-770-704-8255
+S827,Rebaz Salam Said,25,Halabja,U103,Artificial Intelligence,2.89,2025,+964-770-467-8388
+S828,Kavar Jamal Salih,25,Sulaymaniyah,U924,Cybersecurity,2.9,2022,+964-770-196-3810
+S829,Rami Jalal Tahir,21,Erbil,U723,Computer Science,3.03,2025,+964-750-994-6867
+S830,Naz Jamal Rashid,23,Erbil,U201,Artificial Intelligence,2.53,2021,+964-750-140-4292
+S831,Lana Omar Qadir,18,Erbil,U763,Data Science,3.45,2022,+964-750-561-7566
+S832,Pishtiwan Omar Hassan,18,Sulaymaniyah,UoS,Mathematics,3.41,2023,+964-770-806-9692
+S833,Kavar Bakr Kadir,23,Duhok,U147,Network Engineering,4.0,2021,+964-750-960-9024
+S834,Aryan Kamaran Qadir,22,Erbil,U050,Network Engineering,2.2,2025,+964-750-247-2362
+S835,Sardar Aryan Said,25,Duhok,U673,Information Systems,2.3,2023,+964-750-361-9409
+S836,Dara Barzan Mustafa,25,Zakho,U228,Data Science,3.68,2021,+964-772-289-4745
+S837,Dara Nawzad Nasser,19,Erbil,U306,Cybersecurity,3.07,2024,+964-750-152-0580
+S838,Salih Nawzad Nasser,24,Sulaymaniyah,U429,Business Informatics,2.43,2023,+964-770-112-2446
+S839,Baran Mohammed Rashid,18,Halabja,U536,Information Systems,2.06,2022,+964-770-898-3873
+S840,Karwan Aryan Tahir,21,Zakho,U524,Data Science,2.82,2024,+964-772-697-0510
+S841,Aryan Sherzad Ali,18,Erbil,U407,Information Systems,2.12,2023,+964-750-349-2237
+S842,Layla Aziz Faris,21,Duhok,U987,Network Engineering,3.23,2020,+964-750-294-0567
+S843,Shilan Jalal Taha,26,Zakho,U210,Data Science,3.63,2024,+964-772-142-8344
+S844,Rebaz Farid Saeed,19,Zakho,U117,Business Informatics,2.05,2022,+964-772-423-4576
+S845,Randa Aryan Saeed,26,Zakho,U149,Information Systems,3.62,2020,+964-772-585-0103
+S846,Mazin Nawzad Karimi,20,Zakho,U302,Mathematics,3.65,2022,+964-772-400-2158
+S847,Shilan Farhad Mahmoud,18,Sulaymaniyah,U500,Data Science,2.29,2021,+964-770-319-9629
+S848,Avan Karim Othman,18,Duhok,U923,Software Engineering,3.17,2022,+964-750-859-7308
+S849,Rami Aziz Taha,28,Zakho,U216,Business Informatics,2.37,2025,+964-772-740-5785
+S850,Naz Fuad Omar,19,Duhok,U141,Cybersecurity,3.3,2024,+964-750-937-4916
+S851,Pishtiwan Barzan Ahmad,23,Halabja,U039,Data Science,3.17,2022,+964-770-214-6263
+S852,Hawkar Aryan Othman,19,Erbil,U135,Software Engineering,2.64,2024,+964-750-695-1489
+S853,Zeynep Saeed Ahmad,22,Sulaymaniyah,U578,Artificial Intelligence,3.47,2024,+964-770-523-4182
+S854,Fuad Rizgar Omar,20,Zakho,U730,Business Informatics,2.43,2023,+964-772-160-0158
+S855,Saman Rebaz Kadir,18,Halabja,U734,Mathematics,3.02,2021,+964-770-548-9133
+S856,Kamaran Mohammed Karim,22,Erbil,U690,Software Engineering,3.24,2024,+964-750-233-1404
+S857,Dilan Jamal Hasan,26,Zakho,U350,Computer Science,3.87,2021,+964-772-502-9960
+S858,Lana Saber Said,22,Sulaymaniyah,U274,Electrical Engineering,3.02,2022,+964-770-559-0640
+S859,Lana Aryan Aziz,24,Halabja,U241,Software Engineering,2.64,2023,+964-770-291-2425
+S860,Baran Salam Karim,28,Erbil,U181,Software Engineering,3.88,2021,+964-750-987-0238
+S861,Kavar Saeed Taha,18,Duhok,U403,Computer Science,2.12,2020,+964-750-661-8503
+S862,Zeynep Rebaz Nuri,27,Zakho,U295,Mathematics,2.22,2020,+964-772-103-8456
+S863,Shilan Jalal Kadir,19,Halabja,U804,Network Engineering,2.81,2020,+964-770-123-9496
+S864,Avan Ihsan Rashid,28,Erbil,U470,Network Engineering,2.99,2023,+964-750-859-9535
+S865,Rami Mohammed Mahmoud,18,Halabja,U809,Information Systems,3.08,2025,+964-770-444-4918
+S866,Bestun Fuad Kadir,24,Halabja,U125,Artificial Intelligence,2.49,2020,+964-770-123-9776
+S867,Lana Ihsan Omar,19,Halabja,U711,Mathematics,3.78,2025,+964-770-955-4002
+S868,Salih Omar Ali,19,Zakho,U123,Software Engineering,3.32,2024,+964-772-761-6051
+S869,Avan Saeed Hasan,22,Duhok,U403,Artificial Intelligence,2.3,2020,+964-750-293-4256
+S870,Kavar Hama Nuri,22,Erbil,U056,Electrical Engineering,2.83,2020,+964-750-557-5269
+S871,Azad Saber Salih,27,Zakho,U770,Network Engineering,3.78,2022,+964-772-983-6626
+S872,Dilan Jalal Karimi,26,Zakho,U561,Data Science,2.28,2025,+964-772-838-0262
+S873,Shilan Kamaran Aziz,20,Sulaymaniyah,U892,Artificial Intelligence,3.84,2025,+964-770-327-8410
+S874,Layla Farid Mahmoud,20,Zakho,U834,Mathematics,2.07,2022,+964-772-612-1147
+S875,Naz Rebaz Nuri,23,Zakho,U311,Electrical Engineering,3.27,2021,+964-772-521-5104
+S876,Dashni Aziz Hassan,22,Sulaymaniyah,U312,Electrical Engineering,2.17,2024,+964-770-196-9175
+S877,Hawkar Raber Nasser,28,Sulaymaniyah,U710,Electrical Engineering,2.84,2020,+964-770-743-2894
+S878,Sardar Dara Othman,24,Duhok,U418,Network Engineering,2.23,2020,+964-750-162-7612
+S879,Dilan Saber Omar,24,Halabja,U258,Cybersecurity,2.05,2020,+964-770-230-9200
+S880,Dashni Omar Hassan,19,Sulaymaniyah,U688,Data Science,3.45,2025,+964-770-279-3285
+S881,Karwan Barzan Mustafa,20,Sulaymaniyah,U728,Business Informatics,2.06,2022,+964-770-645-6131
+S882,Bestun Saeed Ali,21,Erbil,U595,Business Informatics,3.91,2025,+964-750-872-4236
+S883,Saman Farhad Saeed,20,Duhok,U457,Computer Science,3.96,2023,+964-750-324-4912
+S884,Rami Omar Ali,21,Zakho,U053,Software Engineering,2.01,2023,+964-772-836-3358
+S885,Narin Ihsan Tahir,26,Duhok,U600,Data Science,3.92,2020,+964-750-602-6714
+S886,Tara Saeed Nasser,28,Halabja,U255,Data Science,2.25,2023,+964-770-784-3002
+S887,Fuad Jamal Omar,24,Zakho,U587,Computer Science,3.87,2025,+964-772-901-6556
+S888,Karwan Sherzad Faris,24,Sulaymaniyah,U161,Mathematics,3.7,2023,+964-770-622-4416
+S889,Dashni Omar Othman,20,Halabja,U402,Information Systems,3.16,2025,+964-770-312-5924
+S890,Hawkar Mustafa Aziz,22,Erbil,U025,Business Informatics,3.0,2023,+964-750-408-2385
+S891,Pishtiwan Mustafa Taha,22,Sulaymaniyah,U330,Electrical Engineering,2.11,2025,+964-770-529-6199
+S892,Avan Omar Ali,28,Halabja,U238,Software Engineering,2.87,2022,+964-770-719-5837
+S893,Kamaran Mustafa Saeed,18,Sulaymaniyah,U497,Mathematics,3.94,2025,+964-770-807-4528
+S894,Randa Jalal Othman,27,Duhok,U792,Software Engineering,2.99,2021,+964-750-659-9018
+S895,Dashni Ihsan Hassan,28,Erbil,U641,Data Science,2.86,2022,+964-750-330-5527
+S896,Fuad Mustafa Saeed,19,Halabja,U385,Artificial Intelligence,3.06,2022,+964-770-700-6877
+S897,Zeynep Saber Hassan,23,Halabja,U038,Business Informatics,3.69,2020,+964-770-144-2977
+S898,Saman Salam Othman,22,Erbil,U178,Electrical Engineering,2.16,2025,+964-750-290-4049
+S899,Dilan Dara Qadir,26,Erbil,U115,Business Informatics,2.85,2021,+964-750-608-2331
+S900,Yara Mohammed Karimi,21,Erbil,U842,Artificial Intelligence,2.33,2025,+964-750-306-1720
+S901,Nawzad Sherzad Qadir,18,Halabja,U609,Artificial Intelligence,2.16,2022,+964-770-133-0216
+S902,Randa Ihsan Nasser,25,Sulaymaniyah,U420,Information Systems,3.5,2024,+964-770-942-7645
+S903,Hawkar Farhad Mahmoud,20,Halabja,U570,Computer Science,3.52,2022,+964-770-800-0834
+S904,Nawzad Farhad Salih,28,Halabja,U364,Software Engineering,2.93,2024,+964-770-436-5974
+S905,Karwan Salam Faris,23,Erbil,U744,Software Engineering,2.45,2024,+964-750-269-1955
+S906,Farhad Latif Othman,25,Erbil,U567,Data Science,3.05,2020,+964-750-582-2254
+S907,Lana Rebaz Nasser,24,Zakho,U838,Computer Science,2.21,2020,+964-772-665-8388
+S908,Aryan Farid Rashid,21,Erbil,U917,Network Engineering,3.35,2024,+964-750-748-6294
+S909,Randa Raber Taha,25,Duhok,U592,Information Systems,2.68,2021,+964-750-141-7330
+S910,Layla Bakr Salih,26,Zakho,U731,Software Engineering,2.03,2025,+964-772-833-8995
+S911,Dashni Latif Karimi,18,Duhok,U970,Electrical Engineering,2.34,2022,+964-750-785-4803
+S912,Zeynep Bakr Saeed,19,Sulaymaniyah,U166,Cybersecurity,2.78,2020,+964-770-908-6298
+S913,Farhad Barzan Faris,22,Halabja,U937,Business Informatics,2.8,2023,+964-770-120-6372
+S914,Karwan Nawzad Qadir,19,Zakho,U931,Electrical Engineering,2.49,2022,+964-772-813-2327
+S915,Randa Nawzad Salih,20,Erbil,U387,Computer Science,2.78,2020,+964-750-591-0158
+S916,Zhyan Farhad Aziz,22,Sulaymaniyah,U274,Electrical Engineering,3.79,2021,+964-770-388-3471
+S917,Lana Aryan Rashid,22,Erbil,U733,Artificial Intelligence,3.08,2022,+964-750-615-1080
+S918,Saman Jalal Omar,27,Sulaymaniyah,U030,Computer Science,3.62,2020,+964-770-933-0253
+S919,Avan Jalal Tahir,19,Duhok,U301,Computer Science,2.75,2025,+964-750-473-9012
+S920,Zeynep Kamaran Nuri,21,Zakho,U954,Mathematics,3.34,2024,+964-772-983-5406
+S921,Shilan Omar Hassan,23,Sulaymaniyah,U430,Artificial Intelligence,2.03,2020,+964-770-879-4524
+S922,Avan Fuad Aziz,27,Zakho,U525,Mathematics,3.57,2020,+964-772-427-7740
+S923,Tara Karim Nasser,20,Sulaymaniyah,U710,Electrical Engineering,3.09,2020,+964-770-559-8072
+S924,Naz Ihsan Hasan,23,Duhok,U992,Software Engineering,3.53,2023,+964-750-618-1613
+S925,Avan Jamal Hama,18,Duhok,U432,Mathematics,3.52,2024,+964-750-572-2634
+S926,Sardar Farid Salih,22,Sulaymaniyah,U924,Business Informatics,2.87,2025,+964-770-962-6058
+S927,Dashni Farid Karimi,23,Duhok,U526,Information Systems,2.13,2020,+964-750-127-7547
+S928,Dashni Jalal Tahir,24,Sulaymaniyah,U084,Artificial Intelligence,3.61,2025,+964-770-592-8709
+S929,Kavar Jalal Karim,23,Sulaymaniyah,U652,Computer Science,2.61,2021,+964-770-642-0261
+S930,Karwan Dara Aziz,23,Sulaymaniyah,U594,Mathematics,3.41,2025,+964-770-285-6280
+S931,Dara Hama Kadir,24,Erbil,U178,Network Engineering,3.37,2023,+964-750-251-7387
+S932,Saman Mohammed Faris,24,Sulaymaniyah,U715,Artificial Intelligence,2.86,2021,+964-770-110-7296
+S933,Avan Fuad Mustafa,21,Zakho,U931,Cybersecurity,3.89,2021,+964-772-844-8986
+S934,Naz Barzan Qadir,20,Zakho,U617,Business Informatics,2.44,2024,+964-772-541-8256
+S935,Alan Rizgar Ahmad,18,Zakho,U844,Computer Science,3.59,2024,+964-772-635-6445
+S936,Dara Mohammed Ahmad,23,Halabja,U945,Cybersecurity,3.56,2021,+964-770-365-0098
+S937,Salih Sherzad Rashid,25,Duhok,U973,Computer Science,2.4,2023,+964-750-860-1373
+S938,Bestun Saber Hassan,23,Duhok,U741,Information Systems,2.38,2025,+964-750-855-5270
+S939,Aryan Latif Qadir,25,Zakho,U587,Computer Science,3.0,2022,+964-772-452-4172
+S940,Nawzad Kamaran Hassan,21,Sulaymaniyah,U580,Software Engineering,3.66,2024,+964-770-365-2411
+S941,Zeynep Karim Rashid,25,Sulaymaniyah,U650,Cybersecurity,3.46,2021,+964-770-161-2884
+S942,Aryan Jalal Nasser,19,Sulaymaniyah,U803,Data Science,3.67,2022,+964-770-766-8029
+S943,Rebaz Jalal Omar,20,Zakho,U844,Software Engineering,2.11,2022,+964-772-261-8899
+S944,Pishtiwan Raber Mahmoud,27,Duhok,U173,Mathematics,3.11,2020,+964-750-483-2879
+S945,Nawzad Aziz Taha,27,Erbil,U971,Business Informatics,3.71,2021,+964-750-291-0484
+S946,Kamaran Mustafa Said,18,Sulaymaniyah,U960,Business Informatics,2.19,2022,+964-770-288-6512
+S947,Dilan Nawzad Said,18,Duhok,U605,Software Engineering,3.74,2023,+964-750-575-0316
+S948,Helin Rebaz Karimi,23,Sulaymaniyah,U095,Business Informatics,3.37,2020,+964-770-398-9556
+S949,Alan Rebaz Saeed,22,Sulaymaniyah,U277,Data Science,3.83,2023,+964-770-691-3667
+S950,Baran Aryan Kadir,25,Erbil,U943,Information Systems,2.87,2021,+964-750-668-0087
+S951,Zhyan Karim Mahmoud,23,Halabja,U319,Network Engineering,2.52,2021,+964-770-458-9011
+S952,Lana Karim Qadir,21,Duhok,U167,Network Engineering,2.25,2025,+964-750-261-8081
+S953,Baran Aryan Nasser,24,Sulaymaniyah,U700,Software Engineering,2.44,2025,+964-770-148-4890
+S954,Naz Nawzad Ahmad,24,Halabja,U585,Computer Science,2.91,2025,+964-770-439-2812
+S955,Saman Barzan Taha,27,Zakho,U208,Artificial Intelligence,2.98,2024,+964-772-866-9607
+S956,Layla Latif Said,24,Duhok,U035,Information Systems,2.6,2020,+964-750-528-8112
+S957,Sardar Bakr Karimi,26,Duhok,U918,Business Informatics,2.02,2025,+964-750-205-9257
+S958,Baran Bakr Mustafa,23,Sulaymaniyah,U761,Computer Science,3.55,2022,+964-770-933-3902
+S959,Narin Raber Hasan,18,Halabja,U066,Mathematics,3.17,2021,+964-770-260-5709
+S960,Dara Aziz Saeed,21,Sulaymaniyah,U344,Cybersecurity,2.72,2020,+964-770-257-6131
+S961,Randa Sherzad Nuri,23,Duhok,U418,Computer Science,2.57,2025,+964-750-799-0547
+S962,Fuad Raber Said,22,Sulaymaniyah,U552,Network Engineering,3.39,2021,+964-770-738-3172
+S963,Rozhan Ihsan Mahmoud,20,Sulaymaniyah,U273,Data Science,3.18,2021,+964-770-107-8804
+S964,Jalal Farhad Nuri,19,Erbil,U422,Network Engineering,2.25,2022,+964-750-870-4427
+S965,Dilan Rebaz Ali,27,Erbil,U178,Network Engineering,2.79,2024,+964-750-715-2193
+S966,Mazin Fuad Mahmoud,21,Erbil,U115,Data Science,2.15,2023,+964-750-416-9633
+S967,Karwan Aziz Mahmoud,20,Duhok,U361,Data Science,3.19,2022,+964-750-756-1522
+S968,Vian Sherzad Nasser,27,Halabja,U288,Information Systems,2.26,2023,+964-770-557-1245
+S969,Xezal Ihsan Mahmoud,20,Sulaymaniyah,U128,Information Systems,3.89,2022,+964-770-584-5218
+S970,Zeynep Saber Mahmoud,19,Sulaymaniyah,U829,Artificial Intelligence,3.79,2021,+964-770-818-0416
+S971,Chnar Mustafa Nuri,18,Halabja,U583,Software Engineering,2.01,2024,+964-770-262-8733
+S972,Pishtiwan Mohammed Taha,20,Duhok,U396,Data Science,3.41,2020,+964-750-462-3772
+S973,Tara Jalal Kadir,21,Duhok,U427,Computer Science,3.44,2021,+964-750-202-9533
+S974,Dilan Latif Faris,25,Erbil,U347,Cybersecurity,3.83,2023,+964-750-753-2288
+S975,Naz Barzan Ahmad,22,Duhok,U575,Network Engineering,3.72,2021,+964-750-195-8220
+S976,Tara Kamaran Said,19,Halabja,U338,Mathematics,3.18,2025,+964-770-107-4956
+S977,Zhyan Nawzad Karim,28,Halabja,U646,Information Systems,2.76,2024,+964-770-303-3423
+S978,Nawzad Aryan Said,24,Sulaymaniyah,U974,Data Science,2.71,2022,+964-770-993-0936
+S979,Jalal Rizgar Salih,24,Sulaymaniyah,U477,Information Systems,2.55,2024,+964-770-441-8248
+S980,Salih Salam Said,20,Duhok,U888,Artificial Intelligence,3.95,2022,+964-750-816-7163
+S981,Dara Aziz Aziz,22,Zakho,U164,Business Informatics,2.8,2021,+964-772-774-9576
+S982,Kavar Saeed Hama,23,Sulaymaniyah,U500,Mathematics,3.47,2020,+964-770-904-9594
+S983,Baran Bakr Saeed,23,Zakho,U210,Artificial Intelligence,2.02,2020,+964-772-646-3004
+S984,Baran Saeed Salih,25,Duhok,U878,Business Informatics,2.34,2023,+964-750-293-9649
+S985,Shilan Bakr Saeed,21,Duhok,U252,Computer Science,3.84,2020,+964-750-394-9334
+S986,Layla Mustafa Hassan,27,Halabja,U258,Network Engineering,3.4,2023,+964-770-503-2789
+S987,Alan Jamal Hassan,22,Zakho,U070,Data Science,3.84,2022,+964-772-947-0862
+S988,Helin Bakr Mustafa,25,Halabja,U476,Business Informatics,3.67,2025,+964-770-140-0307
+S989,Dilan Karim Mustafa,27,Sulaymaniyah,U785,Software Engineering,2.44,2022,+964-770-881-3289
+S990,Naz Bakr Salih,25,Halabja,U862,Data Science,2.19,2024,+964-770-327-6263
+S991,Alan Aziz Aziz,20,Erbil,U818,Computer Science,2.92,2025,+964-750-138-5248
+S992,Randa Rizgar Omar,18,Zakho,U322,Business Informatics,2.95,2023,+964-772-991-2126
+S993,Salih Kamaran Tahir,18,Zakho,U336,Cybersecurity,2.03,2022,+964-772-333-7586
+S994,Bestun Omar Faris,24,Sulaymaniyah,U275,Mathematics,3.32,2021,+964-770-789-1823
+S995,Randa Aziz Hama,27,Sulaymaniyah,U274,Business Informatics,2.52,2025,+964-770-195-7131
+S996,Hawkar Jamal Tahir,22,Duhok,U202,Cybersecurity,3.8,2022,+964-750-219-3221
+S997,Aryan Rizgar Mahmoud,26,Zakho,U215,Information Systems,2.72,2023,+964-772-870-0518
+S998,Narin Sherzad Salih,20,Zakho,U949,Cybersecurity,3.25,2020,+964-772-938-4545
+S999,Tara Hama Nasser,26,Zakho,U111,Information Systems,3.1,2020,+964-772-188-8100
+S1000,Helin Bakr Salih,20,Halabja,U856,Network Engineering,2.08,2021,+964-770-393-9180

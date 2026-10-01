@@ -1,0 +1,1001 @@
+event_id,event_name,type,city,venue,date,tickets,price_usd,organiser
+EV01,Erbil International Book Fair,Cultural,Erbil,Erbil International Fair Ground,2024-04-10,5000,5,KRG Ministry of Culture
+EV02,KRG Tech Summit 2024,Conference,Erbil,Divan Hotel Erbil,2024-05-15,800,80,Kurdistan Tech Association
+EV03,Sulaymaniyah Music Festival,Music,Sulaymaniyah,Azmar Resort,2024-06-20,3000,20,Sulaymaniyah Events Co.
+EV04,Nawroz Celebration — Erbil Citadel,Cultural,Erbil,Erbil Citadel Grounds,2024-03-21,8000,0,KRG Presidency
+EV05,Duhok Marathon 2024,Sports,Duhok,Duhok Stadium,2024-04-28,2000,15,Duhok Sports Directorate
+EV06,KRG Startup Weekend,Business,Erbil,Empire World Mall,2024-05-03,300,40,StartupKRG
+EV07,Halabja Remembrance Day Ceremony,Commemorative,Halabja,Halabja Memorial,2024-03-16,6000,0,KRG Government
+EV08,Zakho Food & Culture Festival,Cultural,Zakho,Zakho Park,2024-07-12,4000,10,Zakho Municipality
+EV09,KRG Data Science Bootcamp,Education,Erbil,UKH Campus,2024-06-01,150,60,Kurdistan Data Institute
+EV10,Erbil International Film Festival,Cultural,Erbil,Rotana Hotel,2024-08-15,1200,35,KRG Media Commission
+EV011,Halabja Startup Fair 2026,Music,Halabja,Sirwan Park,2025-09-13,7501,60,Sulaymaniyah Events Co.
+EV012,Sulaymaniyah Innovation Festival 2024,Technology,Sulaymaniyah,Bakhtiary Arena,2024-11-04,4276,80,KRG Government
+EV013,Zakho Book Camp 2025,Education,Zakho,University of Zakho Hall,2026-02-23,3467,15,Zakho Municipality
+EV014,Erbil Book Expo 2026,Conference,Erbil,Rotana Hotel,2024-08-30,7698,0,Kurdistan Data Institute
+EV015,Zakho Health Camp 2024,Conference,Zakho,Zakho Park,2026-12-17,1899,40,KRG Ministry of Culture
+EV016,Sulaymaniyah Health Festival 2025,Technology,Sulaymaniyah,Slemani Expo Center,2025-11-01,2771,20,Sulaymaniyah Events Co.
+EV017,Halabja Health Meetup 2026,Conference,Halabja,Sirwan Park,2025-11-05,4037,100,UKH
+EV018,Halabja Education Camp 2024,Business,Halabja,Sirwan Park,2024-11-28,10512,80,SPU
+EV019,Zakho Heritage Conference 2025,Music,Zakho,University of Zakho Hall,2025-12-09,3422,60,UoS
+EV020,Halabja Book Summit 2026,Technology,Halabja,Halabja Memorial,2024-07-02,4726,50,Sulaymaniyah Events Co.
+EV021,Halabja Business Fair 2024,Music,Halabja,Halabja Cultural Hall,2026-01-21,11196,60,UKH
+EV022,Halabja Film Week 2025,Commemorative,Halabja,Sirwan Park,2024-01-18,6317,35,KRG Ministry of Culture
+EV023,Erbil Health Camp 2026,Conference,Erbil,Rotana Hotel,2026-12-13,6633,25,Kurdistan Tech Association
+EV024,Erbil Innovation Expo 2024,Education,Erbil,Rotana Hotel,2026-01-15,6161,50,Kurdistan Tech Association
+EV025,Halabja Innovation Week 2025,Cultural,Halabja,Halabja Youth Center,2024-03-01,5924,35,UoS
+EV026,Zakho Culture Festival 2026,Technology,Zakho,Zakho Stadium,2026-06-12,390,0,Kurdistan Data Institute
+EV027,Duhok Film Forum 2024,Sports,Duhok,Duhok Stadium,2026-05-20,4124,100,KRG Media Commission
+EV028,Halabja Startup Bootcamp 2025,Sports,Halabja,Halabja Cultural Hall,2025-05-14,7012,60,UKH
+EV029,Erbil Book Meetup 2026,Cultural,Erbil,AUK Auditorium,2026-12-15,7520,10,UoS
+EV030,Erbil Science Week 2024,Government,Erbil,Empire World Mall,2024-01-14,11374,80,SPU
+EV031,Halabja Health Camp 2025,Conference,Halabja,Halabja Memorial,2026-05-08,9005,0,KRG Ministry of Culture
+EV032,Duhok Culture Festival 2026,Technology,Duhok,Duhok Cultural Center,2025-02-11,5514,40,UZakho
+EV033,Erbil Book Expo 2024,Cultural,Erbil,Rotana Hotel,2026-11-07,7472,5,Zakho Municipality
+EV034,Erbil Innovation Forum 2025,Music,Erbil,Rotana Hotel,2025-11-01,10920,25,KRG Ministry of Culture
+EV035,Erbil Startup Bootcamp 2026,Health,Erbil,Erbil International Fair Ground,2024-04-26,10789,25,UZakho
+EV036,Sulaymaniyah Book Conference 2024,Government,Sulaymaniyah,Slemani Expo Center,2025-04-05,2247,25,StartupKRG
+EV037,Duhok Business Conference 2025,Sports,Duhok,Duhok Expo,2024-12-16,11344,15,Sulaymaniyah Events Co.
+EV038,Erbil Heritage Expo 2026,Music,Erbil,Erbil International Fair Ground,2024-10-15,5523,50,AUK
+EV039,Sulaymaniyah Innovation Expo 2024,Sports,Sulaymaniyah,Goizha Convention Center,2024-05-29,4013,10,Sulaymaniyah Events Co.
+EV040,Zakho Book Forum 2025,Commemorative,Zakho,New Zakho Hall,2026-09-17,10831,20,Duhok Sports Directorate
+EV041,Zakho Innovation Meetup 2026,Sports,Zakho,Zakho Park,2024-09-04,602,100,Zakho Municipality
+EV042,Halabja Film Fair 2024,Cultural,Halabja,Halabja Youth Center,2026-02-18,7972,50,Duhok Sports Directorate
+EV043,Duhok Business Conference 2025,Sports,Duhok,AUK Campus,2025-05-11,5844,80,SPU
+EV044,Zakho Heritage Expo 2026,Health,Zakho,University of Zakho Hall,2024-03-21,1243,80,Kurdistan Tech Association
+EV045,Halabja Business Expo 2024,Cultural,Halabja,Halabja Youth Center,2024-06-20,3452,35,KRG Presidency
+EV046,Zakho Innovation Week 2025,Education,Zakho,Zakho Park,2025-10-02,1085,15,KRG Presidency
+EV047,Duhok Science Week 2026,Conference,Duhok,AUK Campus,2026-09-07,9215,20,UoS
+EV048,Duhok Business Week 2024,Technology,Duhok,AUK Campus,2025-12-20,4050,0,KRG Presidency
+EV049,Duhok Health Forum 2025,Music,Duhok,AUK Campus,2026-06-21,3971,10,UZakho
+EV050,Sulaymaniyah Book Meetup 2026,Commemorative,Sulaymaniyah,Slemani Expo Center,2026-07-11,2311,80,Kurdistan Data Institute
+EV051,Zakho Culture Summit 2024,Cultural,Zakho,New Zakho Hall,2024-01-29,366,60,UKH
+EV052,Zakho Science Festival 2025,Education,Zakho,Zakho Park,2025-01-16,9415,15,KRG Media Commission
+EV053,Duhok Book Meetup 2026,Cultural,Duhok,Dream Hall Duhok,2025-12-21,6948,40,UoS
+EV054,Halabja Education Week 2024,Government,Halabja,Sirwan Park,2025-12-27,10034,80,Kurdistan Data Institute
+EV055,Erbil Science Expo 2025,Technology,Erbil,Erbil International Fair Ground,2025-03-31,2736,60,Sulaymaniyah Events Co.
+EV056,Halabja Heritage Summit 2026,Business,Halabja,Halabja Cultural Hall,2024-08-07,3573,50,Duhok Sports Directorate
+EV057,Sulaymaniyah Culture Festival 2024,Sports,Sulaymaniyah,Slemani Expo Center,2025-04-16,711,0,AUK
+EV058,Erbil Culture Meetup 2025,Business,Erbil,Rotana Hotel,2026-02-07,123,15,KRG Ministry of Culture
+EV059,Sulaymaniyah Business Forum 2026,Government,Sulaymaniyah,Bakhtiary Arena,2025-11-23,8352,40,AUK
+EV060,Sulaymaniyah Culture Forum 2024,Cultural,Sulaymaniyah,Goizha Convention Center,2025-12-29,2609,0,KRG Ministry of Culture
+EV061,Sulaymaniyah Education Week 2025,Education,Sulaymaniyah,Bakhtiary Arena,2025-03-09,1473,50,KRG Government
+EV062,Erbil Culture Expo 2026,Commemorative,Erbil,Divan Hotel Erbil,2025-06-28,4061,50,Zakho Municipality
+EV063,Duhok Business Fair 2024,Business,Duhok,AUK Campus,2024-01-15,5843,15,StartupKRG
+EV064,Halabja Culture Fair 2025,Commemorative,Halabja,Halabja Youth Center,2025-04-28,334,0,UKH
+EV065,Halabja Health Expo 2026,Technology,Halabja,Halabja Cultural Hall,2025-10-28,2347,40,AUK
+EV066,Sulaymaniyah Startup Week 2024,Government,Sulaymaniyah,Goizha Convention Center,2025-06-13,9100,50,Kurdistan Tech Association
+EV067,Sulaymaniyah Science Conference 2025,Government,Sulaymaniyah,Slemani Expo Center,2024-01-17,3884,40,StartupKRG
+EV068,Zakho Heritage Festival 2026,Government,Zakho,New Zakho Hall,2025-05-23,1245,20,KRG Ministry of Culture
+EV069,Erbil Book Bootcamp 2024,Sports,Erbil,AUK Auditorium,2025-09-24,2750,60,StartupKRG
+EV070,Sulaymaniyah Startup Festival 2025,Sports,Sulaymaniyah,Bakhtiary Arena,2025-06-07,3170,50,UZakho
+EV071,Duhok Film Bootcamp 2026,Cultural,Duhok,Duhok Expo,2026-01-21,6843,80,KRG Presidency
+EV072,Halabja Culture Bootcamp 2024,Cultural,Halabja,Sirwan Park,2024-10-31,1230,10,SPU
+EV073,Erbil Heritage Festival 2025,Cultural,Erbil,Sami Abdulrahman Park,2025-06-30,9180,100,StartupKRG
+EV074,Erbil Education Meetup 2026,Education,Erbil,Sami Abdulrahman Park,2025-06-19,8953,40,UoS
+EV075,Erbil Culture Festival 2024,Sports,Erbil,AUK Auditorium,2024-01-31,4015,60,StartupKRG
+EV076,Erbil Film Bootcamp 2025,Health,Erbil,UKH Campus,2024-12-03,3896,80,UoS
+EV077,Duhok Heritage Forum 2026,Government,Duhok,AUK Campus,2024-05-21,6847,60,Kurdistan Data Institute
+EV078,Erbil Film Festival 2024,Commemorative,Erbil,Empire World Mall,2025-12-02,10386,35,KRG Presidency
+EV079,Zakho Culture Conference 2025,Music,Zakho,New Zakho Hall,2026-06-05,3108,35,StartupKRG
+EV080,Duhok Science Camp 2026,Commemorative,Duhok,Dream Hall Duhok,2026-07-11,2202,15,StartupKRG
+EV081,Duhok Startup Summit 2024,Conference,Duhok,Dream Hall Duhok,2025-07-28,11382,50,Duhok Sports Directorate
+EV082,Zakho Culture Fair 2025,Government,Zakho,Zakho Park,2025-12-24,9587,60,Duhok Sports Directorate
+EV083,Duhok Science Fair 2026,Commemorative,Duhok,AUK Campus,2025-10-07,3811,35,KRG Ministry of Culture
+EV084,Zakho Heritage Conference 2024,Health,Zakho,University of Zakho Hall,2024-01-06,7017,100,UKH
+EV085,Zakho Innovation Meetup 2025,Business,Zakho,Zakho Park,2024-11-17,6417,0,Sulaymaniyah Events Co.
+EV086,Halabja Innovation Forum 2026,Technology,Halabja,Halabja Youth Center,2024-05-13,1863,0,KRG Government
+EV087,Duhok Innovation Summit 2024,Health,Duhok,AUK Campus,2024-10-23,5947,80,SPU
+EV088,Halabja Book Meetup 2025,Commemorative,Halabja,Halabja Memorial,2024-05-06,8986,50,UZakho
+EV089,Erbil Film Conference 2026,Business,Erbil,UKH Campus,2026-03-04,11349,25,Duhok Sports Directorate
+EV090,Erbil Culture Conference 2024,Conference,Erbil,Erbil Citadel Grounds,2024-10-22,9906,35,KRG Ministry of Culture
+EV091,Zakho Science Expo 2025,Government,Zakho,Zakho Stadium,2024-09-02,7866,100,Sulaymaniyah Events Co.
+EV092,Halabja Culture Festival 2026,Education,Halabja,Halabja Youth Center,2026-05-31,7364,50,UoS
+EV093,Sulaymaniyah Book Week 2024,Sports,Sulaymaniyah,Goizha Convention Center,2025-10-23,7144,100,Zakho Municipality
+EV094,Zakho Book Conference 2025,Education,Zakho,University of Zakho Hall,2025-04-04,7471,50,Zakho Municipality
+EV095,Halabja Education Meetup 2026,Education,Halabja,Halabja Youth Center,2024-08-13,1419,50,KRG Media Commission
+EV096,Zakho Heritage Bootcamp 2024,Music,Zakho,Zakho Park,2026-12-21,7368,0,UZakho
+EV097,Zakho Business Fair 2025,Sports,Zakho,University of Zakho Hall,2025-06-19,7387,10,UKH
+EV098,Zakho Business Summit 2026,Technology,Zakho,University of Zakho Hall,2026-11-28,1893,15,KRG Government
+EV099,Erbil Book Expo 2024,Education,Erbil,Sami Abdulrahman Park,2025-09-23,876,40,UKH
+EV100,Zakho Innovation Summit 2025,Music,Zakho,Zakho Stadium,2024-02-29,7990,20,AUK
+EV101,Halabja Book Week 2026,Education,Halabja,Halabja Cultural Hall,2025-07-24,1559,80,KRG Presidency
+EV102,Sulaymaniyah Education Meetup 2024,Business,Sulaymaniyah,SPU Auditorium,2024-08-10,11987,10,KRG Presidency
+EV103,Erbil Science Conference 2025,Business,Erbil,Erbil Citadel Grounds,2024-06-16,5858,50,Sulaymaniyah Events Co.
+EV104,Duhok Education Festival 2026,Business,Duhok,Duhok Cultural Center,2025-03-24,5112,15,Kurdistan Data Institute
+EV105,Sulaymaniyah Innovation Forum 2024,Education,Sulaymaniyah,Bakhtiary Arena,2026-02-21,11118,60,UZakho
+EV106,Halabja Innovation Camp 2025,Music,Halabja,Halabja Memorial,2024-05-02,3266,20,UKH
+EV107,Erbil Book Conference 2026,Education,Erbil,Erbil Citadel Grounds,2025-01-19,4731,60,Duhok Sports Directorate
+EV108,Sulaymaniyah Business Camp 2024,Health,Sulaymaniyah,Slemani Expo Center,2026-06-25,1094,35,KRG Ministry of Culture
+EV109,Zakho Science Conference 2025,Technology,Zakho,University of Zakho Hall,2026-03-22,4875,10,KRG Presidency
+EV110,Zakho Science Fair 2026,Government,Zakho,Zakho Park,2025-04-25,2257,20,Sulaymaniyah Events Co.
+EV111,Sulaymaniyah Heritage Festival 2024,Sports,Sulaymaniyah,Goizha Convention Center,2026-07-25,9721,100,SPU
+EV112,Sulaymaniyah Science Fair 2025,Conference,Sulaymaniyah,Azmar Resort,2024-03-14,6082,10,Duhok Sports Directorate
+EV113,Duhok Health Forum 2026,Government,Duhok,Duhok Expo,2024-02-19,1649,10,SPU
+EV114,Zakho Startup Summit 2024,Conference,Zakho,Zakho Park,2025-08-13,364,10,Zakho Municipality
+EV115,Erbil Heritage Expo 2025,Government,Erbil,Divan Hotel Erbil,2025-12-20,2886,5,Kurdistan Tech Association
+EV116,Halabja Startup Festival 2026,Government,Halabja,Halabja Youth Center,2026-12-06,6924,100,Sulaymaniyah Events Co.
+EV117,Duhok Science Camp 2024,Commemorative,Duhok,Dream Hall Duhok,2025-05-08,7026,50,Kurdistan Data Institute
+EV118,Zakho Health Camp 2025,Business,Zakho,Zakho Park,2025-08-05,5408,35,KRG Media Commission
+EV119,Zakho Health Summit 2026,Cultural,Zakho,New Zakho Hall,2025-04-11,6426,80,AUK
+EV120,Zakho Book Summit 2024,Business,Zakho,Zakho Park,2026-12-18,7802,5,SPU
+EV121,Erbil Health Expo 2025,Sports,Erbil,Rotana Hotel,2025-08-14,3231,5,KRG Presidency
+EV122,Sulaymaniyah Science Summit 2026,Conference,Sulaymaniyah,SPU Auditorium,2026-09-28,952,35,UKH
+EV123,Duhok Heritage Fair 2024,Education,Duhok,Duhok Expo,2025-02-23,9458,100,AUK
+EV124,Halabja Heritage Meetup 2025,Cultural,Halabja,Halabja Youth Center,2024-07-02,396,15,KRG Ministry of Culture
+EV125,Sulaymaniyah Startup Meetup 2026,Sports,Sulaymaniyah,Bakhtiary Arena,2024-08-24,6729,5,Kurdistan Data Institute
+EV126,Duhok Culture Meetup 2024,Cultural,Duhok,Dream Hall Duhok,2026-03-27,7293,0,SPU
+EV127,Zakho Heritage Forum 2025,Business,Zakho,Zakho Stadium,2024-03-01,11600,25,Zakho Municipality
+EV128,Zakho Science Conference 2026,Commemorative,Zakho,Zakho Park,2026-02-23,9698,100,Sulaymaniyah Events Co.
+EV129,Zakho Innovation Camp 2024,Cultural,Zakho,New Zakho Hall,2024-11-12,9241,35,KRG Presidency
+EV130,Duhok Heritage Forum 2025,Technology,Duhok,Duhok Expo,2026-10-28,10930,25,Kurdistan Tech Association
+EV131,Zakho Heritage Conference 2026,Business,Zakho,New Zakho Hall,2024-06-02,4089,50,UZakho
+EV132,Halabja Education Bootcamp 2024,Music,Halabja,Halabja Cultural Hall,2025-05-17,10931,25,StartupKRG
+EV133,Sulaymaniyah Business Fair 2025,Commemorative,Sulaymaniyah,Slemani Expo Center,2025-05-17,8871,0,UoS
+EV134,Zakho Startup Fair 2026,Conference,Zakho,Zakho Park,2025-08-01,3521,50,UKH
+EV135,Erbil Innovation Week 2024,Cultural,Erbil,Empire World Mall,2024-08-08,143,25,KRG Media Commission
+EV136,Duhok Startup Week 2025,Cultural,Duhok,Duhok Stadium,2025-06-06,177,80,Duhok Sports Directorate
+EV137,Halabja Film Fair 2026,Commemorative,Halabja,Halabja Memorial,2026-06-07,9867,0,Zakho Municipality
+EV138,Sulaymaniyah Film Summit 2024,Sports,Sulaymaniyah,Azmar Resort,2024-04-26,9933,10,KRG Ministry of Culture
+EV139,Erbil Science Festival 2025,Government,Erbil,UKH Campus,2026-12-12,9958,10,Kurdistan Tech Association
+EV140,Zakho Education Forum 2026,Health,Zakho,New Zakho Hall,2026-08-05,10292,15,KRG Media Commission
+EV141,Halabja Health Conference 2024,Sports,Halabja,Halabja Youth Center,2024-01-23,10402,35,AUK
+EV142,Erbil Book Week 2025,Cultural,Erbil,Erbil International Fair Ground,2025-03-28,3933,50,UKH
+EV143,Sulaymaniyah Business Bootcamp 2026,Music,Sulaymaniyah,SPU Auditorium,2024-12-05,3093,15,StartupKRG
+EV144,Sulaymaniyah Education Camp 2024,Technology,Sulaymaniyah,SPU Auditorium,2026-10-14,2326,40,UKH
+EV145,Erbil Book Summit 2025,Education,Erbil,Rotana Hotel,2024-02-27,10760,5,Kurdistan Data Institute
+EV146,Halabja Culture Forum 2026,Technology,Halabja,Halabja Youth Center,2026-04-02,5997,40,Zakho Municipality
+EV147,Zakho Startup Bootcamp 2024,Technology,Zakho,University of Zakho Hall,2024-09-08,3208,0,Kurdistan Data Institute
+EV148,Duhok Business Meetup 2025,Health,Duhok,Dream Hall Duhok,2024-09-25,124,0,KRG Government
+EV149,Zakho Culture Meetup 2026,Sports,Zakho,New Zakho Hall,2026-05-25,8425,60,Kurdistan Data Institute
+EV150,Zakho Startup Conference 2024,Education,Zakho,Zakho Stadium,2026-03-31,7724,80,KRG Ministry of Culture
+EV151,Zakho Book Fair 2025,Conference,Zakho,New Zakho Hall,2024-01-17,139,15,Kurdistan Data Institute
+EV152,Erbil Innovation Conference 2026,Business,Erbil,Empire World Mall,2024-01-06,1546,25,UoS
+EV153,Sulaymaniyah Education Forum 2024,Conference,Sulaymaniyah,Azmar Resort,2026-01-08,11464,50,KRG Presidency
+EV154,Duhok Heritage Bootcamp 2025,Sports,Duhok,Duhok Cultural Center,2025-08-23,3113,25,StartupKRG
+EV155,Zakho Heritage Festival 2026,Conference,Zakho,University of Zakho Hall,2026-12-02,5041,15,UZakho
+EV156,Zakho Innovation Festival 2024,Commemorative,Zakho,Zakho Stadium,2025-01-17,5981,40,AUK
+EV157,Halabja Science Week 2025,Health,Halabja,Sirwan Park,2025-04-18,10662,25,Sulaymaniyah Events Co.
+EV158,Duhok Book Expo 2026,Commemorative,Duhok,Dream Hall Duhok,2024-04-15,4364,100,Sulaymaniyah Events Co.
+EV159,Duhok Book Forum 2024,Government,Duhok,Duhok Cultural Center,2024-01-15,1229,60,UZakho
+EV160,Sulaymaniyah Education Bootcamp 2025,Government,Sulaymaniyah,Bakhtiary Arena,2026-11-09,1405,100,UKH
+EV161,Halabja Business Summit 2026,Business,Halabja,Sirwan Park,2025-09-21,6031,40,UKH
+EV162,Duhok Heritage Summit 2024,Sports,Duhok,Duhok Cultural Center,2025-12-27,10427,5,Sulaymaniyah Events Co.
+EV163,Sulaymaniyah Health Meetup 2025,Health,Sulaymaniyah,UoS Hall,2024-10-18,9672,100,KRG Presidency
+EV164,Halabja Science Forum 2026,Music,Halabja,Halabja Youth Center,2024-11-11,8924,35,Kurdistan Data Institute
+EV165,Duhok Science Forum 2024,Music,Duhok,Duhok Stadium,2026-07-25,3770,25,KRG Media Commission
+EV166,Erbil Business Summit 2025,Conference,Erbil,Rotana Hotel,2026-08-03,473,80,SPU
+EV167,Duhok Science Conference 2026,Business,Duhok,Duhok Expo,2024-10-20,2533,20,SPU
+EV168,Sulaymaniyah Culture Camp 2024,Cultural,Sulaymaniyah,Bakhtiary Arena,2025-10-26,8362,50,Kurdistan Data Institute
+EV169,Duhok Startup Expo 2025,Education,Duhok,Duhok Expo,2025-03-26,10021,40,Duhok Sports Directorate
+EV170,Sulaymaniyah Innovation Bootcamp 2026,Commemorative,Sulaymaniyah,UoS Hall,2025-12-27,828,10,AUK
+EV171,Zakho Education Meetup 2024,Music,Zakho,Zakho Park,2025-06-28,11185,15,UoS
+EV172,Duhok Book Camp 2025,Sports,Duhok,Duhok Expo,2025-10-14,6772,60,UoS
+EV173,Erbil Culture Forum 2026,Technology,Erbil,AUK Auditorium,2024-05-06,4151,35,UKH
+EV174,Zakho Film Bootcamp 2024,Government,Zakho,Zakho Stadium,2026-08-29,3274,35,KRG Presidency
+EV175,Erbil Education Summit 2025,Conference,Erbil,AUK Auditorium,2026-09-16,3391,40,Duhok Sports Directorate
+EV176,Halabja Science Bootcamp 2026,Conference,Halabja,Sirwan Park,2025-07-17,9050,40,Kurdistan Data Institute
+EV177,Halabja Education Summit 2024,Cultural,Halabja,Halabja Memorial,2025-08-04,4841,0,KRG Media Commission
+EV178,Erbil Culture Camp 2025,Cultural,Erbil,Rotana Hotel,2026-11-22,7586,50,Sulaymaniyah Events Co.
+EV179,Duhok Business Festival 2026,Technology,Duhok,AUK Campus,2024-02-15,3036,10,UoS
+EV180,Erbil Startup Expo 2024,Sports,Erbil,Rotana Hotel,2025-09-09,790,25,AUK
+EV181,Sulaymaniyah Heritage Forum 2025,Sports,Sulaymaniyah,Azmar Resort,2026-05-05,4652,80,Zakho Municipality
+EV182,Halabja Innovation Week 2026,Education,Halabja,Halabja Memorial,2025-04-13,3343,40,Kurdistan Tech Association
+EV183,Halabja Health Camp 2024,Health,Halabja,Sirwan Park,2024-05-25,446,10,UKH
+EV184,Erbil Health Camp 2025,Business,Erbil,UKH Campus,2024-08-03,9338,80,KRG Presidency
+EV185,Sulaymaniyah Innovation Week 2026,Music,Sulaymaniyah,Azmar Resort,2025-12-23,2895,80,StartupKRG
+EV186,Erbil Book Festival 2024,Conference,Erbil,AUK Auditorium,2026-09-14,9962,50,UKH
+EV187,Zakho Education Forum 2025,Government,Zakho,New Zakho Hall,2026-08-12,10582,100,KRG Ministry of Culture
+EV188,Erbil Culture Summit 2026,Commemorative,Erbil,Rotana Hotel,2024-03-31,1344,40,UoS
+EV189,Zakho Book Festival 2024,Education,Zakho,University of Zakho Hall,2025-07-31,9052,80,KRG Media Commission
+EV190,Erbil Culture Expo 2025,Government,Erbil,Empire World Mall,2026-04-17,380,100,Duhok Sports Directorate
+EV191,Duhok Innovation Fair 2026,Technology,Duhok,Duhok Stadium,2026-05-09,7197,0,UKH
+EV192,Duhok Book Week 2024,Technology,Duhok,Duhok Cultural Center,2024-09-19,7842,15,KRG Media Commission
+EV193,Halabja Science Festival 2025,Sports,Halabja,Halabja Cultural Hall,2025-10-28,9809,50,UoS
+EV194,Sulaymaniyah Science Bootcamp 2026,Music,Sulaymaniyah,SPU Auditorium,2026-07-08,239,5,KRG Government
+EV195,Sulaymaniyah Heritage Conference 2024,Business,Sulaymaniyah,UoS Hall,2024-05-24,6584,60,KRG Government
+EV196,Erbil Startup Forum 2025,Sports,Erbil,Empire World Mall,2025-06-19,584,50,AUK
+EV197,Duhok Startup Bootcamp 2026,Government,Duhok,Duhok Cultural Center,2025-04-05,2096,25,UKH
+EV198,Erbil Startup Conference 2024,Music,Erbil,Empire World Mall,2025-05-14,10023,100,UZakho
+EV199,Erbil Science Week 2025,Government,Erbil,Rotana Hotel,2025-07-22,5261,60,Duhok Sports Directorate
+EV200,Halabja Health Summit 2026,Cultural,Halabja,Halabja Memorial,2025-10-09,2248,100,SPU
+EV201,Zakho Education Bootcamp 2024,Government,Zakho,University of Zakho Hall,2024-05-01,7459,10,StartupKRG
+EV202,Erbil Business Expo 2025,Government,Erbil,Empire World Mall,2024-02-14,2531,0,SPU
+EV203,Zakho Culture Summit 2026,Health,Zakho,Zakho Park,2025-10-19,3617,50,Duhok Sports Directorate
+EV204,Duhok Film Festival 2024,Music,Duhok,AUK Campus,2025-05-27,9487,40,Kurdistan Data Institute
+EV205,Duhok Education Summit 2025,Technology,Duhok,AUK Campus,2024-10-23,6280,35,Kurdistan Tech Association
+EV206,Erbil Film Summit 2026,Sports,Erbil,Divan Hotel Erbil,2024-08-31,8692,35,Sulaymaniyah Events Co.
+EV207,Erbil Innovation Summit 2024,Education,Erbil,Rotana Hotel,2025-10-15,1178,15,KRG Ministry of Culture
+EV208,Halabja Book Week 2025,Government,Halabja,Halabja Cultural Hall,2025-08-31,3050,80,KRG Government
+EV209,Duhok Startup Fair 2026,Government,Duhok,Duhok Stadium,2026-08-30,434,15,Duhok Sports Directorate
+EV210,Duhok Culture Festival 2024,Commemorative,Duhok,Duhok Cultural Center,2026-01-05,5515,10,Zakho Municipality
+EV211,Duhok Science Week 2025,Music,Duhok,Duhok Expo,2024-07-29,9671,25,SPU
+EV212,Zakho Book Conference 2026,Education,Zakho,Zakho Park,2024-02-01,4210,25,Duhok Sports Directorate
+EV213,Halabja Health Camp 2024,Cultural,Halabja,Sirwan Park,2026-10-14,8719,100,UoS
+EV214,Sulaymaniyah Culture Conference 2025,Government,Sulaymaniyah,Azmar Resort,2026-10-24,8668,35,SPU
+EV215,Zakho Science Festival 2026,Commemorative,Zakho,University of Zakho Hall,2024-04-27,318,40,Duhok Sports Directorate
+EV216,Halabja Book Forum 2024,Health,Halabja,Halabja Memorial,2026-05-01,1597,50,KRG Ministry of Culture
+EV217,Sulaymaniyah Business Festival 2025,Cultural,Sulaymaniyah,UoS Hall,2026-01-27,7177,40,Zakho Municipality
+EV218,Duhok Science Week 2026,Music,Duhok,AUK Campus,2026-01-22,10248,10,AUK
+EV219,Duhok Heritage Camp 2024,Business,Duhok,Duhok Stadium,2026-07-11,7218,25,Duhok Sports Directorate
+EV220,Zakho Film Meetup 2025,Health,Zakho,Zakho Park,2025-10-10,6185,60,KRG Presidency
+EV221,Halabja Book Fair 2026,Health,Halabja,Halabja Youth Center,2026-01-12,11253,80,Kurdistan Tech Association
+EV222,Duhok Education Bootcamp 2024,Music,Duhok,Duhok Stadium,2026-10-15,4945,10,Sulaymaniyah Events Co.
+EV223,Erbil Innovation Expo 2025,Music,Erbil,AUK Auditorium,2025-03-13,6875,0,KRG Ministry of Culture
+EV224,Erbil Education Summit 2026,Business,Erbil,Empire World Mall,2024-12-28,4101,10,SPU
+EV225,Halabja Heritage Summit 2024,Conference,Halabja,Halabja Memorial,2025-06-24,1747,40,KRG Media Commission
+EV226,Sulaymaniyah Education Expo 2025,Government,Sulaymaniyah,Bakhtiary Arena,2025-08-20,3249,0,UZakho
+EV227,Zakho Film Conference 2026,Conference,Zakho,University of Zakho Hall,2026-06-01,290,60,KRG Ministry of Culture
+EV228,Sulaymaniyah Science Conference 2024,Education,Sulaymaniyah,Bakhtiary Arena,2024-04-14,10817,15,KRG Presidency
+EV229,Sulaymaniyah Business Meetup 2025,Conference,Sulaymaniyah,Slemani Expo Center,2026-02-19,683,25,UKH
+EV230,Zakho Innovation Fair 2026,Music,Zakho,Zakho Stadium,2024-06-30,1264,25,UoS
+EV231,Zakho Health Summit 2024,Technology,Zakho,Zakho Stadium,2026-10-26,7103,25,Kurdistan Data Institute
+EV232,Sulaymaniyah Business Forum 2025,Commemorative,Sulaymaniyah,Azmar Resort,2026-02-10,1371,50,KRG Ministry of Culture
+EV233,Sulaymaniyah Business Bootcamp 2026,Cultural,Sulaymaniyah,Goizha Convention Center,2025-07-16,2682,35,KRG Presidency
+EV234,Duhok Education Conference 2024,Cultural,Duhok,Dream Hall Duhok,2026-01-02,6202,5,StartupKRG
+EV235,Zakho Film Expo 2025,Government,Zakho,Zakho Stadium,2025-01-18,10078,60,Kurdistan Tech Association
+EV236,Halabja Culture Bootcamp 2026,Conference,Halabja,Halabja Memorial,2024-05-19,9333,5,Zakho Municipality
+EV237,Zakho Science Meetup 2024,Cultural,Zakho,Zakho Stadium,2026-09-25,7686,80,SPU
+EV238,Erbil Book Camp 2025,Technology,Erbil,Sami Abdulrahman Park,2026-10-13,8599,25,AUK
+EV239,Halabja Health Week 2026,Technology,Halabja,Halabja Memorial,2024-11-12,1414,100,Zakho Municipality
+EV240,Zakho Heritage Conference 2024,Business,Zakho,Zakho Park,2025-12-08,6286,25,Zakho Municipality
+EV241,Duhok Startup Camp 2025,Sports,Duhok,Duhok Expo,2026-12-17,3109,20,Kurdistan Data Institute
+EV242,Erbil Culture Bootcamp 2026,Sports,Erbil,Divan Hotel Erbil,2026-11-01,331,5,Sulaymaniyah Events Co.
+EV243,Halabja Education Bootcamp 2024,Education,Halabja,Sirwan Park,2025-07-16,5291,40,UZakho
+EV244,Sulaymaniyah Culture Week 2025,Education,Sulaymaniyah,UoS Hall,2024-03-12,7426,5,UKH
+EV245,Duhok Science Expo 2026,Government,Duhok,Duhok Stadium,2024-03-26,4436,35,UZakho
+EV246,Duhok Startup Conference 2024,Music,Duhok,Duhok Stadium,2025-06-21,5929,35,Duhok Sports Directorate
+EV247,Duhok Business Festival 2025,Business,Duhok,AUK Campus,2024-04-25,3996,50,UoS
+EV248,Sulaymaniyah Education Festival 2026,Commemorative,Sulaymaniyah,Slemani Expo Center,2025-06-06,7487,10,KRG Media Commission
+EV249,Halabja Health Expo 2024,Music,Halabja,Halabja Cultural Hall,2026-07-09,633,80,UZakho
+EV250,Erbil Education Festival 2025,Government,Erbil,Divan Hotel Erbil,2025-03-23,11287,60,UoS
+EV251,Erbil Culture Summit 2026,Music,Erbil,AUK Auditorium,2026-06-06,1719,25,Kurdistan Data Institute
+EV252,Duhok Education Festival 2024,Music,Duhok,Duhok Stadium,2026-08-28,11453,20,UZakho
+EV253,Sulaymaniyah Business Festival 2025,Music,Sulaymaniyah,Bakhtiary Arena,2025-11-03,8411,15,Kurdistan Tech Association
+EV254,Sulaymaniyah Book Fair 2026,Music,Sulaymaniyah,UoS Hall,2026-10-02,530,15,Duhok Sports Directorate
+EV255,Erbil Startup Festival 2024,Government,Erbil,Divan Hotel Erbil,2025-07-02,8862,25,Duhok Sports Directorate
+EV256,Sulaymaniyah Culture Fair 2025,Commemorative,Sulaymaniyah,SPU Auditorium,2025-06-30,8628,100,Kurdistan Tech Association
+EV257,Halabja Business Festival 2026,Technology,Halabja,Halabja Youth Center,2025-10-05,2309,60,Zakho Municipality
+EV258,Zakho Culture Bootcamp 2024,Business,Zakho,New Zakho Hall,2026-03-10,9110,25,Kurdistan Tech Association
+EV259,Halabja Health Festival 2025,Music,Halabja,Halabja Youth Center,2025-12-22,11342,50,UoS
+EV260,Zakho Culture Fair 2026,Government,Zakho,New Zakho Hall,2024-11-25,10872,60,KRG Ministry of Culture
+EV261,Erbil Book Festival 2024,Sports,Erbil,Sami Abdulrahman Park,2024-09-05,779,10,Kurdistan Data Institute
+EV262,Erbil Science Festival 2025,Conference,Erbil,AUK Auditorium,2024-03-09,5015,0,Duhok Sports Directorate
+EV263,Zakho Startup Expo 2026,Health,Zakho,University of Zakho Hall,2025-09-04,8462,0,StartupKRG
+EV264,Sulaymaniyah Startup Forum 2024,Conference,Sulaymaniyah,Slemani Expo Center,2024-04-05,8285,15,KRG Media Commission
+EV265,Zakho Science Week 2025,Cultural,Zakho,Zakho Stadium,2024-09-12,7029,10,KRG Media Commission
+EV266,Duhok Science Forum 2026,Health,Duhok,Dream Hall Duhok,2026-09-07,1932,60,KRG Government
+EV267,Zakho Startup Conference 2024,Commemorative,Zakho,Zakho Park,2026-04-04,6403,0,KRG Government
+EV268,Duhok Education Bootcamp 2025,Health,Duhok,Duhok Expo,2025-08-10,10447,20,Duhok Sports Directorate
+EV269,Sulaymaniyah Education Forum 2026,Business,Sulaymaniyah,UoS Hall,2026-11-04,8474,35,Duhok Sports Directorate
+EV270,Duhok Film Week 2024,Sports,Duhok,Duhok Expo,2025-08-22,5280,5,Sulaymaniyah Events Co.
+EV271,Zakho Culture Fair 2025,Education,Zakho,University of Zakho Hall,2026-05-13,7384,15,Kurdistan Tech Association
+EV272,Duhok Culture Camp 2026,Education,Duhok,Duhok Cultural Center,2024-07-07,11490,40,UoS
+EV273,Halabja Culture Festival 2024,Sports,Halabja,Halabja Memorial,2024-11-05,6323,50,Kurdistan Tech Association
+EV274,Halabja Film Camp 2025,Commemorative,Halabja,Halabja Memorial,2026-03-11,3615,20,StartupKRG
+EV275,Halabja Health Meetup 2026,Education,Halabja,Halabja Youth Center,2026-09-19,1138,0,Duhok Sports Directorate
+EV276,Duhok Film Bootcamp 2024,Commemorative,Duhok,AUK Campus,2026-06-08,11548,15,Duhok Sports Directorate
+EV277,Sulaymaniyah Culture Expo 2025,Business,Sulaymaniyah,UoS Hall,2025-01-13,8791,50,AUK
+EV278,Zakho Innovation Camp 2026,Cultural,Zakho,Zakho Stadium,2025-12-16,1444,15,KRG Government
+EV279,Sulaymaniyah Culture Camp 2024,Technology,Sulaymaniyah,Bakhtiary Arena,2026-04-05,2023,50,Sulaymaniyah Events Co.
+EV280,Erbil Heritage Forum 2025,Conference,Erbil,UKH Campus,2026-10-24,7755,20,Sulaymaniyah Events Co.
+EV281,Zakho Education Conference 2026,Conference,Zakho,University of Zakho Hall,2024-08-27,2891,5,SPU
+EV282,Zakho Startup Camp 2024,Music,Zakho,University of Zakho Hall,2025-01-27,4050,100,Sulaymaniyah Events Co.
+EV283,Erbil Health Festival 2025,Cultural,Erbil,Divan Hotel Erbil,2025-04-02,7222,50,KRG Media Commission
+EV284,Duhok Book Fair 2026,Music,Duhok,Duhok Cultural Center,2024-01-21,2865,100,KRG Presidency
+EV285,Sulaymaniyah Culture Expo 2024,Education,Sulaymaniyah,UoS Hall,2026-11-23,10421,20,AUK
+EV286,Duhok Health Expo 2025,Government,Duhok,Duhok Expo,2025-03-15,11011,80,Kurdistan Data Institute
+EV287,Duhok Innovation Fair 2026,Commemorative,Duhok,Duhok Cultural Center,2024-05-24,6540,100,KRG Media Commission
+EV288,Halabja Education Camp 2024,Conference,Halabja,Sirwan Park,2026-06-11,1769,15,SPU
+EV289,Halabja Innovation Conference 2025,Commemorative,Halabja,Halabja Youth Center,2025-10-24,2007,80,KRG Ministry of Culture
+EV290,Duhok Heritage Summit 2026,Music,Duhok,Duhok Cultural Center,2025-06-16,6545,25,Kurdistan Data Institute
+EV291,Halabja Business Expo 2024,Government,Halabja,Halabja Cultural Hall,2025-11-24,7912,5,Zakho Municipality
+EV292,Zakho Education Expo 2025,Health,Zakho,New Zakho Hall,2025-07-07,460,50,UKH
+EV293,Duhok Startup Summit 2026,Technology,Duhok,Dream Hall Duhok,2026-07-16,2625,50,KRG Ministry of Culture
+EV294,Halabja Startup Fair 2024,Music,Halabja,Halabja Memorial,2025-08-31,107,0,UoS
+EV295,Duhok Heritage Forum 2025,Commemorative,Duhok,Duhok Expo,2026-10-15,9955,50,Kurdistan Tech Association
+EV296,Zakho Health Festival 2026,Sports,Zakho,New Zakho Hall,2026-07-10,5728,10,Duhok Sports Directorate
+EV297,Duhok Science Week 2024,Music,Duhok,Duhok Cultural Center,2024-12-03,10727,0,UKH
+EV298,Erbil Film Forum 2025,Conference,Erbil,Erbil Citadel Grounds,2025-10-29,4228,80,Kurdistan Data Institute
+EV299,Duhok Science Festival 2026,Music,Duhok,AUK Campus,2024-08-18,11466,25,KRG Media Commission
+EV300,Duhok Business Expo 2024,Commemorative,Duhok,AUK Campus,2024-08-07,7849,60,AUK
+EV301,Halabja Culture Fair 2025,Business,Halabja,Halabja Youth Center,2024-04-02,1759,40,Zakho Municipality
+EV302,Erbil Book Forum 2026,Commemorative,Erbil,Rotana Hotel,2025-04-13,3321,40,KRG Ministry of Culture
+EV303,Erbil Business Week 2024,Government,Erbil,Empire World Mall,2026-12-06,11426,35,UKH
+EV304,Duhok Heritage Expo 2025,Conference,Duhok,Dream Hall Duhok,2025-05-28,7140,10,KRG Media Commission
+EV305,Zakho Innovation Camp 2026,Government,Zakho,New Zakho Hall,2025-11-28,3051,5,KRG Media Commission
+EV306,Erbil Culture Week 2024,Government,Erbil,AUK Auditorium,2024-09-11,3159,25,Kurdistan Data Institute
+EV307,Duhok Heritage Fair 2025,Cultural,Duhok,Dream Hall Duhok,2024-04-29,8411,80,KRG Presidency
+EV308,Erbil Business Camp 2026,Technology,Erbil,UKH Campus,2026-05-10,884,0,UKH
+EV309,Zakho Startup Conference 2024,Government,Zakho,Zakho Park,2026-08-23,7260,50,StartupKRG
+EV310,Zakho Heritage Meetup 2025,Business,Zakho,Zakho Stadium,2025-10-03,5667,60,KRG Presidency
+EV311,Sulaymaniyah Film Bootcamp 2026,Business,Sulaymaniyah,Goizha Convention Center,2025-10-15,5151,35,Kurdistan Data Institute
+EV312,Erbil Culture Summit 2024,Cultural,Erbil,Erbil International Fair Ground,2026-06-26,7012,20,KRG Government
+EV313,Duhok Science Fair 2025,Sports,Duhok,Duhok Cultural Center,2025-11-23,9365,35,Sulaymaniyah Events Co.
+EV314,Zakho Culture Expo 2026,Business,Zakho,Zakho Stadium,2025-09-07,10897,5,UZakho
+EV315,Sulaymaniyah Business Conference 2024,Health,Sulaymaniyah,Slemani Expo Center,2026-08-21,483,15,Zakho Municipality
+EV316,Duhok Health Meetup 2025,Music,Duhok,Dream Hall Duhok,2026-11-15,6234,40,StartupKRG
+EV317,Sulaymaniyah Science Week 2026,Government,Sulaymaniyah,SPU Auditorium,2024-07-31,3193,60,Duhok Sports Directorate
+EV318,Zakho Book Expo 2024,Health,Zakho,Zakho Stadium,2024-09-18,8035,35,KRG Government
+EV319,Erbil Business Meetup 2025,Commemorative,Erbil,UKH Campus,2026-12-08,1805,5,Zakho Municipality
+EV320,Sulaymaniyah Education Festival 2026,Music,Sulaymaniyah,Slemani Expo Center,2025-10-27,7979,20,Kurdistan Data Institute
+EV321,Erbil Business Summit 2024,Education,Erbil,UKH Campus,2026-06-05,10485,0,AUK
+EV322,Zakho Book Bootcamp 2025,Sports,Zakho,Zakho Park,2026-12-09,192,50,StartupKRG
+EV323,Duhok Culture Forum 2026,Business,Duhok,Dream Hall Duhok,2024-01-05,10101,80,KRG Media Commission
+EV324,Sulaymaniyah Health Forum 2024,Government,Sulaymaniyah,Azmar Resort,2026-09-21,9073,60,UKH
+EV325,Duhok Business Camp 2025,Government,Duhok,Duhok Stadium,2026-04-01,1705,40,Zakho Municipality
+EV326,Sulaymaniyah Film Summit 2026,Sports,Sulaymaniyah,Azmar Resort,2026-07-22,5857,5,Kurdistan Tech Association
+EV327,Sulaymaniyah Film Week 2024,Business,Sulaymaniyah,UoS Hall,2026-07-12,9784,35,UKH
+EV328,Halabja Innovation Expo 2025,Conference,Halabja,Halabja Cultural Hall,2024-05-04,2350,10,Duhok Sports Directorate
+EV329,Erbil Startup Expo 2026,Conference,Erbil,Erbil Citadel Grounds,2024-06-18,5329,60,UKH
+EV330,Duhok Business Festival 2024,Business,Duhok,AUK Campus,2025-06-16,10491,35,Zakho Municipality
+EV331,Duhok Innovation Meetup 2025,Cultural,Duhok,Duhok Cultural Center,2024-01-14,5027,15,Zakho Municipality
+EV332,Halabja Heritage Festival 2026,Conference,Halabja,Halabja Memorial,2026-02-05,8763,40,UKH
+EV333,Sulaymaniyah Innovation Week 2024,Commemorative,Sulaymaniyah,SPU Auditorium,2025-04-20,4431,0,StartupKRG
+EV334,Erbil Innovation Forum 2025,Sports,Erbil,Rotana Hotel,2026-08-05,3149,15,KRG Media Commission
+EV335,Duhok Culture Fair 2026,Sports,Duhok,Duhok Expo,2024-08-21,8418,10,KRG Presidency
+EV336,Sulaymaniyah Health Fair 2024,Conference,Sulaymaniyah,Azmar Resort,2026-05-07,2344,60,UZakho
+EV337,Halabja Film Festival 2025,Commemorative,Halabja,Halabja Youth Center,2025-11-13,5142,50,Kurdistan Tech Association
+EV338,Duhok Culture Expo 2026,Business,Duhok,AUK Campus,2025-12-05,2648,80,Kurdistan Tech Association
+EV339,Duhok Innovation Summit 2024,Commemorative,Duhok,AUK Campus,2024-12-10,5030,40,Duhok Sports Directorate
+EV340,Zakho Startup Meetup 2025,Health,Zakho,Zakho Stadium,2026-10-08,1502,50,StartupKRG
+EV341,Duhok Business Fair 2026,Conference,Duhok,Duhok Stadium,2025-03-03,11613,25,UKH
+EV342,Halabja Book Fair 2024,Technology,Halabja,Halabja Memorial,2026-10-09,8393,80,UZakho
+EV343,Duhok Startup Bootcamp 2025,Conference,Duhok,Dream Hall Duhok,2026-08-23,10212,80,SPU
+EV344,Sulaymaniyah Business Week 2026,Government,Sulaymaniyah,Bakhtiary Arena,2025-03-26,9456,20,UKH
+EV345,Halabja Education Fair 2024,Government,Halabja,Halabja Cultural Hall,2024-03-02,2249,0,KRG Presidency
+EV346,Duhok Science Forum 2025,Music,Duhok,Duhok Cultural Center,2024-07-16,2043,20,UZakho
+EV347,Zakho Science Expo 2026,Health,Zakho,Zakho Stadium,2025-05-14,1302,15,Kurdistan Data Institute
+EV348,Zakho Heritage Meetup 2024,Sports,Zakho,Zakho Stadium,2025-03-16,5400,100,AUK
+EV349,Sulaymaniyah Book Expo 2025,Business,Sulaymaniyah,Goizha Convention Center,2024-08-16,827,20,Kurdistan Tech Association
+EV350,Zakho Culture Bootcamp 2026,Commemorative,Zakho,New Zakho Hall,2024-08-03,205,15,AUK
+EV351,Erbil Health Conference 2024,Conference,Erbil,Erbil International Fair Ground,2025-07-01,516,15,KRG Media Commission
+EV352,Zakho Culture Festival 2025,Commemorative,Zakho,Zakho Park,2026-12-17,9206,0,KRG Government
+EV353,Halabja Heritage Expo 2026,Cultural,Halabja,Halabja Memorial,2024-08-08,5081,80,Kurdistan Data Institute
+EV354,Sulaymaniyah Book Meetup 2024,Conference,Sulaymaniyah,Azmar Resort,2024-12-13,101,35,Sulaymaniyah Events Co.
+EV355,Duhok Science Bootcamp 2025,Business,Duhok,Duhok Cultural Center,2024-02-12,1233,80,UZakho
+EV356,Zakho Heritage Festival 2026,Commemorative,Zakho,New Zakho Hall,2024-02-07,10016,60,StartupKRG
+EV357,Zakho Health Bootcamp 2024,Education,Zakho,Zakho Park,2024-05-31,10707,15,Duhok Sports Directorate
+EV358,Sulaymaniyah Education Expo 2025,Conference,Sulaymaniyah,Slemani Expo Center,2025-03-31,1636,20,KRG Media Commission
+EV359,Sulaymaniyah Culture Bootcamp 2026,Government,Sulaymaniyah,SPU Auditorium,2024-11-12,2660,15,StartupKRG
+EV360,Halabja Business Conference 2024,Commemorative,Halabja,Halabja Youth Center,2024-12-08,7131,10,UKH
+EV361,Duhok Science Meetup 2025,Technology,Duhok,AUK Campus,2024-07-12,6991,25,UZakho
+EV362,Sulaymaniyah Startup Expo 2026,Technology,Sulaymaniyah,Azmar Resort,2026-08-31,11593,10,AUK
+EV363,Duhok Business Week 2024,Cultural,Duhok,Duhok Cultural Center,2026-12-11,761,0,UZakho
+EV364,Sulaymaniyah Heritage Forum 2025,Education,Sulaymaniyah,Goizha Convention Center,2025-07-05,10401,80,KRG Government
+EV365,Zakho Education Festival 2026,Commemorative,Zakho,University of Zakho Hall,2024-10-25,8032,100,Zakho Municipality
+EV366,Duhok Culture Meetup 2024,Sports,Duhok,Duhok Stadium,2024-09-26,3428,80,KRG Government
+EV367,Duhok Health Conference 2025,Education,Duhok,Duhok Cultural Center,2024-08-10,4366,60,KRG Presidency
+EV368,Erbil Science Camp 2026,Cultural,Erbil,Erbil International Fair Ground,2025-03-23,9279,10,Duhok Sports Directorate
+EV369,Erbil Innovation Meetup 2024,Sports,Erbil,Erbil Citadel Grounds,2024-10-09,11130,50,KRG Presidency
+EV370,Duhok Health Conference 2025,Sports,Duhok,Duhok Cultural Center,2026-01-26,6386,35,KRG Presidency
+EV371,Erbil Innovation Week 2026,Government,Erbil,Sami Abdulrahman Park,2025-10-02,9101,0,UZakho
+EV372,Duhok Heritage Forum 2024,Government,Duhok,Dream Hall Duhok,2026-04-12,5038,20,KRG Government
+EV373,Duhok Education Fair 2025,Conference,Duhok,Duhok Stadium,2026-09-21,10963,60,Sulaymaniyah Events Co.
+EV374,Sulaymaniyah Innovation Summit 2026,Cultural,Sulaymaniyah,Bakhtiary Arena,2026-10-27,3420,20,KRG Media Commission
+EV375,Sulaymaniyah Heritage Conference 2024,Health,Sulaymaniyah,UoS Hall,2025-11-02,776,40,Duhok Sports Directorate
+EV376,Sulaymaniyah Film Summit 2025,Government,Sulaymaniyah,Bakhtiary Arena,2024-02-11,3315,100,Zakho Municipality
+EV377,Halabja Heritage Forum 2026,Business,Halabja,Halabja Memorial,2024-01-21,1161,0,UZakho
+EV378,Duhok Film Meetup 2024,Commemorative,Duhok,Dream Hall Duhok,2026-08-28,9884,0,KRG Presidency
+EV379,Zakho Book Week 2025,Business,Zakho,New Zakho Hall,2025-09-09,2301,80,Sulaymaniyah Events Co.
+EV380,Erbil Book Week 2026,Commemorative,Erbil,Erbil Citadel Grounds,2026-10-21,7185,60,Zakho Municipality
+EV381,Halabja Book Expo 2024,Technology,Halabja,Sirwan Park,2026-10-21,5338,60,KRG Government
+EV382,Sulaymaniyah Startup Summit 2025,Education,Sulaymaniyah,Slemani Expo Center,2025-02-12,11974,5,StartupKRG
+EV383,Sulaymaniyah Innovation Camp 2026,Commemorative,Sulaymaniyah,SPU Auditorium,2026-07-26,9825,20,Kurdistan Data Institute
+EV384,Erbil Startup Camp 2024,Education,Erbil,Divan Hotel Erbil,2024-02-18,684,5,UKH
+EV385,Duhok Heritage Fair 2025,Business,Duhok,Duhok Cultural Center,2024-05-10,3042,20,StartupKRG
+EV386,Zakho Startup Meetup 2026,Sports,Zakho,New Zakho Hall,2026-11-12,721,100,KRG Ministry of Culture
+EV387,Sulaymaniyah Business Summit 2024,Cultural,Sulaymaniyah,Bakhtiary Arena,2026-10-09,10641,0,Zakho Municipality
+EV388,Halabja Health Festival 2025,Government,Halabja,Halabja Youth Center,2026-12-14,11963,15,SPU
+EV389,Sulaymaniyah Education Forum 2026,Music,Sulaymaniyah,Bakhtiary Arena,2024-08-01,6134,100,UoS
+EV390,Duhok Business Summit 2024,Technology,Duhok,AUK Campus,2024-10-24,3118,15,UKH
+EV391,Sulaymaniyah Innovation Festival 2025,Commemorative,Sulaymaniyah,Goizha Convention Center,2026-01-05,4788,10,KRG Government
+EV392,Halabja Film Expo 2026,Health,Halabja,Halabja Cultural Hall,2024-05-03,10159,60,UoS
+EV393,Erbil Heritage Summit 2024,Music,Erbil,Empire World Mall,2025-09-28,9149,15,AUK
+EV394,Halabja Health Festival 2025,Cultural,Halabja,Sirwan Park,2025-11-10,6743,100,UKH
+EV395,Zakho Startup Bootcamp 2026,Music,Zakho,New Zakho Hall,2026-09-09,3325,0,Sulaymaniyah Events Co.
+EV396,Sulaymaniyah Heritage Bootcamp 2024,Government,Sulaymaniyah,UoS Hall,2026-09-10,11524,40,Kurdistan Tech Association
+EV397,Duhok Startup Expo 2025,Commemorative,Duhok,AUK Campus,2024-04-09,10303,10,Kurdistan Tech Association
+EV398,Sulaymaniyah Innovation Festival 2026,Technology,Sulaymaniyah,Bakhtiary Arena,2025-03-10,2661,40,Duhok Sports Directorate
+EV399,Erbil Science Week 2024,Sports,Erbil,UKH Campus,2026-09-05,4492,15,Duhok Sports Directorate
+EV400,Erbil Film Festival 2025,Health,Erbil,Rotana Hotel,2026-07-03,10776,35,UoS
+EV401,Duhok Education Forum 2026,Conference,Duhok,AUK Campus,2024-07-17,8482,35,Duhok Sports Directorate
+EV402,Duhok Film Summit 2024,Government,Duhok,Duhok Stadium,2025-09-12,2017,25,Kurdistan Tech Association
+EV403,Zakho Business Bootcamp 2025,Commemorative,Zakho,University of Zakho Hall,2024-06-30,9141,80,KRG Media Commission
+EV404,Erbil Education Conference 2026,Health,Erbil,Erbil International Fair Ground,2025-04-01,1109,15,Sulaymaniyah Events Co.
+EV405,Duhok Education Camp 2024,Sports,Duhok,Duhok Cultural Center,2026-01-08,3309,60,Zakho Municipality
+EV406,Sulaymaniyah Education Week 2025,Cultural,Sulaymaniyah,Azmar Resort,2024-01-07,10518,35,UKH
+EV407,Duhok Innovation Meetup 2026,Music,Duhok,AUK Campus,2024-10-18,6037,60,Zakho Municipality
+EV408,Sulaymaniyah Health Fair 2024,Government,Sulaymaniyah,Azmar Resort,2026-07-01,1517,0,KRG Government
+EV409,Erbil Science Expo 2025,Conference,Erbil,Erbil International Fair Ground,2025-04-03,2324,10,KRG Presidency
+EV410,Sulaymaniyah Education Conference 2026,Sports,Sulaymaniyah,Slemani Expo Center,2025-02-11,11372,40,UKH
+EV411,Duhok Business Week 2024,Education,Duhok,Duhok Cultural Center,2026-03-28,716,10,KRG Government
+EV412,Zakho Science Summit 2025,Business,Zakho,Zakho Park,2026-03-20,3712,50,Sulaymaniyah Events Co.
+EV413,Duhok Book Week 2026,Education,Duhok,AUK Campus,2024-12-09,3817,60,AUK
+EV414,Zakho Heritage Bootcamp 2024,Music,Zakho,New Zakho Hall,2025-03-22,9474,35,UKH
+EV415,Erbil Book Week 2025,Government,Erbil,Erbil International Fair Ground,2026-07-28,9641,15,KRG Media Commission
+EV416,Erbil Education Festival 2026,Cultural,Erbil,Rotana Hotel,2024-03-04,7632,5,AUK
+EV417,Erbil Science Week 2024,Health,Erbil,Rotana Hotel,2025-02-13,11426,25,KRG Media Commission
+EV418,Halabja Science Camp 2025,Education,Halabja,Halabja Cultural Hall,2024-11-13,1115,100,KRG Media Commission
+EV419,Sulaymaniyah Business Camp 2026,Health,Sulaymaniyah,Slemani Expo Center,2025-07-11,2570,80,Duhok Sports Directorate
+EV420,Halabja Innovation Festival 2024,Education,Halabja,Sirwan Park,2024-12-14,11840,100,AUK
+EV421,Halabja Innovation Week 2025,Cultural,Halabja,Sirwan Park,2026-12-15,6801,5,AUK
+EV422,Duhok Startup Meetup 2026,Technology,Duhok,Duhok Expo,2025-03-09,11179,10,Duhok Sports Directorate
+EV423,Zakho Health Conference 2024,Government,Zakho,Zakho Stadium,2026-12-07,9754,35,KRG Presidency
+EV424,Halabja Book Meetup 2025,Government,Halabja,Halabja Youth Center,2026-11-08,277,5,Sulaymaniyah Events Co.
+EV425,Zakho Book Meetup 2026,Commemorative,Zakho,Zakho Stadium,2024-04-20,655,25,Duhok Sports Directorate
+EV426,Zakho Heritage Summit 2024,Commemorative,Zakho,New Zakho Hall,2025-07-11,5128,10,UKH
+EV427,Halabja Film Festival 2025,Music,Halabja,Halabja Cultural Hall,2024-11-12,5626,25,Kurdistan Tech Association
+EV428,Sulaymaniyah Health Meetup 2026,Commemorative,Sulaymaniyah,Azmar Resort,2026-09-18,10721,50,Sulaymaniyah Events Co.
+EV429,Zakho Book Fair 2024,Music,Zakho,Zakho Stadium,2024-08-18,4018,35,KRG Media Commission
+EV430,Erbil Health Week 2025,Health,Erbil,Erbil International Fair Ground,2024-12-10,2215,60,KRG Government
+EV431,Sulaymaniyah Health Camp 2026,Conference,Sulaymaniyah,Azmar Resort,2024-08-27,11763,10,Duhok Sports Directorate
+EV432,Erbil Innovation Expo 2024,Business,Erbil,UKH Campus,2024-07-17,7964,35,KRG Ministry of Culture
+EV433,Halabja Science Expo 2025,Technology,Halabja,Halabja Youth Center,2026-09-04,7969,60,KRG Presidency
+EV434,Halabja Heritage Forum 2026,Commemorative,Halabja,Sirwan Park,2026-08-11,601,20,UoS
+EV435,Sulaymaniyah Film Week 2024,Cultural,Sulaymaniyah,Goizha Convention Center,2025-08-31,8187,100,Kurdistan Data Institute
+EV436,Zakho Education Meetup 2025,Sports,Zakho,New Zakho Hall,2025-05-25,324,100,UKH
+EV437,Erbil Culture Week 2026,Music,Erbil,UKH Campus,2024-08-29,5414,15,AUK
+EV438,Duhok Business Festival 2024,Business,Duhok,Duhok Expo,2026-08-22,309,80,AUK
+EV439,Duhok Book Bootcamp 2025,Cultural,Duhok,AUK Campus,2024-10-27,1169,35,UoS
+EV440,Sulaymaniyah Book Expo 2026,Education,Sulaymaniyah,Slemani Expo Center,2025-01-05,4601,0,UKH
+EV441,Halabja Innovation Fair 2024,Business,Halabja,Sirwan Park,2025-02-11,8796,15,Duhok Sports Directorate
+EV442,Erbil Culture Expo 2025,Commemorative,Erbil,Erbil Citadel Grounds,2025-10-18,10692,10,Kurdistan Data Institute
+EV443,Zakho Heritage Forum 2026,Business,Zakho,Zakho Stadium,2024-08-18,3322,15,Sulaymaniyah Events Co.
+EV444,Sulaymaniyah Health Forum 2024,Technology,Sulaymaniyah,Slemani Expo Center,2025-01-04,2117,60,Kurdistan Tech Association
+EV445,Zakho Film Forum 2025,Education,Zakho,University of Zakho Hall,2025-06-12,3595,80,Kurdistan Data Institute
+EV446,Duhok Science Summit 2026,Education,Duhok,Duhok Expo,2026-11-04,7051,35,UKH
+EV447,Sulaymaniyah Film Forum 2024,Conference,Sulaymaniyah,UoS Hall,2026-11-07,4109,0,KRG Media Commission
+EV448,Zakho Book Forum 2025,Commemorative,Zakho,New Zakho Hall,2026-02-08,3378,25,KRG Ministry of Culture
+EV449,Zakho Business Festival 2026,Technology,Zakho,New Zakho Hall,2025-04-28,7765,40,StartupKRG
+EV450,Sulaymaniyah Education Meetup 2024,Sports,Sulaymaniyah,SPU Auditorium,2025-06-11,10539,0,KRG Media Commission
+EV451,Duhok Business Summit 2025,Sports,Duhok,Duhok Cultural Center,2025-05-22,3329,100,StartupKRG
+EV452,Erbil Book Bootcamp 2026,Commemorative,Erbil,UKH Campus,2025-09-14,4085,15,UKH
+EV453,Halabja Innovation Summit 2024,Government,Halabja,Sirwan Park,2025-06-28,8275,100,Kurdistan Tech Association
+EV454,Sulaymaniyah Film Forum 2025,Technology,Sulaymaniyah,Goizha Convention Center,2026-02-12,4214,20,Kurdistan Data Institute
+EV455,Duhok Startup Bootcamp 2026,Commemorative,Duhok,Dream Hall Duhok,2026-11-21,9890,10,KRG Government
+EV456,Halabja Education Festival 2024,Education,Halabja,Halabja Cultural Hall,2026-09-10,964,100,Kurdistan Tech Association
+EV457,Erbil Business Week 2025,Health,Erbil,Erbil International Fair Ground,2026-03-20,3808,100,Zakho Municipality
+EV458,Erbil Education Conference 2026,Education,Erbil,Rotana Hotel,2026-04-18,11745,25,Kurdistan Tech Association
+EV459,Duhok Science Conference 2024,Business,Duhok,AUK Campus,2025-03-27,11541,50,KRG Government
+EV460,Erbil Education Forum 2025,Business,Erbil,UKH Campus,2024-09-12,3782,80,AUK
+EV461,Halabja Culture Camp 2026,Music,Halabja,Halabja Memorial,2025-07-01,11750,0,Kurdistan Tech Association
+EV462,Erbil Science Meetup 2024,Conference,Erbil,Erbil International Fair Ground,2025-12-06,669,80,Duhok Sports Directorate
+EV463,Duhok Film Festival 2025,Music,Duhok,Dream Hall Duhok,2025-09-16,5297,50,UKH
+EV464,Erbil Science Forum 2026,Health,Erbil,Sami Abdulrahman Park,2025-04-08,5531,25,Kurdistan Tech Association
+EV465,Halabja Culture Week 2024,Technology,Halabja,Halabja Cultural Hall,2025-08-20,11715,20,StartupKRG
+EV466,Duhok Education Bootcamp 2025,Commemorative,Duhok,AUK Campus,2025-08-17,8195,35,Kurdistan Data Institute
+EV467,Sulaymaniyah Film Conference 2026,Education,Sulaymaniyah,UoS Hall,2026-10-18,2278,10,KRG Ministry of Culture
+EV468,Duhok Science Festival 2024,Cultural,Duhok,Dream Hall Duhok,2024-02-14,467,10,KRG Government
+EV469,Halabja Book Week 2025,Business,Halabja,Halabja Youth Center,2026-07-27,8196,35,UKH
+EV470,Erbil Culture Forum 2026,Government,Erbil,Erbil Citadel Grounds,2026-08-12,6682,15,Zakho Municipality
+EV471,Zakho Education Camp 2024,Education,Zakho,University of Zakho Hall,2025-08-31,11955,15,Kurdistan Tech Association
+EV472,Halabja Health Week 2025,Sports,Halabja,Halabja Youth Center,2024-07-07,1600,35,Sulaymaniyah Events Co.
+EV473,Duhok Education Summit 2026,Sports,Duhok,AUK Campus,2025-04-10,9255,35,Sulaymaniyah Events Co.
+EV474,Halabja Film Fair 2024,Conference,Halabja,Halabja Cultural Hall,2026-08-14,5670,60,SPU
+EV475,Sulaymaniyah Culture Fair 2025,Technology,Sulaymaniyah,UoS Hall,2024-07-21,3649,5,SPU
+EV476,Duhok Health Summit 2026,Health,Duhok,Duhok Stadium,2026-08-24,1286,15,UoS
+EV477,Halabja Heritage Fair 2024,Government,Halabja,Halabja Youth Center,2025-11-19,5006,80,AUK
+EV478,Erbil Book Conference 2025,Technology,Erbil,Rotana Hotel,2025-05-19,10179,15,Duhok Sports Directorate
+EV479,Erbil Culture Expo 2026,Conference,Erbil,Sami Abdulrahman Park,2025-09-05,6760,100,Sulaymaniyah Events Co.
+EV480,Halabja Innovation Week 2024,Education,Halabja,Halabja Youth Center,2026-07-23,11390,10,UKH
+EV481,Erbil Heritage Fair 2025,Commemorative,Erbil,UKH Campus,2024-01-12,11760,25,StartupKRG
+EV482,Erbil Startup Camp 2026,Sports,Erbil,Erbil International Fair Ground,2024-09-11,6806,0,StartupKRG
+EV483,Duhok Innovation Conference 2024,Technology,Duhok,Dream Hall Duhok,2026-11-07,7404,80,Kurdistan Tech Association
+EV484,Sulaymaniyah Startup Summit 2025,Sports,Sulaymaniyah,Bakhtiary Arena,2026-08-18,11693,15,StartupKRG
+EV485,Zakho Film Camp 2026,Commemorative,Zakho,University of Zakho Hall,2025-06-02,2582,60,KRG Government
+EV486,Duhok Book Meetup 2024,Sports,Duhok,Duhok Expo,2024-05-05,10256,25,Duhok Sports Directorate
+EV487,Zakho Startup Fair 2025,Conference,Zakho,New Zakho Hall,2024-07-16,7025,50,KRG Government
+EV488,Zakho Heritage Bootcamp 2026,Business,Zakho,University of Zakho Hall,2024-08-31,11397,25,UoS
+EV489,Erbil Innovation Forum 2024,Commemorative,Erbil,Erbil International Fair Ground,2025-06-05,4755,15,StartupKRG
+EV490,Halabja Education Festival 2025,Sports,Halabja,Halabja Memorial,2024-04-06,6929,80,UoS
+EV491,Zakho Startup Week 2026,Cultural,Zakho,Zakho Park,2025-05-19,11868,80,Duhok Sports Directorate
+EV492,Duhok Innovation Forum 2024,Sports,Duhok,Dream Hall Duhok,2025-01-22,4700,5,StartupKRG
+EV493,Sulaymaniyah Heritage Summit 2025,Technology,Sulaymaniyah,SPU Auditorium,2024-06-23,2417,50,Kurdistan Tech Association
+EV494,Sulaymaniyah Innovation Meetup 2026,Sports,Sulaymaniyah,UoS Hall,2025-05-08,8712,0,Kurdistan Tech Association
+EV495,Halabja Film Fair 2024,Cultural,Halabja,Sirwan Park,2025-01-21,7537,20,Kurdistan Tech Association
+EV496,Sulaymaniyah Innovation Forum 2025,Commemorative,Sulaymaniyah,Slemani Expo Center,2026-05-17,10464,100,Zakho Municipality
+EV497,Duhok Film Week 2026,Education,Duhok,Duhok Stadium,2026-12-05,9435,80,AUK
+EV498,Duhok Innovation Week 2024,Music,Duhok,AUK Campus,2025-08-25,8882,50,Zakho Municipality
+EV499,Halabja Innovation Summit 2025,Music,Halabja,Halabja Cultural Hall,2025-12-15,3294,35,StartupKRG
+EV500,Duhok Culture Forum 2026,Music,Duhok,Duhok Cultural Center,2025-01-22,8919,20,UoS
+EV501,Halabja Business Forum 2024,Cultural,Halabja,Halabja Cultural Hall,2025-12-23,1777,25,Zakho Municipality
+EV502,Erbil Science Meetup 2025,Commemorative,Erbil,Rotana Hotel,2025-09-01,6819,40,Sulaymaniyah Events Co.
+EV503,Sulaymaniyah Innovation Conference 2026,Government,Sulaymaniyah,UoS Hall,2024-08-05,9053,25,AUK
+EV504,Erbil Science Festival 2024,Technology,Erbil,Empire World Mall,2026-10-26,3372,80,AUK
+EV505,Duhok Heritage Week 2025,Conference,Duhok,AUK Campus,2026-01-09,4861,40,KRG Government
+EV506,Duhok Heritage Bootcamp 2026,Health,Duhok,Duhok Expo,2025-10-23,4996,100,UKH
+EV507,Zakho Culture Forum 2024,Commemorative,Zakho,University of Zakho Hall,2025-04-18,11683,80,UZakho
+EV508,Duhok Health Fair 2025,Health,Duhok,AUK Campus,2026-07-22,378,80,Sulaymaniyah Events Co.
+EV509,Erbil Startup Week 2026,Government,Erbil,Divan Hotel Erbil,2026-09-06,4355,15,Sulaymaniyah Events Co.
+EV510,Zakho Science Fair 2024,Business,Zakho,Zakho Stadium,2025-01-14,5999,25,Kurdistan Tech Association
+EV511,Duhok Film Bootcamp 2025,Education,Duhok,Duhok Cultural Center,2024-02-15,2135,50,Sulaymaniyah Events Co.
+EV512,Halabja Book Forum 2026,Government,Halabja,Halabja Memorial,2024-01-21,1887,0,Sulaymaniyah Events Co.
+EV513,Zakho Book Forum 2024,Sports,Zakho,Zakho Park,2024-07-28,9961,60,KRG Ministry of Culture
+EV514,Zakho Book Conference 2025,Sports,Zakho,Zakho Stadium,2025-09-17,106,15,KRG Media Commission
+EV515,Erbil Innovation Fair 2026,Commemorative,Erbil,AUK Auditorium,2024-05-14,8834,40,Sulaymaniyah Events Co.
+EV516,Halabja Innovation Expo 2024,Technology,Halabja,Sirwan Park,2025-10-05,1000,80,StartupKRG
+EV517,Halabja Culture Forum 2025,Health,Halabja,Halabja Cultural Hall,2025-05-27,4231,35,AUK
+EV518,Halabja Business Meetup 2026,Business,Halabja,Halabja Youth Center,2025-08-17,3059,10,StartupKRG
+EV519,Zakho Book Bootcamp 2024,Technology,Zakho,Zakho Stadium,2024-01-20,5167,80,Sulaymaniyah Events Co.
+EV520,Erbil Education Expo 2025,Business,Erbil,Erbil Citadel Grounds,2025-02-07,4030,10,Kurdistan Tech Association
+EV521,Sulaymaniyah Science Meetup 2026,Cultural,Sulaymaniyah,Slemani Expo Center,2026-02-25,10528,50,SPU
+EV522,Sulaymaniyah Health Fair 2024,Music,Sulaymaniyah,Slemani Expo Center,2025-05-20,5728,35,Kurdistan Tech Association
+EV523,Erbil Heritage Expo 2025,Government,Erbil,Sami Abdulrahman Park,2024-07-20,4733,40,UoS
+EV524,Duhok Culture Meetup 2026,Commemorative,Duhok,Dream Hall Duhok,2024-11-02,4149,25,StartupKRG
+EV525,Sulaymaniyah Film Conference 2024,Conference,Sulaymaniyah,UoS Hall,2025-09-22,11671,35,KRG Media Commission
+EV526,Erbil Film Bootcamp 2025,Business,Erbil,Empire World Mall,2025-11-18,6521,15,Duhok Sports Directorate
+EV527,Zakho Health Bootcamp 2026,Conference,Zakho,Zakho Park,2024-08-05,7834,40,Kurdistan Tech Association
+EV528,Erbil Health Meetup 2024,Health,Erbil,Sami Abdulrahman Park,2026-01-21,4365,0,KRG Government
+EV529,Duhok Innovation Summit 2025,Cultural,Duhok,AUK Campus,2026-01-27,6698,100,Duhok Sports Directorate
+EV530,Erbil Innovation Fair 2026,Business,Erbil,AUK Auditorium,2024-08-13,4232,10,Kurdistan Tech Association
+EV531,Erbil Heritage Expo 2024,Education,Erbil,Rotana Hotel,2024-06-24,3233,40,Kurdistan Tech Association
+EV532,Halabja Heritage Meetup 2025,Sports,Halabja,Halabja Youth Center,2024-11-01,2614,60,Kurdistan Tech Association
+EV533,Erbil Innovation Fair 2026,Health,Erbil,AUK Auditorium,2026-01-30,11096,50,SPU
+EV534,Duhok Book Festival 2024,Government,Duhok,Duhok Expo,2024-12-22,8525,60,AUK
+EV535,Sulaymaniyah Startup Week 2025,Conference,Sulaymaniyah,Bakhtiary Arena,2026-05-28,1051,15,Kurdistan Data Institute
+EV536,Sulaymaniyah Startup Bootcamp 2026,Business,Sulaymaniyah,Goizha Convention Center,2024-11-01,6809,20,KRG Government
+EV537,Erbil Science Camp 2024,Commemorative,Erbil,Erbil International Fair Ground,2024-05-16,8819,35,KRG Ministry of Culture
+EV538,Duhok Business Camp 2025,Cultural,Duhok,Duhok Stadium,2024-01-27,10843,40,Kurdistan Data Institute
+EV539,Zakho Science Conference 2026,Conference,Zakho,Zakho Park,2026-08-08,7158,40,KRG Ministry of Culture
+EV540,Sulaymaniyah Startup Forum 2024,Business,Sulaymaniyah,Azmar Resort,2026-11-02,2249,35,KRG Presidency
+EV541,Zakho Health Conference 2025,Business,Zakho,University of Zakho Hall,2024-11-06,2324,80,StartupKRG
+EV542,Erbil Heritage Fair 2026,Technology,Erbil,Sami Abdulrahman Park,2024-12-09,1634,60,Kurdistan Data Institute
+EV543,Halabja Film Expo 2024,Sports,Halabja,Sirwan Park,2025-04-15,321,5,KRG Government
+EV544,Halabja Book Fair 2025,Business,Halabja,Halabja Memorial,2026-06-23,1182,60,KRG Media Commission
+EV545,Sulaymaniyah Startup Camp 2026,Education,Sulaymaniyah,Azmar Resort,2024-07-30,7601,5,Duhok Sports Directorate
+EV546,Duhok Business Conference 2024,Cultural,Duhok,AUK Campus,2026-07-23,5329,80,KRG Government
+EV547,Zakho Science Festival 2025,Sports,Zakho,Zakho Park,2024-09-12,7720,35,KRG Government
+EV548,Erbil Startup Meetup 2026,Music,Erbil,Divan Hotel Erbil,2024-09-28,6891,5,StartupKRG
+EV549,Duhok Book Bootcamp 2024,Cultural,Duhok,Duhok Cultural Center,2026-03-31,9963,5,KRG Ministry of Culture
+EV550,Sulaymaniyah Business Conference 2025,Government,Sulaymaniyah,Bakhtiary Arena,2024-09-06,1047,0,KRG Presidency
+EV551,Sulaymaniyah Education Expo 2026,Business,Sulaymaniyah,Bakhtiary Arena,2025-01-21,1912,80,Zakho Municipality
+EV552,Duhok Culture Festival 2024,Music,Duhok,Dream Hall Duhok,2026-01-11,9644,50,Kurdistan Tech Association
+EV553,Erbil Startup Meetup 2025,Education,Erbil,Divan Hotel Erbil,2025-02-10,6440,80,Zakho Municipality
+EV554,Halabja Education Expo 2026,Government,Halabja,Halabja Youth Center,2024-10-24,8963,0,KRG Government
+EV555,Sulaymaniyah Health Bootcamp 2024,Government,Sulaymaniyah,Slemani Expo Center,2025-06-18,8652,5,Zakho Municipality
+EV556,Sulaymaniyah Startup Festival 2025,Government,Sulaymaniyah,Slemani Expo Center,2024-05-18,1613,80,StartupKRG
+EV557,Halabja Education Forum 2026,Music,Halabja,Sirwan Park,2025-03-11,4665,80,Sulaymaniyah Events Co.
+EV558,Erbil Culture Festival 2024,Conference,Erbil,Erbil Citadel Grounds,2026-12-11,2858,60,Kurdistan Tech Association
+EV559,Duhok Heritage Fair 2025,Education,Duhok,Duhok Stadium,2025-10-17,4726,15,KRG Presidency
+EV560,Sulaymaniyah Culture Camp 2026,Conference,Sulaymaniyah,Bakhtiary Arena,2026-01-04,10817,20,KRG Presidency
+EV561,Sulaymaniyah Heritage Expo 2024,Business,Sulaymaniyah,SPU Auditorium,2025-01-10,2948,0,Zakho Municipality
+EV562,Halabja Innovation Camp 2025,Conference,Halabja,Halabja Memorial,2025-07-06,962,100,Kurdistan Data Institute
+EV563,Erbil Startup Summit 2026,Commemorative,Erbil,Empire World Mall,2025-03-14,6684,60,KRG Presidency
+EV564,Duhok Innovation Fair 2024,Conference,Duhok,AUK Campus,2026-11-16,6227,5,StartupKRG
+EV565,Sulaymaniyah Business Camp 2025,Business,Sulaymaniyah,Goizha Convention Center,2026-09-04,9806,20,Kurdistan Tech Association
+EV566,Duhok Innovation Meetup 2026,Business,Duhok,Duhok Cultural Center,2026-05-07,1665,40,Duhok Sports Directorate
+EV567,Duhok Health Expo 2024,Education,Duhok,Dream Hall Duhok,2024-03-19,2073,50,Zakho Municipality
+EV568,Erbil Science Expo 2025,Education,Erbil,Erbil International Fair Ground,2024-01-11,6588,15,Duhok Sports Directorate
+EV569,Erbil Health Festival 2026,Government,Erbil,Erbil Citadel Grounds,2024-12-02,6276,10,AUK
+EV570,Sulaymaniyah Science Bootcamp 2024,Commemorative,Sulaymaniyah,Azmar Resort,2026-01-19,7294,60,Zakho Municipality
+EV571,Zakho Heritage Summit 2025,Commemorative,Zakho,Zakho Stadium,2026-08-15,8792,100,Kurdistan Data Institute
+EV572,Duhok Startup Meetup 2026,Cultural,Duhok,Duhok Stadium,2025-09-21,7649,25,StartupKRG
+EV573,Sulaymaniyah Innovation Expo 2024,Sports,Sulaymaniyah,Slemani Expo Center,2025-10-02,10458,0,Kurdistan Tech Association
+EV574,Sulaymaniyah Culture Meetup 2025,Sports,Sulaymaniyah,Azmar Resort,2024-04-13,1795,5,UKH
+EV575,Sulaymaniyah Book Expo 2026,Business,Sulaymaniyah,UoS Hall,2024-08-05,10421,25,AUK
+EV576,Halabja Culture Festival 2024,Music,Halabja,Halabja Cultural Hall,2024-06-20,6174,5,Kurdistan Tech Association
+EV577,Erbil Film Forum 2025,Health,Erbil,Rotana Hotel,2024-04-10,6455,35,SPU
+EV578,Duhok Business Camp 2026,Government,Duhok,Dream Hall Duhok,2024-07-11,11746,20,UoS
+EV579,Erbil Film Festival 2024,Cultural,Erbil,UKH Campus,2025-12-18,2212,80,UZakho
+EV580,Halabja Innovation Week 2025,Commemorative,Halabja,Halabja Cultural Hall,2024-06-28,8021,100,Duhok Sports Directorate
+EV581,Duhok Innovation Fair 2026,Technology,Duhok,Duhok Cultural Center,2025-11-11,2934,10,Duhok Sports Directorate
+EV582,Halabja Heritage Meetup 2024,Government,Halabja,Halabja Youth Center,2026-03-28,3854,60,Kurdistan Tech Association
+EV583,Zakho Innovation Fair 2025,Cultural,Zakho,University of Zakho Hall,2025-08-14,1450,100,KRG Government
+EV584,Duhok Startup Forum 2026,Health,Duhok,Duhok Stadium,2025-12-14,2164,60,StartupKRG
+EV585,Erbil Business Camp 2024,Commemorative,Erbil,UKH Campus,2024-08-13,10499,100,KRG Government
+EV586,Zakho Education Expo 2025,Health,Zakho,Zakho Park,2025-07-20,5086,25,KRG Government
+EV587,Zakho Book Bootcamp 2026,Education,Zakho,Zakho Park,2026-04-06,4094,10,AUK
+EV588,Duhok Business Camp 2024,Sports,Duhok,Duhok Stadium,2025-12-23,1571,5,Sulaymaniyah Events Co.
+EV589,Zakho Film Festival 2025,Business,Zakho,University of Zakho Hall,2024-10-19,6988,100,SPU
+EV590,Halabja Education Summit 2026,Health,Halabja,Halabja Memorial,2025-11-26,7106,80,KRG Government
+EV591,Erbil Book Meetup 2024,Education,Erbil,Empire World Mall,2024-10-26,10647,5,KRG Media Commission
+EV592,Zakho Health Camp 2025,Business,Zakho,University of Zakho Hall,2025-02-27,10436,50,Sulaymaniyah Events Co.
+EV593,Duhok Book Forum 2026,Commemorative,Duhok,AUK Campus,2026-12-13,7371,80,KRG Government
+EV594,Erbil Startup Week 2024,Government,Erbil,Divan Hotel Erbil,2025-03-29,8397,60,UoS
+EV595,Erbil Culture Forum 2025,Cultural,Erbil,AUK Auditorium,2025-09-29,633,10,Kurdistan Data Institute
+EV596,Halabja Business Week 2026,Government,Halabja,Sirwan Park,2024-02-06,792,100,AUK
+EV597,Sulaymaniyah Book Forum 2024,Conference,Sulaymaniyah,Bakhtiary Arena,2025-10-09,7583,50,UZakho
+EV598,Halabja Education Bootcamp 2025,Music,Halabja,Sirwan Park,2024-10-15,3118,0,Kurdistan Data Institute
+EV599,Zakho Culture Forum 2026,Education,Zakho,University of Zakho Hall,2026-10-17,4899,50,KRG Government
+EV600,Erbil Education Week 2024,Music,Erbil,Empire World Mall,2026-08-30,8429,5,Kurdistan Tech Association
+EV601,Zakho Innovation Meetup 2025,Government,Zakho,University of Zakho Hall,2024-10-31,7336,15,Sulaymaniyah Events Co.
+EV602,Halabja Education Fair 2026,Education,Halabja,Halabja Youth Center,2026-09-01,4470,50,UZakho
+EV603,Duhok Film Camp 2024,Cultural,Duhok,AUK Campus,2025-01-04,8685,35,Kurdistan Tech Association
+EV604,Halabja Culture Fair 2025,Health,Halabja,Halabja Cultural Hall,2026-04-16,206,35,StartupKRG
+EV605,Zakho Film Summit 2026,Commemorative,Zakho,University of Zakho Hall,2026-08-21,2505,50,Sulaymaniyah Events Co.
+EV606,Duhok Book Fair 2024,Conference,Duhok,Duhok Expo,2026-04-04,8398,0,Duhok Sports Directorate
+EV607,Sulaymaniyah Film Fair 2025,Health,Sulaymaniyah,Bakhtiary Arena,2024-11-27,5460,60,Kurdistan Data Institute
+EV608,Zakho Culture Conference 2026,Technology,Zakho,Zakho Park,2026-01-02,4829,5,AUK
+EV609,Duhok Science Fair 2024,Technology,Duhok,Dream Hall Duhok,2024-12-14,6723,60,KRG Government
+EV610,Zakho Film Meetup 2025,Music,Zakho,Zakho Stadium,2026-01-06,8056,35,SPU
+EV611,Duhok Education Festival 2026,Education,Duhok,Duhok Cultural Center,2026-06-01,6014,60,KRG Media Commission
+EV612,Halabja Science Conference 2024,Sports,Halabja,Halabja Cultural Hall,2024-04-26,9843,60,StartupKRG
+EV613,Sulaymaniyah Science Bootcamp 2025,Music,Sulaymaniyah,Bakhtiary Arena,2025-04-30,1835,80,StartupKRG
+EV614,Sulaymaniyah Education Bootcamp 2026,Cultural,Sulaymaniyah,SPU Auditorium,2026-02-18,6138,20,Kurdistan Data Institute
+EV615,Sulaymaniyah Film Bootcamp 2024,Sports,Sulaymaniyah,Azmar Resort,2026-05-20,8282,5,KRG Media Commission
+EV616,Erbil Heritage Summit 2025,Technology,Erbil,Rotana Hotel,2024-06-17,8511,80,KRG Government
+EV617,Halabja Education Week 2026,Technology,Halabja,Halabja Youth Center,2026-08-29,1758,40,AUK
+EV618,Duhok Heritage Forum 2024,Music,Duhok,Duhok Expo,2026-07-24,11560,25,Kurdistan Data Institute
+EV619,Zakho Business Meetup 2025,Conference,Zakho,Zakho Stadium,2025-07-14,7808,20,AUK
+EV620,Halabja Innovation Forum 2026,Education,Halabja,Sirwan Park,2025-09-18,1150,50,UoS
+EV621,Duhok Innovation Week 2024,Cultural,Duhok,Duhok Stadium,2025-01-31,229,40,SPU
+EV622,Halabja Heritage Expo 2025,Health,Halabja,Halabja Youth Center,2025-04-21,4630,50,KRG Government
+EV623,Erbil Health Camp 2026,Education,Erbil,AUK Auditorium,2025-01-30,4884,0,UZakho
+EV624,Duhok Health Meetup 2024,Health,Duhok,AUK Campus,2025-06-25,1270,15,Zakho Municipality
+EV625,Erbil Film Fair 2025,Technology,Erbil,Erbil International Fair Ground,2025-04-13,10889,15,UoS
+EV626,Erbil Heritage Festival 2026,Conference,Erbil,Divan Hotel Erbil,2026-11-03,2555,35,AUK
+EV627,Erbil Innovation Week 2024,Commemorative,Erbil,Erbil Citadel Grounds,2024-06-14,7862,60,Zakho Municipality
+EV628,Zakho Health Fair 2025,Business,Zakho,Zakho Park,2025-12-03,8249,20,UZakho
+EV629,Sulaymaniyah Education Forum 2026,Cultural,Sulaymaniyah,SPU Auditorium,2024-05-05,8833,0,UZakho
+EV630,Erbil Science Bootcamp 2024,Cultural,Erbil,Erbil Citadel Grounds,2026-05-06,164,100,KRG Government
+EV631,Sulaymaniyah Science Festival 2025,Cultural,Sulaymaniyah,Bakhtiary Arena,2024-01-17,6380,50,Kurdistan Data Institute
+EV632,Zakho Book Forum 2026,Cultural,Zakho,Zakho Park,2025-09-22,2774,15,Sulaymaniyah Events Co.
+EV633,Zakho Business Conference 2024,Commemorative,Zakho,New Zakho Hall,2026-04-01,5157,25,KRG Ministry of Culture
+EV634,Duhok Startup Meetup 2025,Cultural,Duhok,Duhok Cultural Center,2024-10-28,10655,25,UoS
+EV635,Halabja Culture Forum 2026,Music,Halabja,Halabja Cultural Hall,2024-05-08,3830,60,AUK
+EV636,Duhok Innovation Fair 2024,Music,Duhok,Dream Hall Duhok,2025-06-20,11255,15,StartupKRG
+EV637,Halabja Culture Camp 2025,Sports,Halabja,Halabja Youth Center,2024-09-07,10657,50,SPU
+EV638,Sulaymaniyah Innovation Festival 2026,Technology,Sulaymaniyah,UoS Hall,2026-07-18,7971,20,Duhok Sports Directorate
+EV639,Erbil Health Summit 2024,Commemorative,Erbil,Divan Hotel Erbil,2025-08-09,11569,25,UKH
+EV640,Halabja Heritage Bootcamp 2025,Health,Halabja,Sirwan Park,2026-09-09,10682,5,KRG Government
+EV641,Halabja Health Festival 2026,Sports,Halabja,Halabja Youth Center,2025-10-21,6253,50,Sulaymaniyah Events Co.
+EV642,Zakho Science Conference 2024,Health,Zakho,Zakho Park,2026-01-19,5480,80,KRG Ministry of Culture
+EV643,Erbil Education Fair 2025,Business,Erbil,Erbil International Fair Ground,2024-01-25,4719,80,KRG Ministry of Culture
+EV644,Erbil Business Expo 2026,Technology,Erbil,AUK Auditorium,2025-11-15,9699,5,Kurdistan Tech Association
+EV645,Sulaymaniyah Health Festival 2024,Health,Sulaymaniyah,Slemani Expo Center,2024-09-02,8646,50,KRG Presidency
+EV646,Halabja Education Fair 2025,Education,Halabja,Halabja Memorial,2024-07-04,6980,0,Kurdistan Tech Association
+EV647,Zakho Book Meetup 2026,Conference,Zakho,New Zakho Hall,2025-08-31,2875,25,UKH
+EV648,Sulaymaniyah Culture Camp 2024,Education,Sulaymaniyah,Slemani Expo Center,2026-07-10,324,60,Duhok Sports Directorate
+EV649,Sulaymaniyah Health Camp 2025,Cultural,Sulaymaniyah,Bakhtiary Arena,2025-10-25,10772,80,Duhok Sports Directorate
+EV650,Duhok Film Forum 2026,Cultural,Duhok,Duhok Expo,2025-10-11,9271,60,Sulaymaniyah Events Co.
+EV651,Halabja Science Camp 2024,Music,Halabja,Sirwan Park,2026-05-22,3197,0,Kurdistan Data Institute
+EV652,Sulaymaniyah Startup Fair 2025,Government,Sulaymaniyah,Slemani Expo Center,2025-11-25,1958,50,UZakho
+EV653,Halabja Business Bootcamp 2026,Sports,Halabja,Sirwan Park,2025-05-14,5045,60,Kurdistan Tech Association
+EV654,Erbil Health Expo 2024,Music,Erbil,Sami Abdulrahman Park,2025-08-12,9802,15,StartupKRG
+EV655,Duhok Book Meetup 2025,Business,Duhok,Dream Hall Duhok,2024-01-25,7430,25,UoS
+EV656,Duhok Education Expo 2026,Business,Duhok,Duhok Expo,2024-12-14,2652,15,AUK
+EV657,Duhok Book Festival 2024,Cultural,Duhok,Dream Hall Duhok,2024-03-09,8330,100,KRG Media Commission
+EV658,Duhok Heritage Expo 2025,Technology,Duhok,Duhok Expo,2024-10-22,7112,40,Kurdistan Data Institute
+EV659,Sulaymaniyah Culture Fair 2026,Health,Sulaymaniyah,UoS Hall,2026-11-29,7511,35,Kurdistan Data Institute
+EV660,Erbil Book Bootcamp 2024,Technology,Erbil,Divan Hotel Erbil,2024-04-02,5932,5,UKH
+EV661,Sulaymaniyah Heritage Week 2025,Conference,Sulaymaniyah,Bakhtiary Arena,2024-11-19,9622,60,KRG Presidency
+EV662,Sulaymaniyah Health Expo 2026,Health,Sulaymaniyah,UoS Hall,2026-01-03,8362,40,Sulaymaniyah Events Co.
+EV663,Sulaymaniyah Business Week 2024,Commemorative,Sulaymaniyah,Slemani Expo Center,2026-12-11,5524,100,UKH
+EV664,Halabja Book Bootcamp 2025,Business,Halabja,Halabja Memorial,2024-08-04,10581,20,UoS
+EV665,Duhok Education Bootcamp 2026,Technology,Duhok,Dream Hall Duhok,2025-04-02,8811,35,Kurdistan Data Institute
+EV666,Halabja Education Forum 2024,Cultural,Halabja,Halabja Youth Center,2025-09-09,5229,5,Kurdistan Tech Association
+EV667,Duhok Heritage Fair 2025,Music,Duhok,Duhok Stadium,2026-12-15,7301,100,Kurdistan Tech Association
+EV668,Erbil Innovation Expo 2026,Cultural,Erbil,Erbil International Fair Ground,2024-04-17,4120,25,AUK
+EV669,Sulaymaniyah Education Festival 2024,Technology,Sulaymaniyah,Goizha Convention Center,2024-12-19,8782,35,KRG Presidency
+EV670,Sulaymaniyah Book Conference 2025,Business,Sulaymaniyah,Bakhtiary Arena,2026-10-05,11524,50,UZakho
+EV671,Sulaymaniyah Innovation Forum 2026,Commemorative,Sulaymaniyah,Slemani Expo Center,2026-10-31,5060,100,AUK
+EV672,Duhok Film Summit 2024,Education,Duhok,Duhok Expo,2024-05-24,4944,35,AUK
+EV673,Erbil Culture Fair 2025,Technology,Erbil,Erbil International Fair Ground,2024-06-19,9203,60,Kurdistan Tech Association
+EV674,Sulaymaniyah Film Fair 2026,Health,Sulaymaniyah,Slemani Expo Center,2024-08-20,8037,80,Sulaymaniyah Events Co.
+EV675,Halabja Health Forum 2024,Sports,Halabja,Halabja Youth Center,2026-02-17,7019,50,Kurdistan Data Institute
+EV676,Duhok Film Fair 2025,Business,Duhok,Duhok Expo,2025-08-12,10090,15,Kurdistan Tech Association
+EV677,Zakho Business Summit 2026,Sports,Zakho,Zakho Stadium,2024-02-29,6783,10,Duhok Sports Directorate
+EV678,Halabja Startup Summit 2024,Cultural,Halabja,Halabja Youth Center,2025-08-05,3653,25,UoS
+EV679,Halabja Health Meetup 2025,Education,Halabja,Halabja Cultural Hall,2024-09-18,8335,40,UKH
+EV680,Duhok Heritage Summit 2026,Sports,Duhok,Duhok Stadium,2025-11-08,375,10,Duhok Sports Directorate
+EV681,Erbil Innovation Camp 2024,Government,Erbil,Erbil International Fair Ground,2025-03-07,11745,100,Duhok Sports Directorate
+EV682,Duhok Business Fair 2025,Cultural,Duhok,AUK Campus,2026-02-02,302,60,Sulaymaniyah Events Co.
+EV683,Zakho Culture Camp 2026,Government,Zakho,Zakho Stadium,2026-05-22,1212,40,StartupKRG
+EV684,Erbil Heritage Festival 2024,Education,Erbil,Erbil Citadel Grounds,2024-12-30,11359,50,Zakho Municipality
+EV685,Erbil Culture Festival 2025,Cultural,Erbil,Empire World Mall,2026-05-29,10769,5,KRG Presidency
+EV686,Halabja Book Summit 2026,Government,Halabja,Halabja Cultural Hall,2024-11-13,3644,60,AUK
+EV687,Halabja Heritage Conference 2024,Technology,Halabja,Sirwan Park,2024-07-13,2730,10,Zakho Municipality
+EV688,Zakho Startup Bootcamp 2025,Cultural,Zakho,University of Zakho Hall,2026-05-29,222,40,UZakho
+EV689,Zakho Heritage Summit 2026,Business,Zakho,Zakho Park,2026-07-18,715,40,Zakho Municipality
+EV690,Erbil Education Meetup 2024,Sports,Erbil,Erbil Citadel Grounds,2025-04-25,4143,5,Sulaymaniyah Events Co.
+EV691,Halabja Book Bootcamp 2025,Government,Halabja,Sirwan Park,2024-08-27,1553,50,UKH
+EV692,Zakho Education Conference 2026,Cultural,Zakho,Zakho Stadium,2025-02-12,1332,5,AUK
+EV693,Sulaymaniyah Culture Camp 2024,Commemorative,Sulaymaniyah,Goizha Convention Center,2025-07-08,8503,60,UZakho
+EV694,Duhok Health Fair 2025,Commemorative,Duhok,Duhok Cultural Center,2026-03-02,11829,25,StartupKRG
+EV695,Erbil Startup Camp 2026,Education,Erbil,Divan Hotel Erbil,2025-06-30,3903,20,Sulaymaniyah Events Co.
+EV696,Duhok Film Summit 2024,Business,Duhok,Duhok Cultural Center,2024-01-19,8877,25,UKH
+EV697,Erbil Education Conference 2025,Conference,Erbil,UKH Campus,2026-07-11,11423,25,UoS
+EV698,Erbil Health Camp 2026,Business,Erbil,Empire World Mall,2025-06-08,2900,25,Duhok Sports Directorate
+EV699,Sulaymaniyah Film Bootcamp 2024,Music,Sulaymaniyah,Azmar Resort,2025-04-12,11665,10,KRG Government
+EV700,Erbil Book Fair 2025,Music,Erbil,UKH Campus,2024-02-19,5386,40,KRG Media Commission
+EV701,Zakho Startup Expo 2026,Health,Zakho,Zakho Stadium,2025-12-06,2771,0,Kurdistan Tech Association
+EV702,Halabja Book Fair 2024,Health,Halabja,Halabja Youth Center,2024-07-03,1494,0,AUK
+EV703,Halabja Health Expo 2025,Technology,Halabja,Halabja Memorial,2024-11-30,8590,35,KRG Government
+EV704,Duhok Education Bootcamp 2026,Sports,Duhok,Duhok Stadium,2025-12-26,7714,60,UZakho
+EV705,Erbil Culture Festival 2024,Technology,Erbil,UKH Campus,2026-12-01,6657,50,Kurdistan Data Institute
+EV706,Sulaymaniyah Film Camp 2025,Sports,Sulaymaniyah,UoS Hall,2024-09-04,11067,25,Kurdistan Tech Association
+EV707,Erbil Business Conference 2026,Government,Erbil,Sami Abdulrahman Park,2026-05-16,7279,15,KRG Ministry of Culture
+EV708,Halabja Innovation Conference 2024,Health,Halabja,Halabja Memorial,2026-12-18,1606,10,UKH
+EV709,Zakho Startup Conference 2025,Music,Zakho,University of Zakho Hall,2024-01-29,772,5,SPU
+EV710,Erbil Education Week 2026,Conference,Erbil,Sami Abdulrahman Park,2025-04-27,10449,5,UKH
+EV711,Erbil Film Conference 2024,Cultural,Erbil,Rotana Hotel,2025-11-29,7576,100,KRG Media Commission
+EV712,Sulaymaniyah Business Bootcamp 2025,Government,Sulaymaniyah,Azmar Resort,2024-10-30,4196,0,Kurdistan Tech Association
+EV713,Duhok Health Week 2026,Technology,Duhok,Duhok Expo,2026-03-26,4627,50,Duhok Sports Directorate
+EV714,Zakho Education Meetup 2024,Conference,Zakho,Zakho Park,2024-02-25,1968,20,StartupKRG
+EV715,Sulaymaniyah Startup Festival 2025,Government,Sulaymaniyah,Goizha Convention Center,2025-02-19,231,20,KRG Presidency
+EV716,Erbil Business Bootcamp 2026,Conference,Erbil,AUK Auditorium,2025-10-25,216,60,KRG Presidency
+EV717,Erbil Health Festival 2024,Cultural,Erbil,AUK Auditorium,2025-04-07,5684,100,StartupKRG
+EV718,Halabja Startup Festival 2025,Government,Halabja,Halabja Youth Center,2026-09-04,7336,10,UoS
+EV719,Erbil Health Conference 2026,Commemorative,Erbil,Erbil International Fair Ground,2024-06-10,6470,10,StartupKRG
+EV720,Halabja Business Conference 2024,Education,Halabja,Sirwan Park,2025-07-05,7551,60,SPU
+EV721,Zakho Film Forum 2025,Music,Zakho,Zakho Stadium,2026-10-10,2637,25,KRG Media Commission
+EV722,Duhok Science Week 2026,Commemorative,Duhok,Duhok Expo,2025-02-15,8229,80,StartupKRG
+EV723,Erbil Heritage Bootcamp 2024,Conference,Erbil,Divan Hotel Erbil,2024-04-04,2870,40,KRG Ministry of Culture
+EV724,Sulaymaniyah Heritage Week 2025,Commemorative,Sulaymaniyah,UoS Hall,2026-09-02,6620,5,UKH
+EV725,Erbil Culture Fair 2026,Education,Erbil,Erbil Citadel Grounds,2025-01-23,11293,40,UoS
+EV726,Duhok Business Camp 2024,Business,Duhok,Duhok Cultural Center,2026-08-25,8000,50,AUK
+EV727,Erbil Education Summit 2025,Conference,Erbil,Sami Abdulrahman Park,2024-01-23,8131,20,Kurdistan Data Institute
+EV728,Zakho Book Expo 2026,Government,Zakho,New Zakho Hall,2026-11-19,8652,15,KRG Media Commission
+EV729,Zakho Heritage Fair 2024,Health,Zakho,Zakho Park,2026-04-06,6648,25,KRG Media Commission
+EV730,Erbil Heritage Conference 2025,Business,Erbil,Rotana Hotel,2024-02-04,3809,10,UKH
+EV731,Sulaymaniyah Culture Conference 2026,Conference,Sulaymaniyah,SPU Auditorium,2026-11-10,10630,100,KRG Media Commission
+EV732,Erbil Culture Fair 2024,Business,Erbil,UKH Campus,2024-09-19,11241,25,Kurdistan Data Institute
+EV733,Halabja Education Meetup 2025,Conference,Halabja,Halabja Youth Center,2025-10-18,5011,25,UZakho
+EV734,Halabja Startup Expo 2026,Music,Halabja,Halabja Youth Center,2025-01-12,483,20,Kurdistan Tech Association
+EV735,Zakho Book Expo 2024,Health,Zakho,New Zakho Hall,2024-12-09,4460,5,Kurdistan Data Institute
+EV736,Duhok Heritage Bootcamp 2025,Cultural,Duhok,Duhok Expo,2024-04-30,287,35,KRG Ministry of Culture
+EV737,Zakho Innovation Bootcamp 2026,Technology,Zakho,University of Zakho Hall,2026-03-27,2168,20,KRG Ministry of Culture
+EV738,Halabja Film Expo 2024,Music,Halabja,Halabja Cultural Hall,2024-04-17,606,80,KRG Media Commission
+EV739,Sulaymaniyah Business Expo 2025,Technology,Sulaymaniyah,Bakhtiary Arena,2025-10-21,2609,50,UZakho
+EV740,Halabja Education Fair 2026,Music,Halabja,Halabja Memorial,2024-10-18,11784,35,AUK
+EV741,Zakho Science Bootcamp 2024,Music,Zakho,Zakho Stadium,2025-12-23,8119,5,SPU
+EV742,Duhok Startup Expo 2025,Technology,Duhok,Duhok Stadium,2026-09-10,5486,15,SPU
+EV743,Zakho Book Fair 2026,Sports,Zakho,University of Zakho Hall,2024-03-28,3714,35,Kurdistan Tech Association
+EV744,Halabja Business Meetup 2024,Business,Halabja,Halabja Youth Center,2024-12-05,2718,60,Kurdistan Data Institute
+EV745,Sulaymaniyah Health Meetup 2025,Sports,Sulaymaniyah,Azmar Resort,2025-11-19,7330,5,Zakho Municipality
+EV746,Halabja Innovation Forum 2026,Sports,Halabja,Halabja Cultural Hall,2024-02-27,10405,25,KRG Government
+EV747,Duhok Science Camp 2024,Business,Duhok,Duhok Expo,2026-04-07,9084,60,AUK
+EV748,Zakho Film Summit 2025,Business,Zakho,University of Zakho Hall,2025-10-11,10649,50,UKH
+EV749,Sulaymaniyah Science Bootcamp 2026,Sports,Sulaymaniyah,SPU Auditorium,2025-05-14,11093,60,KRG Ministry of Culture
+EV750,Sulaymaniyah Education Fair 2024,Conference,Sulaymaniyah,Slemani Expo Center,2024-11-12,204,50,KRG Presidency
+EV751,Zakho Health Summit 2025,Conference,Zakho,Zakho Stadium,2026-10-27,7786,60,Duhok Sports Directorate
+EV752,Zakho Science Festival 2026,Sports,Zakho,Zakho Park,2026-10-31,2209,0,UoS
+EV753,Duhok Science Week 2024,Health,Duhok,Duhok Stadium,2024-05-10,3197,15,KRG Government
+EV754,Sulaymaniyah Film Camp 2025,Health,Sulaymaniyah,Goizha Convention Center,2024-05-07,1789,25,Kurdistan Data Institute
+EV755,Halabja Startup Festival 2026,Commemorative,Halabja,Halabja Youth Center,2025-12-14,2713,80,KRG Government
+EV756,Sulaymaniyah Culture Week 2024,Cultural,Sulaymaniyah,Goizha Convention Center,2026-12-12,859,15,Sulaymaniyah Events Co.
+EV757,Zakho Book Meetup 2025,Sports,Zakho,University of Zakho Hall,2026-06-08,6396,10,KRG Media Commission
+EV758,Erbil Science Expo 2026,Government,Erbil,AUK Auditorium,2025-07-31,1201,10,Kurdistan Data Institute
+EV759,Sulaymaniyah Science Fair 2024,Government,Sulaymaniyah,UoS Hall,2026-02-13,8055,15,SPU
+EV760,Duhok Film Summit 2025,Cultural,Duhok,AUK Campus,2024-01-21,11824,20,Zakho Municipality
+EV761,Sulaymaniyah Science Meetup 2026,Cultural,Sulaymaniyah,Slemani Expo Center,2025-06-23,9532,80,KRG Ministry of Culture
+EV762,Zakho Film Bootcamp 2024,Business,Zakho,Zakho Stadium,2025-07-23,1721,50,KRG Presidency
+EV763,Sulaymaniyah Health Fair 2025,Education,Sulaymaniyah,Slemani Expo Center,2024-03-04,7864,80,UoS
+EV764,Erbil Innovation Festival 2026,Government,Erbil,UKH Campus,2026-09-17,3757,100,Duhok Sports Directorate
+EV765,Sulaymaniyah Culture Summit 2024,Technology,Sulaymaniyah,Azmar Resort,2026-11-22,9444,25,Kurdistan Data Institute
+EV766,Erbil Innovation Festival 2025,Government,Erbil,Rotana Hotel,2024-06-02,7698,20,AUK
+EV767,Halabja Film Week 2026,Government,Halabja,Halabja Cultural Hall,2024-09-17,417,35,Kurdistan Data Institute
+EV768,Zakho Business Week 2024,Technology,Zakho,New Zakho Hall,2025-05-03,10369,50,KRG Media Commission
+EV769,Duhok Education Summit 2025,Conference,Duhok,AUK Campus,2026-01-02,9743,50,SPU
+EV770,Sulaymaniyah Culture Meetup 2026,Cultural,Sulaymaniyah,SPU Auditorium,2024-03-26,1248,35,UKH
+EV771,Zakho Science Camp 2024,Education,Zakho,Zakho Park,2026-08-06,4404,40,Zakho Municipality
+EV772,Sulaymaniyah Heritage Expo 2025,Sports,Sulaymaniyah,SPU Auditorium,2026-05-31,6538,80,KRG Government
+EV773,Duhok Book Bootcamp 2026,Technology,Duhok,Duhok Cultural Center,2026-06-02,5598,80,KRG Ministry of Culture
+EV774,Sulaymaniyah Education Forum 2024,Sports,Sulaymaniyah,UoS Hall,2026-02-23,8377,100,KRG Ministry of Culture
+EV775,Erbil Culture Fair 2025,Education,Erbil,Sami Abdulrahman Park,2025-12-16,717,60,SPU
+EV776,Zakho Business Forum 2026,Cultural,Zakho,University of Zakho Hall,2026-01-10,11474,50,StartupKRG
+EV777,Zakho Business Meetup 2024,Government,Zakho,University of Zakho Hall,2025-04-22,2266,10,KRG Media Commission
+EV778,Halabja Book Conference 2025,Conference,Halabja,Sirwan Park,2026-09-20,6270,15,AUK
+EV779,Duhok Business Meetup 2026,Sports,Duhok,Duhok Expo,2026-10-16,1236,10,KRG Presidency
+EV780,Zakho Innovation Week 2024,Sports,Zakho,Zakho Park,2025-04-02,7388,100,UoS
+EV781,Zakho Health Festival 2025,Cultural,Zakho,University of Zakho Hall,2026-12-31,879,80,Kurdistan Tech Association
+EV782,Halabja Science Week 2026,Technology,Halabja,Halabja Youth Center,2025-02-14,4474,80,Kurdistan Tech Association
+EV783,Erbil Education Week 2024,Education,Erbil,AUK Auditorium,2024-12-03,4424,10,Zakho Municipality
+EV784,Duhok Innovation Fair 2025,Music,Duhok,Duhok Expo,2025-08-28,3021,80,Zakho Municipality
+EV785,Erbil Science Expo 2026,Technology,Erbil,AUK Auditorium,2025-12-03,6650,20,Kurdistan Data Institute
+EV786,Zakho Science Conference 2024,Technology,Zakho,Zakho Stadium,2026-04-25,4629,50,KRG Media Commission
+EV787,Sulaymaniyah Science Fair 2025,Commemorative,Sulaymaniyah,UoS Hall,2024-01-23,8300,50,AUK
+EV788,Zakho Innovation Summit 2026,Cultural,Zakho,New Zakho Hall,2024-08-08,8748,50,UZakho
+EV789,Sulaymaniyah Science Week 2024,Health,Sulaymaniyah,Azmar Resort,2024-12-08,5438,15,KRG Presidency
+EV790,Duhok Science Festival 2025,Business,Duhok,Duhok Stadium,2024-12-17,2960,0,Kurdistan Tech Association
+EV791,Sulaymaniyah Culture Festival 2026,Government,Sulaymaniyah,Goizha Convention Center,2024-02-20,10457,60,UZakho
+EV792,Sulaymaniyah Film Meetup 2024,Music,Sulaymaniyah,Slemani Expo Center,2026-07-28,128,100,UZakho
+EV793,Halabja Startup Summit 2025,Government,Halabja,Halabja Youth Center,2025-05-16,4047,10,KRG Media Commission
+EV794,Sulaymaniyah Innovation Forum 2026,Sports,Sulaymaniyah,Slemani Expo Center,2025-02-21,2888,50,UKH
+EV795,Duhok Science Summit 2024,Music,Duhok,Duhok Cultural Center,2024-01-18,768,35,UoS
+EV796,Sulaymaniyah Heritage Festival 2025,Music,Sulaymaniyah,Goizha Convention Center,2025-09-13,8750,35,KRG Ministry of Culture
+EV797,Erbil Heritage Meetup 2026,Commemorative,Erbil,Erbil Citadel Grounds,2025-05-28,7525,100,KRG Government
+EV798,Halabja Culture Meetup 2024,Cultural,Halabja,Halabja Memorial,2024-12-24,7695,35,KRG Media Commission
+EV799,Halabja Innovation Conference 2025,Government,Halabja,Sirwan Park,2024-04-05,11116,50,Sulaymaniyah Events Co.
+EV800,Erbil Health Meetup 2026,Music,Erbil,Erbil Citadel Grounds,2026-07-25,9128,10,UoS
+EV801,Halabja Culture Camp 2024,Technology,Halabja,Halabja Cultural Hall,2026-12-12,3200,100,UZakho
+EV802,Zakho Education Expo 2025,Business,Zakho,University of Zakho Hall,2025-06-29,957,5,UKH
+EV803,Sulaymaniyah Film Conference 2026,Commemorative,Sulaymaniyah,Bakhtiary Arena,2024-03-14,8886,25,KRG Government
+EV804,Duhok Culture Forum 2024,Sports,Duhok,Dream Hall Duhok,2025-11-10,10302,15,Kurdistan Tech Association
+EV805,Sulaymaniyah Film Expo 2025,Business,Sulaymaniyah,Bakhtiary Arena,2024-12-28,7460,60,KRG Ministry of Culture
+EV806,Zakho Heritage Camp 2026,Education,Zakho,University of Zakho Hall,2025-05-02,4417,80,Kurdistan Data Institute
+EV807,Duhok Science Expo 2024,Business,Duhok,AUK Campus,2025-04-22,7243,35,UZakho
+EV808,Erbil Culture Camp 2025,Commemorative,Erbil,Erbil Citadel Grounds,2025-04-02,626,80,SPU
+EV809,Halabja Book Fair 2026,Conference,Halabja,Halabja Cultural Hall,2025-01-28,11641,80,Duhok Sports Directorate
+EV810,Halabja Education Summit 2024,Business,Halabja,Halabja Memorial,2025-05-30,5926,10,Duhok Sports Directorate
+EV811,Sulaymaniyah Education Summit 2025,Cultural,Sulaymaniyah,Goizha Convention Center,2026-10-04,3405,50,AUK
+EV812,Halabja Innovation Fair 2026,Government,Halabja,Halabja Youth Center,2024-08-20,4173,5,AUK
+EV813,Halabja Health Expo 2024,Technology,Halabja,Sirwan Park,2025-08-17,11855,0,KRG Ministry of Culture
+EV814,Sulaymaniyah Innovation Summit 2025,Music,Sulaymaniyah,SPU Auditorium,2026-06-08,7568,50,Kurdistan Data Institute
+EV815,Zakho Education Festival 2026,Government,Zakho,Zakho Stadium,2026-09-04,129,25,Zakho Municipality
+EV816,Erbil Startup Expo 2024,Music,Erbil,Erbil International Fair Ground,2025-04-21,8610,10,UZakho
+EV817,Erbil Innovation Forum 2025,Cultural,Erbil,Empire World Mall,2024-01-25,1562,5,KRG Ministry of Culture
+EV818,Halabja Innovation Meetup 2026,Cultural,Halabja,Halabja Cultural Hall,2024-12-10,1940,0,KRG Presidency
+EV819,Halabja Startup Bootcamp 2024,Health,Halabja,Halabja Memorial,2025-11-15,1976,20,Kurdistan Tech Association
+EV820,Zakho Book Summit 2025,Health,Zakho,University of Zakho Hall,2026-01-21,4776,0,SPU
+EV821,Erbil Culture Conference 2026,Commemorative,Erbil,Erbil Citadel Grounds,2025-12-28,11173,25,StartupKRG
+EV822,Sulaymaniyah Startup Forum 2024,Health,Sulaymaniyah,Bakhtiary Arena,2026-09-06,9621,5,StartupKRG
+EV823,Duhok Culture Forum 2025,Music,Duhok,Duhok Cultural Center,2025-02-12,2364,100,Kurdistan Data Institute
+EV824,Sulaymaniyah Science Camp 2026,Technology,Sulaymaniyah,Bakhtiary Arena,2026-09-14,5496,20,Duhok Sports Directorate
+EV825,Halabja Business Summit 2024,Commemorative,Halabja,Sirwan Park,2024-11-04,4872,35,KRG Government
+EV826,Erbil Startup Summit 2025,Business,Erbil,UKH Campus,2026-11-11,4473,10,Sulaymaniyah Events Co.
+EV827,Erbil Innovation Forum 2026,Government,Erbil,Divan Hotel Erbil,2025-08-20,3766,5,KRG Ministry of Culture
+EV828,Erbil Innovation Meetup 2024,Commemorative,Erbil,AUK Auditorium,2024-02-22,7157,40,AUK
+EV829,Erbil Business Forum 2025,Business,Erbil,Erbil Citadel Grounds,2025-07-13,1890,60,KRG Presidency
+EV830,Duhok Film Forum 2026,Cultural,Duhok,Duhok Cultural Center,2025-06-30,2966,15,KRG Presidency
+EV831,Duhok Heritage Festival 2024,Technology,Duhok,Duhok Cultural Center,2024-09-04,9110,5,SPU
+EV832,Sulaymaniyah Culture Bootcamp 2025,Business,Sulaymaniyah,SPU Auditorium,2026-11-18,1940,25,Kurdistan Tech Association
+EV833,Duhok Business Meetup 2026,Technology,Duhok,Duhok Expo,2024-01-20,5438,15,Zakho Municipality
+EV834,Halabja Book Festival 2024,Government,Halabja,Sirwan Park,2025-11-16,8201,10,Kurdistan Data Institute
+EV835,Zakho Film Conference 2025,Commemorative,Zakho,Zakho Park,2026-12-04,1776,35,Sulaymaniyah Events Co.
+EV836,Halabja Health Festival 2026,Music,Halabja,Halabja Cultural Hall,2026-03-17,2435,20,KRG Presidency
+EV837,Duhok Book Festival 2024,Conference,Duhok,Dream Hall Duhok,2025-02-11,11608,60,StartupKRG
+EV838,Halabja Culture Meetup 2025,Sports,Halabja,Sirwan Park,2025-09-17,4463,100,UZakho
+EV839,Erbil Education Conference 2026,Education,Erbil,Sami Abdulrahman Park,2025-04-29,11339,10,Kurdistan Tech Association
+EV840,Halabja Startup Forum 2024,Music,Halabja,Halabja Memorial,2026-03-11,2377,35,Kurdistan Data Institute
+EV841,Zakho Innovation Bootcamp 2025,Conference,Zakho,New Zakho Hall,2025-08-31,7832,35,KRG Ministry of Culture
+EV842,Zakho Book Bootcamp 2026,Technology,Zakho,University of Zakho Hall,2024-11-18,8629,35,Zakho Municipality
+EV843,Duhok Business Expo 2024,Sports,Duhok,Duhok Expo,2026-12-02,5717,10,StartupKRG
+EV844,Halabja Innovation Conference 2025,Health,Halabja,Halabja Youth Center,2024-11-27,5935,10,StartupKRG
+EV845,Duhok Innovation Expo 2026,Health,Duhok,Duhok Stadium,2025-11-01,3718,60,UKH
+EV846,Duhok Science Expo 2024,Sports,Duhok,Duhok Stadium,2025-03-10,5933,10,Kurdistan Tech Association
+EV847,Duhok Education Fair 2025,Health,Duhok,Duhok Cultural Center,2024-06-04,7473,20,KRG Presidency
+EV848,Erbil Culture Week 2026,Government,Erbil,Erbil Citadel Grounds,2024-06-09,9728,40,SPU
+EV849,Sulaymaniyah Heritage Camp 2024,Conference,Sulaymaniyah,Goizha Convention Center,2025-01-05,7103,80,StartupKRG
+EV850,Duhok Education Bootcamp 2025,Music,Duhok,Dream Hall Duhok,2026-03-15,150,5,KRG Media Commission
+EV851,Duhok Science Festival 2026,Commemorative,Duhok,Dream Hall Duhok,2024-01-02,8921,5,UoS
+EV852,Erbil Heritage Camp 2024,Technology,Erbil,Erbil Citadel Grounds,2025-12-27,5085,80,UoS
+EV853,Halabja Science Camp 2025,Commemorative,Halabja,Halabja Memorial,2026-12-22,6017,25,Kurdistan Tech Association
+EV854,Erbil Film Forum 2026,Cultural,Erbil,Empire World Mall,2024-01-31,6673,80,Kurdistan Tech Association
+EV855,Duhok Startup Festival 2024,Business,Duhok,Duhok Stadium,2025-10-15,7684,50,Zakho Municipality
+EV856,Erbil Startup Festival 2025,Sports,Erbil,Empire World Mall,2024-08-15,1547,60,Duhok Sports Directorate
+EV857,Sulaymaniyah Science Forum 2026,Technology,Sulaymaniyah,Azmar Resort,2025-02-09,6961,35,KRG Government
+EV858,Erbil Business Summit 2024,Commemorative,Erbil,AUK Auditorium,2026-12-08,9234,5,SPU
+EV859,Duhok Heritage Camp 2025,Government,Duhok,Dream Hall Duhok,2024-05-05,6560,60,AUK
+EV860,Duhok Book Meetup 2026,Education,Duhok,Duhok Stadium,2025-11-07,3010,20,Sulaymaniyah Events Co.
+EV861,Zakho Innovation Meetup 2024,Education,Zakho,Zakho Park,2024-07-27,6266,80,Kurdistan Tech Association
+EV862,Duhok Health Conference 2025,Sports,Duhok,Duhok Cultural Center,2025-03-29,1181,35,Sulaymaniyah Events Co.
+EV863,Sulaymaniyah Innovation Expo 2026,Cultural,Sulaymaniyah,Azmar Resort,2024-03-01,5145,80,StartupKRG
+EV864,Sulaymaniyah Film Summit 2024,Cultural,Sulaymaniyah,Slemani Expo Center,2025-10-02,154,60,KRG Government
+EV865,Halabja Film Bootcamp 2025,Health,Halabja,Halabja Cultural Hall,2024-05-16,1532,20,KRG Media Commission
+EV866,Zakho Film Week 2026,Sports,Zakho,University of Zakho Hall,2026-04-15,8977,20,UZakho
+EV867,Duhok Science Summit 2024,Business,Duhok,Duhok Stadium,2024-05-16,8013,0,KRG Government
+EV868,Sulaymaniyah Science Fair 2025,Music,Sulaymaniyah,Bakhtiary Arena,2025-09-22,2170,35,UKH
+EV869,Erbil Culture Forum 2026,Sports,Erbil,Erbil International Fair Ground,2025-03-09,10953,60,KRG Ministry of Culture
+EV870,Sulaymaniyah Science Camp 2024,Government,Sulaymaniyah,UoS Hall,2024-10-06,5863,60,Duhok Sports Directorate
+EV871,Sulaymaniyah Business Meetup 2025,Health,Sulaymaniyah,SPU Auditorium,2024-07-27,1905,10,Kurdistan Tech Association
+EV872,Erbil Book Fair 2026,Education,Erbil,Erbil International Fair Ground,2024-06-24,3155,80,Duhok Sports Directorate
+EV873,Duhok Business Week 2024,Music,Duhok,Duhok Stadium,2024-10-18,5327,35,Zakho Municipality
+EV874,Sulaymaniyah Culture Meetup 2025,Music,Sulaymaniyah,Azmar Resort,2026-07-13,1794,10,KRG Presidency
+EV875,Sulaymaniyah Book Camp 2026,Cultural,Sulaymaniyah,UoS Hall,2025-09-19,129,60,KRG Presidency
+EV876,Duhok Health Bootcamp 2024,Sports,Duhok,Duhok Expo,2026-05-03,9485,5,Duhok Sports Directorate
+EV877,Halabja Business Forum 2025,Cultural,Halabja,Halabja Youth Center,2026-04-18,6197,35,AUK
+EV878,Halabja Innovation Forum 2026,Sports,Halabja,Halabja Memorial,2025-05-22,8426,80,Zakho Municipality
+EV879,Duhok Health Fair 2024,Education,Duhok,Dream Hall Duhok,2024-06-13,3938,20,Sulaymaniyah Events Co.
+EV880,Halabja Business Expo 2025,Music,Halabja,Sirwan Park,2025-07-07,3955,0,UKH
+EV881,Duhok Science Conference 2026,Technology,Duhok,AUK Campus,2026-09-20,2281,100,SPU
+EV882,Erbil Science Expo 2024,Education,Erbil,Rotana Hotel,2025-08-06,1703,20,KRG Media Commission
+EV883,Erbil Science Festival 2025,Commemorative,Erbil,Divan Hotel Erbil,2024-11-02,8751,20,Sulaymaniyah Events Co.
+EV884,Duhok Science Meetup 2026,Commemorative,Duhok,Dream Hall Duhok,2024-12-20,4055,10,AUK
+EV885,Zakho Health Summit 2024,Health,Zakho,New Zakho Hall,2024-07-02,3257,40,Zakho Municipality
+EV886,Sulaymaniyah Health Meetup 2025,Technology,Sulaymaniyah,Azmar Resort,2025-12-28,6022,25,KRG Media Commission
+EV887,Erbil Heritage Bootcamp 2026,Health,Erbil,Empire World Mall,2024-08-08,345,15,UoS
+EV888,Duhok Health Meetup 2024,Business,Duhok,Duhok Cultural Center,2025-03-17,1041,40,Duhok Sports Directorate
+EV889,Halabja Culture Forum 2025,Health,Halabja,Halabja Youth Center,2026-04-10,8330,5,Sulaymaniyah Events Co.
+EV890,Zakho Film Bootcamp 2026,Health,Zakho,Zakho Park,2024-05-18,10617,10,Sulaymaniyah Events Co.
+EV891,Zakho Book Camp 2024,Government,Zakho,Zakho Park,2024-04-14,6976,10,KRG Media Commission
+EV892,Duhok Culture Forum 2025,Business,Duhok,Duhok Cultural Center,2024-12-21,460,15,KRG Ministry of Culture
+EV893,Zakho Startup Festival 2026,Education,Zakho,Zakho Stadium,2026-10-18,5904,100,KRG Presidency
+EV894,Sulaymaniyah Film Forum 2024,Business,Sulaymaniyah,SPU Auditorium,2024-02-09,1314,15,KRG Government
+EV895,Erbil Book Conference 2025,Business,Erbil,AUK Auditorium,2025-06-13,11822,10,Kurdistan Tech Association
+EV896,Duhok Education Conference 2026,Music,Duhok,Duhok Expo,2025-01-06,7532,5,Kurdistan Data Institute
+EV897,Halabja Innovation Conference 2024,Health,Halabja,Sirwan Park,2026-07-27,6556,60,Sulaymaniyah Events Co.
+EV898,Sulaymaniyah Health Summit 2025,Government,Sulaymaniyah,UoS Hall,2025-08-31,7884,80,KRG Ministry of Culture
+EV899,Zakho Science Fair 2026,Music,Zakho,University of Zakho Hall,2026-01-14,10330,0,StartupKRG
+EV900,Sulaymaniyah Heritage Conference 2024,Cultural,Sulaymaniyah,Slemani Expo Center,2024-06-26,10629,60,Zakho Municipality
+EV901,Duhok Health Expo 2025,Cultural,Duhok,Duhok Expo,2026-01-08,10273,0,Zakho Municipality
+EV902,Erbil Book Fair 2026,Cultural,Erbil,UKH Campus,2024-05-06,7758,15,KRG Presidency
+EV903,Halabja Business Camp 2024,Technology,Halabja,Halabja Memorial,2024-02-20,9597,0,UZakho
+EV904,Halabja Business Festival 2025,Sports,Halabja,Halabja Youth Center,2026-11-17,4036,80,KRG Media Commission
+EV905,Halabja Book Festival 2026,Education,Halabja,Sirwan Park,2026-02-24,10240,15,UoS
+EV906,Zakho Health Expo 2024,Commemorative,Zakho,Zakho Park,2024-04-12,790,60,Kurdistan Tech Association
+EV907,Halabja Startup Expo 2025,Cultural,Halabja,Halabja Cultural Hall,2024-07-12,8604,60,SPU
+EV908,Duhok Heritage Festival 2026,Conference,Duhok,Duhok Expo,2026-09-29,11433,15,Duhok Sports Directorate
+EV909,Halabja Innovation Fair 2024,Commemorative,Halabja,Halabja Memorial,2026-07-20,8075,25,Duhok Sports Directorate
+EV910,Duhok Startup Camp 2025,Cultural,Duhok,Dream Hall Duhok,2026-10-27,10883,35,Kurdistan Data Institute
+EV911,Erbil Startup Fair 2026,Business,Erbil,Erbil International Fair Ground,2024-04-28,1519,80,KRG Presidency
+EV912,Halabja Education Meetup 2024,Health,Halabja,Halabja Youth Center,2026-08-01,1272,60,UZakho
+EV913,Erbil Book Summit 2025,Sports,Erbil,Divan Hotel Erbil,2024-08-28,8092,0,UKH
+EV914,Duhok Heritage Week 2026,Government,Duhok,Dream Hall Duhok,2026-03-09,1846,20,AUK
+EV915,Zakho Startup Meetup 2024,Government,Zakho,Zakho Stadium,2026-11-10,9616,10,KRG Government
+EV916,Halabja Film Festival 2025,Business,Halabja,Halabja Cultural Hall,2025-05-21,6225,10,KRG Media Commission
+EV917,Duhok Innovation Forum 2026,Business,Duhok,Duhok Cultural Center,2025-08-17,5508,15,KRG Ministry of Culture
+EV918,Duhok Science Conference 2024,Music,Duhok,AUK Campus,2024-06-23,11381,35,UKH
+EV919,Zakho Science Bootcamp 2025,Education,Zakho,New Zakho Hall,2024-02-20,3347,35,AUK
+EV920,Duhok Culture Meetup 2026,Cultural,Duhok,Duhok Expo,2024-07-03,7197,50,Zakho Municipality
+EV921,Halabja Business Summit 2024,Sports,Halabja,Halabja Youth Center,2024-11-19,2105,0,KRG Ministry of Culture
+EV922,Sulaymaniyah Education Bootcamp 2025,Health,Sulaymaniyah,Bakhtiary Arena,2025-06-29,7894,10,KRG Media Commission
+EV923,Erbil Education Festival 2026,Education,Erbil,Rotana Hotel,2024-12-20,1820,60,Kurdistan Data Institute
+EV924,Sulaymaniyah Culture Expo 2024,Commemorative,Sulaymaniyah,SPU Auditorium,2024-02-26,8877,5,SPU
+EV925,Zakho Health Forum 2025,Music,Zakho,University of Zakho Hall,2026-05-30,1553,10,Duhok Sports Directorate
+EV926,Sulaymaniyah Heritage Conference 2026,Cultural,Sulaymaniyah,Azmar Resort,2025-11-12,6556,50,AUK
+EV927,Sulaymaniyah Startup Summit 2024,Cultural,Sulaymaniyah,Goizha Convention Center,2025-08-24,9464,100,KRG Media Commission
+EV928,Duhok Science Bootcamp 2025,Cultural,Duhok,Duhok Expo,2026-12-03,9562,10,KRG Government
+EV929,Zakho Book Expo 2026,Music,Zakho,University of Zakho Hall,2026-07-10,4227,0,Kurdistan Data Institute
+EV930,Zakho Health Forum 2024,Education,Zakho,Zakho Park,2024-12-03,3030,60,StartupKRG
+EV931,Zakho Business Conference 2025,Cultural,Zakho,Zakho Stadium,2025-12-10,6243,15,Duhok Sports Directorate
+EV932,Erbil Health Forum 2026,Technology,Erbil,AUK Auditorium,2026-12-04,8154,35,Zakho Municipality
+EV933,Halabja Business Week 2024,Government,Halabja,Halabja Memorial,2026-01-03,3166,0,KRG Media Commission
+EV934,Halabja Health Expo 2025,Business,Halabja,Sirwan Park,2026-10-04,7388,40,Duhok Sports Directorate
+EV935,Erbil Heritage Week 2026,Education,Erbil,Empire World Mall,2025-03-22,5056,80,Duhok Sports Directorate
+EV936,Erbil Innovation Festival 2024,Government,Erbil,Erbil Citadel Grounds,2024-02-27,3020,60,Kurdistan Tech Association
+EV937,Duhok Book Conference 2025,Sports,Duhok,AUK Campus,2024-04-20,7370,20,Kurdistan Data Institute
+EV938,Erbil Education Camp 2026,Conference,Erbil,AUK Auditorium,2024-12-05,1028,25,KRG Government
+EV939,Duhok Culture Fair 2024,Music,Duhok,Duhok Stadium,2024-10-10,6971,80,Kurdistan Data Institute
+EV940,Erbil Education Forum 2025,Technology,Erbil,Erbil International Fair Ground,2026-03-03,7594,0,Kurdistan Data Institute
+EV941,Sulaymaniyah Film Bootcamp 2026,Sports,Sulaymaniyah,SPU Auditorium,2026-12-15,251,35,KRG Media Commission
+EV942,Zakho Business Bootcamp 2024,Sports,Zakho,Zakho Stadium,2026-11-04,8013,50,AUK
+EV943,Halabja Science Fair 2025,Government,Halabja,Halabja Cultural Hall,2025-02-07,5639,10,Kurdistan Data Institute
+EV944,Halabja Education Festival 2026,Conference,Halabja,Halabja Cultural Hall,2026-06-05,9865,60,Sulaymaniyah Events Co.
+EV945,Halabja Science Forum 2024,Technology,Halabja,Halabja Memorial,2025-01-02,3543,60,SPU
+EV946,Zakho Innovation Conference 2025,Technology,Zakho,Zakho Stadium,2024-05-17,3502,20,StartupKRG
+EV947,Duhok Health Expo 2026,Conference,Duhok,Duhok Expo,2026-11-16,8369,15,Sulaymaniyah Events Co.
+EV948,Halabja Book Fair 2024,Government,Halabja,Halabja Memorial,2024-03-24,6167,40,StartupKRG
+EV949,Duhok Film Festival 2025,Government,Duhok,Duhok Stadium,2024-06-03,8859,0,KRG Media Commission
+EV950,Halabja Health Week 2026,Conference,Halabja,Halabja Memorial,2024-08-09,11827,5,Sulaymaniyah Events Co.
+EV951,Halabja Heritage Fair 2024,Conference,Halabja,Halabja Memorial,2025-06-29,3993,50,AUK
+EV952,Duhok Science Festival 2025,Cultural,Duhok,Duhok Cultural Center,2025-08-03,577,80,UZakho
+EV953,Sulaymaniyah Education Meetup 2026,Sports,Sulaymaniyah,Goizha Convention Center,2024-04-22,1093,40,KRG Ministry of Culture
+EV954,Duhok Business Forum 2024,Education,Duhok,Duhok Expo,2026-05-27,2301,100,Zakho Municipality
+EV955,Zakho Film Week 2025,Conference,Zakho,University of Zakho Hall,2025-02-11,1074,5,Zakho Municipality
+EV956,Zakho Culture Week 2026,Commemorative,Zakho,Zakho Park,2025-06-03,10304,10,UZakho
+EV957,Zakho Education Expo 2024,Business,Zakho,University of Zakho Hall,2026-01-30,10682,35,KRG Media Commission
+EV958,Zakho Culture Week 2025,Health,Zakho,Zakho Park,2026-04-04,9992,10,Kurdistan Data Institute
+EV959,Erbil Science Fair 2026,Business,Erbil,Rotana Hotel,2025-03-23,784,15,KRG Presidency
+EV960,Duhok Innovation Expo 2024,Cultural,Duhok,Dream Hall Duhok,2026-02-25,6545,0,KRG Ministry of Culture
+EV961,Sulaymaniyah Education Camp 2025,Health,Sulaymaniyah,Azmar Resort,2025-03-03,9201,20,AUK
+EV962,Zakho Innovation Week 2026,Conference,Zakho,University of Zakho Hall,2025-01-31,1318,40,KRG Presidency
+EV963,Zakho Culture Expo 2024,Technology,Zakho,Zakho Park,2024-04-29,11128,5,UKH
+EV964,Erbil Heritage Camp 2025,Government,Erbil,AUK Auditorium,2025-12-27,10954,5,KRG Presidency
+EV965,Erbil Culture Forum 2026,Conference,Erbil,AUK Auditorium,2025-04-02,468,50,Kurdistan Tech Association
+EV966,Zakho Heritage Bootcamp 2024,Sports,Zakho,Zakho Park,2024-06-18,444,25,KRG Ministry of Culture
+EV967,Sulaymaniyah Culture Camp 2025,Technology,Sulaymaniyah,SPU Auditorium,2026-06-16,7583,10,KRG Government
+EV968,Erbil Education Bootcamp 2026,Government,Erbil,UKH Campus,2025-05-11,6441,5,UKH
+EV969,Sulaymaniyah Business Camp 2024,Technology,Sulaymaniyah,Bakhtiary Arena,2026-01-03,9023,80,Sulaymaniyah Events Co.
+EV970,Duhok Heritage Bootcamp 2025,Sports,Duhok,AUK Campus,2024-10-19,8697,0,UoS
+EV971,Halabja Startup Week 2026,Education,Halabja,Halabja Cultural Hall,2025-03-08,6405,10,KRG Presidency
+EV972,Halabja Health Festival 2024,Conference,Halabja,Halabja Cultural Hall,2025-11-25,132,10,Duhok Sports Directorate
+EV973,Halabja Education Summit 2025,Education,Halabja,Sirwan Park,2026-03-11,8523,40,UKH
+EV974,Erbil Film Forum 2026,Health,Erbil,Sami Abdulrahman Park,2025-02-27,5833,40,SPU
+EV975,Sulaymaniyah Film Meetup 2024,Government,Sulaymaniyah,Bakhtiary Arena,2024-10-28,809,25,Duhok Sports Directorate
+EV976,Erbil Startup Summit 2025,Sports,Erbil,Erbil Citadel Grounds,2024-07-16,2997,40,Kurdistan Tech Association
+EV977,Zakho Business Festival 2026,Business,Zakho,University of Zakho Hall,2025-11-15,10635,50,UZakho
+EV978,Erbil Health Bootcamp 2024,Cultural,Erbil,UKH Campus,2024-06-01,11315,5,SPU
+EV979,Zakho Culture Forum 2025,Cultural,Zakho,Zakho Park,2024-12-11,2472,5,SPU
+EV980,Sulaymaniyah Film Conference 2026,Education,Sulaymaniyah,Goizha Convention Center,2024-11-08,3973,50,Zakho Municipality
+EV981,Duhok Heritage Bootcamp 2024,Health,Duhok,Duhok Expo,2025-04-10,10693,35,KRG Media Commission
+EV982,Halabja Culture Summit 2025,Cultural,Halabja,Sirwan Park,2024-04-04,9316,5,KRG Presidency
+EV983,Duhok Film Festival 2026,Technology,Duhok,AUK Campus,2026-08-20,11513,20,Sulaymaniyah Events Co.
+EV984,Erbil Science Camp 2024,Business,Erbil,AUK Auditorium,2024-02-16,9400,60,StartupKRG
+EV985,Sulaymaniyah Innovation Conference 2025,Conference,Sulaymaniyah,Goizha Convention Center,2024-01-10,5721,60,Kurdistan Data Institute
+EV986,Halabja Culture Week 2026,Government,Halabja,Halabja Memorial,2024-08-14,499,80,Duhok Sports Directorate
+EV987,Duhok Health Festival 2024,Technology,Duhok,Duhok Cultural Center,2025-06-28,3370,20,KRG Ministry of Culture
+EV988,Duhok Science Expo 2025,Cultural,Duhok,Dream Hall Duhok,2026-10-21,1753,60,Duhok Sports Directorate
+EV989,Duhok Education Conference 2026,Technology,Duhok,Duhok Cultural Center,2024-12-10,3705,25,StartupKRG
+EV990,Halabja Startup Summit 2024,Government,Halabja,Sirwan Park,2026-01-17,150,25,UoS
+EV991,Duhok Heritage Festival 2025,Music,Duhok,Duhok Stadium,2024-01-07,8611,40,AUK
+EV992,Erbil Heritage Forum 2026,Education,Erbil,Erbil Citadel Grounds,2024-12-19,10216,80,AUK
+EV993,Sulaymaniyah Health Week 2024,Business,Sulaymaniyah,Slemani Expo Center,2026-07-11,2714,25,UKH
+EV994,Duhok Business Camp 2025,Health,Duhok,Duhok Cultural Center,2026-01-29,11833,60,KRG Media Commission
+EV995,Duhok Culture Week 2026,Technology,Duhok,AUK Campus,2025-09-07,8608,100,StartupKRG
+EV996,Duhok Innovation Summit 2024,Cultural,Duhok,AUK Campus,2024-03-03,10073,100,AUK
+EV997,Zakho Book Week 2025,Music,Zakho,University of Zakho Hall,2024-11-19,8976,35,KRG Government
+EV998,Erbil Film Summit 2026,Government,Erbil,Rotana Hotel,2024-02-20,4506,0,KRG Government
+EV999,Sulaymaniyah Book Conference 2024,Cultural,Sulaymaniyah,Slemani Expo Center,2025-08-01,1986,0,UZakho
+EV1000,Sulaymaniyah Innovation Festival 2025,Sports,Sulaymaniyah,SPU Auditorium,2025-02-05,935,100,Kurdistan Tech Association

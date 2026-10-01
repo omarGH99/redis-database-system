@@ -1,0 +1,240 @@
+{% extends "base.html" %}
+{% block title %}Browse · Redis Database System{% endblock %}
+{% block content %}
+
+<h1>Browse <span class="slash">/</span> Tables</h1>
+<p class="lede">Pick a table, click a column header to sort, type to search every field. Click any row to see how it is stored in Redis.</p>
+
+<div class="panel">
+  <label>Select table</label>
+  <div id="chips" style="display:flex; gap:8px; flex-wrap:wrap; margin-top:8px;">
+    {% for name, id_col in table_chips %}
+    <button class="btn btn-ghost btn-sm chip" data-table="{{ name }}" data-id="{{ id_col }}">
+      {{ name }} <span id="cnt-{{ name }}" style="color:var(--faint); margin-left:3px;">…</span>
+    </button>
+    {% endfor %}
+  </div>
+
+  <div class="frow" style="margin-top:14px; border-top:1px solid var(--line); padding-top:12px;">
+    <div class="field" style="flex:3; min-width:200px;">
+      <label for="search">Search (any field)</label>
+      <input id="search" type="search" placeholder="e.g.  Erbil   Computer Science   UKH">
+    </div>
+    <div class="field">
+      <label for="sort-col">Sort column</label>
+      <select id="sort-col"></select>
+    </div>
+    <div class="field" style="max-width:150px;">
+      <label for="sort-dir">Direction</label>
+      <select id="sort-dir">
+        <option value="asc">Ascending ↑</option>
+        <option value="desc">Descending ↓</option>
+      </select>
+    </div>
+    <div class="field" style="max-width:130px;">
+      <label for="pgsz">Rows per page</label>
+      <select id="pgsz">
+        <option>25</option><option selected>50</option>
+        <option>100</option><option>250</option>
+      </select>
+    </div>
+  </div>
+</div>
+
+<div class="gap8 mt8" style="justify-content:space-between;">
+  <div id="status" class="mono" style="font-size:11px; color:var(--faint); min-height:18px;" aria-live="polite"></div>
+  <button class="btn btn-ghost btn-xs" id="csv" title="Download the rows on this page">⭳ CSV (this page)</button>
+</div>
+<div id="result" class="mt8"></div>
+<div id="pager"  class="mt8" style="display:flex; gap:6px; flex-wrap:wrap; align-items:center;"></div>
+
+<!-- row detail: how the row is stored in Redis -->
+<dialog id="detail">
+  <div class="ph"><span class="badge">HASH</span><h3 id="d-key"></h3>
+    <button class="btn btn-ghost btn-xs" id="d-close" aria-label="Close">✕</button></div>
+  <pre id="d-body"></pre>
+</dialog>
+
+<style>
+  .chip.active { background:var(--red)!important; color:#fff!important; border-color:var(--red)!important; }
+  .chip.active span { color:rgba(255,255,255,.65)!important; }
+  table.dt tbody tr { cursor: pointer; }
+  table.dt td.num, table.dt th.num { text-align: right; }
+  table.dt td:first-child, table.dt th:first-child { position: sticky; left: 0; background: var(--panel2); }
+  dialog { margin: auto; background: var(--panel); color: var(--text); border: 1px solid var(--line); border-radius: 6px;
+           padding: 18px 20px; width: min(560px, 92vw); }
+  dialog::backdrop { background: rgba(0,0,0,.65); }
+</style>
+
+<script>
+const params = new URLSearchParams(location.search);
+let state = { table: params.get('table') || 'students', id_col: null, prefix: null,
+              sort_col: params.get('sort_col') || '', sort_dir: params.get('sort_dir') || 'asc',
+              page: parseInt(params.get('page')) || 1,
+              page_size: parseInt(params.get('page_size')) || 50,
+              search: params.get('search') || '', total: 0, pages: 1 };
+let debounce = null, reqId = 0, lastRows = [], lastCols = [];
+
+// Row counts
+(async () => {
+  try {
+    const tables = await api('/api/tables');
+    tables.forEach(t => { const el = $(`cnt-${t.name}`); if (el) el.textContent = t.rows.toLocaleString(); });
+  } catch (e) { showError(e.message); }
+})();
+
+function syncControls() {
+  $('search').value = state.search;
+  $('sort-dir').value = state.sort_dir;
+  $('pgsz').value = String(state.page_size);
+  document.querySelectorAll('.chip').forEach(c => c.classList.toggle('active', c.dataset.table === state.table));
+}
+
+document.querySelectorAll('.chip').forEach(b => {
+  b.addEventListener('click', () => selectTable(b.dataset.table));
+});
+
+function selectTable(name) {
+  const chip = document.querySelector(`.chip[data-table="${CSS.escape(name)}"]`) ||
+               document.querySelector('.chip');
+  state = { ...state, table: chip.dataset.table, id_col: chip.dataset.id,
+            sort_col: '', sort_dir: 'asc', page: 1, search: '' };
+  $('sort-col').dataset.table = '';
+  syncControls();
+  load();
+}
+
+$('search').addEventListener('input', () => {
+  clearTimeout(debounce);
+  debounce = setTimeout(() => { state.search = $('search').value; state.page = 1; load(); }, 250);
+});
+$('sort-col').addEventListener('change', () => { state.sort_col = $('sort-col').value; state.page = 1; load(); });
+$('sort-dir').addEventListener('change', () => { state.sort_dir = $('sort-dir').value; state.page = 1; load(); });
+$('pgsz').addEventListener('change', () => { state.page_size = parseInt($('pgsz').value); state.page = 1; load(); });
+
+async function load() {
+  const my = ++reqId;                       // ignore out-of-order responses
+  $('status').textContent = `> querying ${state.table}…`;
+  const p = new URLSearchParams({
+    sort_col: state.sort_col, sort_dir: state.sort_dir,
+    page: state.page, page_size: state.page_size, search: state.search,
+  });
+  let j;
+  try {
+    j = await api(`/api/browse/${encodeURIComponent(state.table)}?${p}`);
+  } catch (e) {
+    if (my === reqId) { $('status').textContent = ''; showError(e.message); }
+    return;
+  }
+  if (my !== reqId) return;
+
+  state.total = j.total; state.pages = j.pages; state.page = j.page;
+  state.id_col = j.id_col; state.prefix = j.prefix; state.sort_col = j.sort_col;
+  lastRows = j.rows; lastCols = j.columns;
+
+  const sc = $('sort-col');
+  if (j.columns?.length && sc.dataset.table !== state.table) {
+    sc.innerHTML = j.columns.map(c => `<option value="${esc(c)}">${esc(c)}</option>`).join('');
+    sc.dataset.table = state.table;
+  }
+  sc.value = j.sort_col;
+
+  const note = state.search ? ` · filter: "${esc(state.search)}"` : '';
+  $('status').innerHTML =
+    `<span class="pill pill-red">${esc(j.table)}</span> ` +
+    `${j.total.toLocaleString()} rows${note} · page ${j.page}/${j.pages} · ` +
+    `sorted by <span style="color:var(--cream)">${esc(j.sort_col)}</span> ${esc(j.sort_dir.toUpperCase())} · ` +
+    `engine=${esc(j.engine)} · ${j.elapsed_ms} ms`;
+
+  $('result').innerHTML = renderTable(j);
+  $('result').querySelectorAll('th[data-col]').forEach(th => {
+    th.addEventListener('click', () => {
+      if (state.sort_col === th.dataset.col) state.sort_dir = state.sort_dir === 'asc' ? 'desc' : 'asc';
+      else { state.sort_col = th.dataset.col; state.sort_dir = 'asc'; }
+      $('sort-dir').value = state.sort_dir;
+      state.page = 1; load();
+    });
+  });
+  $('result').querySelectorAll('tbody tr').forEach(tr => {
+    tr.addEventListener('click', () => showDetail(parseInt(tr.dataset.i)));
+  });
+  renderPager();
+  syncUrl({ table: state.table, search: state.search, sort_col: state.sort_col,
+            sort_dir: state.sort_dir === 'asc' ? '' : state.sort_dir,
+            page: state.page > 1 ? state.page : '',
+            page_size: state.page_size !== 50 ? state.page_size : '' });
+}
+
+function isNumeric(rows, c) {
+  return rows.length && rows.every(r => r[c] === '' || (r[c] !== null && !isNaN(Number(r[c]))));
+}
+
+function renderTable(j) {
+  if (!j.rows.length) return '<div class="panel"><p class="muted">No rows match.</p></div>';
+  const num = Object.fromEntries(j.columns.map(c => [c, c !== j.id_col && isNumeric(j.rows, c)]));
+  let h = '<div class="tbl-wrap" style="max-height:70vh;"><table class="dt"><thead><tr>';
+  j.columns.forEach(c => {
+    const cls = [num[c] ? 'num' : '', c === j.sort_col ? (j.sort_dir === 'desc' ? 'sd' : 'sa') : ''].join(' ');
+    h += `<th data-col="${esc(c)}" class="${cls}">${esc(c)}</th>`;
+  });
+  h += '</tr></thead><tbody>';
+  j.rows.forEach((row, i) => {
+    h += `<tr data-i="${i}">` + j.columns.map(c =>
+      `<td class="${num[c] ? 'num' : ''}">${esc(row[c] ?? '')}</td>`).join('') + '</tr>';
+  });
+  return h + '</tbody></table></div>';
+}
+
+function showDetail(i) {
+  const row = lastRows[i];
+  if (!row) return;
+  const key = `${state.prefix}:${row[state.id_col]}`;
+  $('d-key').textContent = key;
+  const w = Math.max(...lastCols.map(c => c.length));
+  $('d-body').textContent = `> HGETALL ${key}\n` +
+    lastCols.map((c, n) => `${String(n + 1).padStart(2)}) ${c.padEnd(w)}  "${row[c] ?? ''}"`).join('\n');
+  $('detail').showModal();
+}
+$('d-close').addEventListener('click', () => $('detail').close());
+$('detail').addEventListener('click', e => { if (e.target === $('detail')) $('detail').close(); });
+
+$('csv').addEventListener('click', () => {
+  if (!lastRows.length) return;
+  const q = v => `"${String(v ?? '').replace(/"/g, '""')}"`;
+  const csv = [lastCols.map(q).join(','), ...lastRows.map(r => lastCols.map(c => q(r[c])).join(','))].join('\n');
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(new Blob([csv], { type: 'text/csv' }));
+  a.download = `${state.table}-page${state.page}.csv`;
+  a.click();
+  URL.revokeObjectURL(a.href);
+});
+
+function renderPager() {
+  $('pager').innerHTML = '';
+  if (state.pages <= 1) return;
+  const cur = state.page, last = state.pages;
+  const pages = [...new Set([1, last, cur - 1, cur, cur + 1])].filter(p => p >= 1 && p <= last).sort((a, b) => a - b);
+  let h = `<button class="btn btn-ghost btn-sm pager-btn" data-p="${Math.max(1, cur - 1)}" ${cur === 1 ? 'disabled' : ''}>← Prev</button>`;
+  let prev = 0;
+  pages.forEach(p => {
+    if (p - prev > 1) h += '<span class="muted">…</span>';
+    h += `<button class="${p === cur ? 'btn' : 'btn btn-ghost'} btn-sm pager-btn" data-p="${p}">${p}</button>`;
+    prev = p;
+  });
+  h += `<button class="btn btn-ghost btn-sm pager-btn" data-p="${Math.min(last, cur + 1)}" ${cur === last ? 'disabled' : ''}>Next →</button>`;
+  $('pager').innerHTML = h;
+  $('pager').querySelectorAll('.pager-btn').forEach(b => {
+    b.addEventListener('click', () => { state.page = parseInt(b.dataset.p); load(); window.scrollTo({ top: 0, behavior: 'smooth' }); });
+  });
+}
+
+// Initial load honours ?table=&search=&sort_col=... from the URL
+(() => {
+  const chip = document.querySelector(`.chip[data-table="${CSS.escape(state.table)}"]`) ||
+               document.querySelector('.chip');
+  state.table = chip.dataset.table; state.id_col = chip.dataset.id;
+  syncControls();
+  load();
+})();
+</script>
+{% endblock %}

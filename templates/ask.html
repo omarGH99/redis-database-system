@@ -1,0 +1,305 @@
+{% extends "base.html" %}
+{% block title %}Query · Redis Database System{% endblock %}
+{% block content %}
+
+<h1>Query <span class="slash">/</span> NL</h1>
+<p class="lede">
+  Type any question in plain English. The app shows which Redis structure answered it,
+  the confidence level, and why it matched.
+</p>
+
+<div class="panel">
+  <div class="field">
+    <label>Your question</label>
+    <input id="q" type="text" maxlength="300"
+      placeholder="e.g.  students enrolled in Fall 2023   or   students with GPA above 3.5">
+  </div>
+  <div class="gap8" style="flex-wrap:wrap;">
+    <button onclick="ask()">Ask</button>
+    <button class="btn btn-ghost btn-sm" id="copylink" onclick="copyLink()">Copy link</button>
+    <button class="btn btn-ghost btn-sm" onclick="ex('students enrolled in Fall 2023')">Fall 2023 students</button>
+    <button class="btn btn-ghost btn-sm" onclick="ex('students with GPA above 3.5')">GPA above 3.5</button>
+    <button class="btn btn-ghost btn-sm" onclick="ex('students from Erbil')">students from Erbil</button>
+    <button class="btn btn-ghost btn-sm" onclick="ex('universities that offer database')">unis w/ database</button>
+    <button class="btn btn-ghost btn-sm" onclick="ex('list computer science courses')">CS courses</button>
+    <button class="btn btn-ghost btn-sm" onclick="ex('online courses')">online courses</button>
+    <button class="btn btn-ghost btn-sm" onclick="ex('who teaches Database Systems')">who teaches</button>
+    <button class="btn btn-ghost btn-sm" onclick="ex('what courses is S001 enrolled in')">S001 courses</button>
+    <button class="btn btn-ghost btn-sm" onclick="ex('show me students in Data Science')">DS students</button>
+    <button class="btn btn-ghost btn-sm" onclick="ex('list of courses at UKH')">UKH courses</button>
+    <button class="btn btn-ghost btn-sm" onclick="ex('who is enrolled in C101')">enrolled C101</button>
+    <button class="btn btn-ghost btn-sm" onclick="ex('students who got an A in C101')">grade A in C101</button>
+    <button class="btn btn-ghost btn-sm" onclick="ex('universities in Erbil')">unis in Erbil</button>
+    <button class="btn btn-ghost btn-sm" onclick="ex('average gpa at UKH')">avg GPA UKH</button>
+    <button class="btn btn-ghost btn-sm" onclick="ex('events by AUK')">AUK events</button>
+  </div>
+</div>
+
+<!-- reference panel -->
+<div class="panel mt16" style="font-family:'JetBrains Mono',monospace; font-size:11.5px; line-height:2.3;">
+  <div style="font-size:10px; text-transform:uppercase; letter-spacing:.1em; color:var(--faint); margin-bottom:12px;">
+    Supported patterns — 16 intents — mix and match words freely
+  </div>
+
+  <div class="ask-cols" style="display:grid; grid-template-columns:1fr 1fr; gap:0 40px;">
+    <div>
+      <div style="color:var(--amber); font-size:10px; text-transform:uppercase; letter-spacing:.1em; margin-bottom:6px;">Students</div>
+
+      <div style="margin-bottom:4px;">
+        <span style="color:var(--red)">→</span>&nbsp;
+        <span style="color:var(--cream)">students enrolled in</span> +
+        <em style="color:var(--amber)">Fall/Spring YYYY</em>
+        <span style="color:var(--faint)"> // "students enrolled in Fall 2023"</span>
+      </div>
+
+      <div style="margin-bottom:4px;">
+        <span style="color:var(--red)">→</span>&nbsp;
+        <span style="color:var(--cream)">students with GPA above/below</span> +
+        <em style="color:var(--amber)">number</em>
+        <span style="color:var(--faint)"> // "students with GPA above 3.5"</span>
+      </div>
+
+      <div style="margin-bottom:4px;">
+        <span style="color:var(--red)">→</span>&nbsp;
+        <span style="color:var(--cream)">top N students by gpa</span>
+        <span style="color:var(--faint)"> // "top 10 students by gpa"</span>
+      </div>
+
+      <div style="margin-bottom:4px;">
+        <span style="color:var(--red)">→</span>&nbsp;
+        <span style="color:var(--cream)">students from</span> /
+        <span style="color:var(--cream)">students in</span> +
+        <em style="color:var(--amber)">city</em>
+        <span style="color:var(--faint)"> // "students from Erbil"</span>
+      </div>
+
+      <div style="margin-bottom:4px;">
+        <span style="color:var(--red)">→</span>&nbsp;
+        <span style="color:var(--cream)">students in</span> +
+        <em style="color:var(--amber)">major</em>
+        <span style="color:var(--faint)"> // "show me students in Data Science"</span>
+      </div>
+
+      <div style="margin-bottom:4px;">
+        <span style="color:var(--red)">→</span>&nbsp;
+        <span style="color:var(--cream)">students at</span> +
+        <em style="color:var(--amber)">university</em>
+        <span style="color:var(--faint)"> // "find students at UKH"</span>
+      </div>
+
+      <div style="margin-bottom:4px;">
+        <span style="color:var(--red)">→</span>&nbsp;
+        <span style="color:var(--cream)">enrolled in</span> /
+        <span style="color:var(--cream)">took</span> +
+        <em style="color:var(--amber)">course id or name</em>
+        <span style="color:var(--faint)"> // "who is enrolled in C101"</span>
+      </div>
+
+      <div style="margin-bottom:4px;">
+        <span style="color:var(--red)">→</span>&nbsp;
+        <span style="color:var(--cream)">students who got</span> +
+        <em style="color:var(--amber)">grade</em> +
+        <span style="color:var(--cream)">in</span> +
+        <em style="color:var(--amber)">course id</em>
+        <span style="color:var(--faint)"> // "students who got an A in C101"</span>
+      </div>
+
+      <div style="margin-bottom:4px;">
+        <span style="color:var(--red)">→</span>&nbsp;
+        <span style="color:var(--cream)">what courses is</span> +
+        <em style="color:var(--amber)">student id</em> +
+        <span style="color:var(--cream)">enrolled in</span>
+        <span style="color:var(--faint)"> // "what courses is S001 enrolled in"</span>
+      </div>
+    </div>
+
+    <div>
+      <div style="color:var(--amber); font-size:10px; text-transform:uppercase; letter-spacing:.1em; margin-bottom:6px;">Courses &amp; Universities</div>
+
+      <div style="margin-bottom:4px;">
+        <span style="color:var(--red)">→</span>&nbsp;
+        <span style="color:var(--cream)">list</span> /
+        <span style="color:var(--cream)">show me</span> +
+        <em style="color:var(--amber)">department name</em> +
+        <span style="color:var(--cream)">courses</span>
+        <span style="color:var(--faint)"> // "list computer science courses"</span>
+      </div>
+
+      <div style="margin-bottom:4px;">
+        <span style="color:var(--red)">→</span>&nbsp;
+        <span style="color:var(--cream)">courses at</span> +
+        <em style="color:var(--amber)">university</em>
+        <span style="color:var(--faint)"> // "list of courses at UKH"</span>
+      </div>
+
+      <div style="margin-bottom:4px;">
+        <span style="color:var(--red)">→</span>&nbsp;
+        <span style="color:var(--cream)">online</span> /
+        <span style="color:var(--cream)">in-person</span> /
+        <span style="color:var(--cream)">hybrid</span> +
+        <span style="color:var(--cream)">courses</span>
+        <span style="color:var(--faint)"> // "online courses"</span>
+      </div>
+
+      <div style="margin-bottom:4px;">
+        <span style="color:var(--red)">→</span>&nbsp;
+        <span style="color:var(--cream)">who teaches</span> +
+        <em style="color:var(--amber)">course name</em>
+        <span style="color:var(--faint)"> // "who teaches Database Systems"</span>
+      </div>
+
+      <div style="margin-bottom:4px;">
+        <span style="color:var(--red)">→</span>&nbsp;
+        <span style="color:var(--cream)">universities that offer</span> +
+        <em style="color:var(--amber)">keyword</em>
+        <span style="color:var(--faint)"> // "universities that offer database"</span>
+      </div>
+
+      <div style="margin-bottom:4px;">
+        <span style="color:var(--red)">→</span>&nbsp;
+        <span style="color:var(--cream)">universities in</span> +
+        <em style="color:var(--amber)">city</em>
+        <span style="color:var(--faint)"> // "universities in Erbil"</span>
+      </div>
+
+      <div style="color:var(--amber); font-size:10px; text-transform:uppercase; letter-spacing:.1em; margin-top:14px; margin-bottom:6px;">Other</div>
+
+      <div style="margin-bottom:4px;">
+        <span style="color:var(--red)">→</span>&nbsp;
+        <span style="color:var(--cream)">average gpa</span> /
+        <span style="color:var(--cream)">avg gpa</span>
+        [<em style="color:var(--amber)">at university</em>]
+      </div>
+
+      <div style="margin-bottom:4px;">
+        <span style="color:var(--red)">→</span>&nbsp;
+        <span style="color:var(--cream)">events by</span> /
+        <span style="color:var(--cream)">events organised by</span> +
+        <em style="color:var(--amber)">organiser</em>
+      </div>
+    </div>
+  </div>
+
+  <div style="margin-top:14px; border-top:1px solid var(--line); padding-top:10px; color:var(--faint); font-size:10.5px;">
+    Available semesters: <span style="color:var(--dim)">Fall 2023 · Spring 2024 · Fall 2024 · Spring 2025 · Fall 2025</span>
+    &nbsp;·&nbsp;
+    Cities: <span style="color:var(--dim)">Erbil · Duhok · Sulaymaniyah · Halabja · Zakho</span>
+    &nbsp;·&nbsp;
+    Universities: <span style="color:var(--dim)">UKH · SPU · UoS · UZakho · EBU</span>
+  </div>
+</div>
+
+<div id="result" class="mt24"></div>
+
+<script>
+function copyLink(){
+  const q=document.getElementById('q').value.trim(); if(!q) return;
+  const url=location.origin+'/ask?q='+encodeURIComponent(q);
+  navigator.clipboard?.writeText(url).then(()=>{ const b=document.getElementById('copylink'); b.textContent='Copied ✓'; setTimeout(()=>b.textContent='Copy link',1500); });
+}
+function ex(v){ document.getElementById('q').value=v; ask(); }
+document.addEventListener('DOMContentLoaded',()=>{
+  document.getElementById('q').addEventListener('keydown',e=>{ if(e.key==='Enter') ask(); });
+  const preset = new URLSearchParams(location.search).get('q');
+  if (preset) { document.getElementById('q').value = preset; ask(); }
+});
+
+
+async function ask() {
+  const q = document.getElementById('q').value.trim();
+  const out = document.getElementById('result');
+  if (!q) return;
+  out.innerHTML = '<div class="panel"><p class="mono" style="color:var(--dim)">thinking…</p></div>';
+  try {
+    const j = await api('/api/ask?q='+encodeURIComponent(q));
+    out.innerHTML = render(j);
+    history.replaceState(null, '', '?q='+encodeURIComponent(q));
+  } catch(e) {
+    out.innerHTML = `<div class="panel"><p style="color:var(--red)">Error: ${esc(e.message)}</p></div>`;
+  }
+}
+
+const INTENT_COLORS = {
+  universities_by_course:       'var(--orange)',
+  universities_by_city:         'var(--orange)',
+  courses_by_department:        'var(--teal)',
+  courses_by_university:        'var(--green)',
+  courses_by_mode:              'var(--green)',
+  courses_by_professor:         'var(--green)',
+  courses_of_student:           'var(--blue)',
+  students_by_course:           'var(--blue)',
+  students_by_major:            'var(--blue)',
+  students_by_university:       'var(--blue)',
+  students_by_university_major: 'var(--blue)',
+  students_by_semester:         'var(--blue)',
+  students_by_city:             'var(--blue)',
+  students_by_gpa:              'var(--blue)',
+  students_by_grade:            'var(--blue)',
+  top_properties:               'var(--amber)',
+  avg_gpa:                      'var(--purple)',
+  events_by_organiser:          'var(--orange)',
+};
+
+function render(j) {
+  if (j.intent === 'unknown') {
+    return `<div class="panel">
+      <div class="ph">
+        <span class="badge" style="background:var(--amber);color:#000;">?</span>
+        <h3>No match found</h3>
+      </div>
+      <p style="color:var(--dim);font-size:13px;margin-bottom:12px;">${esc(j.explanation||"Couldn't understand that phrasing.")}</p>
+      <p style="font-size:12px;color:var(--faint);">Try one of the patterns from the reference panel above, for example:</p>
+      <ul style="margin:10px 0 0 16px;font-family:'JetBrains Mono',monospace;font-size:11.5px;color:var(--dim);line-height:2.2;">
+        <li>students enrolled in <em>Fall 2023</em></li>
+        <li>students with GPA above <em>3.5</em></li>
+        <li>students from <em>Erbil</em></li>
+        <li>online courses</li>
+        <li>who teaches <em>Database Systems</em></li>
+        <li>what courses is <em>S001</em> enrolled in</li>
+        <li>universities that offer <em>database</em></li>
+      </ul>
+    </div>`;
+  }
+
+  const color  = INTENT_COLORS[j.intent] || 'var(--red)';
+  const conf   = Math.round((j.confidence||0)*100);
+  const ccolor = conf>80?'var(--green)':conf>50?'var(--amber)':'var(--red)';
+
+  let html = `<div class="panel">
+    <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:10px;">
+      <span class="pill" style="background:${color};color:#000;border-color:${color};">${esc(j.intent)}</span>
+      <span style="font-size:12px;color:var(--dim);">${esc(j.explanation||'')}</span>
+    </div>
+    <div style="font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--faint);margin-bottom:14px;">
+      confidence: <span style="color:${ccolor}">${conf}%</span>
+      ${j.elapsed_ms!=null ? `&nbsp;·&nbsp; answered in <span style="color:var(--cream)">${j.elapsed_ms} ms</span>` : ''}
+      &nbsp;·&nbsp; matched on: <span style="color:var(--cream)">${esc(j.matched_on||'')}</span>
+    </div>`;
+
+  if (j.university_name) {
+    html += `<p style="font-size:13px;margin-bottom:10px;">${esc(j.university_name)} <span style="color:var(--dim)">(${esc(j.university_id)})</span></p>`;
+  }
+  if (j.student_name) {
+    html += `<p style="font-size:13px;margin-bottom:10px;">Student: <span style="color:var(--cream)">${esc(j.student_name)}</span> <span style="color:var(--dim)">(${esc(j.student_id)})</span></p>`;
+  }
+  if (j.professor) {
+    html += `<p style="font-size:13px;margin-bottom:10px;">Professor: <span style="color:var(--cream)">${esc(j.professor)}</span></p>`;
+  }
+  if (j.grade) {
+    html += `<p style="font-size:13px;margin-bottom:10px;">Grade: <span style="color:var(--cream)">${esc(j.grade)}</span> in course <span style="color:var(--cream)">${esc(j.course_name||j.course_id||'')}</span></p>`;
+  }
+  if (j.matched_courses?.length) {
+    html += '<h3 style="margin:0 0 6px;">Resolved courses</h3>'+tableFrom(j.matched_courses);
+  }
+
+  const ans  = j.answer;
+  const rows = Array.isArray(ans) ? ans : (ans && typeof ans==='object' ? [ans] : []);
+  if (rows.length) {
+    html += `<h3 style="margin:12px 0 6px;">Results <span style="color:var(--dim);font-weight:400">(${rows.length})</span></h3>`
+          + tableFrom(rows);
+  }
+  return html + '</div>';
+}
+</script>
+
+{% endblock %}

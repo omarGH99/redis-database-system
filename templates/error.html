@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block title %}{{ code|default('Error') }} · Redis Database System{% endblock %}
+{% block content %}
+<h1>{{ code|default('Error') }} <span class="slash">/</span> Oops</h1>
+<p class="lede">{{ message }}</p>
+<div class="gap8">
+  <a class="btn" href="/">← Back to dashboard</a>
+  <a class="btn btn-ghost" href="/healthz">Check Redis health</a>
+</div>
+<p class="muted mt16" style="font-size:12px;">
+  Running locally? Start Redis with <code>docker compose up -d</code>, then load the data with
+  <code>python scripts/load_redis.py --reset</code>.
+</p>
+{% endblock %}

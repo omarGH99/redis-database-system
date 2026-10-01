@@ -1,0 +1,39 @@
+# Redis Stack = Redis + RediSearch + RedisJSON + RedisInsight.
+#   docker compose up --build      ->  web app on http://localhost:5000
+# Ports are bound to localhost only; the app container talks to Redis over
+# the internal compose network.
+services:
+  redis:
+    image: redis/redis-stack:7.2.0-v11
+    container_name: om_redis
+    ports:
+      - "127.0.0.1:6379:6379"   # Redis server
+      - "127.0.0.1:8001:8001"   # RedisInsight (http://localhost:8001)
+    volumes:
+      - redis_data:/data
+    environment:
+      - REDIS_ARGS=--save 60 1 --appendonly yes
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+    restart: unless-stopped
+
+  web:
+    build: .
+    container_name: om_web
+    depends_on:
+      redis:
+        condition: service_healthy
+    ports:
+      - "5000:5000"
+    environment:
+      - REDIS_HOST=redis
+      - AUTO_LOAD=1
+      - READ_ONLY=${READ_ONLY:-0}
+      - REPO_URL=${REPO_URL:-https://github.com/}
+    restart: unless-stopped
+
+volumes:
+  redis_data:

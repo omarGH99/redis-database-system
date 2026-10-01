@@ -1,0 +1,1001 @@
+course_id,course_name,credits,department,professor,max_cap,mode
+C101,Database Systems,3,D01,Dr. Khalid Aziz,40,In-person
+C102,Machine Learning,4,D02,Dr. Sana Younis Karim,35,Hybrid
+C103,Algorithms & Data Structures,3,D01,Dr. Rami Faris Hama,50,In-person
+C104,Linear Algebra,3,D06,Dr. Farhad Karim Aziz,60,In-person
+C105,Web Application Development,4,D04,Dr. Laila Omar Said,45,Hybrid
+C106,Cybersecurity Fundamentals,3,D03,Dr. Rami Faris Hama,35,Online
+C107,Data Visualisation,3,D02,Dr. Sana Younis Karim,30,Online
+C108,Digital Circuits,4,D05,Dr. Hama Ali Qadir,45,In-person
+C109,Business Analytics,3,D10,Dr. Aryan Jalal Said,50,Hybrid
+C110,Cloud Computing,4,D01,Dr. Khalid Aziz,40,Online
+C111,Deep Learning,4,D02,Dr. Zana Azad Tahir,25,Online
+C112,Network Security,3,D03,Dr. Narin Salih Omar,30,In-person
+C113,Mobile App Development,4,D04,Dr. Chnar Rebaz Hasan,40,Hybrid
+C114,Statistical Methods,3,D11,Dr. Bestun Nazar Ali,55,In-person
+C115,Project Management,2,D10,Dr. Aryan Jalal Said,60,Online
+C116,Discrete Mathematics II,2,D280,Dr. Kamaran Mustafa Said,41,Hybrid
+C117,Mobile App Development Advanced,3,D636,Dr. Kavar Bakr Mahmoud,114,Online
+C118,Operating Systems Practicum,4,D539,Dr. Salih Saeed Karim,95,In-person
+C119,Database Systems Advanced,3,D411,Dr. Kavar Saeed Karimi,38,Hybrid
+C120,Distributed Systems Seminar,2,D613,Dr. Zhyan Aziz Kadir,112,Online
+C121,Computer Vision Lab,4,D847,Dr. Yara Salam Rashid,73,Online
+C122,Cybersecurity Fundamentals Applications,3,D350,Dr. Lana Bakr Omar,79,Online
+C123,Business Analytics Practicum,4,D850,Dr. Zeynep Sherzad Nuri,111,In-person
+C124,Big Data Analytics II,3,D874,Dr. Alan Latif Nasser,72,Hybrid
+C125,Big Data Analytics II,2,D970,Dr. Dara Farhad Mahmoud,113,In-person
+C126,Cybersecurity Fundamentals I,2,D049,Dr. Salih Mustafa Tahir,115,Hybrid
+C127,Research Methods Applications,2,D571,Dr. Mazin Jamal Nuri,74,Online
+C128,Research Methods Advanced,4,D718,Dr. Saman Barzan Salih,83,Online
+C129,Natural Language Processing II,4,D300,Dr. Karwan Farid Kadir,21,Online
+C130,Research Methods I,4,D657,Dr. Saman Omar Rashid,109,Online
+C131,Network Security Lab,4,D311,Dr. Sardar Aryan Salih,107,Online
+C132,Discrete Mathematics Applications,3,D341,Dr. Rozhan Mohammed Tahir,106,Online
+C133,Cybersecurity Fundamentals II,3,D446,Dr. Karwan Jamal Ahmad,37,Online
+C134,Machine Learning Practicum,4,D121,Dr. Aryan Mustafa Hassan,68,In-person
+C135,Linear Algebra Studio,3,D558,Dr. Xezal Nawzad Taha,89,In-person
+C136,Cloud Computing Applications,3,D361,Dr. Kamaran Mohammed Othman,53,In-person
+C137,Distributed Systems Practicum,3,D404,Dr. Dashni Rizgar Said,59,Online
+C138,Compiler Design I,4,D881,Dr. Naz Hama Saeed,99,Hybrid
+C139,Network Security I,4,D374,Dr. Hawkar Raber Hama,78,Hybrid
+C140,Network Security II,2,D401,Dr. Nawzad Ihsan Karim,64,Online
+C141,Mobile App Development Studio,2,D290,Dr. Kavar Mustafa Qadir,32,Hybrid
+C142,Data Visualisation II,4,D390,Dr. Karwan Aryan Kadir,85,In-person
+C143,Linear Algebra Applications,2,D678,Dr. Rami Ihsan Nasser,39,Online
+C144,Digital Circuits Applications,4,D150,Dr. Yara Ihsan Kadir,67,Hybrid
+C145,Statistical Methods Advanced,4,D466,Dr. Saman Bakr Kadir,54,In-person
+C146,Natural Language Processing Applications,3,D089,Dr. Chnar Aziz Taha,37,Hybrid
+C147,Statistical Methods I,3,D891,Dr. Azad Jamal Aziz,110,In-person
+C148,Data Visualisation Seminar,2,D169,Dr. Azad Farid Tahir,37,Hybrid
+C149,Distributed Systems Studio,2,D096,Dr. Dashni Jamal Hasan,40,Online
+C150,Data Mining Seminar,2,D571,Dr. Mazin Jamal Nuri,73,Hybrid
+C151,Data Mining Advanced,3,D598,Dr. Narin Bakr Othman,116,Hybrid
+C152,Distributed Systems Practicum,3,D600,Dr. Kamaran Ihsan Hassan,34,In-person
+C153,Web Application Development Advanced,3,D530,Dr. Randa Farid Mahmoud,84,In-person
+C154,Digital Circuits I,3,D395,Dr. Randa Aryan Said,74,Online
+C155,Database Systems Practicum,4,D488,Dr. Yara Omar Hassan,57,Hybrid
+C156,Algorithms & Data Structures Practicum,3,D365,Dr. Avan Rizgar Faris,99,In-person
+C157,Computer Networks Advanced,3,D660,Dr. Saman Saeed Faris,55,In-person
+C158,Computer Vision Lab,4,D414,Dr. Hawkar Mustafa Hama,45,Hybrid
+C159,Human-Computer Interaction II,4,D898,Dr. Baran Fuad Faris,98,In-person
+C160,Calculus I Advanced,3,D165,Dr. Salih Jalal Kadir,35,In-person
+C161,Machine Learning Seminar,3,D136,Dr. Zeynep Jalal Nasser,38,Hybrid
+C162,Discrete Mathematics Lab,2,D131,Dr. Zeynep Omar Mustafa,26,Hybrid
+C163,Computer Networks Seminar,3,D978,Dr. Salih Aryan Said,48,Hybrid
+C164,Data Mining I,4,D917,Dr. Layla Bakr Karim,74,Online
+C165,Cloud Computing II,3,D209,Dr. Alan Jalal Nuri,66,Hybrid
+C166,Computer Vision Practicum,3,D630,Dr. Nawzad Jalal Ali,60,In-person
+C167,Machine Learning I,2,D969,Dr. Zhyan Jalal Nuri,104,Online
+C168,Data Visualisation Seminar,4,D243,Dr. Saman Kamaran Ahmad,55,Online
+C169,Statistical Methods Advanced,3,D634,Dr. Dilan Karim Mustafa,82,Hybrid
+C170,Cloud Computing II,2,D422,Dr. Pishtiwan Mohammed Taha,105,In-person
+C171,Operating Systems Advanced,3,D629,Dr. Sardar Dara Othman,66,Online
+C172,Distributed Systems Studio,3,D514,Dr. Dilan Fuad Nasser,103,Hybrid
+C173,Software Engineering Practicum,2,D675,Dr. Hawkar Mustafa Omar,33,In-person
+C174,Distributed Systems II,2,D300,Dr. Karwan Farid Kadir,95,Online
+C175,Data Visualisation Applications,2,D029,Dr. Farhad Rebaz Hama,29,Online
+C176,Deep Learning Seminar,4,D950,Dr. Helin Jamal Omar,117,In-person
+C177,Distributed Systems Advanced,2,D335,Dr. Azad Saeed Mahmoud,36,In-person
+C178,Operating Systems Seminar,4,D498,Dr. Dilan Farid Ali,64,Hybrid
+C179,Big Data Analytics II,4,D748,Dr. Pishtiwan Sherzad Kadir,28,Hybrid
+C180,Computer Networks I,3,D249,Dr. Azad Ihsan Nuri,96,Hybrid
+C181,Web Application Development Seminar,2,D354,Dr. Pishtiwan Rebaz Aziz,92,In-person
+C182,Data Visualisation Practicum,4,D987,Dr. Mazin Mohammed Taha,107,Online
+C183,Algorithms & Data Structures Advanced,4,D246,Dr. Alan Nawzad Salih,116,Online
+C184,Operating Systems Practicum,4,D534,Dr. Wrya Fuad Othman,97,Hybrid
+C185,Cybersecurity Fundamentals I,3,D601,Dr. Lana Omar Faris,93,In-person
+C186,Computer Vision I,4,D170,Dr. Rebaz Omar Othman,78,Online
+C187,Distributed Systems Seminar,3,D535,Dr. Pishtiwan Farid Faris,48,Hybrid
+C188,Business Analytics II,3,D069,Dr. Jalal Latif Nasser,48,In-person
+C189,Digital Circuits Seminar,2,D857,Dr. Kavar Fuad Omar,101,In-person
+C190,Research Methods Advanced,3,D901,Dr. Narin Jamal Faris,26,Online
+C191,Compiler Design Lab,4,D713,Dr. Alan Bakr Rashid,34,In-person
+C192,Network Security Studio,3,D105,Dr. Kavar Aryan Kadir,30,Online
+C193,Business Analytics Advanced,4,D875,Dr. Rami Salam Said,98,Hybrid
+C194,Machine Learning I,3,D829,Dr. Layla Saeed Salih,48,Online
+C195,Cybersecurity Fundamentals Seminar,2,D155,Dr. Sardar Farid Karimi,88,Online
+C196,Linear Algebra Practicum,3,D046,Dr. Naz Rebaz Saeed,100,Online
+C197,Operating Systems Lab,4,D324,Dr. Zeynep Bakr Ahmad,48,Hybrid
+C198,Data Visualisation Practicum,3,D958,Dr. Dilan Saeed Saeed,77,In-person
+C199,Distributed Systems Practicum,3,D247,Dr. Avan Saeed Taha,38,Hybrid
+C200,Data Mining Advanced,4,D303,Dr. Shilan Fuad Nuri,43,In-person
+C201,Software Engineering Applications,3,D753,Dr. Chnar Saber Nuri,102,Hybrid
+C202,Cloud Computing Advanced,3,D141,Dr. Aryan Rebaz Said,70,Online
+C203,Data Visualisation II,3,D121,Dr. Aryan Mustafa Hassan,29,Hybrid
+C204,Project Management Practicum,2,D318,Dr. Hawkar Jamal Karimi,112,Online
+C205,Distributed Systems I,4,D578,Dr. Randa Latif Othman,32,Hybrid
+C206,Database Systems II,2,D338,Dr. Rami Aryan Faris,117,Online
+C207,Web Application Development Lab,2,D183,Dr. Randa Jalal Aziz,54,In-person
+C208,Discrete Mathematics I,2,D870,Dr. Layla Mohammed Mahmoud,33,Online
+C209,Compiler Design Studio,2,D376,Dr. Zeynep Rebaz Othman,45,In-person
+C210,Blockchain Fundamentals Applications,3,D385,Dr. Narin Bakr Mustafa,59,Hybrid
+C211,Web Application Development Lab,2,D196,Dr. Baran Raber Qadir,89,Online
+C212,Big Data Analytics II,2,D912,Dr. Yara Jamal Ahmad,25,In-person
+C213,Cloud Computing II,4,D211,Dr. Zhyan Hama Said,73,In-person
+C214,Research Methods Lab,2,D872,Dr. Layla Hama Taha,49,Hybrid
+C215,Web Application Development Studio,3,D327,Dr. Naz Latif Nasser,48,Online
+C216,Natural Language Processing II,4,D980,Dr. Chnar Mustafa Ali,41,In-person
+C217,Linear Algebra Seminar,3,D648,Dr. Narin Barzan Kadir,29,Online
+C218,Linear Algebra Studio,2,D461,Dr. Alan Rizgar Said,25,Online
+C219,Cybersecurity Fundamentals Practicum,4,D247,Dr. Avan Saeed Taha,62,Online
+C220,Natural Language Processing Practicum,3,D618,Dr. Pishtiwan Karim Tahir,105,Online
+C221,Discrete Mathematics Seminar,3,D705,Dr. Mazin Mustafa Hasan,33,Hybrid
+C222,Natural Language Processing Studio,3,D666,Dr. Rebaz Ihsan Ahmad,111,In-person
+C223,Calculus I Advanced,3,D686,Dr. Chnar Nawzad Hassan,60,In-person
+C224,Project Management Applications,2,D208,Dr. Yara Omar Karimi,34,Online
+C225,Distributed Systems Seminar,3,D733,Dr. Zhyan Fuad Hassan,31,Hybrid
+C226,Cybersecurity Fundamentals Practicum,3,D718,Dr. Saman Barzan Salih,60,Hybrid
+C227,Data Mining Practicum,4,D100,Dr. Vian Saeed Faris,101,Hybrid
+C228,Human-Computer Interaction Lab,4,D294,Dr. Zeynep Karim Hasan,73,Online
+C229,Operating Systems Applications,4,D205,Dr. Zeynep Aryan Taha,88,In-person
+C230,Algorithms & Data Structures Practicum,4,D096,Dr. Dashni Jamal Hasan,93,Online
+C231,Digital Circuits II,3,D347,Dr. Rebaz Rizgar Omar,66,In-person
+C232,Calculus I I,3,D465,Dr. Salih Raber Faris,91,Hybrid
+C233,Research Methods II,2,D057,Dr. Lana Nawzad Ali,64,Hybrid
+C234,Cloud Computing Applications,3,D258,Dr. Chnar Rebaz Karimi,90,Hybrid
+C235,Data Visualisation Lab,2,D290,Dr. Kavar Mustafa Qadir,115,In-person
+C236,Computer Vision Advanced,4,D741,Dr. Pishtiwan Mohammed Ali,113,In-person
+C237,Statistical Methods Studio,2,D551,Dr. Mazin Ihsan Nuri,109,In-person
+C238,Software Engineering II,4,D420,Dr. Layla Raber Nuri,96,In-person
+C239,Web Application Development Studio,3,D995,Dr. Azad Ihsan Mustafa,30,In-person
+C240,Database Systems Practicum,3,D442,Dr. Alan Salam Rashid,117,In-person
+C241,Distributed Systems Advanced,4,D836,Dr. Vian Ihsan Omar,109,Hybrid
+C242,Statistical Methods Studio,4,D431,Dr. Dashni Bakr Mahmoud,120,Online
+C243,Database Systems Seminar,2,D897,Dr. Pishtiwan Mustafa Karim,39,In-person
+C244,Machine Learning Advanced,4,D266,Dr. Randa Omar Nasser,40,In-person
+C245,Compiler Design Practicum,4,D545,Dr. Kamaran Rizgar Karim,90,Online
+C246,Research Methods Seminar,3,D034,Dr. Kamaran Barzan Ali,74,In-person
+C247,Algorithms & Data Structures Practicum,3,D275,Dr. Chnar Omar Qadir,115,In-person
+C248,Discrete Mathematics I,3,D207,Dr. Azad Farhad Salih,70,In-person
+C249,Operating Systems II,4,D036,Dr. Xezal Farid Othman,81,Hybrid
+C250,Big Data Analytics Practicum,4,D869,Dr. Hawkar Jamal Ahmad,41,In-person
+C251,Big Data Analytics Practicum,3,D991,Dr. Narin Rizgar Omar,54,In-person
+C252,Algorithms & Data Structures Studio,4,D586,Dr. Mazin Saber Said,119,Hybrid
+C253,Digital Circuits Seminar,3,D411,Dr. Kavar Saeed Karimi,89,In-person
+C254,Data Visualisation I,3,D102,Dr. Lana Mustafa Ali,44,Online
+C255,Big Data Analytics I,3,D554,Dr. Alan Saber Hassan,54,In-person
+C256,Software Engineering I,4,D153,Dr. Dara Farid Salih,81,In-person
+C257,Deep Learning II,3,D856,Dr. Pishtiwan Farhad Said,21,Hybrid
+C258,Cloud Computing Practicum,4,D671,Dr. Azad Kamaran Othman,44,Hybrid
+C259,Mobile App Development Studio,3,D351,Dr. Mazin Kamaran Aziz,109,Online
+C260,Deep Learning Practicum,4,D626,Dr. Pishtiwan Aryan Othman,32,Online
+C261,Database Systems Practicum,4,D248,Dr. Rami Sherzad Kadir,95,In-person
+C262,Cybersecurity Fundamentals Advanced,4,D861,Dr. Zeynep Salam Mahmoud,30,Online
+C263,Computer Vision Lab,3,D453,Dr. Nawzad Kamaran Taha,107,Online
+C264,Blockchain Fundamentals Advanced,4,D830,Dr. Zeynep Aryan Hama,86,Online
+C265,Big Data Analytics Studio,4,D680,Dr. Pishtiwan Farid Ahmad,120,In-person
+C266,Cloud Computing Studio,4,D170,Dr. Rebaz Omar Othman,75,In-person
+C267,Blockchain Fundamentals Practicum,3,D067,Dr. Helin Latif Aziz,46,Online
+C268,Algorithms & Data Structures Advanced,4,D792,Dr. Saman Sherzad Ali,100,Hybrid
+C269,Human-Computer Interaction I,3,D056,Dr. Kavar Farid Saeed,118,Hybrid
+C270,Calculus I II,4,D736,Dr. Shilan Farid Salih,32,Hybrid
+C271,Cybersecurity Fundamentals Seminar,3,D993,Dr. Xezal Aryan Othman,28,Hybrid
+C272,Network Security Studio,2,D02,Dr. Sana Younis Karim,29,In-person
+C273,Blockchain Fundamentals Applications,3,D093,Dr. Zeynep Aryan Taha,80,Hybrid
+C274,Big Data Analytics Advanced,2,D862,Dr. Naz Hama Othman,92,Hybrid
+C275,Network Security Seminar,4,D734,Dr. Sardar Latif Ali,72,Online
+C276,Web Application Development Applications,3,D835,Dr. Kamaran Farid Salih,85,Online
+C277,Network Security II,4,D161,Dr. Yara Aziz Nasser,84,Hybrid
+C278,Calculus II I,4,D065,Dr. Narin Bakr Othman,102,In-person
+C279,Human-Computer Interaction Lab,4,D393,Dr. Fuad Kamaran Karim,21,In-person
+C280,Cloud Computing Practicum,3,D853,Dr. Zeynep Sherzad Saeed,92,Hybrid
+C281,Digital Circuits Practicum,4,D771,Dr. Dilan Saber Omar,105,In-person
+C282,Project Management Applications,4,D459,Dr. Rozhan Omar Nasser,79,In-person
+C283,Cybersecurity Fundamentals II,4,D452,Dr. Naz Hama Nuri,118,Hybrid
+C284,Mobile App Development Studio,2,D389,Dr. Hawkar Rebaz Ahmad,60,Hybrid
+C285,Data Mining Lab,4,D907,Dr. Narin Saeed Tahir,34,Hybrid
+C286,Machine Learning Advanced,4,D309,Dr. Randa Aziz Salih,38,Online
+C287,Deep Learning I,4,D318,Dr. Hawkar Jamal Karimi,119,Hybrid
+C288,Research Methods Studio,4,D456,Dr. Aryan Kamaran Said,80,In-person
+C289,Data Visualisation I,4,D115,Dr. Yara Aryan Nasser,54,Hybrid
+C290,Cybersecurity Fundamentals II,3,D092,Dr. Baran Omar Kadir,28,Hybrid
+C291,Algorithms & Data Structures Seminar,4,D127,Dr. Helin Aryan Hasan,73,Online
+C292,Natural Language Processing Seminar,3,D308,Dr. Naz Salam Karimi,26,In-person
+C293,Deep Learning Seminar,3,D842,Dr. Farhad Bakr Karimi,45,Hybrid
+C294,Data Mining Applications,4,D447,Dr. Bestun Saeed Kadir,108,In-person
+C295,Statistical Methods Studio,4,D521,Dr. Fuad Kamaran Karim,69,In-person
+C296,Human-Computer Interaction Lab,2,D540,Dr. Rebaz Fuad Aziz,112,Online
+C297,Discrete Mathematics Advanced,3,D647,Dr. Fuad Nawzad Omar,105,Online
+C298,Compiler Design Studio,2,D564,Dr. Helin Nawzad Mahmoud,39,Hybrid
+C299,Data Mining Studio,2,D767,Dr. Helin Rizgar Hassan,106,Hybrid
+C300,Computer Networks I,4,D357,Dr. Jalal Saeed Hassan,36,Online
+C301,Big Data Analytics II,2,D797,Dr. Rami Dara Omar,47,Online
+C302,Statistical Methods Advanced,4,D802,Dr. Chnar Salam Hama,68,In-person
+C303,Data Visualisation Lab,4,D755,Dr. Azad Fuad Hassan,21,Hybrid
+C304,Database Systems Seminar,3,D413,Dr. Farhad Bakr Faris,84,In-person
+C305,Data Mining Applications,4,D148,Dr. Azad Ihsan Hassan,72,Hybrid
+C306,Compiler Design Practicum,4,D267,Dr. Shilan Latif Ahmad,117,Hybrid
+C307,Research Methods Advanced,4,D960,Dr. Wrya Saeed Mahmoud,74,Hybrid
+C308,Operating Systems Advanced,4,D596,Dr. Salih Kamaran Hama,75,Hybrid
+C309,Calculus I Practicum,3,D779,Dr. Nawzad Jalal Mustafa,109,Online
+C310,Algorithms & Data Structures II,2,D247,Dr. Avan Saeed Taha,103,In-person
+C311,Research Methods Practicum,2,D618,Dr. Pishtiwan Karim Tahir,83,Online
+C312,Discrete Mathematics II,4,D066,Dr. Karwan Ihsan Mahmoud,84,Online
+C313,Natural Language Processing Seminar,4,D777,Dr. Dilan Hama Aziz,47,In-person
+C314,Operating Systems Practicum,2,D034,Dr. Kamaran Barzan Ali,45,Hybrid
+C315,Network Security Applications,4,D670,Dr. Wrya Rebaz Nuri,102,Online
+C316,Mobile App Development I,3,D132,Dr. Tara Farhad Salih,120,In-person
+C317,Cloud Computing Seminar,3,D919,Dr. Dara Barzan Saeed,59,Hybrid
+C318,Digital Circuits I,4,D344,Dr. Bestun Raber Taha,24,In-person
+C319,Web Application Development Studio,4,D798,Dr. Zhyan Fuad Nuri,114,Online
+C320,Deep Learning Advanced,4,D789,Dr. Aryan Karim Qadir,75,In-person
+C321,Mobile App Development Lab,4,D298,Dr. Salih Dara Hasan,102,Hybrid
+C322,Human-Computer Interaction Practicum,3,D286,Dr. Rozhan Nawzad Qadir,101,Hybrid
+C323,Cybersecurity Fundamentals Practicum,3,D618,Dr. Pishtiwan Karim Tahir,86,In-person
+C324,Digital Circuits II,3,D562,Dr. Aryan Nawzad Taha,84,In-person
+C325,Software Engineering Practicum,3,D843,Dr. Dara Salam Mustafa,90,In-person
+C326,Data Visualisation II,2,D938,Dr. Kamaran Mustafa Ahmad,23,Hybrid
+C327,Big Data Analytics Advanced,2,D108,Dr. Hawkar Jalal Mustafa,99,Online
+C328,Research Methods II,4,D833,Dr. Dashni Hama Mustafa,68,In-person
+C329,Distributed Systems Advanced,4,D636,Dr. Kavar Bakr Mahmoud,101,Online
+C330,Cybersecurity Fundamentals Lab,3,D180,Dr. Rami Ihsan Ali,58,In-person
+C331,Compiler Design Lab,4,D978,Dr. Salih Aryan Said,118,Hybrid
+C332,Machine Learning Seminar,2,D031,Dr. Wrya Farid Othman,38,Online
+C333,Big Data Analytics II,2,D926,Dr. Zhyan Jalal Taha,78,Online
+C334,Linear Algebra Advanced,3,D098,Dr. Randa Mustafa Aziz,53,In-person
+C335,Algorithms & Data Structures Applications,3,D938,Dr. Kamaran Mustafa Ahmad,46,Hybrid
+C336,Data Mining I,4,D624,Dr. Dashni Fuad Nasser,29,Hybrid
+C337,Algorithms & Data Structures Lab,4,D659,Dr. Mazin Nawzad Hama,68,Hybrid
+C338,Research Methods Applications,3,D119,Dr. Naz Aryan Othman,43,Hybrid
+C339,Calculus II Advanced,4,D932,Dr. Xezal Rebaz Qadir,100,Online
+C340,Linear Algebra Studio,3,D249,Dr. Azad Ihsan Nuri,81,Online
+C341,Operating Systems I,3,D740,Dr. Nawzad Ihsan Karim,86,Online
+C342,Research Methods II,3,D452,Dr. Naz Hama Nuri,97,In-person
+C343,Database Systems Advanced,3,D609,Dr. Dashni Omar Hassan,66,In-person
+C344,Database Systems Studio,3,D239,Dr. Shilan Karim Mahmoud,48,In-person
+C345,Computer Vision Advanced,3,D532,Dr. Zeynep Jalal Nuri,55,Hybrid
+C346,Algorithms & Data Structures Studio,4,D557,Dr. Fuad Mustafa Othman,103,Hybrid
+C347,Distributed Systems Applications,4,D259,Dr. Zhyan Raber Mahmoud,85,Hybrid
+C348,Business Analytics Advanced,3,D177,Dr. Farhad Bakr Mustafa,107,Online
+C349,Mobile App Development II,4,D412,Dr. Randa Saber Rashid,118,Online
+C350,Cybersecurity Fundamentals Lab,4,D280,Dr. Kamaran Mustafa Said,75,Hybrid
+C351,Discrete Mathematics Seminar,3,D944,Dr. Rebaz Omar Ahmad,99,In-person
+C352,Mobile App Development Practicum,3,D332,Dr. Dara Rizgar Othman,92,Hybrid
+C353,Calculus II II,4,D974,Dr. Pishtiwan Kamaran Nasser,41,In-person
+C354,Business Analytics Practicum,3,D914,Dr. Jalal Rizgar Mahmoud,97,Online
+C355,Network Security Practicum,2,D517,Dr. Shilan Farid Kadir,34,In-person
+C356,Statistical Methods Advanced,3,D331,Dr. Bestun Mustafa Omar,51,In-person
+C357,Natural Language Processing Studio,3,D281,Dr. Xezal Mohammed Mustafa,38,Hybrid
+C358,Database Systems Studio,2,D845,Dr. Salih Aziz Saeed,111,Hybrid
+C359,Project Management Studio,3,D309,Dr. Randa Aziz Salih,91,In-person
+C360,Cloud Computing Lab,4,D758,Dr. Wrya Jamal Qadir,47,In-person
+C361,Business Analytics II,4,D203,Dr. Zhyan Rebaz Tahir,102,Hybrid
+C362,Blockchain Fundamentals Practicum,3,D530,Dr. Randa Farid Mahmoud,60,In-person
+C363,Machine Learning Applications,4,D883,Dr. Fuad Farhad Nuri,25,Hybrid
+C364,Linear Algebra II,4,D852,Dr. Rozhan Farhad Faris,41,Online
+C365,Software Engineering Practicum,3,D648,Dr. Narin Barzan Kadir,93,In-person
+C366,Database Systems I,4,D223,Dr. Avan Saeed Mustafa,56,In-person
+C367,Machine Learning I,3,D580,Dr. Yara Mustafa Nuri,102,In-person
+C368,Data Mining II,4,D834,Dr. Kavar Rebaz Faris,112,Hybrid
+C369,Deep Learning Studio,4,D573,Dr. Bestun Farhad Karimi,30,Online
+C370,Data Mining I,4,D648,Dr. Narin Barzan Kadir,58,Online
+C371,Data Mining II,3,D309,Dr. Randa Aziz Salih,99,In-person
+C372,Digital Circuits I,2,D712,Dr. Narin Aryan Karim,37,In-person
+C373,Calculus I Practicum,3,D469,Dr. Avan Bakr Nuri,41,In-person
+C374,Distributed Systems Studio,4,D948,Dr. Randa Aryan Tahir,20,Online
+C375,Business Analytics I,2,D460,Dr. Rebaz Farid Taha,26,Hybrid
+C376,Business Analytics Studio,4,D398,Dr. Dara Raber Karimi,68,Hybrid
+C377,Cybersecurity Fundamentals Advanced,4,D079,Dr. Pishtiwan Rizgar Mahmoud,78,In-person
+C378,Deep Learning Advanced,4,D601,Dr. Lana Omar Faris,72,Online
+C379,Natural Language Processing II,4,D657,Dr. Saman Omar Rashid,87,In-person
+C380,Data Mining Applications,3,D623,Dr. Rebaz Mohammed Faris,61,Online
+C381,Digital Circuits II,3,D376,Dr. Zeynep Rebaz Othman,118,Hybrid
+C382,Algorithms & Data Structures Studio,4,D347,Dr. Rebaz Rizgar Omar,51,Online
+C383,Distributed Systems Lab,2,D101,Dr. Sardar Fuad Nasser,29,Hybrid
+C384,Data Visualisation I,3,D135,Dr. Narin Karim Ahmad,79,Hybrid
+C385,Data Mining II,3,D083,Dr. Hawkar Salam Aziz,46,Online
+C386,Computer Networks Studio,3,D625,Dr. Shilan Salam Salih,110,Hybrid
+C387,Web Application Development II,3,D214,Dr. Zeynep Farid Rashid,48,Hybrid
+C388,Project Management Lab,4,D547,Dr. Zeynep Saber Karim,44,In-person
+C389,Statistical Methods Advanced,3,D786,Dr. Dashni Latif Ali,93,Online
+C390,Web Application Development Applications,2,D780,Dr. Karwan Mustafa Rashid,115,In-person
+C391,Database Systems Applications,3,D995,Dr. Azad Ihsan Mustafa,54,In-person
+C392,Natural Language Processing Applications,3,D678,Dr. Rami Ihsan Nasser,53,In-person
+C393,Algorithms & Data Structures Studio,4,D273,Dr. Rebaz Fuad Said,47,In-person
+C394,Computer Networks Practicum,4,D713,Dr. Alan Bakr Rashid,62,In-person
+C395,Business Analytics Studio,2,D969,Dr. Zhyan Jalal Nuri,26,Online
+C396,Distributed Systems Practicum,3,D795,Dr. Helin Mustafa Mustafa,57,In-person
+C397,Cybersecurity Fundamentals Seminar,4,D549,Dr. Xezal Barzan Hasan,97,Hybrid
+C398,Statistical Methods II,2,D990,Dr. Narin Jamal Hama,102,In-person
+C399,Digital Circuits II,2,D621,Dr. Dilan Salam Rashid,24,Online
+C400,Digital Circuits II,4,D508,Dr. Sardar Fuad Tahir,32,Hybrid
+C401,Calculus II Practicum,4,D483,Dr. Xezal Jamal Tahir,70,In-person
+C402,Distributed Systems Seminar,4,D488,Dr. Yara Omar Hassan,46,In-person
+C403,Network Security Seminar,4,D981,Dr. Kavar Farhad Saeed,56,Online
+C404,Linear Algebra Advanced,4,D957,Dr. Dilan Mustafa Ali,109,Online
+C405,Distributed Systems Seminar,3,D543,Dr. Farhad Rizgar Salih,41,Hybrid
+C406,Algorithms & Data Structures Advanced,3,D583,Dr. Tara Raber Omar,62,Hybrid
+C407,Database Systems Applications,4,D498,Dr. Dilan Farid Ali,62,In-person
+C408,Business Analytics II,3,D649,Dr. Sardar Jalal Othman,106,In-person
+C409,Network Security Applications,4,D021,Dr. Shilan Dara Faris,20,Hybrid
+C410,Data Mining II,2,D061,Dr. Baran Saber Saeed,22,Online
+C411,Cloud Computing Lab,4,D125,Dr. Vian Saber Tahir,84,In-person
+C412,Web Application Development II,2,D497,Dr. Xezal Latif Hasan,58,Online
+C413,Project Management Applications,3,D357,Dr. Jalal Saeed Hassan,89,Hybrid
+C414,Data Mining Seminar,3,D124,Dr. Dilan Salam Kadir,78,In-person
+C415,Cloud Computing Studio,4,D10,Dr. Aryan Jalal Said,119,Online
+C416,Data Mining II,3,D137,Dr. Sardar Saeed Mahmoud,107,Online
+C417,Big Data Analytics I,3,D124,Dr. Dilan Salam Kadir,72,In-person
+C418,Web Application Development Studio,4,D561,Dr. Hawkar Aryan Ali,23,In-person
+C419,Distributed Systems Practicum,3,D938,Dr. Kamaran Mustafa Ahmad,46,Online
+C420,Data Visualisation Practicum,2,D318,Dr. Hawkar Jamal Karimi,55,Online
+C421,Operating Systems Applications,4,D565,Dr. Farhad Bakr Hassan,42,Hybrid
+C422,Network Security Studio,4,D464,Dr. Nawzad Hama Hama,95,Hybrid
+C423,Cloud Computing Lab,2,D600,Dr. Kamaran Ihsan Hassan,94,Online
+C424,Deep Learning II,4,D589,Dr. Baran Rebaz Hama,78,Online
+C425,Cloud Computing II,2,D642,Dr. Fuad Hama Faris,83,Online
+C426,Project Management Advanced,4,D812,Dr. Naz Latif Hasan,57,Online
+C427,Natural Language Processing Advanced,3,D533,Dr. Nawzad Aryan Kadir,82,Hybrid
+C428,Human-Computer Interaction Seminar,2,D348,Dr. Dashni Mustafa Ahmad,78,In-person
+C429,Cloud Computing II,2,D535,Dr. Pishtiwan Farid Faris,82,Hybrid
+C430,Statistical Methods Studio,2,D945,Dr. Azad Omar Hama,26,Hybrid
+C431,Network Security Seminar,4,D853,Dr. Zeynep Sherzad Saeed,105,Online
+C432,Algorithms & Data Structures Seminar,3,D623,Dr. Rebaz Mohammed Faris,113,In-person
+C433,Software Engineering II,3,D283,Dr. Naz Jalal Ahmad,48,In-person
+C434,Research Methods Studio,3,D675,Dr. Hawkar Mustafa Omar,106,Online
+C435,Statistical Methods Practicum,2,D384,Dr. Karwan Farhad Faris,53,Hybrid
+C436,Cloud Computing Advanced,4,D08,Dr. Saeed Rashid Hama,75,Online
+C437,Human-Computer Interaction Advanced,3,D652,Dr. Narin Hama Saeed,52,In-person
+C438,Operating Systems Lab,3,D983,Dr. Baran Nawzad Othman,59,In-person
+C439,Software Engineering Applications,4,D419,Dr. Rebaz Sherzad Mustafa,43,Hybrid
+C440,Linear Algebra Advanced,4,D526,Dr. Yara Dara Faris,76,Online
+C441,Computer Networks Studio,4,D579,Dr. Shilan Ihsan Qadir,65,Hybrid
+C442,Statistical Methods Practicum,4,D405,Dr. Zhyan Karim Rashid,23,Online
+C443,Blockchain Fundamentals Practicum,2,D395,Dr. Randa Aryan Said,116,In-person
+C444,Research Methods Seminar,3,D031,Dr. Wrya Farid Othman,94,Online
+C445,Web Application Development Seminar,2,D206,Dr. Aryan Bakr Karim,116,Hybrid
+C446,Mobile App Development I,4,D238,Dr. Pishtiwan Ihsan Rashid,117,Online
+C447,Compiler Design I,2,D388,Dr. Hawkar Farid Said,27,Hybrid
+C448,Linear Algebra Studio,4,D858,Dr. Karwan Saeed Nasser,32,Hybrid
+C449,Data Mining Studio,2,D862,Dr. Naz Hama Othman,35,Online
+C450,Natural Language Processing I,3,D986,Dr. Azad Raber Aziz,86,In-person
+C451,Distributed Systems Applications,3,D076,Dr. Layla Jamal Hama,48,Online
+C452,Calculus I Advanced,3,D220,Dr. Bestun Barzan Tahir,100,Hybrid
+C453,Research Methods I,4,D194,Dr. Wrya Rizgar Faris,99,Online
+C454,Linear Algebra II,2,D527,Dr. Lana Raber Omar,39,Online
+C455,Computer Networks II,3,D893,Dr. Kavar Farid Mustafa,46,In-person
+C456,Database Systems Applications,4,D975,Dr. Aryan Farhad Ahmad,27,In-person
+C457,Mobile App Development Applications,3,D545,Dr. Kamaran Rizgar Karim,50,Online
+C458,Compiler Design Applications,4,D928,Dr. Azad Nawzad Ali,35,Hybrid
+C459,Big Data Analytics I,3,D504,Dr. Salih Dara Tahir,38,Online
+C460,Digital Circuits Advanced,4,D785,Dr. Rami Jalal Ali,114,Online
+C461,Data Visualisation Applications,4,D775,Dr. Aryan Nawzad Hassan,57,Hybrid
+C462,Linear Algebra Applications,3,D686,Dr. Chnar Nawzad Hassan,105,Hybrid
+C463,Mobile App Development II,4,D786,Dr. Dashni Latif Ali,73,Hybrid
+C464,Database Systems Seminar,4,D234,Dr. Farhad Kamaran Hassan,35,Online
+C465,Database Systems Seminar,2,D829,Dr. Layla Saeed Salih,102,Online
+C466,Discrete Mathematics Applications,2,D505,Dr. Baran Jalal Taha,65,In-person
+C467,Calculus II Applications,3,D208,Dr. Yara Omar Karimi,21,In-person
+C468,Computer Networks Lab,3,D765,Dr. Azad Aryan Saeed,110,Online
+C469,Computer Networks II,3,D195,Dr. Baran Mustafa Saeed,103,In-person
+C470,Big Data Analytics Studio,4,D078,Dr. Narin Saber Said,111,In-person
+C471,Human-Computer Interaction Seminar,4,D034,Dr. Kamaran Barzan Ali,28,Online
+C472,Mobile App Development Applications,4,D937,Dr. Yara Dara Qadir,104,In-person
+C473,Computer Vision Seminar,3,D020,Dr. Wrya Latif Nasser,109,Hybrid
+C474,Software Engineering Studio,4,D769,Dr. Dilan Hama Omar,99,Hybrid
+C475,Machine Learning I,3,D497,Dr. Xezal Latif Hasan,49,In-person
+C476,Linear Algebra Applications,4,D144,Dr. Aryan Raber Nuri,61,In-person
+C477,Human-Computer Interaction Lab,2,D724,Dr. Chnar Farid Ali,42,Online
+C478,Blockchain Fundamentals Practicum,2,D802,Dr. Chnar Salam Hama,27,Online
+C479,Linear Algebra I,2,D460,Dr. Rebaz Farid Taha,76,Hybrid
+C480,Big Data Analytics I,3,D658,Dr. Sardar Kamaran Taha,61,In-person
+C481,Project Management Practicum,3,D814,Dr. Yara Saeed Hama,101,Online
+C482,Data Visualisation Lab,3,D627,Dr. Salih Saeed Hasan,82,Hybrid
+C483,Cloud Computing Lab,3,D234,Dr. Farhad Kamaran Hassan,114,In-person
+C484,Compiler Design Lab,2,D612,Dr. Vian Ihsan Karim,94,In-person
+C485,Natural Language Processing II,3,D130,Dr. Baran Farhad Ali,24,In-person
+C486,Network Security Practicum,4,D520,Dr. Rozhan Bakr Said,89,In-person
+C487,Cybersecurity Fundamentals Applications,3,D160,Dr. Karwan Raber Karim,46,Online
+C488,Computer Networks Studio,3,D065,Dr. Narin Bakr Othman,99,Online
+C489,Human-Computer Interaction II,4,D403,Dr. Dilan Hama Karimi,74,Online
+C490,Calculus I II,4,D186,Dr. Rami Kamaran Hasan,30,In-person
+C491,Cloud Computing II,2,D101,Dr. Sardar Fuad Nasser,83,In-person
+C492,Discrete Mathematics Studio,2,D791,Dr. Wrya Dara Hasan,48,Hybrid
+C493,Mobile App Development Studio,2,D380,Dr. Rozhan Saber Taha,40,Hybrid
+C494,Operating Systems Lab,4,D669,Dr. Bestun Aziz Saeed,98,Online
+C495,Mobile App Development I,4,D927,Dr. Salih Saeed Kadir,109,In-person
+C496,Data Mining Seminar,2,D832,Dr. Aryan Ihsan Aziz,24,Hybrid
+C497,Business Analytics Lab,3,D036,Dr. Xezal Farid Othman,117,In-person
+C498,Data Visualisation Studio,2,D892,Dr. Karwan Fuad Mustafa,50,Hybrid
+C499,Human-Computer Interaction I,3,D270,Dr. Dara Saeed Ahmad,29,Hybrid
+C500,Distributed Systems II,4,D554,Dr. Alan Saber Hassan,81,In-person
+C501,Distributed Systems I,2,D984,Dr. Salih Mustafa Salih,24,Hybrid
+C502,Digital Circuits Studio,4,D563,Dr. Fuad Mustafa Salih,81,Hybrid
+C503,Database Systems I,2,D743,Dr. Pishtiwan Raber Hasan,119,In-person
+C504,Discrete Mathematics Practicum,2,D986,Dr. Azad Raber Aziz,90,Hybrid
+C505,Mobile App Development Practicum,3,D896,Dr. Mazin Dara Salih,75,Online
+C506,Operating Systems Advanced,2,D028,Dr. Helin Jalal Saeed,76,In-person
+C507,Calculus II Studio,3,D748,Dr. Pishtiwan Sherzad Kadir,44,Hybrid
+C508,Research Methods I,3,D853,Dr. Zeynep Sherzad Saeed,49,In-person
+C509,Database Systems Lab,4,D346,Dr. Naz Farid Hassan,115,Online
+C510,Machine Learning I,3,D222,Dr. Rami Farid Faris,27,In-person
+C511,Web Application Development Applications,3,D942,Dr. Sardar Bakr Ali,56,In-person
+C512,Network Security Lab,3,D319,Dr. Azad Aryan Hama,36,Online
+C513,Data Mining II,2,D323,Dr. Aryan Ihsan Nuri,29,Hybrid
+C514,Data Visualisation Applications,3,D312,Dr. Helin Dara Kadir,48,Hybrid
+C515,Cloud Computing Studio,4,D572,Dr. Mazin Mustafa Salih,57,Online
+C516,Computer Networks Seminar,3,D303,Dr. Shilan Fuad Nuri,109,Online
+C517,Linear Algebra I,3,D522,Dr. Chnar Rizgar Nasser,72,Online
+C518,Data Mining Seminar,2,D116,Dr. Dara Raber Kadir,46,In-person
+C519,Digital Circuits Seminar,4,D955,Dr. Tara Dara Aziz,46,In-person
+C520,Distributed Systems Advanced,2,D455,Dr. Xezal Barzan Faris,50,Online
+C521,Big Data Analytics Applications,2,D830,Dr. Zeynep Aryan Hama,22,Hybrid
+C522,Business Analytics Seminar,4,D076,Dr. Layla Jamal Hama,69,Hybrid
+C523,Machine Learning Seminar,4,D246,Dr. Alan Nawzad Salih,69,Hybrid
+C524,Calculus I Practicum,4,D088,Dr. Rozhan Kamaran Qadir,76,In-person
+C525,Data Visualisation Practicum,3,D687,Dr. Fuad Bakr Mustafa,104,Hybrid
+C526,Machine Learning Seminar,2,D546,Dr. Kamaran Fuad Karim,89,Hybrid
+C527,Research Methods Studio,3,D389,Dr. Hawkar Rebaz Ahmad,116,Online
+C528,Blockchain Fundamentals I,3,D518,Dr. Fuad Saeed Qadir,112,Online
+C529,Calculus I Practicum,2,D440,Dr. Zhyan Nawzad Aziz,33,Online
+C530,Distributed Systems Seminar,4,D900,Dr. Saman Sherzad Said,79,Hybrid
+C531,Distributed Systems Seminar,3,D593,Dr. Dashni Kamaran Hassan,68,Hybrid
+C532,Research Methods Lab,3,D197,Dr. Farhad Hama Tahir,21,Hybrid
+C533,Business Analytics II,3,D239,Dr. Shilan Karim Mahmoud,118,Online
+C534,Deep Learning Practicum,2,D959,Dr. Baran Aziz Said,98,Hybrid
+C535,Business Analytics Seminar,4,D741,Dr. Pishtiwan Mohammed Ali,21,In-person
+C536,Software Engineering Studio,3,D411,Dr. Kavar Saeed Karimi,42,Hybrid
+C537,Database Systems Applications,2,D648,Dr. Narin Barzan Kadir,79,In-person
+C538,Data Mining Lab,4,D705,Dr. Mazin Mustafa Hasan,27,Online
+C539,Business Analytics Studio,2,D796,Dr. Dashni Sherzad Ahmad,76,In-person
+C540,Blockchain Fundamentals Seminar,3,D688,Dr. Xezal Farhad Othman,83,In-person
+C541,Big Data Analytics Advanced,3,D644,Dr. Dashni Nawzad Mustafa,99,Online
+C542,Digital Circuits II,2,D439,Dr. Layla Nawzad Karimi,43,Online
+C543,Calculus I Applications,4,D045,Dr. Mazin Mustafa Qadir,60,In-person
+C544,Computer Vision Lab,2,D142,Dr. Jalal Bakr Hasan,111,Hybrid
+C545,Database Systems Studio,4,D332,Dr. Dara Rizgar Othman,111,In-person
+C546,Digital Circuits Studio,2,D085,Dr. Layla Mustafa Mustafa,29,Online
+C547,Linear Algebra II,3,D377,Dr. Helin Latif Ali,46,Hybrid
+C548,Network Security Practicum,2,D779,Dr. Nawzad Jalal Mustafa,102,Hybrid
+C549,Web Application Development I,3,D311,Dr. Sardar Aryan Salih,97,Hybrid
+C550,Statistical Methods Studio,4,D830,Dr. Zeynep Aryan Hama,57,Online
+C551,Cybersecurity Fundamentals Studio,2,D035,Dr. Mazin Mustafa Nuri,57,In-person
+C552,Database Systems II,4,D053,Dr. Salih Saber Mahmoud,47,Hybrid
+C553,Computer Vision Studio,3,D798,Dr. Zhyan Fuad Nuri,68,Online
+C554,Natural Language Processing Advanced,4,D028,Dr. Helin Jalal Saeed,117,Online
+C555,Algorithms & Data Structures Lab,4,D416,Dr. Nawzad Dara Omar,84,Online
+C556,Operating Systems Practicum,4,D072,Dr. Lana Mustafa Karim,113,In-person
+C557,Human-Computer Interaction I,4,D804,Dr. Dara Hama Said,80,Online
+C558,Computer Networks Applications,3,D284,Dr. Salih Salam Ahmad,54,In-person
+C559,Cloud Computing Lab,3,D890,Dr. Dilan Rizgar Nuri,51,Hybrid
+C560,Project Management Studio,2,D911,Dr. Azad Aryan Othman,108,In-person
+C561,Distributed Systems Practicum,3,D881,Dr. Naz Hama Saeed,30,Hybrid
+C562,Computer Networks II,3,D583,Dr. Tara Raber Omar,103,Hybrid
+C563,Digital Circuits Applications,4,D506,Dr. Farhad Sherzad Ahmad,49,Online
+C564,Research Methods Lab,4,D672,Dr. Yara Nawzad Othman,106,Online
+C565,Web Application Development Seminar,3,D407,Dr. Dara Farhad Karimi,63,Hybrid
+C566,Algorithms & Data Structures Practicum,4,D296,Dr. Zhyan Farhad Rashid,84,In-person
+C567,Data Mining Lab,3,D409,Dr. Rami Ihsan Mustafa,78,In-person
+C568,Linear Algebra Practicum,3,D730,Dr. Fuad Aziz Nasser,117,Online
+C569,Research Methods Applications,2,D347,Dr. Rebaz Rizgar Omar,36,In-person
+C570,Database Systems Advanced,2,D231,Dr. Xezal Jalal Hassan,36,Online
+C571,Research Methods Practicum,4,D306,Dr. Fuad Farid Taha,65,In-person
+C572,Computer Vision Lab,3,D328,Dr. Tara Raber Hama,35,Hybrid
+C573,Software Engineering II,2,D042,Dr. Jalal Raber Karim,29,Online
+C574,Project Management Practicum,4,D158,Dr. Alan Dara Karim,114,Hybrid
+C575,Blockchain Fundamentals Applications,3,D072,Dr. Lana Mustafa Karim,113,In-person
+C576,Blockchain Fundamentals II,3,D931,Dr. Naz Aziz Qadir,20,Online
+C577,Network Security Applications,4,D057,Dr. Lana Nawzad Ali,61,Hybrid
+C578,Computer Networks Seminar,2,D968,Dr. Nawzad Nawzad Rashid,49,Hybrid
+C579,Deep Learning I,4,D800,Dr. Yara Salam Mahmoud,86,Online
+C580,Computer Networks Practicum,3,D307,Dr. Saman Saeed Ali,61,Hybrid
+C581,Blockchain Fundamentals Advanced,3,D860,Dr. Karwan Farhad Ahmad,25,Online
+C582,Data Visualisation Practicum,4,D11,Dr. Bestun Nazar Ali,55,Online
+C583,Deep Learning II,3,D016,Dr. Karwan Mohammed Saeed,56,In-person
+C584,Cloud Computing Seminar,4,D442,Dr. Alan Salam Rashid,76,In-person
+C585,Cloud Computing Seminar,4,D220,Dr. Bestun Barzan Tahir,116,In-person
+C586,Natural Language Processing Seminar,3,D447,Dr. Bestun Saeed Kadir,32,In-person
+C587,Compiler Design Advanced,2,D038,Dr. Hawkar Bakr Hama,96,In-person
+C588,Operating Systems Lab,2,D324,Dr. Zeynep Bakr Ahmad,82,In-person
+C589,Data Visualisation Seminar,4,D310,Dr. Shilan Hama Faris,74,Online
+C590,Computer Networks Advanced,4,D882,Dr. Karwan Hama Hassan,57,In-person
+C591,Computer Vision II,4,D872,Dr. Layla Hama Taha,75,Hybrid
+C592,Algorithms & Data Structures Advanced,3,D677,Dr. Dara Latif Karimi,113,Online
+C593,Network Security II,3,D883,Dr. Fuad Farhad Nuri,113,In-person
+C594,Cybersecurity Fundamentals Studio,3,D768,Dr. Narin Rizgar Said,78,Online
+C595,Computer Networks II,3,D359,Dr. Rozhan Bakr Karimi,24,Hybrid
+C596,Research Methods Studio,3,D418,Dr. Mazin Bakr Qadir,91,Online
+C597,Machine Learning I,3,D090,Dr. Zhyan Mustafa Qadir,37,Online
+C598,Calculus I Lab,3,D653,Dr. Narin Rizgar Nasser,53,Hybrid
+C599,Data Mining Advanced,4,D567,Dr. Rami Saeed Omar,56,In-person
+C600,Big Data Analytics II,4,D034,Dr. Kamaran Barzan Ali,112,Online
+C601,Database Systems Practicum,2,D219,Dr. Bestun Hama Othman,82,Online
+C602,Data Visualisation Advanced,2,D785,Dr. Rami Jalal Ali,73,Online
+C603,Discrete Mathematics Practicum,4,D935,Dr. Lana Sherzad Karim,50,Online
+C604,Data Mining Advanced,3,D113,Dr. Wrya Jamal Othman,49,Hybrid
+C605,Data Mining Applications,4,D548,Dr. Rozhan Hama Karimi,96,Hybrid
+C606,Data Mining Seminar,2,D141,Dr. Aryan Rebaz Said,48,In-person
+C607,Blockchain Fundamentals Seminar,4,D045,Dr. Mazin Mustafa Qadir,77,Hybrid
+C608,Natural Language Processing Practicum,2,D424,Dr. Rozhan Salam Omar,42,Hybrid
+C609,Natural Language Processing II,3,D750,Dr. Kamaran Omar Salih,109,Hybrid
+C610,Web Application Development Applications,4,D094,Dr. Shilan Raber Salih,96,Hybrid
+C611,Digital Circuits I,3,D903,Dr. Helin Farid Taha,54,Online
+C612,Calculus II Practicum,2,D641,Dr. Rami Bakr Omar,91,Hybrid
+C613,Natural Language Processing Studio,4,D418,Dr. Mazin Bakr Qadir,70,Hybrid
+C614,Mobile App Development Seminar,2,D999,Dr. Dara Latif Salih,54,Hybrid
+C615,Digital Circuits Studio,2,D371,Dr. Jalal Ihsan Mahmoud,59,Hybrid
+C616,Digital Circuits Advanced,4,D997,Dr. Vian Saeed Kadir,46,Online
+C617,Discrete Mathematics Studio,3,D788,Dr. Kamaran Farid Hama,97,Online
+C618,Distributed Systems I,4,D549,Dr. Xezal Barzan Hasan,31,Online
+C619,Research Methods Studio,4,D696,Dr. Zeynep Rebaz Hama,28,Online
+C620,Computer Networks Lab,3,D164,Dr. Tara Bakr Hama,88,In-person
+C621,Compiler Design Practicum,3,D821,Dr. Zhyan Rebaz Aziz,57,In-person
+C622,Deep Learning Practicum,3,D673,Dr. Baran Sherzad Taha,90,Online
+C623,Database Systems I,2,D063,Dr. Azad Fuad Karim,116,Online
+C624,Computer Networks Practicum,4,D841,Dr. Kamaran Rebaz Hama,25,In-person
+C625,Cloud Computing I,3,D133,Dr. Pishtiwan Rebaz Tahir,100,Online
+C626,Machine Learning Seminar,2,D241,Dr. Azad Hama Faris,120,Hybrid
+C627,Mobile App Development Advanced,3,D203,Dr. Zhyan Rebaz Tahir,30,In-person
+C628,Computer Networks Practicum,2,D704,Dr. Chnar Dara Hasan,21,Online
+C629,Discrete Mathematics Advanced,2,D815,Dr. Salih Rebaz Saeed,114,Online
+C630,Data Visualisation Seminar,3,D233,Dr. Jalal Omar Saeed,74,Online
+C631,Database Systems Seminar,3,D083,Dr. Hawkar Salam Aziz,78,In-person
+C632,Business Analytics Applications,4,D966,Dr. Yara Nawzad Othman,57,Hybrid
+C633,Digital Circuits Practicum,4,D254,Dr. Chnar Sherzad Karim,55,Hybrid
+C634,Research Methods Lab,4,D529,Dr. Hawkar Jamal Faris,22,Hybrid
+C635,Mobile App Development Studio,4,D998,Dr. Hawkar Jamal Nuri,111,In-person
+C636,Digital Circuits I,4,D117,Dr. Vian Barzan Saeed,118,In-person
+C637,Network Security Applications,4,D407,Dr. Dara Farhad Karimi,33,Online
+C638,Deep Learning Advanced,2,D019,Dr. Layla Farhad Qadir,32,Online
+C639,Data Visualisation Applications,4,D527,Dr. Lana Raber Omar,51,In-person
+C640,Mobile App Development Applications,4,D719,Dr. Avan Mustafa Hasan,112,Online
+C641,Digital Circuits I,4,D263,Dr. Randa Bakr Hasan,52,Hybrid
+C642,Distributed Systems Studio,3,D132,Dr. Tara Farhad Salih,24,Hybrid
+C643,Software Engineering Practicum,2,D893,Dr. Kavar Farid Mustafa,54,Online
+C644,Blockchain Fundamentals Applications,4,D958,Dr. Dilan Saeed Saeed,83,Hybrid
+C645,Digital Circuits Studio,4,D997,Dr. Vian Saeed Kadir,110,Hybrid
+C646,Operating Systems II,2,D100,Dr. Vian Saeed Faris,74,Online
+C647,Mobile App Development Advanced,2,D772,Dr. Zeynep Salam Ali,40,Online
+C648,Linear Algebra Advanced,3,D995,Dr. Azad Ihsan Mustafa,76,In-person
+C649,Calculus II Practicum,4,D517,Dr. Shilan Farid Kadir,41,Online
+C650,Data Mining Advanced,4,D838,Dr. Naz Farid Ali,73,Hybrid
+C651,Cloud Computing II,4,D530,Dr. Randa Farid Mahmoud,57,Online
+C652,Business Analytics Studio,4,D143,Dr. Bestun Latif Hama,67,Online
+C653,Cybersecurity Fundamentals Advanced,3,D264,Dr. Alan Hama Faris,86,Online
+C654,Human-Computer Interaction Studio,4,D099,Dr. Narin Kamaran Faris,97,Hybrid
+C655,Project Management Lab,3,D109,Dr. Layla Saeed Said,115,Online
+C656,Cybersecurity Fundamentals Applications,2,D084,Dr. Rami Kamaran Othman,60,Hybrid
+C657,Web Application Development Applications,2,D479,Dr. Azad Farhad Taha,20,Hybrid
+C658,Data Visualisation Lab,2,D398,Dr. Dara Raber Karimi,88,Hybrid
+C659,Linear Algebra I,4,D721,Dr. Farhad Barzan Mustafa,79,Online
+C660,Algorithms & Data Structures Studio,4,D900,Dr. Saman Sherzad Said,48,Hybrid
+C661,Database Systems Lab,3,D674,Dr. Aryan Farid Saeed,56,Hybrid
+C662,Distributed Systems Seminar,3,D773,Dr. Lana Kamaran Omar,99,Hybrid
+C663,Operating Systems Lab,2,D442,Dr. Alan Salam Rashid,95,In-person
+C664,Distributed Systems Lab,3,D443,Dr. Sardar Fuad Othman,42,Hybrid
+C665,Linear Algebra Advanced,4,D739,Dr. Narin Jamal Nasser,95,Online
+C666,Deep Learning Seminar,4,D855,Dr. Hawkar Jamal Ahmad,105,Hybrid
+C667,Cybersecurity Fundamentals I,3,D509,Dr. Chnar Sherzad Aziz,47,In-person
+C668,Web Application Development Advanced,3,D255,Dr. Mazin Nawzad Mahmoud,80,In-person
+C669,Algorithms & Data Structures I,3,D777,Dr. Dilan Hama Aziz,85,Hybrid
+C670,Natural Language Processing Applications,3,D893,Dr. Kavar Farid Mustafa,58,Online
+C671,Linear Algebra Lab,4,D140,Dr. Salih Bakr Hassan,70,Hybrid
+C672,Computer Vision Applications,3,D547,Dr. Zeynep Saber Karim,59,Online
+C673,Computer Networks II,4,D272,Dr. Helin Aziz Qadir,47,In-person
+C674,Compiler Design Seminar,3,D616,Dr. Dashni Farid Mustafa,75,Online
+C675,Data Mining Seminar,2,D666,Dr. Rebaz Ihsan Ahmad,91,Hybrid
+C676,Network Security Advanced,2,D415,Dr. Sardar Fuad Mustafa,66,Hybrid
+C677,Network Security Practicum,3,D926,Dr. Zhyan Jalal Taha,98,Online
+C678,Mobile App Development Studio,3,D202,Dr. Farhad Latif Said,115,In-person
+C679,Project Management Studio,4,D550,Dr. Hawkar Nawzad Tahir,44,In-person
+C680,Cloud Computing Studio,2,D102,Dr. Lana Mustafa Ali,67,Hybrid
+C681,Research Methods I,4,D160,Dr. Karwan Raber Karim,54,In-person
+C682,Business Analytics Applications,4,D941,Dr. Baran Saeed Othman,25,Online
+C683,Business Analytics Seminar,2,D614,Dr. Zeynep Rizgar Tahir,93,In-person
+C684,Research Methods Applications,4,D882,Dr. Karwan Hama Hassan,100,Hybrid
+C685,Cybersecurity Fundamentals Applications,4,D779,Dr. Nawzad Jalal Mustafa,33,In-person
+C686,Database Systems Advanced,3,D629,Dr. Sardar Dara Othman,36,In-person
+C687,Compiler Design II,2,D215,Dr. Dilan Raber Mahmoud,76,Online
+C688,Machine Learning Studio,2,D364,Dr. Layla Karim Nasser,89,Hybrid
+C689,Big Data Analytics I,3,D499,Dr. Baran Mohammed Kadir,106,Hybrid
+C690,Cybersecurity Fundamentals Studio,4,D164,Dr. Tara Bakr Hama,21,Online
+C691,Statistical Methods I,2,D732,Dr. Chnar Omar Said,44,Online
+C692,Distributed Systems Seminar,2,D405,Dr. Zhyan Karim Rashid,42,Hybrid
+C693,Business Analytics Lab,4,D059,Dr. Sardar Ihsan Karimi,72,In-person
+C694,Distributed Systems I,3,D864,Dr. Naz Fuad Kadir,55,Online
+C695,Linear Algebra Studio,4,D369,Dr. Kamaran Karim Tahir,92,Online
+C696,Software Engineering Applications,2,D331,Dr. Bestun Mustafa Omar,34,In-person
+C697,Distributed Systems II,3,D400,Dr. Chnar Karim Taha,60,Online
+C698,Database Systems Advanced,2,D423,Dr. Rebaz Bakr Saeed,47,Online
+C699,Project Management II,3,D334,Dr. Chnar Bakr Salih,59,Online
+C700,Calculus II Lab,3,D520,Dr. Rozhan Bakr Said,59,In-person
+C701,Computer Vision Seminar,3,D537,Dr. Karwan Fuad Othman,55,In-person
+C702,Deep Learning Practicum,3,D143,Dr. Bestun Latif Hama,44,Hybrid
+C703,Cybersecurity Fundamentals Seminar,3,D178,Dr. Narin Raber Tahir,109,Hybrid
+C704,Algorithms & Data Structures Applications,3,D257,Dr. Salih Farhad Ahmad,94,Hybrid
+C705,Blockchain Fundamentals Applications,3,D162,Dr. Chnar Ihsan Karimi,24,Online
+C706,Web Application Development Lab,4,D896,Dr. Mazin Dara Salih,64,Online
+C707,Human-Computer Interaction Seminar,3,D415,Dr. Sardar Fuad Mustafa,63,Online
+C708,Operating Systems Seminar,2,D127,Dr. Helin Aryan Hasan,85,In-person
+C709,Data Visualisation Applications,3,D483,Dr. Xezal Jamal Tahir,24,In-person
+C710,Natural Language Processing Advanced,4,D152,Dr. Jalal Mustafa Kadir,37,Hybrid
+C711,Deep Learning Studio,4,D416,Dr. Nawzad Dara Omar,68,Online
+C712,Calculus II I,3,D710,Dr. Bestun Farid Karim,109,In-person
+C713,Network Security I,3,D336,Dr. Shilan Salam Rashid,73,Hybrid
+C714,Deep Learning II,3,D343,Dr. Zeynep Farhad Ali,65,Hybrid
+C715,Project Management Advanced,2,D747,Dr. Rami Dara Hama,76,Online
+C716,Software Engineering Practicum,4,D663,Dr. Kamaran Jamal Karimi,80,In-person
+C717,Distributed Systems Studio,4,D426,Dr. Rebaz Latif Nasser,63,Hybrid
+C718,Mobile App Development Seminar,2,D743,Dr. Pishtiwan Raber Hasan,49,Online
+C719,Statistical Methods Practicum,3,D219,Dr. Bestun Hama Othman,93,Hybrid
+C720,Database Systems Advanced,4,D189,Dr. Xezal Mustafa Ahmad,41,Hybrid
+C721,Computer Vision Lab,4,D766,Dr. Naz Saber Hasan,116,In-person
+C722,Natural Language Processing Studio,2,D160,Dr. Karwan Raber Karim,31,Hybrid
+C723,Human-Computer Interaction Studio,4,D478,Dr. Rami Ihsan Faris,70,In-person
+C724,Database Systems Advanced,3,D067,Dr. Helin Latif Aziz,42,Hybrid
+C725,Algorithms & Data Structures Advanced,3,D356,Dr. Jalal Mustafa Hasan,46,Hybrid
+C726,Distributed Systems Lab,3,D090,Dr. Zhyan Mustafa Qadir,107,Online
+C727,Database Systems Applications,3,D292,Dr. Rozhan Saber Mustafa,64,In-person
+C728,Operating Systems Practicum,3,D068,Dr. Azad Jalal Saeed,80,Online
+C729,Compiler Design Applications,3,D725,Dr. Alan Jamal Nuri,117,In-person
+C730,Web Application Development Studio,3,D885,Dr. Bestun Saeed Nuri,71,Hybrid
+C731,Compiler Design Practicum,4,D934,Dr. Sardar Farhad Tahir,70,Online
+C732,Network Security Applications,4,D593,Dr. Dashni Kamaran Hassan,23,In-person
+C733,Cybersecurity Fundamentals Lab,3,D300,Dr. Karwan Farid Kadir,66,Hybrid
+C734,Compiler Design I,4,D465,Dr. Salih Raber Faris,96,Hybrid
+C735,Big Data Analytics Lab,3,D068,Dr. Azad Jalal Saeed,83,In-person
+C736,Data Visualisation Seminar,4,D831,Dr. Avan Jamal Nuri,31,Hybrid
+C737,Big Data Analytics Advanced,4,D908,Dr. Dilan Farhad Mahmoud,39,Hybrid
+C738,Mobile App Development Applications,2,D469,Dr. Avan Bakr Nuri,53,Hybrid
+C739,Cybersecurity Fundamentals Practicum,4,D087,Dr. Azad Mohammed Mahmoud,33,Hybrid
+C740,Network Security II,4,D473,Dr. Zeynep Fuad Rashid,21,In-person
+C741,Web Application Development Practicum,4,D270,Dr. Dara Saeed Ahmad,21,Hybrid
+C742,Natural Language Processing Practicum,4,D679,Dr. Vian Mustafa Tahir,118,In-person
+C743,Statistical Methods Seminar,2,D796,Dr. Dashni Sherzad Ahmad,97,Hybrid
+C744,Network Security Applications,3,D034,Dr. Kamaran Barzan Ali,88,Hybrid
+C745,Human-Computer Interaction Advanced,4,D152,Dr. Jalal Mustafa Kadir,88,Hybrid
+C746,Algorithms & Data Structures Advanced,2,D955,Dr. Tara Dara Aziz,63,Online
+C747,Business Analytics Lab,4,D043,Dr. Lana Saeed Hasan,98,Online
+C748,Statistical Methods I,4,D746,Dr. Jalal Nawzad Said,56,In-person
+C749,Calculus I Applications,4,D434,Dr. Baran Saeed Ali,66,In-person
+C750,Natural Language Processing Studio,3,D471,Dr. Zhyan Rizgar Ali,74,Hybrid
+C751,Cloud Computing I,4,D742,Dr. Aryan Aziz Omar,54,In-person
+C752,Network Security Practicum,2,D429,Dr. Alan Salam Mahmoud,77,Hybrid
+C753,Big Data Analytics I,4,D401,Dr. Nawzad Ihsan Karim,34,Hybrid
+C754,Machine Learning Practicum,3,D245,Dr. Dara Hama Rashid,42,In-person
+C755,Linear Algebra Advanced,3,D266,Dr. Randa Omar Nasser,101,Hybrid
+C756,Calculus II Seminar,3,D759,Dr. Randa Rebaz Tahir,78,Online
+C757,Digital Circuits Applications,2,D02,Dr. Sana Younis Karim,29,Hybrid
+C758,Machine Learning Advanced,4,D973,Dr. Fuad Ihsan Hassan,112,Online
+C759,Mobile App Development II,3,D795,Dr. Helin Mustafa Mustafa,101,Online
+C760,Statistical Methods Practicum,2,D911,Dr. Azad Aryan Othman,43,Online
+C761,Distributed Systems II,4,D440,Dr. Zhyan Nawzad Aziz,34,In-person
+C762,Business Analytics Seminar,4,D386,Dr. Vian Mohammed Kadir,85,Online
+C763,Computer Vision I,3,D244,Dr. Kamaran Bakr Ali,93,Hybrid
+C764,Blockchain Fundamentals Practicum,3,D708,Dr. Salih Aryan Taha,115,Online
+C765,Business Analytics I,4,D174,Dr. Naz Saber Karimi,71,In-person
+C766,Cloud Computing Seminar,2,D155,Dr. Sardar Farid Karimi,72,In-person
+C767,Human-Computer Interaction Practicum,3,D948,Dr. Randa Aryan Tahir,55,Hybrid
+C768,Discrete Mathematics Studio,2,D648,Dr. Narin Barzan Kadir,48,In-person
+C769,Computer Vision Studio,3,D474,Dr. Jalal Latif Ali,28,Online
+C770,Distributed Systems Applications,4,D118,Dr. Xezal Barzan Mahmoud,73,Online
+C771,Deep Learning Practicum,4,D313,Dr. Randa Saber Rashid,91,In-person
+C772,Deep Learning Studio,3,D944,Dr. Rebaz Omar Ahmad,76,In-person
+C773,Calculus I Applications,3,D990,Dr. Narin Jamal Hama,88,Online
+C774,Natural Language Processing Practicum,3,D749,Dr. Nawzad Latif Salih,71,In-person
+C775,Calculus I II,4,D311,Dr. Sardar Aryan Salih,91,Hybrid
+C776,Data Visualisation Studio,3,D523,Dr. Kavar Latif Nuri,57,Hybrid
+C777,Natural Language Processing Applications,2,D889,Dr. Sardar Ihsan Ali,39,Online
+C778,Cybersecurity Fundamentals Studio,4,D518,Dr. Fuad Saeed Qadir,75,Hybrid
+C779,Blockchain Fundamentals Seminar,4,D613,Dr. Zhyan Aziz Kadir,115,Hybrid
+C780,Mobile App Development Advanced,4,D645,Dr. Naz Rizgar Salih,97,In-person
+C781,Mobile App Development Lab,3,D203,Dr. Zhyan Rebaz Tahir,34,Online
+C782,Cybersecurity Fundamentals Advanced,4,D186,Dr. Rami Kamaran Hasan,90,Hybrid
+C783,Blockchain Fundamentals Lab,4,D016,Dr. Karwan Mohammed Saeed,96,Hybrid
+C784,Blockchain Fundamentals Studio,2,D271,Dr. Chnar Dara Hama,105,Online
+C785,Blockchain Fundamentals Studio,4,D648,Dr. Narin Barzan Kadir,88,Online
+C786,Digital Circuits Practicum,4,D820,Dr. Shilan Dara Faris,116,Hybrid
+C787,Compiler Design Applications,3,D951,Dr. Salih Rizgar Qadir,42,Hybrid
+C788,Database Systems Studio,4,D570,Dr. Alan Saber Salih,103,In-person
+C789,Research Methods II,4,D823,Dr. Yara Aziz Saeed,94,Online
+C790,Statistical Methods Practicum,3,D555,Dr. Tara Jamal Hasan,101,In-person
+C791,Digital Circuits Advanced,4,D573,Dr. Bestun Farhad Karimi,99,Online
+C792,Discrete Mathematics Practicum,2,D908,Dr. Dilan Farhad Mahmoud,61,Online
+C793,Cybersecurity Fundamentals Applications,2,D161,Dr. Yara Aziz Nasser,67,In-person
+C794,Discrete Mathematics Practicum,4,D057,Dr. Lana Nawzad Ali,85,In-person
+C795,Project Management Studio,3,D560,Dr. Zeynep Mustafa Nuri,42,Hybrid
+C796,Research Methods Lab,3,D827,Dr. Saman Karim Othman,36,Hybrid
+C797,Calculus II I,3,D814,Dr. Yara Saeed Hama,93,Hybrid
+C798,Digital Circuits Applications,3,D208,Dr. Yara Omar Karimi,42,Hybrid
+C799,Big Data Analytics II,4,D502,Dr. Jalal Hama Ali,62,In-person
+C800,Project Management II,2,D020,Dr. Wrya Latif Nasser,115,In-person
+C801,Natural Language Processing Practicum,4,D754,Dr. Dashni Sherzad Ali,80,Hybrid
+C802,Human-Computer Interaction Practicum,3,D053,Dr. Salih Saber Mahmoud,111,Online
+C803,Computer Vision I,4,D029,Dr. Farhad Rebaz Hama,81,Online
+C804,Cloud Computing Practicum,2,D693,Dr. Avan Aryan Karimi,66,Hybrid
+C805,Research Methods Applications,4,D295,Dr. Helin Hama Ali,120,In-person
+C806,Web Application Development Seminar,4,D740,Dr. Nawzad Ihsan Karim,116,In-person
+C807,Cybersecurity Fundamentals Studio,4,D713,Dr. Alan Bakr Rashid,104,Hybrid
+C808,Research Methods Lab,4,D491,Dr. Saman Aryan Salih,46,Hybrid
+C809,Deep Learning II,4,D829,Dr. Layla Saeed Salih,110,Hybrid
+C810,Digital Circuits Seminar,3,D786,Dr. Dashni Latif Ali,57,Online
+C811,Deep Learning Applications,3,D743,Dr. Pishtiwan Raber Hasan,92,Hybrid
+C812,Machine Learning Advanced,3,D566,Dr. Kamaran Fuad Taha,86,Hybrid
+C813,Digital Circuits Studio,4,D429,Dr. Alan Salam Mahmoud,66,Online
+C814,Cloud Computing Advanced,4,D600,Dr. Kamaran Ihsan Hassan,101,Hybrid
+C815,Computer Vision Applications,3,D694,Dr. Rozhan Nawzad Mahmoud,39,Online
+C816,Web Application Development Advanced,4,D963,Dr. Baran Aryan Rashid,57,Hybrid
+C817,Big Data Analytics Lab,2,D748,Dr. Pishtiwan Sherzad Kadir,47,Online
+C818,Web Application Development I,3,D319,Dr. Azad Aryan Hama,66,Online
+C819,Distributed Systems Practicum,4,D475,Dr. Rozhan Saeed Hasan,99,In-person
+C820,Big Data Analytics Advanced,4,D134,Dr. Alan Bakr Saeed,84,Hybrid
+C821,Network Security Practicum,4,D407,Dr. Dara Farhad Karimi,102,In-person
+C822,Data Mining Advanced,4,D671,Dr. Azad Kamaran Othman,68,In-person
+C823,Algorithms & Data Structures Studio,3,D831,Dr. Avan Jamal Nuri,59,In-person
+C824,Web Application Development Seminar,4,D788,Dr. Kamaran Farid Hama,119,Online
+C825,Big Data Analytics Lab,3,D035,Dr. Mazin Mustafa Nuri,83,Hybrid
+C826,Research Methods I,4,D658,Dr. Sardar Kamaran Taha,49,Online
+C827,Network Security I,4,D985,Dr. Kamaran Fuad Ahmad,100,In-person
+C828,Computer Networks II,3,D385,Dr. Narin Bakr Mustafa,90,Online
+C829,Operating Systems II,2,D942,Dr. Sardar Bakr Ali,77,Online
+C830,Digital Circuits Lab,3,D170,Dr. Rebaz Omar Othman,114,In-person
+C831,Research Methods Lab,3,D249,Dr. Azad Ihsan Nuri,108,Online
+C832,Cybersecurity Fundamentals I,4,D868,Dr. Jalal Salam Faris,54,Online
+C833,Algorithms & Data Structures Lab,2,D664,Dr. Alan Fuad Hasan,36,Online
+C834,Machine Learning Lab,3,D748,Dr. Pishtiwan Sherzad Kadir,51,Online
+C835,Software Engineering Applications,4,D578,Dr. Randa Latif Othman,32,Online
+C836,Deep Learning II,3,D869,Dr. Hawkar Jamal Ahmad,81,In-person
+C837,Algorithms & Data Structures Applications,3,D235,Dr. Saman Hama Karim,32,Online
+C838,Data Visualisation Applications,3,D696,Dr. Zeynep Rebaz Hama,92,In-person
+C839,Statistical Methods II,4,D535,Dr. Pishtiwan Farid Faris,119,Online
+C840,Software Engineering Applications,2,D459,Dr. Rozhan Omar Nasser,52,Hybrid
+C841,Business Analytics Applications,3,D932,Dr. Xezal Rebaz Qadir,62,Online
+C842,Computer Networks Seminar,3,D322,Dr. Hawkar Rebaz Salih,53,Online
+C843,Deep Learning Seminar,4,D650,Dr. Zeynep Mohammed Mustafa,84,Hybrid
+C844,Project Management II,3,D572,Dr. Mazin Mustafa Salih,82,In-person
+C845,Calculus II Applications,4,D305,Dr. Helin Omar Faris,40,In-person
+C846,Blockchain Fundamentals Practicum,3,D081,Dr. Narin Dara Hasan,32,Hybrid
+C847,Big Data Analytics Advanced,3,D086,Dr. Bestun Omar Mustafa,119,In-person
+C848,Digital Circuits Lab,3,D697,Dr. Chnar Kamaran Tahir,84,Hybrid
+C849,Blockchain Fundamentals Applications,2,D620,Dr. Tara Karim Karim,107,Hybrid
+C850,Data Visualisation Advanced,3,D431,Dr. Dashni Bakr Mahmoud,40,In-person
+C851,Human-Computer Interaction Advanced,3,D358,Dr. Kamaran Karim Ali,98,Online
+C852,Deep Learning Applications,4,D271,Dr. Chnar Dara Hama,120,Hybrid
+C853,Business Analytics Lab,3,D869,Dr. Hawkar Jamal Ahmad,80,Hybrid
+C854,Web Application Development Seminar,3,D842,Dr. Farhad Bakr Karimi,113,Hybrid
+C855,Deep Learning Applications,3,D555,Dr. Tara Jamal Hasan,74,Online
+C856,Blockchain Fundamentals Practicum,2,D174,Dr. Naz Saber Karimi,117,Hybrid
+C857,Statistical Methods Studio,3,D02,Dr. Sana Younis Karim,78,Hybrid
+C858,Compiler Design Lab,3,D259,Dr. Zhyan Raber Mahmoud,104,Online
+C859,Cloud Computing Studio,2,D896,Dr. Mazin Dara Salih,61,Hybrid
+C860,Deep Learning Lab,3,D968,Dr. Nawzad Nawzad Rashid,99,Online
+C861,Calculus I Seminar,2,D487,Dr. Saman Fuad Aziz,29,In-person
+C862,Deep Learning Applications,4,D030,Dr. Narin Jalal Taha,80,In-person
+C863,Mobile App Development Applications,3,D329,Dr. Zeynep Aryan Omar,55,Online
+C864,Mobile App Development I,2,D644,Dr. Dashni Nawzad Mustafa,27,Online
+C865,Business Analytics Studio,4,D071,Dr. Salih Nawzad Tahir,56,In-person
+C866,Web Application Development II,3,D811,Dr. Rozhan Mustafa Rashid,119,Online
+C867,Compiler Design Advanced,3,D988,Dr. Naz Sherzad Said,95,Hybrid
+C868,Data Visualisation II,4,D706,Dr. Azad Ihsan Tahir,51,Hybrid
+C869,Operating Systems Seminar,4,D141,Dr. Aryan Rebaz Said,87,Hybrid
+C870,Database Systems Advanced,2,D787,Dr. Layla Sherzad Ahmad,120,Online
+C871,Distributed Systems Studio,3,D114,Dr. Salih Rebaz Ali,118,Hybrid
+C872,Calculus II Lab,3,D316,Dr. Kamaran Ihsan Saeed,61,Hybrid
+C873,Project Management Studio,3,D241,Dr. Azad Hama Faris,45,Online
+C874,Business Analytics Seminar,4,D621,Dr. Dilan Salam Rashid,115,In-person
+C875,Linear Algebra Practicum,4,D038,Dr. Hawkar Bakr Hama,70,Hybrid
+C876,Compiler Design I,4,D346,Dr. Naz Farid Hassan,67,In-person
+C877,Statistical Methods I,4,D735,Dr. Hawkar Raber Saeed,61,Online
+C878,Cloud Computing Studio,2,D974,Dr. Pishtiwan Kamaran Nasser,114,In-person
+C879,Algorithms & Data Structures II,4,D755,Dr. Azad Fuad Hassan,40,Online
+C880,Software Engineering Applications,4,D070,Dr. Azad Raber Hassan,103,In-person
+C881,Algorithms & Data Structures Practicum,3,D089,Dr. Chnar Aziz Taha,79,Hybrid
+C882,Web Application Development Studio,2,D704,Dr. Chnar Dara Hasan,43,Online
+C883,Deep Learning Applications,4,D712,Dr. Narin Aryan Karim,119,Online
+C884,Compiler Design Practicum,2,D551,Dr. Mazin Ihsan Nuri,71,Online
+C885,Database Systems Practicum,2,D075,Dr. Layla Kamaran Hassan,21,In-person
+C886,Statistical Methods Advanced,3,D329,Dr. Zeynep Aryan Omar,48,Online
+C887,Blockchain Fundamentals Studio,4,D333,Dr. Randa Aryan Qadir,78,Online
+C888,Data Visualisation Studio,4,D927,Dr. Salih Saeed Kadir,39,In-person
+C889,Data Visualisation Seminar,3,D819,Dr. Kamaran Bakr Tahir,32,In-person
+C890,Discrete Mathematics I,3,D140,Dr. Salih Bakr Hassan,89,Hybrid
+C891,Deep Learning Studio,3,D561,Dr. Hawkar Aryan Ali,104,In-person
+C892,Cloud Computing Advanced,4,D031,Dr. Wrya Farid Othman,54,In-person
+C893,Blockchain Fundamentals Studio,2,D696,Dr. Zeynep Rebaz Hama,37,Hybrid
+C894,Compiler Design Practicum,2,D936,Dr. Wrya Nawzad Karim,76,Online
+C895,Data Visualisation Practicum,2,D813,Dr. Aryan Mustafa Othman,77,Hybrid
+C896,Data Visualisation Lab,4,D019,Dr. Layla Farhad Qadir,95,In-person
+C897,Cybersecurity Fundamentals II,3,D283,Dr. Naz Jalal Ahmad,116,In-person
+C898,Data Mining Studio,3,D376,Dr. Zeynep Rebaz Othman,73,In-person
+C899,Algorithms & Data Structures Studio,4,D032,Dr. Rami Omar Taha,52,Online
+C900,Project Management I,2,D587,Dr. Randa Raber Nuri,68,Hybrid
+C901,Calculus I II,3,D977,Dr. Sardar Jamal Said,66,Hybrid
+C902,Statistical Methods Seminar,3,D747,Dr. Rami Dara Hama,109,In-person
+C903,Big Data Analytics Practicum,4,D762,Dr. Rebaz Barzan Karimi,22,Hybrid
+C904,Big Data Analytics Studio,2,D525,Dr. Rozhan Raber Karimi,38,In-person
+C905,Software Engineering I,3,D303,Dr. Shilan Fuad Nuri,86,In-person
+C906,Computer Vision Applications,2,D373,Dr. Yara Rizgar Ali,27,Online
+C907,Calculus I Seminar,3,D816,Dr. Aryan Kamaran Karim,99,Hybrid
+C908,Statistical Methods Advanced,3,D450,Dr. Xezal Rebaz Qadir,86,In-person
+C909,Human-Computer Interaction Advanced,3,D773,Dr. Lana Kamaran Omar,34,In-person
+C910,Data Mining Lab,3,D016,Dr. Karwan Mohammed Saeed,71,Online
+C911,Research Methods Seminar,4,D147,Dr. Aryan Dara Hassan,61,In-person
+C912,Deep Learning I,4,D879,Dr. Alan Dara Qadir,24,Online
+C913,Research Methods Practicum,2,D920,Dr. Dara Latif Nasser,89,Hybrid
+C914,Discrete Mathematics Advanced,3,D020,Dr. Wrya Latif Nasser,32,In-person
+C915,Calculus II Lab,2,D395,Dr. Randa Aryan Said,73,In-person
+C916,Data Mining Applications,4,D986,Dr. Azad Raber Aziz,88,Hybrid
+C917,Calculus I I,3,D989,Dr. Naz Karim Qadir,80,Hybrid
+C918,Web Application Development Studio,4,D473,Dr. Zeynep Fuad Rashid,66,Online
+C919,Computer Vision II,4,D418,Dr. Mazin Bakr Qadir,83,Online
+C920,Data Visualisation Advanced,3,D113,Dr. Wrya Jamal Othman,85,In-person
+C921,Digital Circuits II,2,D259,Dr. Zhyan Raber Mahmoud,111,Hybrid
+C922,Calculus II II,3,D252,Dr. Lana Mohammed Omar,48,Hybrid
+C923,Distributed Systems Seminar,3,D869,Dr. Hawkar Jamal Ahmad,110,Hybrid
+C924,Software Engineering Seminar,3,D736,Dr. Shilan Farid Salih,61,Hybrid
+C925,Natural Language Processing Advanced,4,D397,Dr. Vian Omar Faris,114,In-person
+C926,Calculus II Practicum,2,D125,Dr. Vian Saber Tahir,45,In-person
+C927,Web Application Development I,3,D623,Dr. Rebaz Mohammed Faris,40,Hybrid
+C928,Database Systems Applications,4,D475,Dr. Rozhan Saeed Hasan,64,In-person
+C929,Calculus I Practicum,4,D401,Dr. Nawzad Ihsan Karim,47,Hybrid
+C930,Business Analytics Applications,2,D676,Dr. Farhad Mohammed Hassan,115,Hybrid
+C931,Blockchain Fundamentals Studio,3,D507,Dr. Randa Nawzad Faris,43,Hybrid
+C932,Human-Computer Interaction Applications,4,D699,Dr. Salih Raber Salih,78,Online
+C933,Natural Language Processing Studio,4,D182,Dr. Avan Sherzad Salih,53,In-person
+C934,Statistical Methods I,4,D712,Dr. Narin Aryan Karim,36,In-person
+C935,Project Management II,2,D798,Dr. Zhyan Fuad Nuri,90,Online
+C936,Web Application Development Studio,3,D283,Dr. Naz Jalal Ahmad,77,Hybrid
+C937,Algorithms & Data Structures Advanced,4,D074,Dr. Shilan Dara Qadir,85,In-person
+C938,Compiler Design Lab,2,D639,Dr. Fuad Salam Karim,45,Online
+C939,Network Security Advanced,4,D290,Dr. Kavar Mustafa Qadir,87,Online
+C940,Human-Computer Interaction Studio,4,D641,Dr. Rami Bakr Omar,49,Online
+C941,Cybersecurity Fundamentals Studio,3,D957,Dr. Dilan Mustafa Ali,32,Online
+C942,Big Data Analytics Lab,3,D575,Dr. Rebaz Mustafa Hassan,89,Online
+C943,Calculus I Lab,3,D431,Dr. Dashni Bakr Mahmoud,26,Hybrid
+C944,Mobile App Development Practicum,4,D942,Dr. Sardar Bakr Ali,79,Hybrid
+C945,Distributed Systems Seminar,2,D663,Dr. Kamaran Jamal Karimi,29,Hybrid
+C946,Operating Systems Seminar,3,D791,Dr. Wrya Dara Hasan,113,Online
+C947,Algorithms & Data Structures I,4,D452,Dr. Naz Hama Nuri,37,In-person
+C948,Compiler Design Advanced,3,D191,Dr. Salih Jalal Nasser,70,In-person
+C949,Statistical Methods Practicum,4,D811,Dr. Rozhan Mustafa Rashid,44,In-person
+C950,Algorithms & Data Structures Lab,3,D295,Dr. Helin Hama Ali,37,Hybrid
+C951,Distributed Systems Advanced,3,D188,Dr. Shilan Rebaz Hama,76,In-person
+C952,Business Analytics Studio,2,D685,Dr. Avan Farhad Tahir,101,In-person
+C953,Cloud Computing II,4,D649,Dr. Sardar Jalal Othman,80,In-person
+C954,Project Management Seminar,2,D677,Dr. Dara Latif Karimi,89,Online
+C955,Project Management Advanced,2,D910,Dr. Narin Sherzad Faris,116,Online
+C956,Calculus II Seminar,2,D752,Dr. Fuad Mustafa Ali,68,Hybrid
+C957,Big Data Analytics Applications,4,D620,Dr. Tara Karim Karim,94,In-person
+C958,Computer Vision Applications,3,D103,Dr. Layla Kamaran Kadir,48,Online
+C959,Algorithms & Data Structures Studio,3,D226,Dr. Kavar Salam Said,105,Hybrid
+C960,Statistical Methods Practicum,2,D971,Dr. Dashni Farhad Mahmoud,101,In-person
+C961,Compiler Design Seminar,3,D623,Dr. Rebaz Mohammed Faris,101,Online
+C962,Statistical Methods Seminar,3,D310,Dr. Shilan Hama Faris,30,In-person
+C963,Computer Vision Applications,3,D103,Dr. Layla Kamaran Kadir,94,Hybrid
+C964,Software Engineering Practicum,3,D179,Dr. Yara Karim Saeed,33,Online
+C965,Operating Systems Practicum,4,D087,Dr. Azad Mohammed Mahmoud,86,Online
+C966,Machine Learning II,4,D419,Dr. Rebaz Sherzad Mustafa,102,In-person
+C967,Linear Algebra II,3,D429,Dr. Alan Salam Mahmoud,66,Online
+C968,Computer Vision Practicum,4,D492,Dr. Lana Aziz Hassan,111,Online
+C969,Network Security Applications,4,D202,Dr. Farhad Latif Said,93,Online
+C970,Mobile App Development Practicum,2,D640,Dr. Kamaran Sherzad Omar,47,Online
+C971,Database Systems Studio,2,D545,Dr. Kamaran Rizgar Karim,57,Hybrid
+C972,Distributed Systems Applications,3,D198,Dr. Azad Ihsan Hasan,65,Online
+C973,Network Security Lab,3,D115,Dr. Yara Aryan Nasser,77,In-person
+C974,Project Management Seminar,3,D923,Dr. Shilan Dara Mustafa,46,Online
+C975,Big Data Analytics Studio,4,D210,Dr. Layla Farhad Hama,116,Hybrid
+C976,Calculus I Applications,2,D666,Dr. Rebaz Ihsan Ahmad,62,Hybrid
+C977,Operating Systems Lab,3,D117,Dr. Vian Barzan Saeed,59,In-person
+C978,Algorithms & Data Structures Practicum,3,D766,Dr. Naz Saber Hasan,99,Hybrid
+C979,Cybersecurity Fundamentals Practicum,3,D979,Dr. Randa Bakr Qadir,53,Online
+C980,Network Security Studio,4,D191,Dr. Salih Jalal Nasser,66,In-person
+C981,Deep Learning I,2,D389,Dr. Hawkar Rebaz Ahmad,44,Online
+C982,Research Methods Seminar,4,D420,Dr. Layla Raber Nuri,88,In-person
+C983,Discrete Mathematics II,3,D289,Dr. Helin Aziz Nasser,31,In-person
+C984,Discrete Mathematics Practicum,3,D294,Dr. Zeynep Karim Hasan,38,Online
+C985,Operating Systems Studio,4,D157,Dr. Lana Omar Rashid,37,Hybrid
+C986,Calculus I Seminar,4,D740,Dr. Nawzad Ihsan Karim,92,In-person
+C987,Digital Circuits Applications,2,D888,Dr. Tara Farhad Karimi,51,Online
+C988,Natural Language Processing Seminar,2,D533,Dr. Nawzad Aryan Kadir,83,In-person
+C989,Digital Circuits Lab,3,D963,Dr. Baran Aryan Rashid,76,Online
+C990,Web Application Development I,3,D761,Dr. Shilan Sherzad Hama,51,In-person
+C991,Data Mining Applications,4,D541,Dr. Jalal Aziz Karimi,91,Online
+C992,Data Visualisation Practicum,3,D861,Dr. Zeynep Salam Mahmoud,86,Online
+C993,Big Data Analytics Practicum,3,D694,Dr. Rozhan Nawzad Mahmoud,110,Hybrid
+C994,Statistical Methods Studio,3,D547,Dr. Zeynep Saber Karim,50,Hybrid
+C995,Network Security II,3,D869,Dr. Hawkar Jamal Ahmad,61,Online
+C996,Human-Computer Interaction Advanced,2,D934,Dr. Sardar Farhad Tahir,120,Online
+C997,Data Mining Studio,2,D388,Dr. Hawkar Farid Said,97,In-person
+C998,Network Security Lab,4,D743,Dr. Pishtiwan Raber Hasan,54,Online
+C999,Project Management Applications,4,D199,Dr. Narin Barzan Faris,95,Hybrid
+C1000,Cybersecurity Fundamentals I,4,D451,Dr. Farhad Kamaran Mustafa,77,Online
+C1001,Machine Learning Studio,4,D120,Dr. Mazin Raber Omar,110,In-person
+C1002,Natural Language Processing Studio,2,D147,Dr. Aryan Dara Hassan,112,Hybrid
+C1003,Business Analytics I,4,D109,Dr. Layla Saeed Said,82,Hybrid
+C1004,Blockchain Fundamentals Advanced,4,D104,Dr. Vian Omar Said,47,Online
+C1005,Cloud Computing Seminar,3,D915,Dr. Shilan Jalal Hama,49,Online
+C1006,Statistical Methods Advanced,4,D204,Dr. Nawzad Ihsan Nuri,107,Online
+C1007,Calculus I I,4,D018,Dr. Bestun Hama Hassan,26,Online
+C1008,Network Security II,2,D420,Dr. Layla Raber Nuri,98,In-person
+C1009,Statistical Methods Advanced,3,D513,Dr. Zhyan Salam Nasser,51,Online
+C1010,Cybersecurity Fundamentals Advanced,2,D522,Dr. Chnar Rizgar Nasser,103,Hybrid
+C1011,Linear Algebra Studio,2,D241,Dr. Azad Hama Faris,32,Hybrid
+C1012,Computer Vision Practicum,4,D874,Dr. Alan Latif Nasser,68,Online
+C1013,Web Application Development Studio,3,D141,Dr. Aryan Rebaz Said,32,Hybrid
+C1014,Cybersecurity Fundamentals Practicum,3,D825,Dr. Pishtiwan Ihsan Nasser,83,In-person
+C1015,Business Analytics Practicum,3,D277,Dr. Avan Mohammed Hama,49,Hybrid
+C1016,Big Data Analytics II,3,D360,Dr. Kamaran Saber Karimi,77,In-person
+C1017,Business Analytics I,4,D850,Dr. Zeynep Sherzad Nuri,27,Online
+C1018,Natural Language Processing Studio,2,D523,Dr. Kavar Latif Nuri,41,In-person
+C1019,Database Systems I,3,D294,Dr. Zeynep Karim Hasan,69,Hybrid
+C1020,Human-Computer Interaction Studio,2,D924,Dr. Vian Aziz Hasan,42,In-person
+C1021,Discrete Mathematics Applications,3,D838,Dr. Naz Farid Ali,88,In-person
+C1022,Linear Algebra Advanced,4,D525,Dr. Rozhan Raber Karimi,67,Online
+C1023,Calculus II Applications,3,D053,Dr. Salih Saber Mahmoud,84,In-person
+C1024,Database Systems I,4,D929,Dr. Tara Ihsan Tahir,35,Hybrid
+C1025,Linear Algebra Studio,3,D232,Dr. Yara Latif Ahmad,95,Online
+C1026,Calculus II II,4,D912,Dr. Yara Jamal Ahmad,44,Online
+C1027,Discrete Mathematics Studio,4,D664,Dr. Alan Fuad Hasan,104,Online
+C1028,Human-Computer Interaction Applications,2,D401,Dr. Nawzad Ihsan Karim,105,Online
+C1029,Deep Learning Lab,3,D344,Dr. Bestun Raber Taha,38,In-person
+C1030,Data Visualisation Practicum,2,D942,Dr. Sardar Bakr Ali,65,In-person
+C1031,Human-Computer Interaction II,4,D385,Dr. Narin Bakr Mustafa,31,Online
+C1032,Deep Learning Practicum,4,D910,Dr. Narin Sherzad Faris,102,In-person
+C1033,Deep Learning Advanced,4,D419,Dr. Rebaz Sherzad Mustafa,117,In-person
+C1034,Big Data Analytics Practicum,4,D103,Dr. Layla Kamaran Kadir,75,Hybrid
+C1035,Data Mining I,4,D301,Dr. Baran Aryan Qadir,33,Hybrid
+C1036,Data Mining Practicum,3,D704,Dr. Chnar Dara Hasan,83,Hybrid
+C1037,Computer Vision I,4,D509,Dr. Chnar Sherzad Aziz,25,In-person
+C1038,Cloud Computing Advanced,3,D465,Dr. Salih Raber Faris,114,In-person
+C1039,Database Systems I,3,D539,Dr. Salih Saeed Karim,69,In-person
+C1040,Operating Systems I,4,D739,Dr. Narin Jamal Nasser,114,Online
+C1041,Calculus I Advanced,4,D672,Dr. Yara Nawzad Othman,67,Online
+C1042,Machine Learning Lab,2,D668,Dr. Aryan Jalal Karim,78,In-person
+C1043,Computer Vision Studio,2,D021,Dr. Shilan Dara Faris,111,In-person
+C1044,Data Visualisation I,2,D501,Dr. Fuad Salam Hama,68,In-person
+C1045,Linear Algebra Seminar,2,D983,Dr. Baran Nawzad Othman,50,Online
+C1046,Cybersecurity Fundamentals Practicum,3,D713,Dr. Alan Bakr Rashid,67,Hybrid
+C1047,Web Application Development Advanced,4,D567,Dr. Rami Saeed Omar,51,Online
+C1048,Business Analytics Practicum,4,D544,Dr. Naz Dara Ahmad,110,Online
+C1049,Data Visualisation Seminar,4,D056,Dr. Kavar Farid Saeed,108,In-person
+C1050,Compiler Design Practicum,4,D11,Dr. Bestun Nazar Ali,55,In-person
+C1051,Business Analytics I,4,D956,Dr. Aryan Farhad Taha,25,Online
+C1052,Web Application Development Lab,2,D112,Dr. Salih Mustafa Omar,101,In-person
+C1053,Cybersecurity Fundamentals Applications,2,D982,Dr. Shilan Jalal Aziz,43,Online
+C1054,Cybersecurity Fundamentals Seminar,4,D641,Dr. Rami Bakr Omar,56,Online
+C1055,Cloud Computing Seminar,2,D184,Dr. Dara Mohammed Taha,117,In-person
+C1056,Compiler Design Lab,2,D259,Dr. Zhyan Raber Mahmoud,91,Hybrid
+C1057,Web Application Development I,4,D971,Dr. Dashni Farhad Mahmoud,81,In-person
+C1058,Digital Circuits I,4,D061,Dr. Baran Saber Saeed,43,In-person
+C1059,Computer Vision II,3,D089,Dr. Chnar Aziz Taha,75,Online
+C1060,Project Management Advanced,4,D306,Dr. Fuad Farid Taha,96,In-person
+C1061,Research Methods Lab,3,D539,Dr. Salih Saeed Karim,112,Hybrid
+C1062,Software Engineering I,3,D260,Dr. Helin Dara Faris,63,Hybrid
+C1063,Network Security Applications,3,D458,Dr. Helin Rebaz Mustafa,102,In-person
+C1064,Mobile App Development Advanced,3,D304,Dr. Kavar Latif Salih,84,In-person
+C1065,Cybersecurity Fundamentals Lab,3,D163,Dr. Salih Rizgar Taha,104,Online
+C1066,Database Systems Applications,2,D137,Dr. Sardar Saeed Mahmoud,51,Online
+C1067,Cloud Computing Advanced,3,D364,Dr. Layla Karim Nasser,90,Hybrid
+C1068,Linear Algebra II,4,D300,Dr. Karwan Farid Kadir,86,Online
+C1069,Discrete Mathematics Advanced,3,D537,Dr. Karwan Fuad Othman,67,In-person
+C1070,Calculus II II,3,D100,Dr. Vian Saeed Faris,20,Hybrid
+C1071,Software Engineering I,4,D538,Dr. Tara Farid Salih,118,Online
+C1072,Calculus I Lab,2,D070,Dr. Azad Raber Hassan,92,Online
+C1073,Database Systems Applications,4,D786,Dr. Dashni Latif Ali,102,Hybrid
+C1074,Natural Language Processing Practicum,4,D827,Dr. Saman Karim Othman,115,In-person
+C1075,Data Mining Seminar,3,D807,Dr. Xezal Rizgar Saeed,101,Hybrid
+C1076,Research Methods Advanced,4,D614,Dr. Zeynep Rizgar Tahir,88,Hybrid
+C1077,Web Application Development Seminar,3,D324,Dr. Zeynep Bakr Ahmad,69,Hybrid
+C1078,Network Security I,4,D626,Dr. Pishtiwan Aryan Othman,58,In-person
+C1079,Project Management Practicum,4,D724,Dr. Chnar Farid Ali,49,Hybrid
+C1080,Compiler Design Studio,3,D675,Dr. Hawkar Mustafa Omar,71,Hybrid
+C1081,Project Management Applications,4,D341,Dr. Rozhan Mohammed Tahir,69,Hybrid
+C1082,Deep Learning Studio,4,D851,Dr. Rebaz Rebaz Faris,37,Online
+C1083,Data Visualisation Lab,3,D160,Dr. Karwan Raber Karim,111,In-person
+C1084,Data Visualisation Studio,4,D036,Dr. Xezal Farid Othman,90,Hybrid
+C1085,Big Data Analytics Seminar,3,D596,Dr. Salih Kamaran Hama,70,In-person
+C1086,Linear Algebra Applications,3,D233,Dr. Jalal Omar Saeed,119,Online
+C1087,Machine Learning Lab,3,D231,Dr. Xezal Jalal Hassan,63,Online
+C1088,Natural Language Processing Practicum,4,D720,Dr. Rozhan Salam Saeed,75,In-person
+C1089,Database Systems Lab,4,D499,Dr. Baran Mohammed Kadir,92,Online
+C1090,Business Analytics Advanced,4,D110,Dr. Tara Fuad Hasan,93,In-person
+C1091,Statistical Methods Studio,4,D789,Dr. Aryan Karim Qadir,51,Online
+C1092,Blockchain Fundamentals Applications,3,D728,Dr. Randa Farhad Said,98,Online
+C1093,Distributed Systems I,2,D187,Dr. Azad Kamaran Mustafa,120,In-person
+C1094,Database Systems I,2,D025,Dr. Kamaran Sherzad Mahmoud,62,In-person
+C1095,Research Methods Studio,3,D348,Dr. Dashni Mustafa Ahmad,115,In-person
+C1096,Cloud Computing II,3,D446,Dr. Karwan Jamal Ahmad,99,Hybrid
+C1097,Calculus II Applications,4,D246,Dr. Alan Nawzad Salih,63,Online
+C1098,Cloud Computing Seminar,2,D063,Dr. Azad Fuad Karim,91,In-person
+C1099,Cybersecurity Fundamentals Practicum,2,D096,Dr. Dashni Jamal Hasan,88,Online
+C1100,Cybersecurity Fundamentals Applications,3,D724,Dr. Chnar Farid Ali,108,In-person

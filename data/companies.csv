@@ -1,0 +1,1001 @@
+company_id,company_name,city,sector,founded,employees,annual_revenue_usd,ceo
+CO01,Korek Telecom,Erbil,Telecommunications,2000,1800,420000000,Sirwan Barzani
+CO02,Fastlink Kurdistan,Sulaymaniyah,Telecommunications,2003,1200,310000000,Nawzad Hadi
+CO03,Erbil Construction Group,Erbil,Construction,1995,650,85000000,Karwan Aziz Hama
+CO04,Duhok Food Industries,Duhok,Food & Beverage,2001,420,32000000,Bestun Faris Tahir
+CO05,Kurdistan Tech Solutions,Erbil,Technology,2015,180,12500000,Zhyan Omar Salih
+CO06,Sulaymaniyah Medical Labs,Sulaymaniyah,Healthcare,2010,210,18000000,Dr. Shilan Saeed Azad
+CO07,Halabja Agri Products,Halabja,Agriculture,2008,340,9800000,Hawkar Salam Qadir
+CO08,Zakho Logistics,Zakho,Transport & Logistics,2012,290,22000000,Dilan Jalal Omar
+CO09,Erbil Media Group,Erbil,Media,2006,130,7500000,Naz Kadir Rashid
+CO10,KRG Smart Energy,Erbil,Energy,2018,95,14200000,Saman Kamaran Aziz
+CO11,Sulaimani Real Estate,Sulaymaniyah,Real Estate,2005,160,35000000,Vian Nawzad Hasan
+CO12,Kurdistan Airlines,Erbil,Aviation,2009,820,95000000,Alan Sherzad Tahir
+CO13,Duhok Steel Factory,Duhok,Manufacturing,1998,480,28000000,Pishtiwan Soran Rashid
+CO14,Erbil International Hotel,Erbil,Hospitality,2011,350,18500000,Rozhan Latif Aziz
+CO15,Kurdistan Pharma,Sulaymaniyah,Pharmaceuticals,2014,220,21000000,Tara Raber Karim
+CO016,Halabja Hospitality Solutions,Halabja,Hospitality,2017,2927,241447494,Aryan Fuad Faris
+CO017,Halabja Energy Industries,Halabja,Energy,2007,4042,115000155,Alan Dara Hasan
+CO018,Erbil Consulting Solutions,Erbil,Consulting,2014,1601,460912576,Nawzad Hama Hassan
+CO019,Zakho Agriculture Labs,Zakho,Agriculture,2001,2840,39735283,Hawkar Jamal Qadir
+CO020,Erbil Manufacturing Holdings,Erbil,Manufacturing,2020,4363,67548814,Aryan Sherzad Aziz
+CO021,Sulaymaniyah Transport Logistics Group,Sulaymaniyah,Transport & Logistics,2020,397,23693301,Salih Omar Taha
+CO022,Sulaymaniyah Real Estate Center,Sulaymaniyah,Real Estate,1991,1178,224875474,Aryan Dara Nuri
+CO023,Sulaymaniyah Pharmaceuticals Center,Sulaymaniyah,Pharmaceuticals,2001,2303,303158093,Hawkar Raber Hassan
+CO024,Erbil Hospitality Center,Erbil,Hospitality,2012,985,127683937,Dara Aryan Salih
+CO025,Zakho Energy Group,Zakho,Energy,2005,578,115867612,Jalal Farid Said
+CO026,Zakho Tourism Solutions,Zakho,Tourism,2006,3580,384570382,Nawzad Barzan Nasser
+CO027,Erbil Healthcare Group,Erbil,Healthcare,2002,1908,605390413,Dilan Barzan Qadir
+CO028,Zakho Pharmaceuticals Holdings,Zakho,Pharmaceuticals,2006,1283,233833155,Kamaran Dara Taha
+CO029,Halabja Transport Logistics Enterprises,Halabja,Transport & Logistics,2012,2371,171743836,Salih Latif Salih
+CO030,Zakho Media Enterprises,Zakho,Media,2020,1996,330092339,Farhad Farhad Ali
+CO031,Erbil Media Group,Erbil,Media,2001,3694,510917976,Naz Rizgar Mustafa
+CO032,Zakho Consulting Systems,Zakho,Consulting,1994,3305,171063013,Wrya Mohammed Ali
+CO033,Duhok Transport Logistics Industries,Duhok,Transport & Logistics,2017,3653,157433318,Pishtiwan Farhad Hama
+CO034,Duhok Retail Systems,Duhok,Retail,2019,1196,424671676,Farhad Kamaran Faris
+CO035,Zakho Consulting Systems,Zakho,Consulting,2022,4333,612383829,Pishtiwan Sherzad Mustafa
+CO036,Sulaymaniyah Retail Holdings,Sulaymaniyah,Retail,2018,1377,544770194,Rebaz Fuad Kadir
+CO037,Zakho Logistics Holdings,Zakho,Logistics,1995,446,317285756,Sardar Rebaz Mahmoud
+CO038,Sulaymaniyah Tourism Holdings,Sulaymaniyah,Tourism,2014,2588,197109309,Rozhan Jalal Ali
+CO039,Zakho Media Solutions,Zakho,Media,2022,431,152102893,Sardar Dara Hassan
+CO040,Duhok Food Beverage Group,Duhok,Food & Beverage,2019,857,609574141,Karwan Farid Qadir
+CO041,Duhok Media Systems,Duhok,Media,2019,480,194308333,Bestun Barzan Faris
+CO042,Halabja Technology Services,Halabja,Technology,2015,1838,384974941,Tara Aziz Mustafa
+CO043,Halabja Transport Logistics Labs,Halabja,Transport & Logistics,2003,536,86319563,Sardar Jalal Ali
+CO044,Halabja Real Estate Labs,Halabja,Real Estate,2015,3648,242858271,Shilan Ihsan Karim
+CO045,Erbil Construction Solutions,Erbil,Construction,2019,2274,610055632,Helin Omar Faris
+CO046,Duhok Pharmaceuticals Group,Duhok,Pharmaceuticals,2021,1930,8314056,Dara Jalal Ahmad
+CO047,Zakho Transport Logistics Enterprises,Zakho,Transport & Logistics,2003,1953,640482694,Aryan Mustafa Hama
+CO048,Erbil Food Beverage Group,Erbil,Food & Beverage,1996,2390,608395067,Baran Nawzad Saeed
+CO049,Erbil Logistics Center,Erbil,Logistics,2000,1324,281329396,Layla Aziz Omar
+CO050,Erbil Transport Logistics Company,Erbil,Transport & Logistics,2014,2761,290828451,Nawzad Nawzad Mahmoud
+CO051,Erbil Agriculture Labs,Erbil,Agriculture,1995,2238,268953602,Vian Raber Karimi
+CO052,Duhok Education Solutions,Duhok,Education,1994,4583,34219934,Zhyan Dara Ali
+CO053,Erbil Food Beverage Labs,Erbil,Food & Beverage,2005,593,121801905,Kamaran Hama Qadir
+CO054,Zakho Construction Industries,Zakho,Construction,2020,3347,645701806,Helin Mustafa Ahmad
+CO055,Duhok Education Enterprises,Duhok,Education,2017,3437,54349289,Tara Saber Aziz
+CO056,Duhok Hospitality Industries,Duhok,Hospitality,2010,3888,376742566,Layla Saber Saeed
+CO057,Sulaymaniyah Real Estate Holdings,Sulaymaniyah,Real Estate,2006,486,416312617,Nawzad Saber Othman
+CO058,Halabja Pharmaceuticals Solutions,Halabja,Pharmaceuticals,2021,2784,277867077,Hawkar Karim Aziz
+CO059,Sulaymaniyah Education Enterprises,Sulaymaniyah,Education,1996,968,323239915,Farhad Raber Nasser
+CO060,Zakho Construction Labs,Zakho,Construction,2025,192,82216375,Kamaran Fuad Othman
+CO061,Duhok Manufacturing Enterprises,Duhok,Manufacturing,1992,4580,183969796,Zeynep Fuad Said
+CO062,Zakho Aviation Group,Zakho,Aviation,2006,2238,312054511,Shilan Dara Kadir
+CO063,Sulaymaniyah Tourism Services,Sulaymaniyah,Tourism,1999,3332,531090426,Sardar Latif Said
+CO064,Erbil Manufacturing Group,Erbil,Manufacturing,1994,2710,133992582,Lana Rebaz Othman
+CO065,Halabja Pharmaceuticals Industries,Halabja,Pharmaceuticals,2016,4196,271654272,Rami Rebaz Karimi
+CO066,Duhok Healthcare Services,Duhok,Healthcare,1994,3386,605988990,Fuad Jalal Salih
+CO067,Sulaymaniyah Telecommunications Enterprises,Sulaymaniyah,Telecommunications,2014,4435,85391981,Chnar Farhad Hassan
+CO068,Erbil Pharmaceuticals Company,Erbil,Pharmaceuticals,1994,2188,237183642,Bestun Barzan Hasan
+CO069,Zakho Healthcare Systems,Zakho,Healthcare,2019,3226,442432838,Hawkar Rizgar Karimi
+CO070,Duhok Energy Solutions,Duhok,Energy,2019,704,347223799,Zhyan Aziz Karim
+CO071,Zakho Telecommunications Solutions,Zakho,Telecommunications,2019,2869,120058572,Jalal Aziz Hassan
+CO072,Zakho Education Company,Zakho,Education,2006,1486,545283768,Rozhan Barzan Tahir
+CO073,Zakho Pharmaceuticals Solutions,Zakho,Pharmaceuticals,2023,3525,519824354,Aryan Mustafa Karimi
+CO074,Zakho Pharmaceuticals Enterprises,Zakho,Pharmaceuticals,1998,776,649660551,Baran Mustafa Saeed
+CO075,Halabja Media Services,Halabja,Media,1997,2141,221440967,Layla Farhad Hasan
+CO076,Sulaymaniyah Technology Labs,Sulaymaniyah,Technology,2000,3726,190736257,Xezal Sherzad Karim
+CO077,Halabja Media Systems,Halabja,Media,2017,3819,302064486,Dilan Latif Othman
+CO078,Halabja Technology Industries,Halabja,Technology,1992,2848,637738135,Nawzad Mustafa Kadir
+CO079,Duhok Fintech Holdings,Duhok,Fintech,2024,4439,32414059,Shilan Bakr Othman
+CO080,Sulaymaniyah Aviation Holdings,Sulaymaniyah,Aviation,1998,518,572356303,Kavar Nawzad Nasser
+CO081,Erbil Logistics Company,Erbil,Logistics,1992,1238,385051865,Rebaz Rizgar Karimi
+CO082,Erbil Hospitality Industries,Erbil,Hospitality,1993,3282,259726421,Dashni Mohammed Nuri
+CO083,Duhok Aviation Center,Duhok,Aviation,2012,885,342492541,Randa Jamal Faris
+CO084,Zakho Food Beverage Holdings,Zakho,Food & Beverage,2016,1262,615760799,Zeynep Mustafa Tahir
+CO085,Halabja Hospitality Systems,Halabja,Hospitality,2014,465,143543204,Xezal Ihsan Mahmoud
+CO086,Halabja Education Systems,Halabja,Education,1999,516,160098510,Dara Hama Kadir
+CO087,Duhok Construction Company,Duhok,Construction,1991,3192,289011854,Sardar Sherzad Faris
+CO088,Halabja Fintech Systems,Halabja,Fintech,2025,4099,105046502,Jalal Salam Hama
+CO089,Duhok Technology Group,Duhok,Technology,1993,56,470244092,Yara Hama Said
+CO090,Duhok Retail Services,Duhok,Retail,2005,4636,249505149,Sardar Saeed Hassan
+CO091,Duhok Pharmaceuticals Group,Duhok,Pharmaceuticals,2004,2585,445624417,Layla Kamaran Said
+CO092,Halabja Education Group,Halabja,Education,2014,2280,607913714,Mazin Fuad Tahir
+CO093,Halabja Telecommunications Services,Halabja,Telecommunications,2008,3849,55695204,Tara Karim Said
+CO094,Sulaymaniyah Construction Services,Sulaymaniyah,Construction,2020,140,136815722,Rebaz Farhad Aziz
+CO095,Halabja Telecommunications Industries,Halabja,Telecommunications,2019,3505,283270977,Xezal Jalal Taha
+CO096,Erbil Construction Labs,Erbil,Construction,1993,988,586639286,Tara Fuad Ali
+CO097,Duhok Education Systems,Duhok,Education,2024,4181,1255216,Jalal Dara Saeed
+CO098,Zakho Real Estate Group,Zakho,Real Estate,2014,1330,549167983,Baran Latif Ali
+CO099,Erbil Fintech Industries,Erbil,Fintech,2012,2598,241191473,Dara Aziz Tahir
+CO100,Sulaymaniyah Logistics Labs,Sulaymaniyah,Logistics,1994,2638,398063326,Dilan Jalal Taha
+CO101,Duhok Agriculture Services,Duhok,Agriculture,2019,680,99645776,Chnar Raber Aziz
+CO102,Zakho Manufacturing Group,Zakho,Manufacturing,2013,1020,224621916,Rami Karim Ahmad
+CO103,Erbil Retail Services,Erbil,Retail,1995,4221,27320495,Wrya Karim Mustafa
+CO104,Duhok Technology Industries,Duhok,Technology,1991,46,529939612,Narin Farhad Karimi
+CO105,Duhok Manufacturing Solutions,Duhok,Manufacturing,2011,3524,624282666,Azad Salam Taha
+CO106,Sulaymaniyah Education Holdings,Sulaymaniyah,Education,1999,3154,604180271,Kamaran Aryan Kadir
+CO107,Zakho Media Company,Zakho,Media,2019,1683,46142529,Kamaran Farid Othman
+CO108,Duhok Agriculture Systems,Duhok,Agriculture,1993,3095,56012114,Xezal Nawzad Taha
+CO109,Zakho Construction Enterprises,Zakho,Construction,1995,1238,324915139,Randa Salam Karim
+CO110,Sulaymaniyah Tourism Services,Sulaymaniyah,Tourism,1995,1141,337014343,Jalal Omar Hasan
+CO111,Sulaymaniyah Pharmaceuticals Holdings,Sulaymaniyah,Pharmaceuticals,2008,1573,463438330,Saman Salam Omar
+CO112,Duhok Transport Logistics Solutions,Duhok,Transport & Logistics,2009,2601,641144038,Pishtiwan Barzan Omar
+CO113,Halabja Technology Labs,Halabja,Technology,1992,4468,627699430,Tara Jalal Salih
+CO114,Zakho Media Solutions,Zakho,Media,2024,3687,592193027,Nawzad Fuad Omar
+CO115,Sulaymaniyah Media Group,Sulaymaniyah,Media,1998,1645,9412566,Pishtiwan Farid Taha
+CO116,Sulaymaniyah Media Company,Sulaymaniyah,Media,2023,1980,112287709,Kamaran Jamal Hassan
+CO117,Sulaymaniyah Aviation Group,Sulaymaniyah,Aviation,1999,4080,18345954,Narin Aziz Hassan
+CO118,Duhok Media Company,Duhok,Media,2017,3129,461357547,Fuad Dara Faris
+CO119,Erbil Education Industries,Erbil,Education,2014,370,173005110,Dashni Hama Karim
+CO120,Halabja Tourism Holdings,Halabja,Tourism,2017,1679,444805687,Fuad Aziz Tahir
+CO121,Sulaymaniyah Education Systems,Sulaymaniyah,Education,2023,494,596661925,Salih Farid Taha
+CO122,Sulaymaniyah Construction Center,Sulaymaniyah,Construction,2019,262,101252735,Azad Mustafa Hasan
+CO123,Halabja Agriculture Services,Halabja,Agriculture,2019,4115,55090680,Dashni Barzan Nasser
+CO124,Halabja Hospitality Industries,Halabja,Hospitality,1996,46,605992799,Fuad Rizgar Hama
+CO125,Zakho Transport Logistics Holdings,Zakho,Transport & Logistics,2019,4340,187688228,Fuad Farhad Hama
+CO126,Erbil Pharmaceuticals Company,Erbil,Pharmaceuticals,2014,112,15787168,Yara Saeed Mahmoud
+CO127,Halabja Retail Solutions,Halabja,Retail,2000,4004,632353167,Dilan Dara Saeed
+CO128,Duhok Agriculture Company,Duhok,Agriculture,2007,3111,347308973,Fuad Aziz Omar
+CO129,Halabja Food Beverage Enterprises,Halabja,Food & Beverage,1998,1304,307537048,Hawkar Rizgar Qadir
+CO130,Halabja Fintech Center,Halabja,Fintech,2018,88,233941578,Randa Mohammed Said
+CO131,Erbil Retail Systems,Erbil,Retail,2006,4597,5707907,Rami Raber Tahir
+CO132,Duhok Energy Company,Duhok,Energy,2019,4533,616807179,Zhyan Mustafa Kadir
+CO133,Halabja Media Systems,Halabja,Media,2006,3431,342792778,Jalal Jamal Ahmad
+CO134,Zakho Healthcare Holdings,Zakho,Healthcare,1993,1517,108329996,Kavar Omar Othman
+CO135,Halabja Telecommunications Holdings,Halabja,Telecommunications,2017,3419,320593355,Dilan Hama Hama
+CO136,Halabja Consulting Enterprises,Halabja,Consulting,2009,1843,27088234,Salih Fuad Said
+CO137,Erbil Transport Logistics Enterprises,Erbil,Transport & Logistics,2023,1437,360089413,Mazin Rebaz Nasser
+CO138,Sulaymaniyah Pharmaceuticals Company,Sulaymaniyah,Pharmaceuticals,2023,4087,25829717,Rozhan Omar Ali
+CO139,Duhok Education Company,Duhok,Education,1996,1944,473026437,Helin Kamaran Mustafa
+CO140,Duhok Agriculture Solutions,Duhok,Agriculture,2020,2790,417287059,Naz Saber Karim
+CO141,Halabja Tourism Services,Halabja,Tourism,2006,2037,211875682,Randa Fuad Said
+CO142,Sulaymaniyah Fintech Systems,Sulaymaniyah,Fintech,1992,2902,513811270,Alan Nawzad Rashid
+CO143,Erbil Retail Services,Erbil,Retail,1990,3628,560262321,Pishtiwan Kamaran Mahmoud
+CO144,Duhok Telecommunications Solutions,Duhok,Telecommunications,2011,3642,483132392,Rozhan Nawzad Mahmoud
+CO145,Sulaymaniyah Technology Center,Sulaymaniyah,Technology,2021,4206,340958951,Bestun Hama Hama
+CO146,Sulaymaniyah Aviation Labs,Sulaymaniyah,Aviation,2009,1246,283460419,Vian Raber Omar
+CO147,Zakho Fintech Industries,Zakho,Fintech,2001,4710,59875544,Dashni Bakr Rashid
+CO148,Zakho Education Center,Zakho,Education,2007,377,466418519,Sardar Jalal Ali
+CO149,Duhok Technology Systems,Duhok,Technology,2023,1360,471613542,Lana Raber Omar
+CO150,Halabja Retail Systems,Halabja,Retail,2005,1125,218850054,Jalal Rizgar Qadir
+CO151,Halabja Hospitality Industries,Halabja,Hospitality,1999,2953,272532522,Bestun Farhad Aziz
+CO152,Zakho Agriculture Center,Zakho,Agriculture,2016,3548,94283040,Dilan Ihsan Tahir
+CO153,Zakho Manufacturing Enterprises,Zakho,Manufacturing,2007,4563,56625986,Farhad Dara Taha
+CO154,Zakho Food Beverage Services,Zakho,Food & Beverage,2000,3382,157399654,Aryan Ihsan Hama
+CO155,Duhok Telecommunications Holdings,Duhok,Telecommunications,1992,448,83838282,Avan Nawzad Omar
+CO156,Duhok Hospitality Group,Duhok,Hospitality,2017,638,306740574,Azad Mustafa Karimi
+CO157,Halabja Food Beverage Group,Halabja,Food & Beverage,1993,4913,115224289,Bestun Jamal Tahir
+CO158,Halabja Aviation Services,Halabja,Aviation,2011,2567,267951693,Zhyan Mohammed Nasser
+CO159,Zakho Retail Services,Zakho,Retail,2015,1087,528116143,Saman Saeed Hama
+CO160,Sulaymaniyah Telecommunications Labs,Sulaymaniyah,Telecommunications,2001,1089,365937804,Farhad Aryan Aziz
+CO161,Zakho Transport Logistics Group,Zakho,Transport & Logistics,2021,1644,170485726,Hawkar Nawzad Mahmoud
+CO162,Duhok Hospitality Center,Duhok,Hospitality,1996,395,481429102,Dilan Farhad Said
+CO163,Zakho Food Beverage Solutions,Zakho,Food & Beverage,2021,783,230135440,Narin Aziz Hama
+CO164,Sulaymaniyah Manufacturing Group,Sulaymaniyah,Manufacturing,1991,3355,290625191,Dara Farid Faris
+CO165,Zakho Energy Systems,Zakho,Energy,2009,4732,330215246,Alan Hama Rashid
+CO166,Zakho Manufacturing Group,Zakho,Manufacturing,2010,1596,306423642,Rebaz Fuad Othman
+CO167,Duhok Food Beverage Solutions,Duhok,Food & Beverage,2016,141,169536987,Fuad Barzan Ahmad
+CO168,Halabja Manufacturing Systems,Halabja,Manufacturing,2025,4423,536295666,Vian Barzan Qadir
+CO169,Halabja Education Labs,Halabja,Education,2001,506,280526591,Karwan Rizgar Tahir
+CO170,Duhok Agriculture Company,Duhok,Agriculture,2000,1891,54401326,Hawkar Jamal Kadir
+CO171,Sulaymaniyah Telecommunications Systems,Sulaymaniyah,Telecommunications,1998,4960,532510338,Dashni Kamaran Kadir
+CO172,Duhok Real Estate Systems,Duhok,Real Estate,2004,1211,637882742,Saman Barzan Othman
+CO173,Zakho Retail Holdings,Zakho,Retail,2021,2333,58759315,Rozhan Fuad Faris
+CO174,Sulaymaniyah Energy Holdings,Sulaymaniyah,Energy,2007,3958,162426128,Fuad Salam Othman
+CO175,Duhok Technology Center,Duhok,Technology,1990,3379,484916392,Karwan Aziz Karimi
+CO176,Halabja Consulting Enterprises,Halabja,Consulting,2025,2408,314067903,Dara Sherzad Aziz
+CO177,Sulaymaniyah Consulting Center,Sulaymaniyah,Consulting,2005,560,408238347,Narin Farid Nasser
+CO178,Sulaymaniyah Retail Industries,Sulaymaniyah,Retail,2017,2932,544228012,Wrya Sherzad Karim
+CO179,Erbil Agriculture Services,Erbil,Agriculture,2023,4870,77706897,Layla Hama Hama
+CO180,Duhok Education Center,Duhok,Education,1995,2982,568785597,Narin Ihsan Kadir
+CO181,Duhok Hospitality Labs,Duhok,Hospitality,1997,1227,240395392,Rozhan Salam Kadir
+CO182,Duhok Construction Enterprises,Duhok,Construction,1991,4231,22590032,Alan Farhad Taha
+CO183,Erbil Media Center,Erbil,Media,2011,2415,257248484,Tara Rebaz Said
+CO184,Duhok Aviation Center,Duhok,Aviation,1991,3891,225703259,Randa Farid Aziz
+CO185,Sulaymaniyah Food Beverage Solutions,Sulaymaniyah,Food & Beverage,1994,1514,423463487,Saman Farhad Rashid
+CO186,Erbil Retail Solutions,Erbil,Retail,2010,2117,282938659,Rebaz Raber Aziz
+CO187,Halabja Transport Logistics Enterprises,Halabja,Transport & Logistics,2019,444,524549026,Dilan Barzan Hassan
+CO188,Zakho Telecommunications Center,Zakho,Telecommunications,2013,183,432838153,Naz Jamal Othman
+CO189,Sulaymaniyah Agriculture Enterprises,Sulaymaniyah,Agriculture,2015,1488,275202170,Helin Farid Omar
+CO190,Duhok Fintech Industries,Duhok,Fintech,1990,4083,565010666,Dilan Saber Karim
+CO191,Erbil Education Company,Erbil,Education,2005,3632,649825491,Salih Fuad Karim
+CO192,Duhok Agriculture Systems,Duhok,Agriculture,2017,1618,418474073,Kamaran Mustafa Nasser
+CO193,Halabja Real Estate Labs,Halabja,Real Estate,2007,2213,116566094,Nawzad Raber Othman
+CO194,Sulaymaniyah Retail Labs,Sulaymaniyah,Retail,2018,4678,165939671,Salih Bakr Mahmoud
+CO195,Sulaymaniyah Tourism Group,Sulaymaniyah,Tourism,1996,3455,378852351,Hawkar Hama Qadir
+CO196,Halabja Aviation Industries,Halabja,Aviation,2020,2347,480246583,Jalal Karim Karim
+CO197,Erbil Manufacturing Labs,Erbil,Manufacturing,2004,1601,220879459,Karwan Farhad Faris
+CO198,Halabja Media Solutions,Halabja,Media,2003,2467,532613671,Vian Jamal Mustafa
+CO199,Halabja Pharmaceuticals Solutions,Halabja,Pharmaceuticals,2019,3128,388379468,Dilan Farid Nasser
+CO200,Erbil Telecommunications Group,Erbil,Telecommunications,2000,4105,568304956,Bestun Dara Othman
+CO201,Halabja Consulting Labs,Halabja,Consulting,2023,3821,61560247,Layla Barzan Nasser
+CO202,Sulaymaniyah Aviation Systems,Sulaymaniyah,Aviation,2022,457,453906654,Helin Jalal Qadir
+CO203,Erbil Aviation Systems,Erbil,Aviation,2021,3158,643185986,Kavar Bakr Said
+CO204,Zakho Consulting Industries,Zakho,Consulting,2021,2370,414175841,Dara Bakr Mahmoud
+CO205,Halabja Tourism Enterprises,Halabja,Tourism,2010,1612,96399841,Karwan Karim Tahir
+CO206,Sulaymaniyah Energy Systems,Sulaymaniyah,Energy,2024,4050,144878955,Sardar Rebaz Ali
+CO207,Zakho Tourism Systems,Zakho,Tourism,1996,2563,322893065,Narin Farhad Qadir
+CO208,Duhok Technology Center,Duhok,Technology,2014,2233,339844898,Kamaran Saeed Hama
+CO209,Zakho Agriculture Services,Zakho,Agriculture,2002,4549,299450453,Layla Aryan Ahmad
+CO210,Sulaymaniyah Education Enterprises,Sulaymaniyah,Education,1994,2926,484685123,Lana Rizgar Hama
+CO211,Zakho Retail Labs,Zakho,Retail,1990,3662,64127528,Tara Rizgar Nasser
+CO212,Halabja Healthcare Labs,Halabja,Healthcare,1995,991,33768327,Helin Omar Hama
+CO213,Halabja Pharmaceuticals Enterprises,Halabja,Pharmaceuticals,1998,175,513026671,Wrya Aryan Nasser
+CO214,Duhok Energy Labs,Duhok,Energy,2016,3539,83862890,Rami Nawzad Mahmoud
+CO215,Zakho Hospitality Group,Zakho,Hospitality,1995,2747,59617941,Pishtiwan Ihsan Kadir
+CO216,Erbil Food Beverage Group,Erbil,Food & Beverage,2001,3232,400474248,Vian Rebaz Mahmoud
+CO217,Duhok Fintech Labs,Duhok,Fintech,2016,3254,390503546,Dashni Salam Rashid
+CO218,Halabja Education Enterprises,Halabja,Education,2009,704,63984095,Vian Aziz Omar
+CO219,Halabja Aviation Center,Halabja,Aviation,1991,1264,260097022,Mazin Mohammed Qadir
+CO220,Duhok Pharmaceuticals Industries,Duhok,Pharmaceuticals,1997,2564,522011865,Sardar Nawzad Nasser
+CO221,Zakho Aviation Systems,Zakho,Aviation,2019,1820,14628656,Tara Salam Salih
+CO222,Sulaymaniyah Logistics Center,Sulaymaniyah,Logistics,1990,4040,568134579,Karwan Farhad Omar
+CO223,Sulaymaniyah Consulting Systems,Sulaymaniyah,Consulting,1993,4734,406693457,Randa Barzan Karimi
+CO224,Zakho Technology Group,Zakho,Technology,2017,3281,131735991,Zeynep Sherzad Karimi
+CO225,Sulaymaniyah Pharmaceuticals Enterprises,Sulaymaniyah,Pharmaceuticals,1993,2736,619668552,Dilan Saber Nasser
+CO226,Erbil Fintech Center,Erbil,Fintech,2020,3649,463505399,Helin Jalal Qadir
+CO227,Halabja Real Estate Holdings,Halabja,Real Estate,2018,284,610578873,Rami Jamal Othman
+CO228,Erbil Logistics Enterprises,Erbil,Logistics,2007,3462,75331365,Avan Farid Qadir
+CO229,Halabja Media Group,Halabja,Media,2022,4034,581954075,Salih Dara Ahmad
+CO230,Zakho Fintech Center,Zakho,Fintech,2024,4185,542965623,Avan Saber Taha
+CO231,Zakho Manufacturing Center,Zakho,Manufacturing,2015,4370,421593838,Jalal Rizgar Omar
+CO232,Sulaymaniyah Fintech Services,Sulaymaniyah,Fintech,2022,1555,252612193,Layla Saeed Karimi
+CO233,Halabja Fintech Solutions,Halabja,Fintech,2010,2128,525122305,Vian Aryan Tahir
+CO234,Erbil Technology Systems,Erbil,Technology,2003,3171,486683162,Avan Karim Othman
+CO235,Erbil Food Beverage Labs,Erbil,Food & Beverage,2014,3674,561367267,Karwan Saber Hassan
+CO236,Halabja Agriculture Company,Halabja,Agriculture,2001,2426,436632903,Saman Sherzad Hama
+CO237,Erbil Media Enterprises,Erbil,Media,1995,3461,351096095,Dilan Aryan Kadir
+CO238,Sulaymaniyah Transport Logistics Solutions,Sulaymaniyah,Transport & Logistics,2013,4689,439422925,Mazin Fuad Said
+CO239,Erbil Media Solutions,Erbil,Media,1994,3006,115040050,Fuad Karim Mustafa
+CO240,Sulaymaniyah Hospitality Center,Sulaymaniyah,Hospitality,1991,235,297103901,Chnar Sherzad Karimi
+CO241,Duhok Pharmaceuticals Services,Duhok,Pharmaceuticals,2008,4922,282019091,Dilan Saeed Tahir
+CO242,Halabja Food Beverage Labs,Halabja,Food & Beverage,1996,4974,240164048,Rami Saber Rashid
+CO243,Zakho Logistics Center,Zakho,Logistics,1995,615,173372340,Bestun Mustafa Said
+CO244,Halabja Construction Group,Halabja,Construction,2022,3509,54665959,Bestun Latif Mustafa
+CO245,Duhok Real Estate Solutions,Duhok,Real Estate,2017,3515,418405575,Hawkar Jalal Karim
+CO246,Zakho Healthcare Center,Zakho,Healthcare,2007,1356,3103065,Alan Fuad Karimi
+CO247,Halabja Telecommunications Labs,Halabja,Telecommunications,2023,2843,596251570,Avan Saber Othman
+CO248,Erbil Energy Center,Erbil,Energy,2020,3989,633872728,Tara Kamaran Karim
+CO249,Sulaymaniyah Real Estate Group,Sulaymaniyah,Real Estate,1992,1908,64049951,Helin Omar Tahir
+CO250,Erbil Retail Holdings,Erbil,Retail,1995,3684,374178019,Nawzad Raber Qadir
+CO251,Zakho Agriculture Industries,Zakho,Agriculture,2009,2508,503775609,Alan Saber Hama
+CO252,Erbil Tourism Services,Erbil,Tourism,2012,4165,228491981,Dara Barzan Mustafa
+CO253,Halabja Consulting Group,Halabja,Consulting,1995,102,147335481,Zeynep Ihsan Taha
+CO254,Duhok Tourism Industries,Duhok,Tourism,1999,3649,523189624,Aryan Mohammed Said
+CO255,Duhok Consulting Services,Duhok,Consulting,2000,3482,544478856,Dara Ihsan Qadir
+CO256,Duhok Manufacturing Services,Duhok,Manufacturing,2002,2299,275950896,Jalal Mustafa Saeed
+CO257,Erbil Media Company,Erbil,Media,1990,980,130616722,Tara Farhad Ali
+CO258,Zakho Hospitality Center,Zakho,Hospitality,2007,836,398990678,Hawkar Salam Qadir
+CO259,Halabja Manufacturing Labs,Halabja,Manufacturing,2005,1306,220883474,Aryan Barzan Hassan
+CO260,Halabja Transport Logistics Center,Halabja,Transport & Logistics,2021,2004,127064234,Dashni Hama Saeed
+CO261,Duhok Healthcare Systems,Duhok,Healthcare,1999,2303,253036715,Narin Kamaran Rashid
+CO262,Erbil Transport Logistics Center,Erbil,Transport & Logistics,2012,3973,619587985,Bestun Hama Omar
+CO263,Sulaymaniyah Logistics Group,Sulaymaniyah,Logistics,2021,1636,240112523,Xezal Aziz Hassan
+CO264,Zakho Energy Labs,Zakho,Energy,2010,4306,48565809,Saman Mustafa Aziz
+CO265,Sulaymaniyah Tourism Services,Sulaymaniyah,Tourism,1992,3918,581952225,Baran Latif Mahmoud
+CO266,Sulaymaniyah Manufacturing Labs,Sulaymaniyah,Manufacturing,2023,3630,193951140,Kamaran Salam Faris
+CO267,Erbil Pharmaceuticals Industries,Erbil,Pharmaceuticals,2013,4170,498178108,Kavar Jamal Hassan
+CO268,Halabja Construction Labs,Halabja,Construction,2012,4431,143785001,Naz Nawzad Rashid
+CO269,Sulaymaniyah Food Beverage Holdings,Sulaymaniyah,Food & Beverage,2019,3077,22568211,Karwan Omar Tahir
+CO270,Sulaymaniyah Healthcare Enterprises,Sulaymaniyah,Healthcare,1991,1781,323917915,Hawkar Dara Faris
+CO271,Zakho Aviation Holdings,Zakho,Aviation,2024,4192,453506632,Kavar Karim Karim
+CO272,Erbil Media Enterprises,Erbil,Media,2024,3891,9484125,Salih Aziz Ahmad
+CO273,Duhok Media Company,Duhok,Media,2001,4440,627339731,Farhad Karim Mustafa
+CO274,Sulaymaniyah Healthcare Systems,Sulaymaniyah,Healthcare,2014,2724,487298637,Xezal Salam Hama
+CO275,Zakho Hospitality Services,Zakho,Hospitality,2008,2741,123162396,Baran Farhad Ali
+CO276,Zakho Healthcare Industries,Zakho,Healthcare,1999,118,582594661,Kavar Mustafa Kadir
+CO277,Zakho Energy Services,Zakho,Energy,1998,4837,608498779,Yara Jalal Taha
+CO278,Halabja Construction Enterprises,Halabja,Construction,1994,4599,404815108,Zhyan Karim Omar
+CO279,Halabja Consulting Systems,Halabja,Consulting,2006,2804,80712958,Zhyan Jamal Othman
+CO280,Halabja Transport Logistics Company,Halabja,Transport & Logistics,1999,1174,76809633,Yara Farid Hasan
+CO281,Halabja Hospitality Group,Halabja,Hospitality,2009,1539,521489524,Fuad Barzan Ahmad
+CO282,Zakho Technology Group,Zakho,Technology,2005,3473,205709813,Layla Barzan Mahmoud
+CO283,Halabja Aviation Holdings,Halabja,Aviation,2001,2608,38110648,Nawzad Jamal Qadir
+CO284,Duhok Food Beverage Industries,Duhok,Food & Beverage,2003,2634,181508113,Farhad Latif Said
+CO285,Halabja Consulting Group,Halabja,Consulting,2025,4234,558263190,Yara Saeed Hassan
+CO286,Halabja Food Beverage Solutions,Halabja,Food & Beverage,1990,3791,107796764,Rozhan Sherzad Saeed
+CO287,Sulaymaniyah Hospitality Group,Sulaymaniyah,Hospitality,2005,3411,550045801,Sardar Latif Hama
+CO288,Duhok Logistics Company,Duhok,Logistics,2008,2158,293052542,Kavar Mustafa Karim
+CO289,Sulaymaniyah Technology Systems,Sulaymaniyah,Technology,2001,3555,531805301,Rebaz Nawzad Taha
+CO290,Halabja Media Solutions,Halabja,Media,1994,4151,59864296,Saman Ihsan Aziz
+CO291,Duhok Media Group,Duhok,Media,2020,4689,525213727,Vian Saeed Mahmoud
+CO292,Halabja Energy Industries,Halabja,Energy,1997,4569,131491083,Farhad Saeed Karimi
+CO293,Erbil Retail Enterprises,Erbil,Retail,2007,3810,179382512,Azad Omar Ahmad
+CO294,Sulaymaniyah Technology Solutions,Sulaymaniyah,Technology,2000,3185,384116512,Rami Kamaran Faris
+CO295,Duhok Hospitality Group,Duhok,Hospitality,2003,489,141816149,Kavar Jalal Rashid
+CO296,Erbil Education Company,Erbil,Education,1997,3688,19212161,Saman Bakr Ahmad
+CO297,Sulaymaniyah Healthcare Enterprises,Sulaymaniyah,Healthcare,2010,4328,585592041,Farhad Omar Mustafa
+CO298,Halabja Aviation Center,Halabja,Aviation,2000,218,446071391,Kavar Aziz Kadir
+CO299,Erbil Hospitality Labs,Erbil,Hospitality,1998,3735,180813641,Zeynep Omar Said
+CO300,Halabja Technology Group,Halabja,Technology,2012,1865,105006783,Zhyan Aziz Mustafa
+CO301,Zakho Tourism Industries,Zakho,Tourism,2010,547,243131458,Zeynep Farhad Saeed
+CO302,Sulaymaniyah Transport Logistics Company,Sulaymaniyah,Transport & Logistics,1991,635,232207845,Chnar Mohammed Saeed
+CO303,Erbil Consulting Company,Erbil,Consulting,1995,4908,335724085,Layla Omar Kadir
+CO304,Zakho Tourism Holdings,Zakho,Tourism,1995,1955,433700352,Zhyan Rebaz Karim
+CO305,Sulaymaniyah Education Industries,Sulaymaniyah,Education,1992,2332,392337496,Dilan Kamaran Ahmad
+CO306,Halabja Logistics Group,Halabja,Logistics,2017,1696,377701689,Lana Ihsan Taha
+CO307,Duhok Telecommunications Solutions,Duhok,Telecommunications,2015,1555,453273951,Naz Hama Mustafa
+CO308,Erbil Real Estate Center,Erbil,Real Estate,2007,3115,129330551,Rebaz Ihsan Karimi
+CO309,Duhok Food Beverage Labs,Duhok,Food & Beverage,1996,1715,238660853,Naz Aziz Hasan
+CO310,Zakho Fintech Systems,Zakho,Fintech,1993,4824,161878412,Rozhan Aziz Karim
+CO311,Duhok Food Beverage Systems,Duhok,Food & Beverage,2011,4665,451549854,Alan Hama Nuri
+CO312,Sulaymaniyah Consulting Group,Sulaymaniyah,Consulting,2004,3164,242900917,Salih Barzan Karim
+CO313,Duhok Transport Logistics Systems,Duhok,Transport & Logistics,1996,4837,344688188,Fuad Aziz Ahmad
+CO314,Erbil Telecommunications Company,Erbil,Telecommunications,2009,855,421743915,Avan Rizgar Mahmoud
+CO315,Zakho Manufacturing Group,Zakho,Manufacturing,1995,2560,463272293,Salih Ihsan Hama
+CO316,Erbil Energy Holdings,Erbil,Energy,2013,64,20103532,Lana Aryan Kadir
+CO317,Duhok Manufacturing Company,Duhok,Manufacturing,2008,3202,309780578,Baran Mohammed Nasser
+CO318,Halabja Technology Center,Halabja,Technology,1991,1170,230360798,Baran Aziz Nasser
+CO319,Zakho Manufacturing Solutions,Zakho,Manufacturing,2023,4505,649539097,Layla Jamal Hassan
+CO320,Halabja Technology Enterprises,Halabja,Technology,2012,284,491095985,Vian Jalal Hasan
+CO321,Sulaymaniyah Hospitality Enterprises,Sulaymaniyah,Hospitality,2020,2922,23439503,Pishtiwan Jamal Nasser
+CO322,Zakho Agriculture Industries,Zakho,Agriculture,2022,2344,211753076,Azad Rizgar Omar
+CO323,Duhok Pharmaceuticals Company,Duhok,Pharmaceuticals,2025,4108,177810587,Layla Farid Hassan
+CO324,Duhok Logistics Enterprises,Duhok,Logistics,1995,264,245135040,Yara Mustafa Othman
+CO325,Duhok Media Services,Duhok,Media,2021,3105,318134189,Shilan Saber Salih
+CO326,Sulaymaniyah Education Solutions,Sulaymaniyah,Education,2018,2440,362975300,Kavar Omar Salih
+CO327,Duhok Consulting Labs,Duhok,Consulting,2012,145,602223240,Dilan Mohammed Rashid
+CO328,Halabja Telecommunications Holdings,Halabja,Telecommunications,2012,2518,506164327,Helin Hama Omar
+CO329,Duhok Healthcare Enterprises,Duhok,Healthcare,1998,4881,273951858,Kavar Nawzad Hama
+CO330,Erbil Construction Center,Erbil,Construction,1991,4652,560105778,Baran Saber Ali
+CO331,Erbil Retail Solutions,Erbil,Retail,2006,3547,320038260,Chnar Mohammed Rashid
+CO332,Sulaymaniyah Pharmaceuticals Group,Sulaymaniyah,Pharmaceuticals,2018,2441,121630319,Rebaz Mohammed Omar
+CO333,Erbil Agriculture Industries,Erbil,Agriculture,2013,1410,361375806,Tara Salam Othman
+CO334,Erbil Transport Logistics Services,Erbil,Transport & Logistics,1995,3707,453326145,Dara Bakr Said
+CO335,Erbil Consulting Labs,Erbil,Consulting,2009,587,529051684,Xezal Saber Othman
+CO336,Erbil Technology Holdings,Erbil,Technology,2005,3699,39839559,Wrya Saeed Said
+CO337,Duhok Logistics Industries,Duhok,Logistics,2025,950,479471544,Helin Sherzad Taha
+CO338,Sulaymaniyah Tourism Holdings,Sulaymaniyah,Tourism,1996,235,584234444,Baran Mustafa Hasan
+CO339,Zakho Manufacturing Holdings,Zakho,Manufacturing,1996,1139,66398214,Yara Dara Mahmoud
+CO340,Duhok Pharmaceuticals Enterprises,Duhok,Pharmaceuticals,2014,2147,498718328,Farhad Barzan Mahmoud
+CO341,Sulaymaniyah Aviation Group,Sulaymaniyah,Aviation,2025,2162,380021796,Dilan Karim Othman
+CO342,Erbil Real Estate Systems,Erbil,Real Estate,1999,2937,504055650,Layla Aryan Hasan
+CO343,Sulaymaniyah Retail Holdings,Sulaymaniyah,Retail,1997,87,155891954,Salih Barzan Hama
+CO344,Duhok Technology Services,Duhok,Technology,2005,4351,165420338,Tara Rizgar Ali
+CO345,Sulaymaniyah Telecommunications Systems,Sulaymaniyah,Telecommunications,2001,4456,440596189,Vian Aryan Nasser
+CO346,Halabja Technology Center,Halabja,Technology,2023,309,375617020,Dara Latif Taha
+CO347,Halabja Construction Labs,Halabja,Construction,2002,143,465998739,Rebaz Ihsan Hassan
+CO348,Halabja Media Group,Halabja,Media,2004,4624,567177755,Rozhan Aziz Nasser
+CO349,Zakho Education Enterprises,Zakho,Education,2015,4873,153815380,Karwan Aryan Hama
+CO350,Erbil Telecommunications Labs,Erbil,Telecommunications,1990,4030,110038146,Nawzad Rebaz Karimi
+CO351,Halabja Manufacturing Enterprises,Halabja,Manufacturing,2008,2531,375037656,Pishtiwan Aziz Omar
+CO352,Halabja Technology Services,Halabja,Technology,2005,4196,489120767,Bestun Fuad Taha
+CO353,Halabja Real Estate Systems,Halabja,Real Estate,1997,2620,401138984,Alan Fuad Omar
+CO354,Halabja Aviation Center,Halabja,Aviation,2019,1359,605727289,Yara Bakr Omar
+CO355,Sulaymaniyah Agriculture Enterprises,Sulaymaniyah,Agriculture,2003,1391,284973697,Lana Fuad Karimi
+CO356,Sulaymaniyah Tourism Solutions,Sulaymaniyah,Tourism,1992,2694,440236275,Zeynep Saeed Ali
+CO357,Erbil Energy Solutions,Erbil,Energy,2004,2544,206292217,Sardar Rebaz Mahmoud
+CO358,Halabja Media Industries,Halabja,Media,2022,3656,414015063,Farhad Omar Hama
+CO359,Zakho Construction Labs,Zakho,Construction,1995,4796,111889984,Aryan Mustafa Hassan
+CO360,Sulaymaniyah Energy Industries,Sulaymaniyah,Energy,2005,3524,259036275,Chnar Saber Othman
+CO361,Sulaymaniyah Fintech Systems,Sulaymaniyah,Fintech,2024,390,73351462,Kavar Omar Aziz
+CO362,Duhok Transport Logistics Services,Duhok,Transport & Logistics,1994,1563,370859197,Aryan Kamaran Nasser
+CO363,Zakho Logistics Industries,Zakho,Logistics,2016,1038,71200750,Hawkar Karim Salih
+CO364,Zakho Hospitality Industries,Zakho,Hospitality,1991,3667,221087778,Narin Rebaz Said
+CO365,Zakho Media Labs,Zakho,Media,2009,1011,302260278,Tara Barzan Omar
+CO366,Duhok Fintech Systems,Duhok,Fintech,1994,820,426660529,Fuad Raber Ali
+CO367,Halabja Agriculture Holdings,Halabja,Agriculture,2015,1915,509329463,Sardar Aziz Said
+CO368,Halabja Tourism Services,Halabja,Tourism,2004,4515,209675588,Zhyan Jalal Salih
+CO369,Halabja Manufacturing Enterprises,Halabja,Manufacturing,2022,872,435436899,Xezal Nawzad Hassan
+CO370,Halabja Retail Group,Halabja,Retail,2006,581,546735095,Rami Mohammed Othman
+CO371,Sulaymaniyah Real Estate Services,Sulaymaniyah,Real Estate,2015,1532,597728353,Salih Mustafa Saeed
+CO372,Zakho Food Beverage Enterprises,Zakho,Food & Beverage,2003,2168,406373244,Zhyan Mustafa Said
+CO373,Zakho Transport Logistics Holdings,Zakho,Transport & Logistics,2002,660,282221260,Kamaran Salam Ahmad
+CO374,Erbil Retail Solutions,Erbil,Retail,2002,3718,144555460,Avan Aryan Taha
+CO375,Halabja Telecommunications Services,Halabja,Telecommunications,2011,75,247111152,Layla Saeed Hama
+CO376,Halabja Media Services,Halabja,Media,1997,682,432473527,Rozhan Fuad Omar
+CO377,Duhok Consulting Industries,Duhok,Consulting,2020,1638,603223815,Alan Raber Nasser
+CO378,Sulaymaniyah Media Enterprises,Sulaymaniyah,Media,1998,1341,524322696,Farhad Jalal Said
+CO379,Erbil Manufacturing Labs,Erbil,Manufacturing,2003,4768,200075107,Xezal Kamaran Aziz
+CO380,Halabja Media Group,Halabja,Media,2001,743,215853140,Zeynep Fuad Mustafa
+CO381,Zakho Construction Systems,Zakho,Construction,2005,4145,334835477,Karwan Karim Karim
+CO382,Halabja Fintech Holdings,Halabja,Fintech,1990,1285,549574787,Rebaz Dara Qadir
+CO383,Erbil Education Industries,Erbil,Education,2016,2075,570892777,Fuad Omar Hassan
+CO384,Duhok Telecommunications Systems,Duhok,Telecommunications,1995,3439,517225101,Jalal Omar Saeed
+CO385,Halabja Retail Systems,Halabja,Retail,2018,1833,647110530,Jalal Hama Hama
+CO386,Halabja Media Group,Halabja,Media,2025,1291,198392824,Chnar Farhad Aziz
+CO387,Erbil Energy Holdings,Erbil,Energy,2012,2067,638335704,Tara Ihsan Omar
+CO388,Halabja Retail Industries,Halabja,Retail,2005,1448,46889073,Chnar Bakr Hama
+CO389,Duhok Retail Holdings,Duhok,Retail,1996,720,366781375,Bestun Mustafa Othman
+CO390,Sulaymaniyah Media Group,Sulaymaniyah,Media,2014,4102,594285922,Sardar Omar Othman
+CO391,Halabja Energy Holdings,Halabja,Energy,2021,326,91894658,Pishtiwan Kamaran Mustafa
+CO392,Sulaymaniyah Logistics Group,Sulaymaniyah,Logistics,2006,2435,470787023,Hawkar Bakr Karimi
+CO393,Halabja Transport Logistics Holdings,Halabja,Transport & Logistics,1998,2354,589946278,Chnar Dara Aziz
+CO394,Duhok Hospitality Industries,Duhok,Hospitality,2003,3695,585693635,Farhad Nawzad Ahmad
+CO395,Erbil Education Systems,Erbil,Education,1998,3723,494053593,Alan Aziz Ahmad
+CO396,Zakho Transport Logistics Center,Zakho,Transport & Logistics,2011,562,258890041,Alan Raber Hasan
+CO397,Halabja Construction Holdings,Halabja,Construction,2013,3907,314293710,Karwan Kamaran Omar
+CO398,Halabja Logistics Services,Halabja,Logistics,2004,3421,435506901,Mazin Rizgar Nuri
+CO399,Zakho Manufacturing Holdings,Zakho,Manufacturing,1995,4174,293443005,Wrya Ihsan Ali
+CO400,Zakho Fintech Enterprises,Zakho,Fintech,2021,4317,389900267,Kamaran Farid Ahmad
+CO401,Halabja Energy Labs,Halabja,Energy,2022,1934,445527518,Karwan Raber Othman
+CO402,Halabja Transport Logistics Enterprises,Halabja,Transport & Logistics,2008,2576,582245163,Kamaran Bakr Taha
+CO403,Halabja Hospitality Group,Halabja,Hospitality,2008,1089,289485676,Pishtiwan Hama Hassan
+CO404,Sulaymaniyah Manufacturing Holdings,Sulaymaniyah,Manufacturing,2021,529,167865640,Randa Fuad Aziz
+CO405,Sulaymaniyah Tourism Labs,Sulaymaniyah,Tourism,2025,4497,77906130,Zeynep Saeed Nasser
+CO406,Erbil Media Enterprises,Erbil,Media,2016,1726,174783417,Nawzad Dara Hassan
+CO407,Sulaymaniyah Retail Group,Sulaymaniyah,Retail,2009,1772,528042684,Narin Omar Hama
+CO408,Sulaymaniyah Pharmaceuticals Center,Sulaymaniyah,Pharmaceuticals,2025,98,551300735,Yara Hama Ali
+CO409,Erbil Telecommunications Company,Erbil,Telecommunications,2016,852,638359310,Dashni Aziz Karim
+CO410,Halabja Transport Logistics Center,Halabja,Transport & Logistics,2003,675,253233735,Naz Sherzad Salih
+CO411,Erbil Agriculture Enterprises,Erbil,Agriculture,2013,4837,313385100,Dara Barzan Karimi
+CO412,Erbil Hospitality Labs,Erbil,Hospitality,2018,3005,392795277,Tara Fuad Salih
+CO413,Halabja Hospitality Systems,Halabja,Hospitality,1999,4568,77495324,Layla Rizgar Othman
+CO414,Zakho Telecommunications Labs,Zakho,Telecommunications,2015,505,363263246,Tara Fuad Taha
+CO415,Halabja Real Estate Solutions,Halabja,Real Estate,1993,4707,435571935,Layla Saeed Hassan
+CO416,Zakho Hospitality Solutions,Zakho,Hospitality,2016,567,369156586,Helin Omar Faris
+CO417,Zakho Hospitality Group,Zakho,Hospitality,2000,2422,314394263,Xezal Jamal Qadir
+CO418,Zakho Consulting Solutions,Zakho,Consulting,2022,713,315984031,Kavar Ihsan Ahmad
+CO419,Zakho Tourism Enterprises,Zakho,Tourism,2011,3773,357911552,Xezal Saber Mahmoud
+CO420,Erbil Hospitality Company,Erbil,Hospitality,2002,2218,194980430,Alan Aziz Tahir
+CO421,Sulaymaniyah Media Company,Sulaymaniyah,Media,2024,1309,334177395,Azad Kamaran Hasan
+CO422,Zakho Consulting Holdings,Zakho,Consulting,2014,431,588052163,Randa Latif Faris
+CO423,Duhok Retail Company,Duhok,Retail,1992,2382,116942243,Rozhan Farhad Hassan
+CO424,Sulaymaniyah Pharmaceuticals Systems,Sulaymaniyah,Pharmaceuticals,2009,4332,478721112,Narin Hama Nasser
+CO425,Sulaymaniyah Hospitality Solutions,Sulaymaniyah,Hospitality,2005,3707,61691320,Baran Bakr Hama
+CO426,Halabja Transport Logistics Group,Halabja,Transport & Logistics,2008,2430,232336169,Karwan Rizgar Saeed
+CO427,Erbil Transport Logistics Services,Erbil,Transport & Logistics,2010,2726,472937692,Azad Sherzad Qadir
+CO428,Erbil Construction Enterprises,Erbil,Construction,2001,2826,431651298,Yara Mustafa Said
+CO429,Zakho Healthcare Systems,Zakho,Healthcare,1993,3145,226207012,Alan Barzan Faris
+CO430,Halabja Transport Logistics Enterprises,Halabja,Transport & Logistics,1994,3053,118208770,Dilan Dara Nasser
+CO431,Sulaymaniyah Hospitality Enterprises,Sulaymaniyah,Hospitality,2019,3978,408641326,Rebaz Sherzad Tahir
+CO432,Halabja Transport Logistics Industries,Halabja,Transport & Logistics,1998,2242,646831123,Yara Fuad Taha
+CO433,Zakho Food Beverage Center,Zakho,Food & Beverage,2016,3883,337733774,Vian Saeed Faris
+CO434,Halabja Technology Industries,Halabja,Technology,1991,4974,329284548,Vian Saber Othman
+CO435,Erbil Agriculture Company,Erbil,Agriculture,2007,2462,219375080,Farhad Karim Aziz
+CO436,Sulaymaniyah Hospitality Center,Sulaymaniyah,Hospitality,2018,3326,614561711,Pishtiwan Jalal Nuri
+CO437,Zakho Hospitality Enterprises,Zakho,Hospitality,2007,4492,560318995,Bestun Latif Qadir
+CO438,Halabja Hospitality Center,Halabja,Hospitality,1990,4274,515246377,Salih Nawzad Nuri
+CO439,Halabja Food Beverage Services,Halabja,Food & Beverage,1997,4437,257999800,Tara Aryan Karimi
+CO440,Halabja Real Estate Center,Halabja,Real Estate,1993,2325,313491195,Narin Rebaz Kadir
+CO441,Sulaymaniyah Fintech Group,Sulaymaniyah,Fintech,2018,1148,390017894,Saman Saber Ali
+CO442,Sulaymaniyah Education Company,Sulaymaniyah,Education,2016,542,66404160,Azad Hama Kadir
+CO443,Zakho Agriculture Company,Zakho,Agriculture,2020,2291,59855082,Dashni Hama Mustafa
+CO444,Halabja Media Center,Halabja,Media,1997,2088,410986608,Layla Ihsan Faris
+CO445,Halabja Agriculture Company,Halabja,Agriculture,1991,1890,338311832,Alan Latif Qadir
+CO446,Halabja Technology Group,Halabja,Technology,2025,3068,575388150,Rebaz Fuad Faris
+CO447,Erbil Education Labs,Erbil,Education,1991,890,206502933,Kamaran Farhad Othman
+CO448,Halabja Transport Logistics Center,Halabja,Transport & Logistics,2001,2660,423721118,Chnar Sherzad Karim
+CO449,Duhok Hospitality Systems,Duhok,Hospitality,1995,3945,518959719,Karwan Latif Mahmoud
+CO450,Sulaymaniyah Pharmaceuticals Holdings,Sulaymaniyah,Pharmaceuticals,2018,4341,442482125,Karwan Jamal Nuri
+CO451,Sulaymaniyah Logistics Holdings,Sulaymaniyah,Logistics,2003,4395,129183374,Mazin Aziz Taha
+CO452,Sulaymaniyah Pharmaceuticals Industries,Sulaymaniyah,Pharmaceuticals,2009,4244,453452337,Saman Aziz Qadir
+CO453,Duhok Hospitality Holdings,Duhok,Hospitality,2013,2287,609834939,Rebaz Rebaz Hassan
+CO454,Duhok Media Holdings,Duhok,Media,2009,2223,267764773,Narin Aryan Hama
+CO455,Duhok Real Estate Solutions,Duhok,Real Estate,1998,912,500373140,Yara Bakr Karimi
+CO456,Halabja Construction Solutions,Halabja,Construction,2001,4370,268933722,Narin Latif Saeed
+CO457,Halabja Telecommunications Group,Halabja,Telecommunications,2000,173,382554610,Mazin Jamal Ali
+CO458,Erbil Real Estate Labs,Erbil,Real Estate,2015,4317,458753695,Rami Nawzad Qadir
+CO459,Erbil Construction Solutions,Erbil,Construction,2000,1809,203017783,Shilan Mustafa Ali
+CO460,Sulaymaniyah Real Estate Group,Sulaymaniyah,Real Estate,2007,1026,337361114,Dashni Hama Aziz
+CO461,Duhok Healthcare Enterprises,Duhok,Healthcare,2017,4257,449010826,Shilan Farhad Saeed
+CO462,Zakho Fintech Center,Zakho,Fintech,2002,1998,243880604,Mazin Hama Omar
+CO463,Halabja Real Estate Industries,Halabja,Real Estate,1991,787,593072963,Pishtiwan Saber Ali
+CO464,Zakho Hospitality Holdings,Zakho,Hospitality,1995,3412,189170298,Kamaran Kamaran Tahir
+CO465,Erbil Pharmaceuticals Services,Erbil,Pharmaceuticals,1994,133,230572140,Karwan Raber Salih
+CO466,Erbil Education Systems,Erbil,Education,2001,3361,396783258,Naz Salam Kadir
+CO467,Zakho Manufacturing Labs,Zakho,Manufacturing,2008,3538,69233762,Naz Rizgar Karimi
+CO468,Sulaymaniyah Logistics Services,Sulaymaniyah,Logistics,2016,3747,187319893,Bestun Saber Salih
+CO469,Erbil Food Beverage Center,Erbil,Food & Beverage,2022,1436,548753569,Azad Jalal Salih
+CO470,Sulaymaniyah Aviation Systems,Sulaymaniyah,Aviation,2011,2167,194453722,Vian Farhad Ahmad
+CO471,Zakho Healthcare Company,Zakho,Healthcare,2017,39,534119425,Fuad Omar Nuri
+CO472,Halabja Real Estate Enterprises,Halabja,Real Estate,2011,617,263920425,Narin Saeed Karimi
+CO473,Zakho Energy Center,Zakho,Energy,1995,4140,341689580,Sardar Barzan Ahmad
+CO474,Halabja Healthcare Services,Halabja,Healthcare,1993,2852,339516393,Pishtiwan Nawzad Ahmad
+CO475,Duhok Food Beverage Industries,Duhok,Food & Beverage,1993,3309,25785861,Bestun Jalal Nasser
+CO476,Halabja Manufacturing Center,Halabja,Manufacturing,2019,1810,473048163,Avan Hama Nuri
+CO477,Erbil Media Solutions,Erbil,Media,2010,4403,293993648,Yara Dara Nuri
+CO478,Halabja Energy Services,Halabja,Energy,1998,4501,18634343,Tara Saber Othman
+CO479,Erbil Construction Center,Erbil,Construction,2000,1746,116390816,Kamaran Barzan Karimi
+CO480,Zakho Logistics Enterprises,Zakho,Logistics,2005,143,368509483,Helin Aryan Hassan
+CO481,Erbil Media Services,Erbil,Media,2003,1545,171787781,Yara Farid Hassan
+CO482,Duhok Manufacturing Labs,Duhok,Manufacturing,2012,3154,159557676,Fuad Dara Qadir
+CO483,Zakho Manufacturing Holdings,Zakho,Manufacturing,2012,3645,587655306,Lana Mustafa Nuri
+CO484,Halabja Media Center,Halabja,Media,2008,1720,77923038,Sardar Aryan Othman
+CO485,Duhok Food Beverage Company,Duhok,Food & Beverage,2022,4185,380556775,Chnar Raber Faris
+CO486,Halabja Agriculture Company,Halabja,Agriculture,1990,4655,366185689,Aryan Bakr Aziz
+CO487,Sulaymaniyah Tourism Enterprises,Sulaymaniyah,Tourism,2023,1646,14010654,Karwan Raber Qadir
+CO488,Halabja Pharmaceuticals Labs,Halabja,Pharmaceuticals,2023,2415,435019587,Sardar Rebaz Salih
+CO489,Duhok Pharmaceuticals Industries,Duhok,Pharmaceuticals,2010,3109,503251383,Layla Salam Saeed
+CO490,Zakho Technology Company,Zakho,Technology,2022,3683,383983285,Salih Rebaz Ali
+CO491,Erbil Consulting Company,Erbil,Consulting,1992,1102,38104573,Rebaz Hama Othman
+CO492,Sulaymaniyah Construction Services,Sulaymaniyah,Construction,2015,4815,51461435,Dashni Dara Taha
+CO493,Halabja Telecommunications Holdings,Halabja,Telecommunications,2006,4386,270934082,Aryan Fuad Taha
+CO494,Halabja Agriculture Group,Halabja,Agriculture,1999,2460,275233943,Pishtiwan Aziz Othman
+CO495,Zakho Media Solutions,Zakho,Media,2020,681,582344975,Rami Karim Othman
+CO496,Erbil Technology Solutions,Erbil,Technology,2001,494,211301310,Zeynep Fuad Saeed
+CO497,Halabja Food Beverage Holdings,Halabja,Food & Beverage,2006,1046,466527788,Shilan Farhad Mahmoud
+CO498,Zakho Pharmaceuticals Services,Zakho,Pharmaceuticals,2020,562,32343440,Rebaz Kamaran Hasan
+CO499,Sulaymaniyah Manufacturing Industries,Sulaymaniyah,Manufacturing,2018,2818,452293718,Xezal Farid Ahmad
+CO500,Erbil Logistics Systems,Erbil,Logistics,1996,1599,13279598,Layla Omar Mahmoud
+CO501,Erbil Retail Systems,Erbil,Retail,2001,762,355903807,Baran Aryan Karimi
+CO502,Erbil Education Services,Erbil,Education,1994,3159,406391297,Pishtiwan Salam Karimi
+CO503,Halabja Hospitality Group,Halabja,Hospitality,2008,1235,598236060,Mazin Jalal Mahmoud
+CO504,Zakho Healthcare Systems,Zakho,Healthcare,1998,2483,411153087,Narin Saber Karim
+CO505,Erbil Construction Holdings,Erbil,Construction,1993,3243,66827827,Bestun Rebaz Hama
+CO506,Sulaymaniyah Education Enterprises,Sulaymaniyah,Education,2023,4375,177652373,Karwan Saber Nasser
+CO507,Halabja Technology Group,Halabja,Technology,1993,3781,173809174,Azad Aziz Aziz
+CO508,Duhok Education Center,Duhok,Education,2024,400,113455648,Hawkar Rebaz Karimi
+CO509,Duhok Hospitality Services,Duhok,Hospitality,2019,3530,356453909,Jalal Farhad Tahir
+CO510,Zakho Manufacturing Enterprises,Zakho,Manufacturing,1991,1865,242504714,Zeynep Farhad Faris
+CO511,Duhok Consulting Services,Duhok,Consulting,2021,4961,90246630,Sardar Aryan Qadir
+CO512,Halabja Consulting Systems,Halabja,Consulting,2020,4355,304175889,Jalal Kamaran Mahmoud
+CO513,Duhok Agriculture Systems,Duhok,Agriculture,1992,4427,5787727,Rozhan Hama Taha
+CO514,Sulaymaniyah Energy Systems,Sulaymaniyah,Energy,1991,2180,585727170,Dara Aziz Faris
+CO515,Erbil Telecommunications Group,Erbil,Telecommunications,1999,3236,504167998,Wrya Hama Kadir
+CO516,Zakho Manufacturing Systems,Zakho,Manufacturing,2017,2400,96949809,Bestun Salam Aziz
+CO517,Sulaymaniyah Aviation Solutions,Sulaymaniyah,Aviation,1996,3879,152466136,Helin Mohammed Taha
+CO518,Duhok Retail Industries,Duhok,Retail,1995,3908,189203756,Yara Ihsan Othman
+CO519,Sulaymaniyah Telecommunications Company,Sulaymaniyah,Telecommunications,1993,2135,595197698,Layla Raber Ahmad
+CO520,Halabja Pharmaceuticals Solutions,Halabja,Pharmaceuticals,1996,1382,395423178,Fuad Aziz Salih
+CO521,Duhok Media Group,Duhok,Media,2015,2629,499673000,Aryan Farid Mustafa
+CO522,Erbil Healthcare Enterprises,Erbil,Healthcare,1996,3335,555622382,Hawkar Aziz Hasan
+CO523,Halabja Technology Enterprises,Halabja,Technology,2016,3533,251159402,Xezal Farid Mustafa
+CO524,Duhok Healthcare Holdings,Duhok,Healthcare,2020,1674,485901335,Randa Omar Hassan
+CO525,Zakho Telecommunications Holdings,Zakho,Telecommunications,2024,3382,565766256,Bestun Saber Omar
+CO526,Duhok Technology Services,Duhok,Technology,2020,1946,376721453,Azad Dara Omar
+CO527,Halabja Consulting Labs,Halabja,Consulting,2002,3842,314339522,Dara Hama Saeed
+CO528,Duhok Fintech Enterprises,Duhok,Fintech,2014,4430,626928722,Kamaran Farhad Ahmad
+CO529,Zakho Education Systems,Zakho,Education,2013,744,417643223,Yara Mohammed Nuri
+CO530,Sulaymaniyah Media Enterprises,Sulaymaniyah,Media,1991,837,285582875,Sardar Sherzad Tahir
+CO531,Erbil Fintech Solutions,Erbil,Fintech,2012,819,408999498,Lana Farid Nuri
+CO532,Erbil Real Estate Enterprises,Erbil,Real Estate,2021,1256,362624310,Nawzad Nawzad Mustafa
+CO533,Erbil Manufacturing Center,Erbil,Manufacturing,2012,1903,248072212,Fuad Saeed Salih
+CO534,Erbil Hospitality Industries,Erbil,Hospitality,1991,3578,199839892,Farhad Karim Aziz
+CO535,Erbil Aviation Holdings,Erbil,Aviation,2015,458,208246320,Sardar Aryan Said
+CO536,Erbil Manufacturing Solutions,Erbil,Manufacturing,2023,1785,283457029,Helin Saber Hasan
+CO537,Sulaymaniyah Pharmaceuticals Systems,Sulaymaniyah,Pharmaceuticals,2010,3584,567343753,Dilan Kamaran Aziz
+CO538,Zakho Fintech Center,Zakho,Fintech,2005,2349,524171872,Avan Dara Ahmad
+CO539,Duhok Technology Holdings,Duhok,Technology,2019,3195,155882602,Hawkar Mustafa Said
+CO540,Zakho Real Estate Systems,Zakho,Real Estate,1991,3354,308143361,Rebaz Dara Rashid
+CO541,Halabja Transport Logistics Industries,Halabja,Transport & Logistics,2015,4347,254678894,Saman Latif Karim
+CO542,Erbil Tourism Industries,Erbil,Tourism,2011,873,452642375,Baran Raber Ahmad
+CO543,Halabja Construction Company,Halabja,Construction,2009,2874,285340985,Salih Mustafa Rashid
+CO544,Zakho Healthcare Enterprises,Zakho,Healthcare,2020,1705,240707441,Hawkar Bakr Ali
+CO545,Halabja Technology Industries,Halabja,Technology,2025,3828,423355376,Zeynep Ihsan Kadir
+CO546,Erbil Energy Solutions,Erbil,Energy,2018,2086,281499014,Dashni Nawzad Ali
+CO547,Sulaymaniyah Healthcare Services,Sulaymaniyah,Healthcare,2015,3305,555097982,Vian Saeed Nasser
+CO548,Zakho Consulting Industries,Zakho,Consulting,1994,3924,399043252,Karwan Rebaz Nasser
+CO549,Sulaymaniyah Manufacturing Industries,Sulaymaniyah,Manufacturing,2025,2453,352869549,Narin Farhad Faris
+CO550,Erbil Aviation Group,Erbil,Aviation,1991,2923,473039520,Narin Rizgar Ali
+CO551,Halabja Construction Enterprises,Halabja,Construction,2016,3456,336440408,Jalal Rebaz Aziz
+CO552,Duhok Technology Systems,Duhok,Technology,2024,2065,128714377,Dara Rebaz Omar
+CO553,Erbil Education Company,Erbil,Education,2005,1629,376968030,Azad Dara Said
+CO554,Sulaymaniyah Healthcare Services,Sulaymaniyah,Healthcare,2013,1058,309096939,Jalal Raber Nasser
+CO555,Zakho Telecommunications Systems,Zakho,Telecommunications,2013,2054,333018604,Hawkar Fuad Omar
+CO556,Duhok Real Estate Holdings,Duhok,Real Estate,1996,2166,106985227,Hawkar Farhad Hasan
+CO557,Erbil Construction Solutions,Erbil,Construction,2008,3808,239786760,Kamaran Farhad Othman
+CO558,Erbil Agriculture Center,Erbil,Agriculture,2022,1947,337491854,Salih Saber Salih
+CO559,Halabja Telecommunications Solutions,Halabja,Telecommunications,1998,3777,510840402,Karwan Farid Faris
+CO560,Zakho Technology Labs,Zakho,Technology,2014,4131,364031374,Helin Sherzad Hassan
+CO561,Halabja Technology Enterprises,Halabja,Technology,2008,2243,524399087,Kamaran Saber Hassan
+CO562,Halabja Telecommunications Systems,Halabja,Telecommunications,1991,4426,639985121,Baran Bakr Hasan
+CO563,Erbil Hospitality Services,Erbil,Hospitality,1996,4976,418751445,Tara Raber Salih
+CO564,Erbil Healthcare Center,Erbil,Healthcare,2005,3825,452811121,Narin Hama Rashid
+CO565,Zakho Aviation Company,Zakho,Aviation,2018,1080,564369897,Layla Bakr Nuri
+CO566,Halabja Hospitality Labs,Halabja,Hospitality,2016,1481,445587674,Zhyan Aziz Said
+CO567,Erbil Manufacturing Center,Erbil,Manufacturing,2024,230,129982482,Salih Saeed Said
+CO568,Halabja Telecommunications Group,Halabja,Telecommunications,2005,20,1496216,Vian Salam Faris
+CO569,Halabja Healthcare Company,Halabja,Healthcare,2015,4311,515389268,Baran Mustafa Hama
+CO570,Sulaymaniyah Construction Systems,Sulaymaniyah,Construction,1990,3741,76720946,Dilan Raber Mustafa
+CO571,Zakho Consulting Industries,Zakho,Consulting,2000,1699,634848550,Dashni Jamal Hama
+CO572,Zakho Agriculture Solutions,Zakho,Agriculture,2013,2224,75189580,Wrya Kamaran Mustafa
+CO573,Halabja Logistics Group,Halabja,Logistics,2018,41,137245472,Dashni Karim Rashid
+CO574,Halabja Agriculture Center,Halabja,Agriculture,2009,1287,600798734,Alan Salam Ali
+CO575,Halabja Media Services,Halabja,Media,2000,3218,215998714,Farhad Aryan Hama
+CO576,Halabja Education Services,Halabja,Education,2010,2896,95968811,Dilan Sherzad Rashid
+CO577,Sulaymaniyah Media Labs,Sulaymaniyah,Media,2013,4316,542329235,Wrya Rebaz Rashid
+CO578,Halabja Media Services,Halabja,Media,2015,1785,554664262,Azad Jalal Omar
+CO579,Erbil Tourism Group,Erbil,Tourism,2012,2651,597020873,Rebaz Barzan Taha
+CO580,Erbil Healthcare Center,Erbil,Healthcare,2016,726,292922362,Nawzad Sherzad Othman
+CO581,Erbil Tourism Services,Erbil,Tourism,1994,3531,503528569,Kamaran Hama Hama
+CO582,Sulaymaniyah Construction Industries,Sulaymaniyah,Construction,2019,4900,546485893,Rami Rizgar Ahmad
+CO583,Erbil Energy Labs,Erbil,Energy,2006,4455,87841244,Karwan Raber Qadir
+CO584,Erbil Education Industries,Erbil,Education,2022,2310,363051887,Salih Dara Said
+CO585,Zakho Energy Center,Zakho,Energy,2006,371,48364329,Kamaran Bakr Omar
+CO586,Sulaymaniyah Logistics Company,Sulaymaniyah,Logistics,2015,2859,580891516,Sardar Fuad Othman
+CO587,Sulaymaniyah Telecommunications Group,Sulaymaniyah,Telecommunications,2025,204,382707495,Dashni Mustafa Hassan
+CO588,Erbil Consulting Enterprises,Erbil,Consulting,2008,1742,346530376,Chnar Hama Othman
+CO589,Sulaymaniyah Tourism Industries,Sulaymaniyah,Tourism,2011,2836,402162079,Alan Latif Hassan
+CO590,Halabja Energy Holdings,Halabja,Energy,1990,31,112606394,Vian Kamaran Hama
+CO591,Halabja Technology Industries,Halabja,Technology,2003,3134,164579482,Pishtiwan Kamaran Saeed
+CO592,Duhok Tourism Services,Duhok,Tourism,2020,324,6013074,Naz Barzan Nasser
+CO593,Halabja Construction Holdings,Halabja,Construction,2018,1158,331997265,Pishtiwan Saeed Omar
+CO594,Erbil Tourism Labs,Erbil,Tourism,2020,3989,172085326,Rozhan Raber Karim
+CO595,Zakho Real Estate Enterprises,Zakho,Real Estate,2014,2009,59369008,Jalal Salam Ali
+CO596,Zakho Healthcare Company,Zakho,Healthcare,1991,794,61974029,Zhyan Kamaran Ahmad
+CO597,Zakho Media Services,Zakho,Media,2019,2538,87438084,Fuad Aziz Kadir
+CO598,Sulaymaniyah Construction Industries,Sulaymaniyah,Construction,2000,1615,17546421,Tara Saeed Hasan
+CO599,Zakho Manufacturing Enterprises,Zakho,Manufacturing,2005,1779,465631128,Farhad Saeed Hama
+CO600,Sulaymaniyah Retail Enterprises,Sulaymaniyah,Retail,2014,2839,483458356,Xezal Karim Tahir
+CO601,Duhok Healthcare Labs,Duhok,Healthcare,2022,3408,599556059,Tara Jamal Said
+CO602,Duhok Telecommunications Holdings,Duhok,Telecommunications,2014,2210,538905937,Aryan Latif Saeed
+CO603,Zakho Real Estate Company,Zakho,Real Estate,2020,933,241694353,Zhyan Mohammed Karimi
+CO604,Sulaymaniyah Aviation Labs,Sulaymaniyah,Aviation,2006,3339,285562274,Vian Ihsan Nuri
+CO605,Duhok Fintech Center,Duhok,Fintech,2022,2880,147277534,Nawzad Saber Hama
+CO606,Halabja Real Estate Services,Halabja,Real Estate,2019,69,308782299,Randa Kamaran Ahmad
+CO607,Duhok Manufacturing Group,Duhok,Manufacturing,2011,3179,228642079,Helin Fuad Karimi
+CO608,Zakho Tourism Labs,Zakho,Tourism,1996,557,562110955,Hawkar Aryan Mahmoud
+CO609,Erbil Transport Logistics Company,Erbil,Transport & Logistics,2018,3001,374936874,Tara Aryan Kadir
+CO610,Sulaymaniyah Agriculture Center,Sulaymaniyah,Agriculture,2023,865,206033742,Mazin Farhad Rashid
+CO611,Duhok Food Beverage Center,Duhok,Food & Beverage,2019,3804,94546024,Shilan Latif Hassan
+CO612,Erbil Hospitality Enterprises,Erbil,Hospitality,2019,2432,208958908,Yara Mohammed Kadir
+CO613,Halabja Tourism Group,Halabja,Tourism,2023,2738,649126434,Avan Rebaz Nasser
+CO614,Duhok Media Holdings,Duhok,Media,2007,3872,272542391,Azad Salam Hama
+CO615,Duhok Education Holdings,Duhok,Education,2023,4388,626243063,Kavar Kamaran Aziz
+CO616,Zakho Food Beverage Holdings,Zakho,Food & Beverage,1995,4332,516948160,Dashni Jamal Salih
+CO617,Duhok Retail Group,Duhok,Retail,2024,2419,203992872,Shilan Mustafa Qadir
+CO618,Zakho Aviation Industries,Zakho,Aviation,1994,3682,607003866,Zhyan Farhad Hassan
+CO619,Duhok Transport Logistics Solutions,Duhok,Transport & Logistics,1998,3459,22300575,Xezal Hama Ahmad
+CO620,Zakho Real Estate Group,Zakho,Real Estate,1998,4374,325262544,Vian Sherzad Tahir
+CO621,Halabja Fintech Holdings,Halabja,Fintech,2010,3086,607964089,Hawkar Farhad Saeed
+CO622,Zakho Retail Solutions,Zakho,Retail,2004,304,533573506,Salih Ihsan Faris
+CO623,Sulaymaniyah Technology Company,Sulaymaniyah,Technology,2005,2875,625403645,Saman Jalal Saeed
+CO624,Sulaymaniyah Energy Labs,Sulaymaniyah,Energy,2001,1673,190452145,Xezal Kamaran Aziz
+CO625,Erbil Agriculture Services,Erbil,Agriculture,2012,2635,537808832,Karwan Jalal Mahmoud
+CO626,Sulaymaniyah Fintech Services,Sulaymaniyah,Fintech,2003,2747,111256191,Rozhan Sherzad Rashid
+CO627,Halabja Pharmaceuticals Systems,Halabja,Pharmaceuticals,1998,4081,59744555,Avan Salam Nasser
+CO628,Zakho Energy Group,Zakho,Energy,1998,4318,80743870,Zhyan Jamal Hassan
+CO629,Zakho Hospitality Systems,Zakho,Hospitality,2008,2262,224165309,Kavar Saber Othman
+CO630,Zakho Telecommunications Industries,Zakho,Telecommunications,2014,1724,264752180,Xezal Jamal Kadir
+CO631,Erbil Hospitality Industries,Erbil,Hospitality,2025,4077,41511695,Baran Hama Rashid
+CO632,Erbil Manufacturing Solutions,Erbil,Manufacturing,2007,1885,377887585,Hawkar Fuad Rashid
+CO633,Sulaymaniyah Hospitality Company,Sulaymaniyah,Hospitality,2013,376,283649650,Saman Raber Tahir
+CO634,Sulaymaniyah Hospitality Group,Sulaymaniyah,Hospitality,1999,2033,359416662,Rozhan Farhad Karim
+CO635,Sulaymaniyah Agriculture Services,Sulaymaniyah,Agriculture,1992,2637,387755494,Mazin Mohammed Mahmoud
+CO636,Erbil Technology Systems,Erbil,Technology,1991,54,286982574,Xezal Farhad Aziz
+CO637,Halabja Healthcare Enterprises,Halabja,Healthcare,2013,1372,211798247,Pishtiwan Mohammed Aziz
+CO638,Zakho Construction Labs,Zakho,Construction,2016,4627,243091805,Lana Hama Tahir
+CO639,Duhok Hospitality Systems,Duhok,Hospitality,2022,3056,634578691,Farhad Omar Aziz
+CO640,Sulaymaniyah Logistics Services,Sulaymaniyah,Logistics,2003,4638,472114899,Saman Latif Mahmoud
+CO641,Halabja Logistics Group,Halabja,Logistics,1992,2848,387088163,Rebaz Kamaran Taha
+CO642,Sulaymaniyah Retail Group,Sulaymaniyah,Retail,2019,1050,436999337,Yara Aziz Hasan
+CO643,Duhok Telecommunications Services,Duhok,Telecommunications,2006,3755,398575080,Sardar Jalal Faris
+CO644,Duhok Telecommunications Labs,Duhok,Telecommunications,2016,3228,373599106,Tara Latif Qadir
+CO645,Halabja Construction Holdings,Halabja,Construction,2010,4401,427173180,Nawzad Fuad Ahmad
+CO646,Sulaymaniyah Agriculture Systems,Sulaymaniyah,Agriculture,2000,2391,196079065,Zhyan Saber Nuri
+CO647,Erbil Construction Holdings,Erbil,Construction,2005,544,617492956,Hawkar Mohammed Omar
+CO648,Halabja Education Solutions,Halabja,Education,2005,3147,261038538,Vian Aryan Mustafa
+CO649,Erbil Real Estate Industries,Erbil,Real Estate,1993,1281,588967109,Zeynep Jalal Rashid
+CO650,Sulaymaniyah Transport Logistics Industries,Sulaymaniyah,Transport & Logistics,2025,3388,130508635,Pishtiwan Aziz Ahmad
+CO651,Sulaymaniyah Real Estate Labs,Sulaymaniyah,Real Estate,2009,1137,157382578,Narin Karim Qadir
+CO652,Sulaymaniyah Agriculture Services,Sulaymaniyah,Agriculture,2005,203,160626193,Lana Kamaran Rashid
+CO653,Erbil Telecommunications Group,Erbil,Telecommunications,1996,1582,139955948,Chnar Latif Qadir
+CO654,Sulaymaniyah Logistics Industries,Sulaymaniyah,Logistics,2006,1951,358460261,Dilan Farhad Hasan
+CO655,Zakho Consulting Solutions,Zakho,Consulting,2004,2769,248232680,Baran Sherzad Ali
+CO656,Zakho Technology Enterprises,Zakho,Technology,2016,1525,632771656,Pishtiwan Karim Ahmad
+CO657,Halabja Energy Holdings,Halabja,Energy,2021,3098,307957781,Dilan Saeed Said
+CO658,Halabja Fintech Enterprises,Halabja,Fintech,2013,1785,404688222,Karwan Saber Hassan
+CO659,Halabja Transport Logistics Group,Halabja,Transport & Logistics,2019,345,642469274,Dilan Jamal Nuri
+CO660,Sulaymaniyah Hospitality Group,Sulaymaniyah,Hospitality,1998,3994,202528943,Randa Karim Ali
+CO661,Zakho Education Industries,Zakho,Education,2016,584,527008005,Helin Nawzad Saeed
+CO662,Halabja Healthcare Services,Halabja,Healthcare,2010,4920,586416569,Kamaran Fuad Ahmad
+CO663,Zakho Fintech Systems,Zakho,Fintech,2024,1513,323900869,Helin Latif Rashid
+CO664,Erbil Energy Holdings,Erbil,Energy,2000,4886,172776073,Baran Bakr Saeed
+CO665,Halabja Media Systems,Halabja,Media,2023,697,212364411,Fuad Hama Saeed
+CO666,Sulaymaniyah Transport Logistics Labs,Sulaymaniyah,Transport & Logistics,1991,3172,156207125,Rebaz Rizgar Hassan
+CO667,Halabja Real Estate Group,Halabja,Real Estate,1996,2296,322364857,Karwan Bakr Salih
+CO668,Duhok Agriculture Industries,Duhok,Agriculture,1999,2081,397941956,Yara Rebaz Othman
+CO669,Erbil Retail Center,Erbil,Retail,2004,4732,244411224,Wrya Mohammed Kadir
+CO670,Zakho Agriculture Center,Zakho,Agriculture,2002,1630,493934108,Pishtiwan Jalal Tahir
+CO671,Sulaymaniyah Aviation Company,Sulaymaniyah,Aviation,2004,1717,561802253,Chnar Latif Hama
+CO672,Halabja Manufacturing Center,Halabja,Manufacturing,1995,197,366443129,Mazin Saeed Karimi
+CO673,Halabja Energy Labs,Halabja,Energy,2025,3970,389059405,Kamaran Barzan Karimi
+CO674,Halabja Agriculture Labs,Halabja,Agriculture,2020,1077,242586562,Dara Karim Ahmad
+CO675,Sulaymaniyah Telecommunications Group,Sulaymaniyah,Telecommunications,2020,56,601821639,Alan Omar Said
+CO676,Zakho Tourism Services,Zakho,Tourism,2022,2461,423856324,Dashni Dara Faris
+CO677,Duhok Agriculture Center,Duhok,Agriculture,1996,2222,589101580,Mazin Karim Tahir
+CO678,Zakho Manufacturing Group,Zakho,Manufacturing,2025,3141,614510483,Naz Rizgar Rashid
+CO679,Zakho Telecommunications Industries,Zakho,Telecommunications,2011,1086,397192172,Narin Farhad Nasser
+CO680,Erbil Construction Labs,Erbil,Construction,2012,3382,192060902,Saman Omar Rashid
+CO681,Zakho Pharmaceuticals Enterprises,Zakho,Pharmaceuticals,2016,4176,29100090,Kamaran Saber Karimi
+CO682,Duhok Consulting Holdings,Duhok,Consulting,2009,3983,39013241,Mazin Salam Omar
+CO683,Duhok Agriculture Services,Duhok,Agriculture,2010,1646,168377810,Sardar Nawzad Ali
+CO684,Duhok Media Industries,Duhok,Media,2016,570,317680621,Lana Dara Karimi
+CO685,Sulaymaniyah Education Solutions,Sulaymaniyah,Education,2012,1243,287143068,Helin Mustafa Nasser
+CO686,Erbil Tourism Solutions,Erbil,Tourism,2011,3389,573837495,Mazin Farhad Hassan
+CO687,Halabja Manufacturing Systems,Halabja,Manufacturing,1994,1546,176592028,Xezal Bakr Mahmoud
+CO688,Duhok Consulting Enterprises,Duhok,Consulting,2008,3608,590509602,Dashni Mohammed Omar
+CO689,Zakho Hospitality Services,Zakho,Hospitality,2008,1357,544595665,Alan Farhad Nuri
+CO690,Erbil Fintech Group,Erbil,Fintech,2019,4314,86181498,Zhyan Karim Mustafa
+CO691,Erbil Technology Industries,Erbil,Technology,2008,2395,563330809,Layla Barzan Mahmoud
+CO692,Halabja Real Estate Industries,Halabja,Real Estate,1996,941,547821497,Aryan Dara Ahmad
+CO693,Halabja Telecommunications Group,Halabja,Telecommunications,2007,2118,628250547,Karwan Mohammed Othman
+CO694,Erbil Fintech Industries,Erbil,Fintech,2002,604,316076999,Kamaran Bakr Hassan
+CO695,Duhok Consulting Center,Duhok,Consulting,2003,153,445795816,Rozhan Mohammed Kadir
+CO696,Erbil Healthcare Solutions,Erbil,Healthcare,1993,3775,44058015,Pishtiwan Rizgar Taha
+CO697,Erbil Telecommunications Labs,Erbil,Telecommunications,2013,96,234030800,Shilan Barzan Aziz
+CO698,Halabja Fintech Company,Halabja,Fintech,2010,338,416578325,Alan Aziz Omar
+CO699,Zakho Manufacturing Solutions,Zakho,Manufacturing,2007,970,285411647,Salih Ihsan Tahir
+CO700,Erbil Aviation Holdings,Erbil,Aviation,1991,4663,378077184,Randa Saber Rashid
+CO701,Zakho Education Group,Zakho,Education,1999,552,369037209,Lana Raber Mahmoud
+CO702,Erbil Technology Labs,Erbil,Technology,1997,982,86118396,Bestun Bakr Karim
+CO703,Erbil Energy Systems,Erbil,Energy,2013,1599,283656803,Randa Mohammed Mahmoud
+CO704,Erbil Pharmaceuticals Labs,Erbil,Pharmaceuticals,1990,2106,536697839,Dara Hama Tahir
+CO705,Sulaymaniyah Technology Group,Sulaymaniyah,Technology,2021,1658,537079349,Karwan Bakr Rashid
+CO706,Erbil Fintech Industries,Erbil,Fintech,2010,280,586984165,Saman Hama Saeed
+CO707,Duhok Telecommunications Company,Duhok,Telecommunications,2023,3599,38025169,Rami Nawzad Othman
+CO708,Halabja Healthcare Labs,Halabja,Healthcare,2004,1943,438559983,Zhyan Jalal Othman
+CO709,Erbil Consulting Center,Erbil,Consulting,2005,629,635346235,Hawkar Saeed Ahmad
+CO710,Duhok Construction Group,Duhok,Construction,2022,956,177889155,Rami Rebaz Ahmad
+CO711,Erbil Consulting Industries,Erbil,Consulting,2001,4249,560191018,Chnar Dara Mustafa
+CO712,Duhok Consulting Services,Duhok,Consulting,1999,2935,285207092,Helin Dara Ahmad
+CO713,Duhok Construction Industries,Duhok,Construction,2015,3512,280815906,Dara Fuad Nuri
+CO714,Halabja Pharmaceuticals Center,Halabja,Pharmaceuticals,2015,3602,299995201,Farhad Omar Mustafa
+CO715,Erbil Aviation Solutions,Erbil,Aviation,2000,4652,146674994,Dashni Farid Kadir
+CO716,Sulaymaniyah Telecommunications Holdings,Sulaymaniyah,Telecommunications,2021,3876,535386895,Rami Latif Nuri
+CO717,Zakho Fintech Enterprises,Zakho,Fintech,2022,565,13425777,Rebaz Aziz Aziz
+CO718,Sulaymaniyah Energy Group,Sulaymaniyah,Energy,2022,1847,385947730,Shilan Kamaran Ahmad
+CO719,Sulaymaniyah Transport Logistics Solutions,Sulaymaniyah,Transport & Logistics,2012,3742,619833178,Dara Mohammed Said
+CO720,Sulaymaniyah Media Holdings,Sulaymaniyah,Media,2014,707,416940825,Baran Aziz Mustafa
+CO721,Zakho Healthcare Center,Zakho,Healthcare,2010,979,151778987,Yara Farhad Mahmoud
+CO722,Erbil Logistics Holdings,Erbil,Logistics,2017,924,94883216,Sardar Raber Kadir
+CO723,Erbil Media Center,Erbil,Media,1991,4672,194841879,Aryan Jamal Karim
+CO724,Sulaymaniyah Pharmaceuticals Group,Sulaymaniyah,Pharmaceuticals,2023,3439,246378445,Kavar Salam Hasan
+CO725,Halabja Manufacturing Group,Halabja,Manufacturing,2015,3223,435224064,Rebaz Nawzad Hassan
+CO726,Duhok Manufacturing Group,Duhok,Manufacturing,2023,237,40640385,Vian Mohammed Othman
+CO727,Halabja Construction Company,Halabja,Construction,2003,372,447772685,Rami Bakr Tahir
+CO728,Erbil Consulting Company,Erbil,Consulting,1992,2899,399111121,Bestun Dara Salih
+CO729,Erbil Consulting Center,Erbil,Consulting,2008,573,137155122,Narin Salam Omar
+CO730,Erbil Hospitality Group,Erbil,Hospitality,2013,125,194336341,Azad Farhad Hasan
+CO731,Halabja Construction Enterprises,Halabja,Construction,2015,775,625124270,Randa Saeed Hama
+CO732,Halabja Technology Services,Halabja,Technology,2024,1744,444516827,Rebaz Latif Kadir
+CO733,Halabja Telecommunications Systems,Halabja,Telecommunications,1998,787,484096502,Chnar Saber Hasan
+CO734,Erbil Technology Enterprises,Erbil,Technology,2017,3615,358384664,Xezal Aziz Ahmad
+CO735,Erbil Energy Systems,Erbil,Energy,2021,2797,214756178,Hawkar Hama Faris
+CO736,Duhok Healthcare Industries,Duhok,Healthcare,2010,449,579081348,Mazin Raber Mahmoud
+CO737,Erbil Transport Logistics Center,Erbil,Transport & Logistics,1993,1764,456803958,Rebaz Dara Said
+CO738,Zakho Fintech Labs,Zakho,Fintech,2015,3886,395303260,Kavar Saeed Ali
+CO739,Erbil Aviation Systems,Erbil,Aviation,2006,4065,306430822,Helin Sherzad Rashid
+CO740,Zakho Telecommunications Company,Zakho,Telecommunications,1996,1419,61903825,Dashni Raber Karimi
+CO741,Erbil Transport Logistics Enterprises,Erbil,Transport & Logistics,2024,749,3289101,Randa Aziz Nuri
+CO742,Sulaymaniyah Telecommunications Company,Sulaymaniyah,Telecommunications,1999,1980,277040646,Hawkar Saeed Mahmoud
+CO743,Erbil Tourism Center,Erbil,Tourism,1991,4745,499257192,Wrya Fuad Ahmad
+CO744,Halabja Logistics Labs,Halabja,Logistics,1997,3301,428978344,Shilan Aryan Hassan
+CO745,Zakho Hospitality Services,Zakho,Hospitality,2009,2197,644411329,Dilan Saber Nuri
+CO746,Halabja Real Estate Holdings,Halabja,Real Estate,1994,3576,152730664,Naz Kamaran Saeed
+CO747,Zakho Fintech Industries,Zakho,Fintech,2017,877,21029750,Vian Saber Hama
+CO748,Erbil Agriculture Holdings,Erbil,Agriculture,1991,1495,562806279,Saman Mustafa Omar
+CO749,Duhok Aviation Center,Duhok,Aviation,1999,765,570514003,Nawzad Hama Mahmoud
+CO750,Halabja Retail Holdings,Halabja,Retail,2006,4739,234235970,Helin Rizgar Hasan
+CO751,Zakho Energy Labs,Zakho,Energy,2002,4988,69065438,Jalal Mohammed Saeed
+CO752,Sulaymaniyah Logistics Services,Sulaymaniyah,Logistics,2025,3631,441899380,Shilan Mustafa Hama
+CO753,Duhok Real Estate Services,Duhok,Real Estate,2004,1859,474699797,Lana Jamal Hama
+CO754,Erbil Tourism Group,Erbil,Tourism,2022,2717,471681857,Vian Ihsan Faris
+CO755,Halabja Real Estate Enterprises,Halabja,Real Estate,2015,1790,113407643,Salih Kamaran Taha
+CO756,Duhok Agriculture Center,Duhok,Agriculture,1991,126,171132120,Rozhan Aryan Saeed
+CO757,Zakho Logistics Labs,Zakho,Logistics,2000,1680,318186358,Zeynep Karim Othman
+CO758,Erbil Aviation Solutions,Erbil,Aviation,2000,932,458949577,Rebaz Jamal Hassan
+CO759,Halabja Tourism Holdings,Halabja,Tourism,1992,746,22186742,Yara Nawzad Ali
+CO760,Halabja Tourism Enterprises,Halabja,Tourism,2022,1331,334325537,Naz Karim Tahir
+CO761,Zakho Manufacturing Company,Zakho,Manufacturing,1998,4743,235647766,Farhad Hama Kadir
+CO762,Erbil Real Estate Services,Erbil,Real Estate,2011,165,250711619,Kamaran Raber Mahmoud
+CO763,Sulaymaniyah Retail Systems,Sulaymaniyah,Retail,2006,3108,419816072,Azad Saeed Hassan
+CO764,Halabja Technology Services,Halabja,Technology,2008,4993,571218862,Zeynep Mohammed Rashid
+CO765,Halabja Hospitality Labs,Halabja,Hospitality,2004,1521,597885558,Lana Omar Tahir
+CO766,Sulaymaniyah Telecommunications Enterprises,Sulaymaniyah,Telecommunications,1991,3839,646236949,Hawkar Sherzad Karimi
+CO767,Duhok Retail Enterprises,Duhok,Retail,2023,3500,25561510,Karwan Barzan Karimi
+CO768,Halabja Media Systems,Halabja,Media,2007,2631,76633670,Dara Sherzad Aziz
+CO769,Sulaymaniyah Tourism Services,Sulaymaniyah,Tourism,2012,2259,94374629,Fuad Salam Taha
+CO770,Zakho Logistics Company,Zakho,Logistics,1996,2512,528693914,Saman Farid Tahir
+CO771,Erbil Fintech Services,Erbil,Fintech,2004,4331,143676770,Zhyan Salam Qadir
+CO772,Duhok Construction Group,Duhok,Construction,2018,4184,460350061,Chnar Rebaz Ali
+CO773,Duhok Telecommunications Group,Duhok,Telecommunications,2010,1577,343184582,Aryan Mustafa Hama
+CO774,Zakho Construction Systems,Zakho,Construction,2015,3725,225388876,Kavar Jamal Mustafa
+CO775,Duhok Agriculture Services,Duhok,Agriculture,2020,2320,91768774,Wrya Saeed Mustafa
+CO776,Zakho Media Industries,Zakho,Media,2010,3597,447400951,Karwan Farhad Kadir
+CO777,Halabja Agriculture Services,Halabja,Agriculture,2005,3432,324984324,Jalal Hama Mustafa
+CO778,Zakho Retail Industries,Zakho,Retail,2018,2982,532991309,Aryan Salam Karimi
+CO779,Zakho Food Beverage Services,Zakho,Food & Beverage,2015,261,86927026,Rebaz Rizgar Kadir
+CO780,Erbil Tourism Holdings,Erbil,Tourism,2009,230,65634775,Dilan Karim Hasan
+CO781,Sulaymaniyah Aviation Holdings,Sulaymaniyah,Aviation,2022,1676,355389188,Azad Farhad Omar
+CO782,Sulaymaniyah Fintech Company,Sulaymaniyah,Fintech,2005,4581,509811900,Aryan Fuad Mahmoud
+CO783,Duhok Energy Group,Duhok,Energy,1998,1858,320611472,Aryan Saeed Nasser
+CO784,Duhok Manufacturing Solutions,Duhok,Manufacturing,2002,3720,293644291,Layla Saeed Rashid
+CO785,Halabja Agriculture Holdings,Halabja,Agriculture,2012,3555,368042057,Dara Aryan Nuri
+CO786,Zakho Education Labs,Zakho,Education,2014,1484,488774390,Xezal Saeed Kadir
+CO787,Duhok Energy Group,Duhok,Energy,2004,2518,628222176,Fuad Saeed Hasan
+CO788,Sulaymaniyah Tourism Enterprises,Sulaymaniyah,Tourism,2013,2952,354513537,Mazin Jamal Othman
+CO789,Duhok Agriculture Industries,Duhok,Agriculture,1993,4758,282324325,Chnar Mohammed Ali
+CO790,Duhok Energy Enterprises,Duhok,Energy,2015,2953,542517198,Helin Sherzad Othman
+CO791,Erbil Food Beverage Company,Erbil,Food & Beverage,2019,3174,177498860,Chnar Mohammed Kadir
+CO792,Sulaymaniyah Retail Company,Sulaymaniyah,Retail,2011,1222,558773303,Chnar Omar Tahir
+CO793,Halabja Media Services,Halabja,Media,2007,1860,27470538,Naz Aryan Qadir
+CO794,Zakho Media Company,Zakho,Media,2010,2565,291250433,Dara Mustafa Kadir
+CO795,Erbil Healthcare Center,Erbil,Healthcare,2006,4407,8954744,Saman Kamaran Omar
+CO796,Halabja Retail Holdings,Halabja,Retail,2025,403,580029002,Chnar Jamal Taha
+CO797,Duhok Agriculture Enterprises,Duhok,Agriculture,2000,2537,472583419,Dashni Jalal Nasser
+CO798,Duhok Fintech Company,Duhok,Fintech,2019,1605,516852787,Jalal Omar Ali
+CO799,Zakho Technology Holdings,Zakho,Technology,2000,552,525832634,Kavar Jamal Karim
+CO800,Erbil Media Company,Erbil,Media,2021,1637,68706411,Rozhan Aziz Ahmad
+CO801,Sulaymaniyah Food Beverage Center,Sulaymaniyah,Food & Beverage,1997,3278,457514215,Alan Saeed Ahmad
+CO802,Erbil Pharmaceuticals Industries,Erbil,Pharmaceuticals,2009,3273,586769448,Salih Karim Hasan
+CO803,Zakho Education Holdings,Zakho,Education,2001,642,540242171,Naz Bakr Salih
+CO804,Zakho Consulting Industries,Zakho,Consulting,1998,2130,531466269,Zeynep Farhad Said
+CO805,Zakho Fintech Group,Zakho,Fintech,2019,859,422360893,Chnar Omar Hama
+CO806,Duhok Retail Center,Duhok,Retail,2012,3790,152336474,Vian Rebaz Said
+CO807,Duhok Agriculture Systems,Duhok,Agriculture,2010,1259,642727651,Fuad Mohammed Hassan
+CO808,Halabja Transport Logistics Services,Halabja,Transport & Logistics,1994,1844,475031922,Mazin Saber Ali
+CO809,Duhok Healthcare Services,Duhok,Healthcare,2020,805,71315305,Wrya Hama Aziz
+CO810,Sulaymaniyah Agriculture Solutions,Sulaymaniyah,Agriculture,2025,947,608512284,Vian Omar Faris
+CO811,Erbil Tourism Group,Erbil,Tourism,2018,233,467846631,Dashni Fuad Hama
+CO812,Zakho Tourism Systems,Zakho,Tourism,1997,1736,105358262,Zeynep Dara Ali
+CO813,Sulaymaniyah Logistics Systems,Sulaymaniyah,Logistics,2002,3298,318813802,Baran Barzan Ali
+CO814,Erbil Media Labs,Erbil,Media,2005,2011,188726648,Shilan Mohammed Nasser
+CO815,Sulaymaniyah Aviation Services,Sulaymaniyah,Aviation,2015,3715,352656515,Azad Omar Salih
+CO816,Halabja Consulting Center,Halabja,Consulting,2012,4696,483113998,Aryan Mohammed Nuri
+CO817,Erbil Education Group,Erbil,Education,2013,3531,573153037,Naz Barzan Said
+CO818,Sulaymaniyah Agriculture Group,Sulaymaniyah,Agriculture,1994,2197,233361193,Vian Dara Tahir
+CO819,Zakho Transport Logistics Holdings,Zakho,Transport & Logistics,2020,4200,554639886,Lana Nawzad Aziz
+CO820,Zakho Media Holdings,Zakho,Media,2009,2575,333245590,Nawzad Latif Nasser
+CO821,Erbil Hospitality Systems,Erbil,Hospitality,1998,3399,482541821,Helin Aryan Rashid
+CO822,Erbil Hospitality Group,Erbil,Hospitality,2007,1171,624376319,Rozhan Farid Qadir
+CO823,Halabja Healthcare Solutions,Halabja,Healthcare,1995,1452,286997827,Chnar Saber Taha
+CO824,Duhok Construction Holdings,Duhok,Construction,2020,4455,182982233,Dilan Aryan Hasan
+CO825,Sulaymaniyah Retail Enterprises,Sulaymaniyah,Retail,1998,992,102360590,Naz Aziz Taha
+CO826,Halabja Healthcare Center,Halabja,Healthcare,2022,1592,631848243,Azad Mohammed Nasser
+CO827,Duhok Telecommunications Labs,Duhok,Telecommunications,2012,2461,527209929,Bestun Omar Omar
+CO828,Halabja Construction Holdings,Halabja,Construction,2022,302,255996562,Zhyan Dara Hassan
+CO829,Erbil Aviation Services,Erbil,Aviation,2016,4286,19194738,Shilan Mustafa Ahmad
+CO830,Sulaymaniyah Technology Services,Sulaymaniyah,Technology,2003,1988,447984971,Layla Barzan Karim
+CO831,Duhok Transport Logistics Industries,Duhok,Transport & Logistics,1996,902,129544976,Wrya Saber Hasan
+CO832,Duhok Tourism Center,Duhok,Tourism,1998,4754,89048768,Aryan Sherzad Nasser
+CO833,Halabja Hospitality Center,Halabja,Hospitality,1993,4953,72361081,Mazin Jamal Salih
+CO834,Erbil Education Holdings,Erbil,Education,2010,4681,139332782,Sardar Barzan Hasan
+CO835,Duhok Logistics Systems,Duhok,Logistics,2015,225,613055613,Sardar Omar Omar
+CO836,Halabja Telecommunications Solutions,Halabja,Telecommunications,1995,2807,233668070,Alan Aziz Qadir
+CO837,Zakho Real Estate Systems,Zakho,Real Estate,2009,3001,211035014,Pishtiwan Sherzad Karim
+CO838,Sulaymaniyah Healthcare Group,Sulaymaniyah,Healthcare,1990,4799,445586182,Zhyan Jalal Tahir
+CO839,Sulaymaniyah Aviation Systems,Sulaymaniyah,Aviation,1991,2959,237694469,Dara Mustafa Tahir
+CO840,Zakho Agriculture Services,Zakho,Agriculture,2025,4499,604040630,Jalal Aziz Salih
+CO841,Halabja Education Group,Halabja,Education,2006,3393,297648327,Farhad Kamaran Ali
+CO842,Duhok Manufacturing Solutions,Duhok,Manufacturing,2015,4690,226827755,Baran Kamaran Salih
+CO843,Erbil Aviation Enterprises,Erbil,Aviation,2008,837,87491855,Kamaran Salam Tahir
+CO844,Sulaymaniyah Consulting Solutions,Sulaymaniyah,Consulting,1990,1940,551929398,Nawzad Omar Ahmad
+CO845,Zakho Hospitality Enterprises,Zakho,Hospitality,2018,237,387837670,Avan Omar Aziz
+CO846,Duhok Retail Holdings,Duhok,Retail,2023,370,281419524,Helin Sherzad Kadir
+CO847,Sulaymaniyah Consulting Group,Sulaymaniyah,Consulting,1992,4237,571252314,Nawzad Farid Ali
+CO848,Halabja Aviation Enterprises,Halabja,Aviation,2022,1657,585470416,Zhyan Salam Karim
+CO849,Erbil Transport Logistics Enterprises,Erbil,Transport & Logistics,2020,1708,89635373,Avan Mohammed Tahir
+CO850,Halabja Logistics Holdings,Halabja,Logistics,2009,4274,381936970,Kavar Kamaran Karimi
+CO851,Zakho Energy Company,Zakho,Energy,2019,4535,84367436,Helin Saber Hassan
+CO852,Halabja Manufacturing Solutions,Halabja,Manufacturing,2007,136,343974715,Dilan Karim Mustafa
+CO853,Halabja Technology Systems,Halabja,Technology,2014,634,531714671,Zhyan Aziz Karimi
+CO854,Duhok Retail Labs,Duhok,Retail,2009,914,146131443,Helin Rizgar Kadir
+CO855,Halabja Technology Group,Halabja,Technology,2008,2685,178611409,Tara Hama Nuri
+CO856,Halabja Hospitality Industries,Halabja,Hospitality,2010,2978,464172888,Shilan Saber Kadir
+CO857,Erbil Healthcare Center,Erbil,Healthcare,2024,3669,66761986,Karwan Mohammed Qadir
+CO858,Sulaymaniyah Healthcare Solutions,Sulaymaniyah,Healthcare,2011,1213,633233243,Narin Jalal Karim
+CO859,Zakho Technology Solutions,Zakho,Technology,1996,2542,554091495,Lana Bakr Kadir
+CO860,Erbil Tourism Holdings,Erbil,Tourism,2011,1130,442658177,Karwan Farid Nasser
+CO861,Zakho Pharmaceuticals Center,Zakho,Pharmaceuticals,2009,4249,95534387,Dilan Aziz Mustafa
+CO862,Erbil Agriculture Systems,Erbil,Agriculture,2004,207,132600392,Alan Rebaz Hasan
+CO863,Zakho Aviation Labs,Zakho,Aviation,2014,3826,264858387,Dara Ihsan Said
+CO864,Sulaymaniyah Hospitality Company,Sulaymaniyah,Hospitality,2009,834,316069368,Mazin Dara Salih
+CO865,Zakho Agriculture Industries,Zakho,Agriculture,2022,205,523553904,Narin Rizgar Qadir
+CO866,Erbil Aviation Systems,Erbil,Aviation,2022,4700,15614990,Vian Karim Qadir
+CO867,Duhok Telecommunications Center,Duhok,Telecommunications,2007,1345,564401550,Karwan Nawzad Said
+CO868,Sulaymaniyah Hospitality Industries,Sulaymaniyah,Hospitality,2011,3670,529105323,Dara Omar Hassan
+CO869,Halabja Education Industries,Halabja,Education,2019,2368,132332136,Dilan Barzan Hasan
+CO870,Erbil Manufacturing Enterprises,Erbil,Manufacturing,2022,708,401640996,Vian Hama Mustafa
+CO871,Halabja Real Estate Center,Halabja,Real Estate,2012,3035,180815482,Rami Nawzad Kadir
+CO872,Sulaymaniyah Aviation Industries,Sulaymaniyah,Aviation,1998,806,520598441,Helin Farid Said
+CO873,Duhok Healthcare Services,Duhok,Healthcare,2023,3948,185222304,Kamaran Raber Karimi
+CO874,Sulaymaniyah Telecommunications Industries,Sulaymaniyah,Telecommunications,1994,3779,186044774,Yara Hama Nasser
+CO875,Sulaymaniyah Energy Industries,Sulaymaniyah,Energy,1992,2578,361353033,Rebaz Latif Nasser
+CO876,Sulaymaniyah Technology Services,Sulaymaniyah,Technology,2013,3130,148302402,Xezal Ihsan Karimi
+CO877,Sulaymaniyah Construction Industries,Sulaymaniyah,Construction,2007,555,236799634,Sardar Aziz Nasser
+CO878,Erbil Transport Logistics Solutions,Erbil,Transport & Logistics,2008,3495,325664586,Saman Bakr Mustafa
+CO879,Duhok Media Enterprises,Duhok,Media,2020,4133,30835699,Xezal Hama Othman
+CO880,Halabja Healthcare Industries,Halabja,Healthcare,2020,3905,26272862,Naz Nawzad Karimi
+CO881,Duhok Consulting Enterprises,Duhok,Consulting,2015,3895,627749608,Salih Rebaz Ahmad
+CO882,Sulaymaniyah Manufacturing Holdings,Sulaymaniyah,Manufacturing,2017,2524,84597383,Karwan Salam Tahir
+CO883,Erbil Fintech Holdings,Erbil,Fintech,2008,3135,486009290,Baran Kamaran Faris
+CO884,Zakho Transport Logistics Systems,Zakho,Transport & Logistics,2016,4165,29227662,Zhyan Rebaz Nasser
+CO885,Erbil Tourism Services,Erbil,Tourism,2021,2593,52242736,Wrya Farhad Saeed
+CO886,Sulaymaniyah Construction Solutions,Sulaymaniyah,Construction,1994,1199,520245281,Layla Karim Salih
+CO887,Sulaymaniyah Healthcare Labs,Sulaymaniyah,Healthcare,2004,1948,149503541,Kavar Saeed Said
+CO888,Erbil Real Estate Systems,Erbil,Real Estate,2003,935,437241588,Karwan Nawzad Mahmoud
+CO889,Halabja Education Services,Halabja,Education,2009,3405,626148430,Rebaz Mohammed Karim
+CO890,Erbil Technology Center,Erbil,Technology,2023,4771,355873938,Karwan Mustafa Nasser
+CO891,Erbil Manufacturing Enterprises,Erbil,Manufacturing,2024,3736,138850097,Mazin Aryan Karimi
+CO892,Sulaymaniyah Education Solutions,Sulaymaniyah,Education,2010,3042,554815000,Zeynep Aziz Saeed
+CO893,Zakho Real Estate Industries,Zakho,Real Estate,2003,3323,191854847,Saman Hama Aziz
+CO894,Halabja Real Estate Holdings,Halabja,Real Estate,2003,3673,75291273,Pishtiwan Rebaz Hama
+CO895,Halabja Education Labs,Halabja,Education,1991,4272,25762305,Wrya Farhad Ahmad
+CO896,Zakho Food Beverage Solutions,Zakho,Food & Beverage,2021,4350,278207127,Saman Saber Karimi
+CO897,Erbil Healthcare Enterprises,Erbil,Healthcare,2006,4189,647802226,Narin Bakr Kadir
+CO898,Duhok Media Enterprises,Duhok,Media,2003,3346,419469882,Bestun Mohammed Salih
+CO899,Duhok Logistics Holdings,Duhok,Logistics,2019,976,129343179,Jalal Latif Mustafa
+CO900,Zakho Food Beverage Company,Zakho,Food & Beverage,2000,4032,474016116,Lana Dara Faris
+CO901,Zakho Real Estate Center,Zakho,Real Estate,2016,3609,557069676,Rozhan Barzan Ahmad
+CO902,Sulaymaniyah Fintech Systems,Sulaymaniyah,Fintech,2005,858,555572459,Salih Jalal Ali
+CO903,Zakho Education Labs,Zakho,Education,2008,1010,230375773,Vian Saber Hama
+CO904,Duhok Aviation Enterprises,Duhok,Aviation,2019,264,495224221,Azad Mustafa Karimi
+CO905,Zakho Fintech Group,Zakho,Fintech,2009,3077,363270170,Kavar Aziz Hassan
+CO906,Erbil Education Systems,Erbil,Education,1996,2167,113023200,Avan Fuad Saeed
+CO907,Duhok Consulting Industries,Duhok,Consulting,1996,1522,618079082,Farhad Barzan Mahmoud
+CO908,Zakho Healthcare Services,Zakho,Healthcare,1993,3024,394018845,Vian Mustafa Hama
+CO909,Sulaymaniyah Aviation Solutions,Sulaymaniyah,Aviation,2021,3863,311008270,Jalal Barzan Omar
+CO910,Duhok Healthcare Holdings,Duhok,Healthcare,2009,1295,290546677,Kavar Rebaz Salih
+CO911,Sulaymaniyah Retail Industries,Sulaymaniyah,Retail,1999,213,199466624,Naz Mohammed Kadir
+CO912,Erbil Telecommunications Holdings,Erbil,Telecommunications,2008,4696,436743118,Zhyan Rebaz Saeed
+CO913,Zakho Aviation Industries,Zakho,Aviation,1993,895,300137687,Fuad Rebaz Omar
+CO914,Erbil Tourism Holdings,Erbil,Tourism,2018,1919,472502664,Baran Barzan Karimi
+CO915,Erbil Consulting Systems,Erbil,Consulting,2000,980,616199252,Vian Jamal Qadir
+CO916,Sulaymaniyah Agriculture Group,Sulaymaniyah,Agriculture,2013,28,454629065,Wrya Mohammed Mahmoud
+CO917,Halabja Hospitality Solutions,Halabja,Hospitality,2011,4451,559170256,Narin Saber Othman
+CO918,Duhok Healthcare Systems,Duhok,Healthcare,2015,2068,624171412,Narin Omar Nasser
+CO919,Erbil Construction Industries,Erbil,Construction,1992,4425,612739891,Yara Fuad Mahmoud
+CO920,Erbil Real Estate Group,Erbil,Real Estate,2016,1197,264016378,Dara Jalal Tahir
+CO921,Erbil Fintech Labs,Erbil,Fintech,1997,4954,405057362,Aryan Aryan Saeed
+CO922,Halabja Pharmaceuticals Group,Halabja,Pharmaceuticals,2011,4304,463148693,Wrya Ihsan Mustafa
+CO923,Duhok Transport Logistics Services,Duhok,Transport & Logistics,2001,1490,36225386,Rebaz Mohammed Salih
+CO924,Sulaymaniyah Food Beverage Group,Sulaymaniyah,Food & Beverage,2019,3767,181788414,Baran Farid Said
+CO925,Zakho Energy Center,Zakho,Energy,2011,4170,609179443,Helin Karim Mahmoud
+CO926,Zakho Real Estate Industries,Zakho,Real Estate,2024,3276,36410238,Shilan Fuad Mahmoud
+CO927,Zakho Retail Enterprises,Zakho,Retail,2003,4137,554977425,Dilan Jalal Nasser
+CO928,Erbil Transport Logistics Group,Erbil,Transport & Logistics,2012,1430,624344536,Avan Salam Aziz
+CO929,Sulaymaniyah Manufacturing Industries,Sulaymaniyah,Manufacturing,1999,1743,500780889,Rebaz Hama Karimi
+CO930,Duhok Real Estate Company,Duhok,Real Estate,1991,3276,261011114,Dara Saber Kadir
+CO931,Halabja Tourism Holdings,Halabja,Tourism,2025,2070,440978353,Zhyan Saber Nasser
+CO932,Sulaymaniyah Pharmaceuticals Solutions,Sulaymaniyah,Pharmaceuticals,2015,3021,349839839,Saman Farid Faris
+CO933,Halabja Media Systems,Halabja,Media,2020,476,143028843,Randa Dara Othman
+CO934,Zakho Food Beverage Holdings,Zakho,Food & Beverage,1992,2574,509503668,Yara Omar Karimi
+CO935,Sulaymaniyah Tourism Holdings,Sulaymaniyah,Tourism,2013,2178,316416000,Shilan Aryan Karimi
+CO936,Duhok Transport Logistics Enterprises,Duhok,Transport & Logistics,2019,291,180268731,Rami Rizgar Omar
+CO937,Zakho Construction Labs,Zakho,Construction,1990,1704,346086377,Alan Saeed Saeed
+CO938,Sulaymaniyah Fintech Industries,Sulaymaniyah,Fintech,2007,3272,289323350,Tara Mustafa Mahmoud
+CO939,Erbil Real Estate Company,Erbil,Real Estate,2012,727,92297750,Nawzad Aryan Karimi
+CO940,Zakho Aviation Holdings,Zakho,Aviation,2005,1461,200861428,Zeynep Fuad Qadir
+CO941,Erbil Technology Solutions,Erbil,Technology,2021,4187,362620442,Randa Bakr Tahir
+CO942,Halabja Agriculture Enterprises,Halabja,Agriculture,2001,4785,83869485,Zeynep Sherzad Salih
+CO943,Sulaymaniyah Healthcare Industries,Sulaymaniyah,Healthcare,1999,2872,265959093,Jalal Saber Mustafa
+CO944,Halabja Fintech Labs,Halabja,Fintech,2020,3217,94027697,Rebaz Jamal Tahir
+CO945,Zakho Agriculture Industries,Zakho,Agriculture,2006,3002,560208443,Salih Ihsan Omar
+CO946,Zakho Telecommunications Enterprises,Zakho,Telecommunications,2025,1791,253221822,Rozhan Mohammed Aziz
+CO947,Sulaymaniyah Transport Logistics Enterprises,Sulaymaniyah,Transport & Logistics,2022,1807,422299059,Randa Barzan Hama
+CO948,Halabja Agriculture Holdings,Halabja,Agriculture,2016,4299,436737756,Yara Farhad Aziz
+CO949,Erbil Logistics Group,Erbil,Logistics,2020,4843,397447126,Alan Hama Nuri
+CO950,Erbil Telecommunications Group,Erbil,Telecommunications,2001,1192,521268696,Xezal Aziz Qadir
+CO951,Sulaymaniyah Pharmaceuticals Group,Sulaymaniyah,Pharmaceuticals,2007,3873,7149449,Rami Farid Said
+CO952,Erbil Media Systems,Erbil,Media,2018,732,285396097,Avan Rizgar Nasser
+CO953,Sulaymaniyah Education Services,Sulaymaniyah,Education,2018,1466,536605244,Kamaran Ihsan Hasan
+CO954,Sulaymaniyah Healthcare Holdings,Sulaymaniyah,Healthcare,2022,2300,613653208,Tara Saber Saeed
+CO955,Zakho Pharmaceuticals Industries,Zakho,Pharmaceuticals,2005,2039,425364548,Kamaran Latif Taha
+CO956,Sulaymaniyah Real Estate Group,Sulaymaniyah,Real Estate,2020,1444,554042702,Shilan Mustafa Qadir
+CO957,Duhok Tourism Company,Duhok,Tourism,1996,3431,81859009,Fuad Aziz Hasan
+CO958,Halabja Telecommunications Center,Halabja,Telecommunications,2024,4618,67999941,Narin Aziz Qadir
+CO959,Sulaymaniyah Media Holdings,Sulaymaniyah,Media,2001,3604,158402023,Pishtiwan Saeed Salih
+CO960,Duhok Healthcare Industries,Duhok,Healthcare,2020,2964,647707967,Narin Farid Mahmoud
+CO961,Zakho Media Industries,Zakho,Media,2020,1490,200038339,Avan Jalal Ali
+CO962,Duhok Media Industries,Duhok,Media,2010,431,104438500,Zeynep Sherzad Hasan
+CO963,Sulaymaniyah Agriculture Center,Sulaymaniyah,Agriculture,2018,2097,389148584,Hawkar Omar Ahmad
+CO964,Zakho Aviation Solutions,Zakho,Aviation,2017,54,587956662,Zeynep Bakr Salih
+CO965,Halabja Aviation Solutions,Halabja,Aviation,2004,1652,624910122,Bestun Nawzad Hassan
+CO966,Duhok Fintech Labs,Duhok,Fintech,1999,4730,437051138,Zeynep Karim Salih
+CO967,Zakho Food Beverage Solutions,Zakho,Food & Beverage,2022,722,228844550,Naz Rizgar Hassan
+CO968,Zakho Healthcare Systems,Zakho,Healthcare,1997,4795,94703094,Jalal Saber Mahmoud
+CO969,Duhok Manufacturing Group,Duhok,Manufacturing,2016,1800,465534087,Nawzad Kamaran Othman
+CO970,Halabja Aviation Solutions,Halabja,Aviation,2014,3772,452528804,Xezal Barzan Qadir
+CO971,Halabja Consulting Solutions,Halabja,Consulting,2014,3398,629462649,Chnar Jamal Karimi
+CO972,Sulaymaniyah Healthcare Systems,Sulaymaniyah,Healthcare,2014,2270,329938470,Kamaran Kamaran Hasan
+CO973,Duhok Technology Services,Duhok,Technology,2005,3708,5864489,Pishtiwan Salam Othman
+CO974,Duhok Healthcare Services,Duhok,Healthcare,1996,3445,167786875,Bestun Salam Nasser
+CO975,Zakho Fintech Enterprises,Zakho,Fintech,2007,2259,159821771,Dara Farid Nasser
+CO976,Sulaymaniyah Real Estate Industries,Sulaymaniyah,Real Estate,1996,4856,515937985,Helin Latif Mustafa
+CO977,Halabja Telecommunications Systems,Halabja,Telecommunications,2006,3655,220045998,Hawkar Rebaz Ali
+CO978,Erbil Construction Industries,Erbil,Construction,2013,4447,254843728,Farhad Hama Hassan
+CO979,Halabja Transport Logistics Systems,Halabja,Transport & Logistics,2000,3902,109578447,Sardar Dara Ali
+CO980,Sulaymaniyah Aviation Solutions,Sulaymaniyah,Aviation,2003,2623,458939781,Helin Rizgar Ahmad
+CO981,Duhok Media Solutions,Duhok,Media,2018,657,70264383,Yara Ihsan Taha
+CO982,Duhok Energy Enterprises,Duhok,Energy,1995,2956,280675993,Kavar Ihsan Hama
+CO983,Halabja Agriculture Labs,Halabja,Agriculture,2009,902,521512065,Alan Raber Hasan
+CO984,Sulaymaniyah Healthcare Group,Sulaymaniyah,Healthcare,2015,4438,143755512,Kamaran Farhad Hasan
+CO985,Duhok Aviation Company,Duhok,Aviation,1992,1443,550994167,Saman Barzan Faris
+CO986,Erbil Logistics Holdings,Erbil,Logistics,1996,4641,553146519,Shilan Nawzad Saeed
+CO987,Duhok Real Estate Center,Duhok,Real Estate,2002,894,325739742,Tara Ihsan Omar
+CO988,Duhok Technology Systems,Duhok,Technology,2003,4257,466594251,Randa Mustafa Nuri
+CO989,Zakho Fintech Services,Zakho,Fintech,2014,689,463864407,Hawkar Nawzad Hassan
+CO990,Duhok Energy Systems,Duhok,Energy,2004,3728,22301536,Aryan Saeed Othman
+CO991,Sulaymaniyah Hospitality Enterprises,Sulaymaniyah,Hospitality,1995,1060,535890643,Narin Fuad Hassan
+CO992,Zakho Tourism Labs,Zakho,Tourism,2005,659,187916649,Hawkar Rebaz Aziz
+CO993,Halabja Real Estate Group,Halabja,Real Estate,2014,3715,151782082,Azad Nawzad Faris
+CO994,Sulaymaniyah Construction Services,Sulaymaniyah,Construction,1995,4563,462744257,Baran Sherzad Taha
+CO995,Erbil Tourism Solutions,Erbil,Tourism,2014,3655,593656041,Chnar Hama Ahmad
+CO996,Halabja Hospitality Services,Halabja,Hospitality,2021,2137,16326282,Randa Sherzad Rashid
+CO997,Duhok Manufacturing Systems,Duhok,Manufacturing,1997,3731,360568760,Tara Mustafa Hassan
+CO998,Duhok Hospitality Solutions,Duhok,Hospitality,2017,939,317711008,Lana Raber Kadir
+CO999,Erbil Media Center,Erbil,Media,2019,1049,407558027,Aryan Hama Salih
+CO1000,Duhok Fintech Holdings,Duhok,Fintech,1993,4786,316972802,Shilan Saber Rashid

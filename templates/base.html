@@ -1,0 +1,313 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}Redis Database System{% endblock %}</title>
+<meta name="description" content="A Redis-as-primary-database demo: 13 tables, 13,000 rows, set/sorted-set indexes, RediSearch full-text and a natural-language query box, all in a Flask web UI.">
+<meta property="og:title" content="Redis Database System">
+<meta property="og:description" content="Explore a multi-domain dataset stored entirely in Redis: browse tables, run queries, see the commands behind every answer.">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#0F0F0F">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Cpolygon points='50,2 96,26 96,74 50,98 4,74 4,26' fill='%23DC382D'/%3E%3Cpolygon points='50,30 72,42 72,66 50,78 28,66 28,42' fill='%230F0F0F'/%3E%3C/svg%3E">
+<script src="{{ url_for('static', filename='app.js') }}"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --red:     #DC382D;
+    --red-dk:  #A41E11;
+    --cream:   #F2EFD2;
+    --bg:      #0F0F0F;
+    --panel:   #1A1A1A;
+    --panel2:  #222222;
+    --line:    #2C2C2C;
+    --text:    #E8E8E8;
+    --dim:     #A0A0A0;
+    --faint:   #8a8a8a;
+    --green:   #5DD24E;
+    --amber:   #F0B90B;
+    --blue:    #4A9EFF;
+    --purple:  #B968FF;
+    --teal:    #3FC8C0;
+    --orange:  #FF8A4A;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { min-height: 100vh; }
+  body {
+    background: var(--bg); color: var(--text);
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 14px; line-height: 1.55;
+  }
+  body::before {
+    content: ""; position: fixed; inset: 0; pointer-events: none; z-index: 0;
+    background: repeating-linear-gradient(
+      to bottom, transparent 0, transparent 3px,
+      rgba(255,255,255,0.01) 3px, rgba(255,255,255,0.01) 4px);
+  }
+  a { color: var(--red); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+
+  /* ── TOP BAR ── */
+  header {
+    background: var(--panel); border-bottom: 1px solid var(--line);
+    position: sticky; top: 0; z-index: 100;
+  }
+  .hbar {
+    max-width: 1400px; margin: 0 auto; padding: 0 24px;
+    height: 52px; display: flex; align-items: center; gap: 20px;
+  }
+  .brand {
+    display: flex; align-items: center; gap: 10px;
+    font-weight: 700; font-size: 15px; color: var(--text);
+    flex-shrink: 0; text-decoration: none;
+  }
+  .brand:hover { text-decoration: none; }
+  .logo {
+    width: 28px; height: 28px; background: var(--red); flex-shrink: 0;
+    clip-path: polygon(50% 0,100% 25%,100% 75%,50% 100%,0 75%,0 25%);
+    display: grid; place-items: center;
+  }
+  .logo::after {
+    content: ""; width: 12px; height: 12px; background: var(--bg);
+    clip-path: polygon(50% 0,100% 25%,100% 75%,50% 100%,0 75%,0 25%);
+  }
+  .brand-sep {
+    font-family: 'JetBrains Mono', monospace; font-size: 10px;
+    color: var(--faint); letter-spacing: 0.12em; text-transform: uppercase;
+    border-left: 1px solid var(--line); padding-left: 12px; margin-left: 2px;
+  }
+  nav { display: flex; gap: 2px; flex: 1; }
+  nav a {
+    color: var(--dim); padding: 6px 14px; font-size: 13px; font-weight: 500;
+    border-radius: 4px; border: 1px solid transparent;
+  }
+  nav a:hover { color: var(--text); background: var(--panel2); text-decoration: none; }
+  nav a.active {
+    color: var(--cream); background: var(--panel2); border-color: var(--line);
+  }
+  nav a.active::before {
+    content: "> "; color: var(--red);
+    font-family: 'JetBrains Mono', monospace; font-size: 11px;
+  }
+  .conn {
+    display: flex; align-items: center; gap: 6px; flex-shrink: 0;
+    font-family: 'JetBrains Mono', monospace; font-size: 11px; color: var(--dim);
+  }
+  .conn .dot {
+    width: 7px; height: 7px; background: var(--green); border-radius: 50%;
+    box-shadow: 0 0 6px var(--green); animation: blink 2s infinite;
+  }
+  @keyframes blink { 0%,100%{opacity:1} 50%{opacity:.35} }
+  .credit {
+    font-family: 'JetBrains Mono', monospace; font-size: 10px;
+    color: var(--faint); text-transform: uppercase; letter-spacing: .1em;
+    flex-shrink: 0;
+  }
+  .credit b { color: var(--red); }
+
+  /* ── PAGE WRAPPER ── */
+  .page { max-width: 1400px; margin: 0 auto; padding: 28px 24px 80px; position: relative; z-index: 1; }
+
+  /* ── TYPOGRAPHY ── */
+  h1 {
+    font-weight: 700; font-size: clamp(22px,3.5vw,30px);
+    letter-spacing: -.015em; line-height: 1.15; margin-bottom: 6px;
+  }
+  h1 .slash { color: var(--red); }
+  h2 {
+    font-weight: 600; font-size: 12px; text-transform: uppercase;
+    letter-spacing: .1em; color: var(--dim);
+    border-bottom: 1px solid var(--line); padding-bottom: 8px;
+    margin: 28px 0 16px;
+  }
+  h2 .n { color: var(--red); margin-right: 6px; }
+  h3 { font-weight: 600; font-size: 14px; margin-bottom: 6px; }
+  .lede { font-size: 14px; color: var(--dim); max-width: 72ch; line-height: 1.65; margin-bottom: 24px; }
+
+  /* ── PANELS ── */
+  .panel {
+    background: var(--panel); border: 1px solid var(--line);
+    border-radius: 6px; padding: 18px 20px;
+  }
+  .panel.glow { box-shadow: 0 0 0 1px var(--line), inset 0 1px 0 var(--red-dk); }
+  .ph { display: flex; align-items: center; gap: 10px; margin-bottom: 10px; padding-bottom: 10px; border-bottom: 1px solid var(--line); }
+  .ph .badge {
+    background: var(--red); color: #fff; font-family: 'JetBrains Mono', monospace;
+    font-size: 10px; font-weight: 700; padding: 2px 7px; border-radius: 3px; flex-shrink: 0;
+  }
+  .ph h3 { margin: 0; flex: 1; }
+  .phelp { font-size: 12px; color: var(--dim); margin-bottom: 10px; line-height: 1.55; }
+  .phelp code {
+    background: var(--panel2); color: var(--cream);
+    padding: 1px 5px; border-radius: 3px; font-size: 11px;
+    font-family: 'JetBrains Mono', monospace;
+  }
+
+  /* ── GRIDS ── */
+  .grid2 { display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(260px,1fr)); }
+  .grid3 { display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(320px,1fr)); }
+
+  /* ── BUTTONS ── */
+  button, .btn {
+    font-family: 'Inter', sans-serif; font-weight: 500; font-size: 13px;
+    padding: 7px 14px; border: 1px solid var(--red); background: var(--red);
+    color: #fff; cursor: pointer; border-radius: 4px;
+    display: inline-flex; align-items: center; gap: 6px;
+    transition: background .12s, border-color .12s; text-decoration: none;
+  }
+  button:hover, .btn:hover { background: var(--red-dk); border-color: var(--red-dk); text-decoration: none; }
+  .btn-ghost { background: transparent; color: var(--dim); border-color: var(--line); }
+  .btn-ghost:hover { background: var(--panel2); color: var(--text); border-color: var(--dim); }
+  .btn-sm { font-size: 12px; padding: 5px 10px; }
+  .btn-xs { font-size: 11px; padding: 3px 8px; }
+  button[disabled], .btn[disabled] { opacity: .4; cursor: not-allowed; }
+
+  /* ── FORM ── */
+  input[type=text], input[type=number], input[type=search],
+  select, textarea {
+    font-family: 'JetBrains Mono', monospace; font-size: 13px;
+    padding: 7px 11px; border: 1px solid var(--line);
+    background: var(--bg); color: var(--text); border-radius: 4px; width: 100%;
+  }
+  input:focus, select:focus, textarea:focus { outline: none; border-color: var(--red); }
+  label {
+    font-size: 11px; text-transform: uppercase; letter-spacing: .08em;
+    color: var(--faint); display: block; margin-bottom: 4px;
+    font-family: 'JetBrains Mono', monospace;
+  }
+  .field { margin-bottom: 12px; }
+  .frow { display: flex; gap: 10px; flex-wrap: wrap; }
+  .frow > .field { flex: 1; min-width: 120px; }
+
+  /* ── OUTPUT ── */
+  pre {
+    background: #080808; color: var(--cream); padding: 14px 16px;
+    border: 1px solid var(--line); border-radius: 4px;
+    overflow-x: auto; font-family: 'JetBrains Mono', monospace;
+    font-size: 12px; line-height: 1.55; max-height: 400px; margin-top: 10px;
+  }
+  pre:empty { display: none; }
+
+  /* ── DATA TABLE ── */
+  .tbl-wrap { border: 1px solid var(--line); border-radius: 4px; overflow: auto; }
+  table.dt { width: 100%; border-collapse: collapse; font-size: 12.5px; background: var(--panel); }
+  table.dt th, table.dt td { border: 1px solid var(--line); padding: 7px 10px; text-align: left; vertical-align: top; }
+  table.dt th {
+    background: var(--panel2); color: var(--text);
+    text-transform: uppercase; font-size: 10.5px; letter-spacing: .07em;
+    position: sticky; top: 0; cursor: pointer; user-select: none;
+    font-family: 'JetBrains Mono', monospace;
+  }
+  table.dt th:hover { color: var(--cream); }
+  table.dt th.sa::after { content: " ▲"; color: var(--red); }
+  table.dt th.sd::after { content: " ▼"; color: var(--red); }
+  table.dt tbody tr:hover { background: var(--panel2); }
+  table.dt td { color: var(--dim); font-family: 'JetBrains Mono', monospace; font-size: 12px; }
+  table.dt td:first-child { color: var(--cream); font-weight: 500; }
+
+  /* ── PILLS ── */
+  .pill {
+    display: inline-block; padding: 2px 8px; font-size: 10.5px;
+    border: 1px solid var(--line); background: var(--panel2);
+    color: var(--dim); font-family: 'JetBrains Mono', monospace;
+    text-transform: uppercase; letter-spacing: .07em; border-radius: 3px;
+  }
+  .pill-red   { background: var(--red);    color: #fff;   border-color: var(--red);   }
+  .pill-green { background: var(--green);  color: #000;   border-color: var(--green); }
+  .pill-amber { background: var(--amber);  color: #000;   border-color: var(--amber); }
+  .pill-cream { background: var(--cream);  color: #000;   border-color: var(--cream); }
+
+  /* ── FOOTER ── */
+  footer {
+    margin-top: 48px; padding: 16px 24px; border-top: 1px solid var(--line);
+    background: var(--panel);
+    font-family: 'JetBrains Mono', monospace; font-size: 11px; color: var(--faint);
+    display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;
+    max-width: 1400px; margin-left: auto; margin-right: auto;
+  }
+  footer b { color: var(--red); }
+
+  /* ── ERROR BANNER / STATES ── */
+  #err-banner {
+    display: flex; align-items: center; justify-content: space-between; gap: 12px;
+    background: #2a1210; border: 1px solid var(--red-dk); color: #ffb4ad;
+    padding: 10px 14px; border-radius: 4px; margin-bottom: 16px; font-size: 13px;
+  }
+  .muted { color: var(--dim); }
+  .skeleton {
+    background: linear-gradient(90deg, var(--panel2) 25%, #2a2a2a 50%, var(--panel2) 75%);
+    background-size: 200% 100%; animation: shimmer 1.4s infinite; border-radius: 4px;
+  }
+  @keyframes shimmer { 0%{background-position:200% 0} 100%{background-position:-200% 0} }
+  a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible {
+    outline: 2px solid var(--cream); outline-offset: 2px;
+  }
+  .skip { position: absolute; left: -999px; top: 0; background: var(--red); color: #fff; padding: 8px 12px; z-index: 200; }
+  .skip:focus { left: 8px; top: 8px; }
+  .nav-toggle { display: none; padding: 5px 10px; }
+  .conn .dot.down { background: var(--red); box-shadow: 0 0 6px var(--red); animation: none; }
+  .pill-ro { background: var(--amber); color: #000; border-color: var(--amber); }
+  td.num, th.num { text-align: right; }
+
+  /* ── RESPONSIVE ── */
+  @media (max-width: 820px) {
+    .hbar { height: auto; min-height: 52px; flex-wrap: wrap; padding: 8px 16px; gap: 10px; }
+    .nav-toggle { display: inline-flex; margin-left: auto; }
+    nav { display: none; flex-basis: 100%; flex-direction: column; order: 5; }
+    header.nav-open nav { display: flex; }
+    .credit, .brand-sep { display: none; }
+    .page { padding: 20px 16px 60px; }
+    .ask-cols { grid-template-columns: 1fr !important; }
+    .split { flex-direction: column; }
+    .split > .side { width: 100% !important; }
+    .split .side > div { position: static !important; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .conn .dot, .skeleton { animation: none; }
+  }
+
+  /* ── MISC ── */
+  details { background: var(--panel2); border: 1px solid var(--line); padding: 10px 14px; border-radius: 4px; margin: 8px 0; }
+  details summary { cursor: pointer; font-size: 12px; color: var(--dim); font-weight: 500; }
+  details[open] summary { color: var(--text); margin-bottom: 8px; }
+  .mt8  { margin-top: 8px; }
+  .mt16 { margin-top: 16px; }
+  .mt24 { margin-top: 24px; }
+  .gap8 { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+</style>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<header>
+  <div class="hbar">
+    <a class="brand" href="/">
+      <span class="logo"></span>
+      Redis Database System
+      <span class="brand-sep">Redis · Flask</span>
+    </a>
+    <button class="btn btn-ghost nav-toggle" id="nav-toggle" aria-label="Toggle menu" aria-expanded="false">☰ Menu</button>
+    <nav aria-label="Main">
+      <a href="/" class="{{ 'active' if request.path == '/' else '' }}" {% if request.path == '/' %}aria-current="page"{% endif %}>Dashboard</a>
+      <a href="/browse" class="{{ 'active' if request.path == '/browse' else '' }}" {% if request.path == '/browse' %}aria-current="page"{% endif %}>Browse</a>
+      <a href="/tasks" class="{{ 'active' if request.path == '/tasks' else '' }}" {% if request.path == '/tasks' %}aria-current="page"{% endif %}>Tasks</a>
+      <a href="/ask" class="{{ 'active' if request.path == '/ask' else '' }}" {% if request.path == '/ask' %}aria-current="page"{% endif %}>Query</a>
+    </nav>
+    <span class="conn"><span class="dot" title="Redis connected"></span><span class="mono">{{ redis_endpoint }}</span>{% if read_only %} <span class="pill pill-ro">read-only</span>{% endif %}</span>
+    <span class="credit">By: <b>Omar</b> · <b>Aya</b> · <b>Shelan</b></span>
+  </div>
+</header>
+
+<main class="page" id="main">{% block content %}{% endblock %}</main>
+
+<footer>
+  <span>Redis Database System · synthetic demo data · MIT licensed</span>
+  <span><a href="{{ repo_url }}" rel="noopener">GitHub</a> · By: <b>Omar</b>, <b>Aya</b>, <b>Shelan</b></span>
+</footer>
+
+{% block scripts %}{% endblock %}
+</body>
+</html>

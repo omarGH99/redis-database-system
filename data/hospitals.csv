@@ -1,0 +1,1001 @@
+hospital_id,name,city,type,beds,specialities,director
+H001,Rizgary Hospital,Erbil,Public,320,"General, Cardiology, Oncology",Dr. Omar Hasan Aziz
+H002,Erbil Private Hospital,Erbil,Private,180,"General, Orthopaedics, Neurology",Dr. Naz Kadir Salih
+H003,Sulaimani Teaching Hospital,Sulaymaniyah,Teaching,500,"All specialities, Research",Dr. Karwan Rashid Hama
+H004,Hiwa Cancer Hospital,Sulaymaniyah,Specialist,150,"Oncology, Haematology",Dr. Shilan Azad Tahir
+H005,Azadi Hospital,Duhok,Public,280,"General, Paediatrics, Surgery",Dr. Bestun Faris Qadir
+H006,Zakho General Hospital,Zakho,Public,160,"General, Emergency",Dr. Dilan Saeed Nuri
+H007,Halabja Hospital,Halabja,Public,110,"General, Mental Health",Dr. Rozhan Kamaran Said
+H008,Kurdistan Cardiac Centre,Erbil,Specialist,90,"Cardiology, Cardiac Surgery",Dr. Saman Jalal Omar
+H009,Erbil General Hospital 9,Erbil,Teaching,222,"Cardiology, Mental Health, Neurology, Cardiac Surgery",Dr. Rozhan Saeed Said
+H010,Duhok Teaching Hospital 10,Duhok,Private,426,"Mental Health, General, Oncology, Neurology",Dr. Layla Kamaran Qadir
+H011,Duhok Medical Hospital 11,Duhok,Public,577,"Research, Cardiac Surgery, Cardiology",Dr. Bestun Rizgar Mustafa
+H012,Duhok Medical Hospital 12,Duhok,Teaching,155,"General, Emergency, Endocrinology",Dr. Saman Fuad Tahir
+H013,Sulaymaniyah Community Hospital 13,Sulaymaniyah,Specialist,89,"Emergency, Cardiac Surgery, Cardiology, Orthopaedics",Dr. Tara Dara Hama
+H014,Sulaymaniyah Specialist Hospital 14,Sulaymaniyah,Public,570,"Cardiology, Mental Health, Endocrinology",Dr. Dara Jamal Mustafa
+H015,Erbil General Hospital 15,Erbil,Teaching,235,"Orthopaedics, Research, Haematology, Endocrinology",Dr. Kamaran Aryan Saeed
+H016,Erbil Private Hospital 16,Erbil,Specialist,440,"Orthopaedics, Paediatrics",Dr. Bestun Aryan Othman
+H017,Zakho Community Hospital 17,Zakho,Teaching,289,"Endocrinology, Oncology",Dr. Lana Raber Mahmoud
+H018,Erbil Community Hospital 18,Erbil,Private,673,"Cardiology, Nephrology, Mental Health",Dr. Sardar Sherzad Nuri
+H019,Duhok Teaching Hospital 19,Duhok,Teaching,52,"Mental Health, Nephrology, Oncology",Dr. Yara Nawzad Othman
+H020,Sulaymaniyah Community Hospital 20,Sulaymaniyah,Private,357,"Orthopaedics, Neurology, Haematology, Nephrology",Dr. Salih Raber Qadir
+H021,Sulaymaniyah Teaching Hospital 21,Sulaymaniyah,Public,589,"Orthopaedics, Paediatrics, Research",Dr. Yara Nawzad Qadir
+H022,Duhok Private Hospital 22,Duhok,Teaching,344,"Surgery, Haematology",Dr. Dara Dara Nuri
+H023,Halabja Teaching Hospital 23,Halabja,Teaching,401,"Emergency, Oncology, Surgery",Dr. Sardar Rebaz Kadir
+H024,Sulaymaniyah Specialist Hospital 24,Sulaymaniyah,Private,622,"Emergency, Research",Dr. Salih Mustafa Qadir
+H025,Duhok Community Hospital 25,Duhok,Private,632,"Paediatrics, Mental Health, General",Dr. Bestun Mustafa Qadir
+H026,Zakho Specialist Hospital 26,Zakho,Public,531,"Orthopaedics, Research, Emergency",Dr. Zeynep Hama Karimi
+H027,Duhok Medical Hospital 27,Duhok,Private,54,"Endocrinology, Surgery",Dr. Zhyan Saeed Hasan
+H028,Halabja Specialist Hospital 28,Halabja,Specialist,267,"Oncology, Surgery, Endocrinology",Dr. Pishtiwan Dara Qadir
+H029,Zakho Private Hospital 29,Zakho,Specialist,653,"Surgery, Haematology, Endocrinology",Dr. Jalal Sherzad Hasan
+H030,Duhok Medical Hospital 30,Duhok,Public,518,"Haematology, Cardiac Surgery",Dr. Sardar Nawzad Hasan
+H031,Erbil General Hospital 31,Erbil,Public,76,"Emergency, Paediatrics, Cardiology",Dr. Kavar Mustafa Aziz
+H032,Duhok Private Hospital 32,Duhok,Specialist,417,"Cardiology, Research, Haematology",Dr. Alan Nawzad Ali
+H033,Erbil Private Hospital 33,Erbil,Specialist,70,"Cardiology, Surgery, Cardiac Surgery",Dr. Hawkar Jamal Karim
+H034,Duhok Specialist Hospital 34,Duhok,Teaching,262,"Cardiac Surgery, Mental Health, Oncology, Orthopaedics",Dr. Xezal Sherzad Hama
+H035,Zakho Community Hospital 35,Zakho,Public,393,"Research, General, Neurology, Nephrology",Dr. Alan Nawzad Ahmad
+H036,Halabja Teaching Hospital 36,Halabja,Private,320,"Research, Neurology, General",Dr. Dara Mustafa Said
+H037,Zakho General Hospital 37,Zakho,Private,389,"Nephrology, Cardiac Surgery, Surgery",Dr. Chnar Jalal Salih
+H038,Erbil Teaching Hospital 38,Erbil,Teaching,552,"General, Mental Health, Orthopaedics",Dr. Bestun Karim Saeed
+H039,Zakho Specialist Hospital 39,Zakho,Private,579,"Endocrinology, Cardiology, Mental Health, Haematology",Dr. Rozhan Aryan Nuri
+H040,Zakho Community Hospital 40,Zakho,Private,380,"Mental Health, Haematology",Dr. Fuad Barzan Nuri
+H041,Erbil Private Hospital 41,Erbil,Public,194,"General, Endocrinology",Dr. Chnar Raber Hasan
+H042,Zakho Community Hospital 42,Zakho,Private,51,"Cardiology, Endocrinology, Emergency",Dr. Rozhan Farhad Aziz
+H043,Duhok Teaching Hospital 43,Duhok,Specialist,536,"Paediatrics, Nephrology, Research, Surgery",Dr. Dilan Salam Mahmoud
+H044,Duhok Medical Hospital 44,Duhok,Specialist,270,"General, Orthopaedics",Dr. Narin Dara Othman
+H045,Duhok Teaching Hospital 45,Duhok,Specialist,300,"Emergency, Neurology, Haematology, Surgery",Dr. Lana Jalal Said
+H046,Erbil Private Hospital 46,Erbil,Teaching,500,"Orthopaedics, Nephrology",Dr. Alan Omar Karim
+H047,Erbil Medical Hospital 47,Erbil,Specialist,358,"Nephrology, Cardiology",Dr. Pishtiwan Barzan Faris
+H048,Zakho Medical Hospital 48,Zakho,Private,447,"Mental Health, Haematology",Dr. Mazin Jamal Faris
+H049,Halabja Specialist Hospital 49,Halabja,Specialist,557,"General, Surgery, Emergency, Endocrinology",Dr. Narin Mustafa Karim
+H050,Duhok Community Hospital 50,Duhok,Private,342,"Mental Health, Neurology, Nephrology",Dr. Fuad Kamaran Ali
+H051,Sulaymaniyah Community Hospital 51,Sulaymaniyah,Specialist,309,"Nephrology, Orthopaedics, Paediatrics",Dr. Sardar Saeed Nuri
+H052,Zakho Medical Hospital 52,Zakho,Teaching,75,"Haematology, Surgery, Paediatrics",Dr. Narin Farid Hassan
+H053,Zakho Medical Hospital 53,Zakho,Specialist,409,"Research, Cardiology, Neurology",Dr. Helin Dara Mustafa
+H054,Erbil Specialist Hospital 54,Erbil,Private,110,"Endocrinology, Orthopaedics, Mental Health",Dr. Rami Aryan Karimi
+H055,Erbil Private Hospital 55,Erbil,Specialist,431,"General, Emergency, Neurology, Nephrology",Dr. Zeynep Barzan Aziz
+H056,Sulaymaniyah Teaching Hospital 56,Sulaymaniyah,Private,587,"Neurology, Cardiac Surgery, Nephrology, Research",Dr. Vian Farhad Othman
+H057,Zakho Specialist Hospital 57,Zakho,Private,183,"Research, Oncology",Dr. Alan Nawzad Karimi
+H058,Erbil General Hospital 58,Erbil,Public,121,"Paediatrics, General, Emergency",Dr. Dilan Karim Nuri
+H059,Duhok Community Hospital 59,Duhok,Specialist,371,"Research, Haematology, Cardiology, Cardiac Surgery",Dr. Shilan Omar Said
+H060,Erbil Private Hospital 60,Erbil,Specialist,333,"Surgery, Orthopaedics, Cardiac Surgery",Dr. Zeynep Nawzad Mustafa
+H061,Duhok Private Hospital 61,Duhok,Public,572,"Paediatrics, Nephrology, Haematology",Dr. Alan Latif Karim
+H062,Erbil Specialist Hospital 62,Erbil,Specialist,442,"Paediatrics, Cardiac Surgery, Emergency, Haematology",Dr. Farhad Farid Ahmad
+H063,Halabja General Hospital 63,Halabja,Specialist,401,"Research, Cardiac Surgery, Oncology, Nephrology",Dr. Azad Aryan Tahir
+H064,Erbil Community Hospital 64,Erbil,Private,287,"Emergency, Cardiology, Neurology, Oncology",Dr. Layla Karim Saeed
+H065,Halabja Private Hospital 65,Halabja,Teaching,67,"Paediatrics, Haematology",Dr. Tara Saber Karim
+H066,Sulaymaniyah Community Hospital 66,Sulaymaniyah,Teaching,106,"Haematology, Oncology, Endocrinology, Cardiology",Dr. Wrya Omar Taha
+H067,Erbil Community Hospital 67,Erbil,Specialist,364,"Haematology, General, Neurology",Dr. Chnar Ihsan Taha
+H068,Halabja Community Hospital 68,Halabja,Teaching,221,"Neurology, Paediatrics",Dr. Narin Rebaz Salih
+H069,Duhok Teaching Hospital 69,Duhok,Teaching,338,"Orthopaedics, Research",Dr. Hawkar Aziz Othman
+H070,Sulaymaniyah Private Hospital 70,Sulaymaniyah,Specialist,281,"Endocrinology, Surgery",Dr. Wrya Omar Said
+H071,Zakho Medical Hospital 71,Zakho,Teaching,147,"Nephrology, Paediatrics, Endocrinology",Dr. Kavar Omar Taha
+H072,Duhok General Hospital 72,Duhok,Teaching,576,"Mental Health, Orthopaedics, General, Oncology",Dr. Xezal Salam Kadir
+H073,Zakho Specialist Hospital 73,Zakho,Teaching,221,"Nephrology, Cardiology, Research, Orthopaedics",Dr. Randa Fuad Said
+H074,Halabja Specialist Hospital 74,Halabja,Public,641,"Emergency, Endocrinology, Nephrology",Dr. Salih Dara Ahmad
+H075,Erbil Teaching Hospital 75,Erbil,Public,435,"Haematology, Research, Endocrinology, Surgery",Dr. Dashni Barzan Qadir
+H076,Sulaymaniyah Teaching Hospital 76,Sulaymaniyah,Teaching,595,"Orthopaedics, Cardiology, Emergency, Nephrology",Dr. Kamaran Omar Said
+H077,Erbil Private Hospital 77,Erbil,Public,314,"Orthopaedics, Surgery",Dr. Yara Salam Kadir
+H078,Sulaymaniyah Private Hospital 78,Sulaymaniyah,Public,672,"Nephrology, Oncology, Neurology, Endocrinology",Dr. Xezal Aryan Faris
+H079,Sulaymaniyah General Hospital 79,Sulaymaniyah,Teaching,208,"Cardiac Surgery, Cardiology, Oncology, Endocrinology",Dr. Aryan Salam Salih
+H080,Erbil General Hospital 80,Erbil,Private,305,"Cardiac Surgery, Haematology, Cardiology",Dr. Shilan Hama Hama
+H081,Duhok Specialist Hospital 81,Duhok,Public,378,"Nephrology, General",Dr. Lana Mohammed Taha
+H082,Erbil Specialist Hospital 82,Erbil,Public,152,"General, Paediatrics, Endocrinology",Dr. Dilan Sherzad Omar
+H083,Duhok Community Hospital 83,Duhok,Specialist,466,"Neurology, Mental Health, Research, Cardiac Surgery",Dr. Bestun Ihsan Salih
+H084,Duhok Specialist Hospital 84,Duhok,Private,661,"Endocrinology, Surgery",Dr. Nawzad Jalal Rashid
+H085,Zakho Community Hospital 85,Zakho,Specialist,364,"Neurology, Research, Oncology, General",Dr. Shilan Sherzad Nasser
+H086,Erbil Medical Hospital 86,Erbil,Specialist,439,"Cardiac Surgery, Nephrology",Dr. Rami Omar Hassan
+H087,Erbil Private Hospital 87,Erbil,Teaching,187,"Surgery, Mental Health, Oncology, Cardiac Surgery",Dr. Randa Jamal Said
+H088,Sulaymaniyah Medical Hospital 88,Sulaymaniyah,Specialist,414,"Oncology, Nephrology, Mental Health, Cardiology",Dr. Zeynep Bakr Hama
+H089,Zakho Community Hospital 89,Zakho,Private,696,"Endocrinology, Haematology, Oncology, General",Dr. Pishtiwan Fuad Hasan
+H090,Erbil Private Hospital 90,Erbil,Private,192,"General, Research",Dr. Wrya Fuad Rashid
+H091,Sulaymaniyah Community Hospital 91,Sulaymaniyah,Private,199,"Paediatrics, General, Cardiac Surgery, Orthopaedics",Dr. Sardar Mohammed Hama
+H092,Zakho Specialist Hospital 92,Zakho,Teaching,245,"Research, Emergency, Paediatrics, Oncology",Dr. Farhad Rebaz Nasser
+H093,Sulaymaniyah Community Hospital 93,Sulaymaniyah,Private,95,"Cardiology, Neurology, Research",Dr. Vian Rizgar Aziz
+H094,Erbil Private Hospital 94,Erbil,Specialist,66,"Mental Health, Surgery",Dr. Yara Mohammed Salih
+H095,Halabja General Hospital 95,Halabja,Teaching,63,"Endocrinology, Oncology",Dr. Alan Mustafa Tahir
+H096,Duhok Medical Hospital 96,Duhok,Teaching,92,"Paediatrics, Endocrinology, Haematology",Dr. Nawzad Aziz Kadir
+H097,Erbil Private Hospital 97,Erbil,Specialist,451,"Cardiac Surgery, Emergency, Surgery, Research",Dr. Narin Salam Karimi
+H098,Erbil Medical Hospital 98,Erbil,Private,275,"Mental Health, Research, Haematology",Dr. Fuad Raber Karim
+H099,Halabja Community Hospital 99,Halabja,Specialist,678,"Paediatrics, Cardiac Surgery, Haematology, Research",Dr. Rami Ihsan Mustafa
+H100,Sulaymaniyah Medical Hospital 100,Sulaymaniyah,Private,655,"General, Haematology, Mental Health, Oncology",Dr. Sardar Omar Nasser
+H101,Sulaymaniyah Community Hospital 101,Sulaymaniyah,Teaching,507,"General, Neurology, Paediatrics",Dr. Shilan Saeed Hasan
+H102,Halabja General Hospital 102,Halabja,Private,387,"Surgery, General",Dr. Randa Saeed Kadir
+H103,Halabja Community Hospital 103,Halabja,Private,633,"Cardiac Surgery, Orthopaedics, Surgery",Dr. Rozhan Dara Mustafa
+H104,Halabja Private Hospital 104,Halabja,Public,420,"Neurology, Paediatrics",Dr. Lana Dara Faris
+H105,Sulaymaniyah Community Hospital 105,Sulaymaniyah,Public,468,"Emergency, Research",Dr. Aryan Salam Hama
+H106,Erbil Community Hospital 106,Erbil,Specialist,555,"Cardiac Surgery, Orthopaedics, Oncology",Dr. Layla Mustafa Said
+H107,Duhok Community Hospital 107,Duhok,Teaching,439,"Haematology, Mental Health, Surgery, Nephrology",Dr. Avan Aryan Saeed
+H108,Duhok Private Hospital 108,Duhok,Private,599,"Surgery, Mental Health, Oncology, Cardiac Surgery",Dr. Layla Saeed Nasser
+H109,Halabja Teaching Hospital 109,Halabja,Private,92,"Orthopaedics, Research",Dr. Bestun Latif Aziz
+H110,Duhok Medical Hospital 110,Duhok,Specialist,469,"Cardiac Surgery, Neurology, Mental Health, Haematology",Dr. Rebaz Latif Hassan
+H111,Halabja Medical Hospital 111,Halabja,Private,541,"Research, Endocrinology, Surgery",Dr. Pishtiwan Karim Kadir
+H112,Halabja Specialist Hospital 112,Halabja,Private,415,"Paediatrics, Research, Oncology, Cardiology",Dr. Helin Omar Karim
+H113,Duhok Specialist Hospital 113,Duhok,Private,565,"Endocrinology, Cardiac Surgery, Research, Emergency",Dr. Rami Fuad Kadir
+H114,Halabja Private Hospital 114,Halabja,Public,348,"Neurology, Cardiology, Mental Health",Dr. Salih Jamal Othman
+H115,Sulaymaniyah Medical Hospital 115,Sulaymaniyah,Public,681,"Research, Endocrinology, Cardiology",Dr. Rami Fuad Omar
+H116,Duhok Specialist Hospital 116,Duhok,Specialist,414,"Neurology, Emergency",Dr. Tara Omar Tahir
+H117,Zakho Specialist Hospital 117,Zakho,Specialist,592,"Emergency, Haematology",Dr. Azad Nawzad Nuri
+H118,Erbil General Hospital 118,Erbil,Private,112,"Orthopaedics, Research, Cardiac Surgery, Surgery",Dr. Randa Jamal Taha
+H119,Erbil General Hospital 119,Erbil,Private,226,"Research, Emergency, Paediatrics, Mental Health",Dr. Pishtiwan Farid Rashid
+H120,Halabja Specialist Hospital 120,Halabja,Private,541,"Endocrinology, Cardiac Surgery, Orthopaedics, Neurology",Dr. Yara Nawzad Said
+H121,Erbil Community Hospital 121,Erbil,Public,134,"Surgery, Endocrinology, Neurology, Haematology",Dr. Fuad Mohammed Kadir
+H122,Erbil Teaching Hospital 122,Erbil,Public,123,"Neurology, Surgery",Dr. Vian Ihsan Faris
+H123,Sulaymaniyah Specialist Hospital 123,Sulaymaniyah,Public,404,"Haematology, Nephrology, Cardiac Surgery, Paediatrics",Dr. Tara Saber Kadir
+H124,Zakho General Hospital 124,Zakho,Specialist,91,"Orthopaedics, Emergency, Oncology",Dr. Rami Nawzad Karim
+H125,Duhok Private Hospital 125,Duhok,Specialist,189,"Mental Health, Cardiac Surgery, Oncology",Dr. Dilan Farhad Ali
+H126,Sulaymaniyah Medical Hospital 126,Sulaymaniyah,Public,159,"Nephrology, Endocrinology, Neurology, Emergency",Dr. Azad Kamaran Rashid
+H127,Halabja Specialist Hospital 127,Halabja,Private,563,"Paediatrics, Cardiac Surgery, Mental Health",Dr. Xezal Karim Karimi
+H128,Sulaymaniyah General Hospital 128,Sulaymaniyah,Private,620,"Research, Cardiac Surgery, Mental Health",Dr. Mazin Aziz Othman
+H129,Zakho Medical Hospital 129,Zakho,Private,141,"Nephrology, Research, Surgery",Dr. Baran Jamal Saeed
+H130,Zakho Specialist Hospital 130,Zakho,Specialist,539,"Emergency, Research",Dr. Fuad Saber Salih
+H131,Zakho General Hospital 131,Zakho,Specialist,401,"Surgery, Emergency, General",Dr. Shilan Rizgar Hasan
+H132,Halabja General Hospital 132,Halabja,Teaching,429,"Surgery, Cardiology, Paediatrics, Cardiac Surgery",Dr. Karwan Farid Hasan
+H133,Duhok Specialist Hospital 133,Duhok,Private,397,"Endocrinology, Neurology",Dr. Kavar Rizgar Nasser
+H134,Zakho Specialist Hospital 134,Zakho,Private,579,"Surgery, Oncology, Nephrology, Mental Health",Dr. Vian Rizgar Hasan
+H135,Zakho Specialist Hospital 135,Zakho,Specialist,376,"Paediatrics, Haematology, Research",Dr. Nawzad Mohammed Karim
+H136,Erbil Specialist Hospital 136,Erbil,Teaching,265,"Neurology, Cardiac Surgery, Emergency",Dr. Saman Ihsan Omar
+H137,Halabja Medical Hospital 137,Halabja,Private,194,"Paediatrics, Cardiology, Research, Haematology",Dr. Layla Aryan Kadir
+H138,Halabja General Hospital 138,Halabja,Teaching,165,"Haematology, Cardiac Surgery, Orthopaedics",Dr. Wrya Salam Tahir
+H139,Halabja Medical Hospital 139,Halabja,Public,162,"Cardiology, General, Mental Health",Dr. Randa Hama Hama
+H140,Duhok Medical Hospital 140,Duhok,Teaching,296,"Nephrology, Orthopaedics, Neurology",Dr. Karwan Rizgar Kadir
+H141,Halabja Medical Hospital 141,Halabja,Teaching,529,"Oncology, Research",Dr. Fuad Hama Mahmoud
+H142,Duhok General Hospital 142,Duhok,Specialist,366,"Research, Neurology",Dr. Hawkar Jamal Said
+H143,Duhok Private Hospital 143,Duhok,Teaching,205,"Paediatrics, Orthopaedics, Emergency",Dr. Mazin Farid Said
+H144,Duhok Specialist Hospital 144,Duhok,Teaching,547,"Surgery, General, Mental Health",Dr. Azad Dara Karim
+H145,Duhok Community Hospital 145,Duhok,Specialist,95,"Mental Health, Haematology",Dr. Avan Mustafa Aziz
+H146,Duhok Private Hospital 146,Duhok,Private,294,"Cardiology, Endocrinology, Orthopaedics, Haematology",Dr. Kavar Karim Hama
+H147,Duhok Medical Hospital 147,Duhok,Specialist,154,"Neurology, General",Dr. Narin Jamal Hasan
+H148,Zakho Private Hospital 148,Zakho,Specialist,301,"Cardiology, Neurology, Cardiac Surgery, Paediatrics",Dr. Rozhan Jalal Said
+H149,Duhok Private Hospital 149,Duhok,Private,561,"Emergency, Research, General",Dr. Rozhan Barzan Ahmad
+H150,Zakho General Hospital 150,Zakho,Private,673,"Paediatrics, General",Dr. Yara Jalal Hassan
+H151,Erbil Medical Hospital 151,Erbil,Public,157,"Emergency, Mental Health, General",Dr. Chnar Karim Karimi
+H152,Zakho Medical Hospital 152,Zakho,Public,550,"Endocrinology, Mental Health, Neurology, Emergency",Dr. Jalal Nawzad Ahmad
+H153,Halabja Teaching Hospital 153,Halabja,Specialist,209,"Research, Nephrology, Mental Health, Cardiology",Dr. Randa Karim Tahir
+H154,Halabja Teaching Hospital 154,Halabja,Specialist,461,"Surgery, Endocrinology, Emergency, Haematology",Dr. Mazin Barzan Taha
+H155,Zakho Medical Hospital 155,Zakho,Teaching,589,"Research, Mental Health",Dr. Azad Nawzad Karimi
+H156,Zakho General Hospital 156,Zakho,Private,326,"Oncology, Nephrology, Surgery",Dr. Shilan Salam Nuri
+H157,Duhok General Hospital 157,Duhok,Public,328,"Emergency, General",Dr. Helin Mohammed Qadir
+H158,Zakho Specialist Hospital 158,Zakho,Teaching,679,"Paediatrics, Mental Health",Dr. Lana Nawzad Mahmoud
+H159,Sulaymaniyah Specialist Hospital 159,Sulaymaniyah,Specialist,502,"Cardiac Surgery, Endocrinology, Nephrology",Dr. Karwan Kamaran Kadir
+H160,Halabja General Hospital 160,Halabja,Public,102,"Cardiac Surgery, Endocrinology",Dr. Dashni Rizgar Nuri
+H161,Duhok Private Hospital 161,Duhok,Private,449,"Nephrology, Research, Surgery",Dr. Sardar Latif Saeed
+H162,Duhok Teaching Hospital 162,Duhok,Teaching,119,"Haematology, Orthopaedics, Cardiac Surgery, Paediatrics",Dr. Avan Latif Aziz
+H163,Zakho Medical Hospital 163,Zakho,Private,250,"Cardiology, Nephrology, Oncology, Mental Health",Dr. Baran Omar Kadir
+H164,Sulaymaniyah Specialist Hospital 164,Sulaymaniyah,Public,160,"Endocrinology, Haematology",Dr. Nawzad Fuad Hama
+H165,Halabja Community Hospital 165,Halabja,Teaching,453,"Nephrology, Research",Dr. Tara Rebaz Kadir
+H166,Duhok Medical Hospital 166,Duhok,Teaching,374,"Cardiac Surgery, Orthopaedics, Oncology",Dr. Pishtiwan Dara Mustafa
+H167,Erbil Community Hospital 167,Erbil,Teaching,137,"Endocrinology, Nephrology",Dr. Kavar Jamal Faris
+H168,Sulaymaniyah Community Hospital 168,Sulaymaniyah,Private,109,"Mental Health, Research",Dr. Kavar Raber Hama
+H169,Halabja General Hospital 169,Halabja,Teaching,152,"Emergency, Orthopaedics, Paediatrics, Haematology",Dr. Jalal Saeed Kadir
+H170,Zakho General Hospital 170,Zakho,Private,78,"Haematology, Mental Health, Oncology",Dr. Karwan Saber Othman
+H171,Halabja Teaching Hospital 171,Halabja,Teaching,111,"Orthopaedics, Research",Dr. Hawkar Jalal Saeed
+H172,Zakho Teaching Hospital 172,Zakho,Public,570,"Orthopaedics, Haematology, General, Nephrology",Dr. Aryan Saeed Mahmoud
+H173,Duhok Medical Hospital 173,Duhok,Public,481,"General, Cardiac Surgery, Emergency",Dr. Aryan Nawzad Nasser
+H174,Halabja Teaching Hospital 174,Halabja,Teaching,52,"Haematology, Oncology, Cardiac Surgery",Dr. Aryan Nawzad Hama
+H175,Zakho Private Hospital 175,Zakho,Private,146,"Mental Health, Haematology",Dr. Rebaz Farid Karimi
+H176,Duhok Community Hospital 176,Duhok,Public,356,"Nephrology, Surgery, Haematology, Endocrinology",Dr. Hawkar Latif Mahmoud
+H177,Halabja Teaching Hospital 177,Halabja,Private,446,"Orthopaedics, Mental Health",Dr. Saman Farhad Ali
+H178,Zakho Specialist Hospital 178,Zakho,Public,460,"Haematology, Paediatrics, Neurology, Cardiology",Dr. Zhyan Hama Ahmad
+H179,Sulaymaniyah Community Hospital 179,Sulaymaniyah,Public,628,"General, Haematology, Neurology, Emergency",Dr. Rebaz Farhad Hassan
+H180,Sulaymaniyah Specialist Hospital 180,Sulaymaniyah,Public,660,"Research, Mental Health",Dr. Chnar Rizgar Karimi
+H181,Erbil Community Hospital 181,Erbil,Public,242,"Cardiac Surgery, Research",Dr. Zeynep Raber Rashid
+H182,Halabja Medical Hospital 182,Halabja,Private,170,"General, Paediatrics, Neurology",Dr. Vian Ihsan Mustafa
+H183,Halabja Teaching Hospital 183,Halabja,Private,461,"Haematology, Cardiac Surgery, Oncology, Research",Dr. Layla Farid Saeed
+H184,Erbil Medical Hospital 184,Erbil,Specialist,425,"Cardiac Surgery, Endocrinology, General, Surgery",Dr. Pishtiwan Latif Hassan
+H185,Sulaymaniyah Community Hospital 185,Sulaymaniyah,Teaching,608,"Orthopaedics, Endocrinology",Dr. Lana Saeed Aziz
+H186,Duhok Teaching Hospital 186,Duhok,Public,468,"Nephrology, Emergency, Mental Health, Cardiology",Dr. Xezal Rebaz Nuri
+H187,Duhok General Hospital 187,Duhok,Specialist,637,"Neurology, Research, Nephrology",Dr. Kavar Saeed Ahmad
+H188,Duhok General Hospital 188,Duhok,Public,361,"Oncology, Cardiac Surgery",Dr. Dilan Mustafa Mustafa
+H189,Sulaymaniyah Community Hospital 189,Sulaymaniyah,Teaching,426,"Orthopaedics, Cardiology",Dr. Fuad Farhad Hasan
+H190,Zakho Community Hospital 190,Zakho,Specialist,152,"General, Orthopaedics, Research, Emergency",Dr. Rebaz Fuad Mustafa
+H191,Zakho Private Hospital 191,Zakho,Teaching,470,"Orthopaedics, General",Dr. Fuad Rebaz Karimi
+H192,Halabja Specialist Hospital 192,Halabja,Specialist,54,"Oncology, Neurology",Dr. Vian Omar Mahmoud
+H193,Duhok Community Hospital 193,Duhok,Teaching,263,"Endocrinology, Mental Health",Dr. Mazin Rebaz Mahmoud
+H194,Halabja Specialist Hospital 194,Halabja,Specialist,463,"Endocrinology, Surgery",Dr. Dashni Rebaz Othman
+H195,Zakho General Hospital 195,Zakho,Private,367,"Haematology, Neurology",Dr. Tara Farhad Ahmad
+H196,Halabja Private Hospital 196,Halabja,Private,131,"Mental Health, Nephrology, Endocrinology",Dr. Aryan Saeed Nuri
+H197,Erbil Teaching Hospital 197,Erbil,Specialist,512,"Oncology, Neurology",Dr. Vian Saeed Karim
+H198,Duhok Specialist Hospital 198,Duhok,Teaching,605,"Endocrinology, General",Dr. Pishtiwan Raber Karimi
+H199,Halabja Specialist Hospital 199,Halabja,Public,604,"Nephrology, Paediatrics, Cardiac Surgery, Orthopaedics",Dr. Shilan Barzan Mahmoud
+H200,Erbil Specialist Hospital 200,Erbil,Specialist,658,"Oncology, Paediatrics, General",Dr. Nawzad Barzan Hasan
+H201,Duhok Medical Hospital 201,Duhok,Public,102,"Nephrology, Cardiology, Endocrinology",Dr. Aryan Aryan Karim
+H202,Zakho Specialist Hospital 202,Zakho,Teaching,478,"Research, Neurology, Mental Health",Dr. Vian Rebaz Rashid
+H203,Halabja Community Hospital 203,Halabja,Private,353,"Oncology, Nephrology, Haematology",Dr. Fuad Hama Kadir
+H204,Erbil Teaching Hospital 204,Erbil,Specialist,591,"General, Emergency, Surgery, Neurology",Dr. Wrya Karim Omar
+H205,Erbil Medical Hospital 205,Erbil,Private,467,"Cardiac Surgery, Emergency, Nephrology",Dr. Karwan Salam Aziz
+H206,Sulaymaniyah Medical Hospital 206,Sulaymaniyah,Specialist,517,"Paediatrics, General, Emergency, Nephrology",Dr. Chnar Sherzad Tahir
+H207,Zakho General Hospital 207,Zakho,Private,435,"Orthopaedics, Emergency, Endocrinology, Haematology",Dr. Lana Fuad Faris
+H208,Halabja Teaching Hospital 208,Halabja,Public,106,"Endocrinology, Nephrology, Paediatrics, Cardiology",Dr. Chnar Saeed Nuri
+H209,Duhok General Hospital 209,Duhok,Specialist,226,"Surgery, Emergency",Dr. Dara Rizgar Karimi
+H210,Zakho Community Hospital 210,Zakho,Private,247,"Oncology, Neurology, Orthopaedics, Nephrology",Dr. Mazin Mohammed Rashid
+H211,Sulaymaniyah Community Hospital 211,Sulaymaniyah,Public,460,"Orthopaedics, Neurology, Endocrinology, Haematology",Dr. Sardar Jamal Hasan
+H212,Duhok Private Hospital 212,Duhok,Specialist,676,"Mental Health, General",Dr. Wrya Farhad Rashid
+H213,Sulaymaniyah Specialist Hospital 213,Sulaymaniyah,Private,663,"Surgery, Haematology, Research",Dr. Saman Omar Rashid
+H214,Halabja Specialist Hospital 214,Halabja,Public,83,"Paediatrics, Cardiac Surgery",Dr. Yara Saber Kadir
+H215,Halabja Community Hospital 215,Halabja,Teaching,301,"Neurology, Surgery, Paediatrics",Dr. Hawkar Jalal Hasan
+H216,Halabja General Hospital 216,Halabja,Teaching,196,"Oncology, Research, Endocrinology",Dr. Salih Mustafa Hassan
+H217,Duhok Teaching Hospital 217,Duhok,Private,423,"Haematology, Endocrinology, Neurology",Dr. Vian Mustafa Hassan
+H218,Zakho Community Hospital 218,Zakho,Specialist,607,"Surgery, Nephrology, Mental Health",Dr. Zeynep Aziz Othman
+H219,Sulaymaniyah General Hospital 219,Sulaymaniyah,Private,222,"Cardiac Surgery, Emergency",Dr. Randa Ihsan Mustafa
+H220,Zakho General Hospital 220,Zakho,Teaching,623,"Emergency, Cardiac Surgery",Dr. Zeynep Nawzad Taha
+H221,Halabja Community Hospital 221,Halabja,Specialist,213,"Oncology, Surgery, Paediatrics, Emergency",Dr. Salih Fuad Taha
+H222,Erbil Specialist Hospital 222,Erbil,Teaching,468,"Endocrinology, Neurology",Dr. Dara Aryan Nasser
+H223,Zakho Private Hospital 223,Zakho,Specialist,58,"Haematology, Neurology, Endocrinology, Cardiology",Dr. Mazin Salam Saeed
+H224,Halabja Community Hospital 224,Halabja,Teaching,130,"General, Paediatrics, Nephrology, Cardiac Surgery",Dr. Zhyan Bakr Aziz
+H225,Zakho Specialist Hospital 225,Zakho,Public,200,"Mental Health, Cardiology, Oncology",Dr. Baran Karim Ahmad
+H226,Erbil General Hospital 226,Erbil,Teaching,118,"Paediatrics, Research, Neurology, Endocrinology",Dr. Zeynep Saber Aziz
+H227,Zakho Community Hospital 227,Zakho,Public,106,"Mental Health, Cardiac Surgery",Dr. Pishtiwan Jamal Omar
+H228,Sulaymaniyah Medical Hospital 228,Sulaymaniyah,Public,414,"Mental Health, Cardiac Surgery, General",Dr. Baran Jamal Othman
+H229,Halabja Medical Hospital 229,Halabja,Private,457,"Neurology, Oncology, General",Dr. Dilan Fuad Said
+H230,Duhok Specialist Hospital 230,Duhok,Public,636,"Surgery, Endocrinology, Orthopaedics, Cardiac Surgery",Dr. Xezal Latif Karim
+H231,Sulaymaniyah Teaching Hospital 231,Sulaymaniyah,Public,486,"Surgery, Orthopaedics, Haematology, Nephrology",Dr. Dilan Mustafa Mustafa
+H232,Duhok Specialist Hospital 232,Duhok,Private,460,"Emergency, Oncology, Orthopaedics",Dr. Rebaz Omar Kadir
+H233,Halabja Specialist Hospital 233,Halabja,Specialist,57,"Cardiac Surgery, Cardiology, Emergency, Mental Health",Dr. Hawkar Barzan Karimi
+H234,Erbil Community Hospital 234,Erbil,Private,78,"Paediatrics, Emergency, Nephrology",Dr. Rami Farid Tahir
+H235,Erbil Community Hospital 235,Erbil,Private,612,"General, Cardiology",Dr. Wrya Farid Nuri
+H236,Sulaymaniyah Private Hospital 236,Sulaymaniyah,Public,325,"Emergency, Paediatrics",Dr. Kamaran Farhad Taha
+H237,Zakho Community Hospital 237,Zakho,Public,401,"Surgery, Oncology, Emergency",Dr. Jalal Farhad Tahir
+H238,Duhok General Hospital 238,Duhok,Specialist,135,"Haematology, Orthopaedics",Dr. Rozhan Sherzad Saeed
+H239,Erbil Medical Hospital 239,Erbil,Public,367,"Nephrology, Paediatrics, Neurology",Dr. Dara Dara Said
+H240,Zakho Teaching Hospital 240,Zakho,Teaching,665,"Haematology, Oncology, Nephrology, Endocrinology",Dr. Shilan Latif Said
+H241,Sulaymaniyah Private Hospital 241,Sulaymaniyah,Specialist,510,"Oncology, Neurology",Dr. Mazin Saeed Hama
+H242,Zakho Private Hospital 242,Zakho,Teaching,245,"Paediatrics, Oncology, Neurology",Dr. Saman Salam Hama
+H243,Duhok Specialist Hospital 243,Duhok,Specialist,420,"Paediatrics, Surgery, Nephrology, Oncology",Dr. Aryan Jalal Ali
+H244,Zakho Private Hospital 244,Zakho,Public,210,"Orthopaedics, Surgery, Mental Health",Dr. Rami Aryan Karimi
+H245,Sulaymaniyah Specialist Hospital 245,Sulaymaniyah,Private,350,"Mental Health, General, Nephrology, Neurology",Dr. Aryan Aryan Omar
+H246,Erbil Private Hospital 246,Erbil,Teaching,59,"Cardiac Surgery, General",Dr. Azad Omar Omar
+H247,Duhok Medical Hospital 247,Duhok,Private,344,"Paediatrics, Haematology",Dr. Baran Jamal Mahmoud
+H248,Sulaymaniyah Teaching Hospital 248,Sulaymaniyah,Public,276,"Neurology, Emergency, Oncology",Dr. Alan Mustafa Qadir
+H249,Sulaymaniyah General Hospital 249,Sulaymaniyah,Public,152,"Endocrinology, Cardiology, Cardiac Surgery, Neurology",Dr. Vian Farid Faris
+H250,Sulaymaniyah General Hospital 250,Sulaymaniyah,Private,455,"Cardiology, Endocrinology, Paediatrics, Oncology",Dr. Saman Omar Kadir
+H251,Zakho Specialist Hospital 251,Zakho,Public,699,"Emergency, Endocrinology, General",Dr. Karwan Latif Kadir
+H252,Sulaymaniyah Community Hospital 252,Sulaymaniyah,Teaching,509,"Orthopaedics, Research",Dr. Saman Bakr Saeed
+H253,Halabja Community Hospital 253,Halabja,Specialist,475,"Orthopaedics, Endocrinology, Mental Health, Research",Dr. Aryan Mustafa Karim
+H254,Erbil Specialist Hospital 254,Erbil,Public,222,"Nephrology, Emergency",Dr. Baran Nawzad Saeed
+H255,Duhok Medical Hospital 255,Duhok,Public,93,"Endocrinology, Orthopaedics, Haematology, Research",Dr. Helin Farid Qadir
+H256,Halabja General Hospital 256,Halabja,Specialist,357,"General, Cardiac Surgery, Mental Health, Nephrology",Dr. Dashni Nawzad Mustafa
+H257,Duhok Specialist Hospital 257,Duhok,Specialist,305,"Paediatrics, Surgery",Dr. Tara Hama Kadir
+H258,Erbil Private Hospital 258,Erbil,Public,460,"Oncology, Mental Health, Orthopaedics",Dr. Rami Fuad Qadir
+H259,Sulaymaniyah Private Hospital 259,Sulaymaniyah,Specialist,422,"Cardiac Surgery, General, Nephrology, Haematology",Dr. Pishtiwan Aryan Nuri
+H260,Halabja Teaching Hospital 260,Halabja,Specialist,651,"Orthopaedics, Mental Health, Emergency",Dr. Sardar Saber Ali
+H261,Sulaymaniyah Private Hospital 261,Sulaymaniyah,Private,575,"Emergency, Oncology, Cardiac Surgery, Research",Dr. Aryan Raber Ahmad
+H262,Sulaymaniyah Specialist Hospital 262,Sulaymaniyah,Public,276,"Orthopaedics, Nephrology, Surgery",Dr. Mazin Aziz Karim
+H263,Sulaymaniyah Specialist Hospital 263,Sulaymaniyah,Private,101,"Orthopaedics, Mental Health, Endocrinology",Dr. Dara Ihsan Omar
+H264,Duhok General Hospital 264,Duhok,Specialist,309,"Oncology, Neurology",Dr. Sardar Farhad Hasan
+H265,Halabja Specialist Hospital 265,Halabja,Private,106,"Cardiac Surgery, Paediatrics",Dr. Mazin Ihsan Tahir
+H266,Erbil Specialist Hospital 266,Erbil,Private,304,"Haematology, General",Dr. Naz Hama Nasser
+H267,Erbil Medical Hospital 267,Erbil,Specialist,105,"Cardiology, Research, Endocrinology, Cardiac Surgery",Dr. Nawzad Saber Hama
+H268,Erbil Specialist Hospital 268,Erbil,Teaching,399,"Oncology, Mental Health",Dr. Zeynep Dara Mustafa
+H269,Erbil Community Hospital 269,Erbil,Private,378,"Oncology, Research, Endocrinology, Cardiology",Dr. Lana Latif Karimi
+H270,Zakho Community Hospital 270,Zakho,Private,403,"Emergency, Cardiology",Dr. Sardar Barzan Ahmad
+H271,Sulaymaniyah Private Hospital 271,Sulaymaniyah,Specialist,162,"Neurology, Emergency, Nephrology, Cardiology",Dr. Vian Kamaran Karim
+H272,Duhok Specialist Hospital 272,Duhok,Private,227,"Cardiology, Haematology, Endocrinology",Dr. Fuad Farhad Hama
+H273,Sulaymaniyah Specialist Hospital 273,Sulaymaniyah,Public,470,"Orthopaedics, General, Haematology",Dr. Naz Omar Othman
+H274,Halabja Private Hospital 274,Halabja,Teaching,184,"Cardiac Surgery, Haematology, Orthopaedics",Dr. Layla Saeed Hassan
+H275,Zakho Medical Hospital 275,Zakho,Teaching,207,"Research, General",Dr. Dilan Hama Qadir
+H276,Halabja Private Hospital 276,Halabja,Specialist,659,"Surgery, Endocrinology, Research",Dr. Chnar Rebaz Mustafa
+H277,Duhok Teaching Hospital 277,Duhok,Public,657,"Orthopaedics, Cardiac Surgery, Haematology, General",Dr. Zhyan Jalal Karimi
+H278,Erbil Specialist Hospital 278,Erbil,Private,664,"Cardiac Surgery, Cardiology, General",Dr. Avan Fuad Aziz
+H279,Halabja Community Hospital 279,Halabja,Public,337,"Cardiology, Surgery, Emergency, Orthopaedics",Dr. Zeynep Rizgar Nasser
+H280,Zakho Teaching Hospital 280,Zakho,Specialist,598,"Surgery, Cardiology, Haematology, Nephrology",Dr. Wrya Omar Aziz
+H281,Duhok Medical Hospital 281,Duhok,Specialist,392,"General, Research, Mental Health, Nephrology",Dr. Zeynep Saeed Said
+H282,Halabja Teaching Hospital 282,Halabja,Public,62,"Paediatrics, Oncology, Surgery",Dr. Aryan Farid Ahmad
+H283,Zakho Teaching Hospital 283,Zakho,Public,347,"Cardiac Surgery, Mental Health",Dr. Chnar Farid Hama
+H284,Sulaymaniyah Medical Hospital 284,Sulaymaniyah,Teaching,68,"Research, Haematology",Dr. Dashni Latif Nuri
+H285,Erbil Community Hospital 285,Erbil,Specialist,668,"General, Endocrinology",Dr. Chnar Latif Qadir
+H286,Halabja Private Hospital 286,Halabja,Teaching,340,"Research, Cardiology, Mental Health, Neurology",Dr. Azad Raber Taha
+H287,Zakho Medical Hospital 287,Zakho,Specialist,319,"Neurology, Haematology",Dr. Kamaran Mohammed Omar
+H288,Zakho Community Hospital 288,Zakho,Public,624,"Cardiac Surgery, Haematology, Paediatrics, Research",Dr. Vian Saeed Karim
+H289,Erbil General Hospital 289,Erbil,Public,409,"Neurology, Research, Haematology",Dr. Azad Mustafa Tahir
+H290,Zakho Teaching Hospital 290,Zakho,Public,690,"Orthopaedics, Endocrinology, Cardiology",Dr. Chnar Salam Hasan
+H291,Sulaymaniyah General Hospital 291,Sulaymaniyah,Teaching,488,"General, Oncology, Research, Surgery",Dr. Vian Saeed Taha
+H292,Sulaymaniyah Medical Hospital 292,Sulaymaniyah,Private,151,"Paediatrics, Nephrology, Orthopaedics, General",Dr. Yara Fuad Ahmad
+H293,Halabja Medical Hospital 293,Halabja,Private,475,"Emergency, Endocrinology",Dr. Hawkar Barzan Salih
+H294,Halabja Medical Hospital 294,Halabja,Teaching,108,"Oncology, General, Cardiology, Nephrology",Dr. Naz Barzan Salih
+H295,Duhok Specialist Hospital 295,Duhok,Teaching,352,"Mental Health, General",Dr. Nawzad Mohammed Aziz
+H296,Erbil Private Hospital 296,Erbil,Specialist,461,"Emergency, Surgery, Orthopaedics, Nephrology",Dr. Dashni Ihsan Aziz
+H297,Halabja Medical Hospital 297,Halabja,Public,451,"Neurology, Haematology",Dr. Kavar Aziz Taha
+H298,Duhok Teaching Hospital 298,Duhok,Public,80,"Orthopaedics, Endocrinology, Mental Health, General",Dr. Nawzad Omar Salih
+H299,Sulaymaniyah Specialist Hospital 299,Sulaymaniyah,Private,68,"Emergency, Neurology",Dr. Rebaz Kamaran Ahmad
+H300,Duhok General Hospital 300,Duhok,Specialist,371,"Emergency, Nephrology, Mental Health",Dr. Pishtiwan Nawzad Mahmoud
+H301,Sulaymaniyah Community Hospital 301,Sulaymaniyah,Public,584,"Paediatrics, Cardiac Surgery, Orthopaedics, Research",Dr. Azad Mustafa Mahmoud
+H302,Sulaymaniyah Teaching Hospital 302,Sulaymaniyah,Specialist,107,"Oncology, Paediatrics, Research",Dr. Layla Bakr Rashid
+H303,Sulaymaniyah General Hospital 303,Sulaymaniyah,Public,431,"Orthopaedics, Neurology",Dr. Yara Karim Faris
+H304,Zakho General Hospital 304,Zakho,Teaching,581,"Research, Cardiology",Dr. Kamaran Karim Karimi
+H305,Duhok General Hospital 305,Duhok,Public,394,"Nephrology, Mental Health, Oncology, Surgery",Dr. Karwan Nawzad Mahmoud
+H306,Zakho General Hospital 306,Zakho,Private,643,"Surgery, Endocrinology, Cardiology, Oncology",Dr. Naz Fuad Aziz
+H307,Halabja Specialist Hospital 307,Halabja,Public,647,"Paediatrics, Mental Health, Emergency",Dr. Farhad Jamal Taha
+H308,Zakho General Hospital 308,Zakho,Teaching,614,"Oncology, Paediatrics, Haematology",Dr. Rozhan Dara Salih
+H309,Sulaymaniyah General Hospital 309,Sulaymaniyah,Teaching,618,"Oncology, Endocrinology",Dr. Avan Saber Said
+H310,Halabja Medical Hospital 310,Halabja,Private,522,"Cardiac Surgery, Cardiology",Dr. Mazin Rebaz Mustafa
+H311,Duhok Specialist Hospital 311,Duhok,Public,595,"Orthopaedics, Cardiology",Dr. Zhyan Kamaran Rashid
+H312,Zakho Private Hospital 312,Zakho,Teaching,174,"Mental Health, Emergency, Cardiology",Dr. Azad Saeed Nuri
+H313,Halabja Medical Hospital 313,Halabja,Public,320,"Haematology, Cardiology",Dr. Dashni Mustafa Mustafa
+H314,Halabja Community Hospital 314,Halabja,Private,372,"Cardiology, Nephrology, Emergency, Cardiac Surgery",Dr. Yara Rizgar Othman
+H315,Halabja Teaching Hospital 315,Halabja,Private,346,"Cardiac Surgery, Paediatrics, Haematology",Dr. Karwan Mohammed Nuri
+H316,Duhok General Hospital 316,Duhok,Public,163,"Cardiology, Orthopaedics, Nephrology",Dr. Farhad Farhad Nasser
+H317,Duhok General Hospital 317,Duhok,Private,210,"Cardiology, Cardiac Surgery, Endocrinology",Dr. Tara Farhad Nasser
+H318,Zakho Community Hospital 318,Zakho,Public,564,"General, Neurology, Endocrinology, Paediatrics",Dr. Xezal Nawzad Hassan
+H319,Halabja Private Hospital 319,Halabja,Specialist,152,"Endocrinology, General, Haematology",Dr. Rozhan Rizgar Aziz
+H320,Zakho Community Hospital 320,Zakho,Private,157,"Cardiology, General",Dr. Narin Mustafa Tahir
+H321,Zakho Specialist Hospital 321,Zakho,Specialist,385,"Paediatrics, Oncology, Endocrinology",Dr. Aryan Sherzad Kadir
+H322,Erbil Medical Hospital 322,Erbil,Specialist,321,"Neurology, General, Orthopaedics, Cardiac Surgery",Dr. Narin Sherzad Hama
+H323,Halabja Community Hospital 323,Halabja,Private,673,"Paediatrics, General, Emergency, Orthopaedics",Dr. Hawkar Kamaran Nuri
+H324,Zakho Private Hospital 324,Zakho,Specialist,357,"Neurology, Cardiology, Oncology, Mental Health",Dr. Karwan Aziz Mahmoud
+H325,Erbil Teaching Hospital 325,Erbil,Specialist,409,"Haematology, Endocrinology",Dr. Lana Omar Ahmad
+H326,Halabja General Hospital 326,Halabja,Public,87,"Paediatrics, Haematology, Orthopaedics",Dr. Shilan Aziz Said
+H327,Halabja Medical Hospital 327,Halabja,Private,379,"Research, Neurology, Haematology, Cardiology",Dr. Lana Jamal Karimi
+H328,Zakho Specialist Hospital 328,Zakho,Specialist,347,"General, Neurology",Dr. Salih Jamal Faris
+H329,Halabja Specialist Hospital 329,Halabja,Teaching,570,"Haematology, Endocrinology, Mental Health, Cardiac Surgery",Dr. Narin Latif Mustafa
+H330,Zakho General Hospital 330,Zakho,Public,516,"Orthopaedics, Haematology, Cardiology, General",Dr. Dashni Aziz Mustafa
+H331,Zakho Medical Hospital 331,Zakho,Teaching,637,"Mental Health, Paediatrics",Dr. Saman Sherzad Taha
+H332,Sulaymaniyah General Hospital 332,Sulaymaniyah,Public,502,"Surgery, Cardiology, Endocrinology",Dr. Hawkar Aryan Ahmad
+H333,Zakho General Hospital 333,Zakho,Public,224,"Neurology, Emergency",Dr. Shilan Saber Salih
+H334,Duhok General Hospital 334,Duhok,Specialist,336,"Research, Emergency, Haematology",Dr. Lana Ihsan Nuri
+H335,Halabja Specialist Hospital 335,Halabja,Teaching,215,"Emergency, Cardiac Surgery, Haematology, Research",Dr. Lana Aryan Nasser
+H336,Zakho Private Hospital 336,Zakho,Private,418,"Nephrology, Orthopaedics",Dr. Mazin Aziz Karimi
+H337,Duhok Community Hospital 337,Duhok,Specialist,691,"Endocrinology, Emergency, Nephrology, Oncology",Dr. Zeynep Barzan Taha
+H338,Zakho Private Hospital 338,Zakho,Specialist,517,"Cardiac Surgery, Emergency",Dr. Mazin Jalal Faris
+H339,Sulaymaniyah Community Hospital 339,Sulaymaniyah,Private,329,"Endocrinology, Haematology, Cardiac Surgery",Dr. Fuad Fuad Ahmad
+H340,Sulaymaniyah Teaching Hospital 340,Sulaymaniyah,Specialist,387,"Endocrinology, Surgery, Research, Nephrology",Dr. Mazin Sherzad Rashid
+H341,Zakho Private Hospital 341,Zakho,Public,317,"Surgery, Paediatrics, Mental Health",Dr. Shilan Ihsan Kadir
+H342,Halabja Teaching Hospital 342,Halabja,Specialist,500,"Endocrinology, Paediatrics",Dr. Zhyan Nawzad Hassan
+H343,Duhok Specialist Hospital 343,Duhok,Teaching,523,"Mental Health, Cardiology, Paediatrics, Orthopaedics",Dr. Azad Farid Nasser
+H344,Erbil Medical Hospital 344,Erbil,Specialist,651,"Research, General",Dr. Farhad Sherzad Taha
+H345,Duhok Specialist Hospital 345,Duhok,Specialist,65,"Neurology, Haematology, Orthopaedics",Dr. Hawkar Dara Othman
+H346,Duhok Specialist Hospital 346,Duhok,Private,306,"General, Orthopaedics, Emergency",Dr. Naz Fuad Ahmad
+H347,Erbil Private Hospital 347,Erbil,Private,420,"Haematology, Nephrology, Cardiac Surgery, Emergency",Dr. Tara Farid Qadir
+H348,Erbil Specialist Hospital 348,Erbil,Specialist,104,"Emergency, Oncology",Dr. Layla Mohammed Othman
+H349,Erbil General Hospital 349,Erbil,Teaching,484,"Endocrinology, Cardiac Surgery, General, Cardiology",Dr. Karwan Nawzad Mustafa
+H350,Halabja Medical Hospital 350,Halabja,Teaching,688,"Surgery, Neurology",Dr. Fuad Omar Rashid
+H351,Erbil Teaching Hospital 351,Erbil,Private,247,"General, Mental Health",Dr. Salih Dara Othman
+H352,Zakho Community Hospital 352,Zakho,Specialist,539,"General, Endocrinology, Mental Health, Cardiac Surgery",Dr. Naz Salam Othman
+H353,Sulaymaniyah General Hospital 353,Sulaymaniyah,Teaching,591,"Neurology, Mental Health",Dr. Randa Fuad Othman
+H354,Zakho Private Hospital 354,Zakho,Teaching,374,"Mental Health, Haematology",Dr. Alan Omar Qadir
+H355,Sulaymaniyah Teaching Hospital 355,Sulaymaniyah,Private,193,"Endocrinology, Surgery",Dr. Sardar Nawzad Taha
+H356,Erbil Community Hospital 356,Erbil,Specialist,114,"Haematology, Neurology, Cardiology, Paediatrics",Dr. Lana Aziz Rashid
+H357,Sulaymaniyah Medical Hospital 357,Sulaymaniyah,Specialist,672,"Endocrinology, Cardiology, Cardiac Surgery",Dr. Mazin Nawzad Aziz
+H358,Sulaymaniyah Specialist Hospital 358,Sulaymaniyah,Specialist,494,"Emergency, Nephrology, Cardiology, Haematology",Dr. Pishtiwan Aziz Nuri
+H359,Sulaymaniyah Teaching Hospital 359,Sulaymaniyah,Private,233,"Mental Health, Cardiology, Cardiac Surgery, Emergency",Dr. Vian Farid Said
+H360,Sulaymaniyah Private Hospital 360,Sulaymaniyah,Private,439,"Endocrinology, Paediatrics, Cardiology",Dr. Azad Ihsan Faris
+H361,Halabja Specialist Hospital 361,Halabja,Private,240,"Nephrology, Emergency, Endocrinology, Research",Dr. Tara Bakr Qadir
+H362,Zakho Specialist Hospital 362,Zakho,Teaching,304,"Neurology, Mental Health, Surgery",Dr. Bestun Saeed Ahmad
+H363,Halabja Medical Hospital 363,Halabja,Private,276,"Cardiology, Nephrology, Endocrinology, Neurology",Dr. Zhyan Nawzad Kadir
+H364,Erbil Community Hospital 364,Erbil,Specialist,540,"Surgery, General, Research, Nephrology",Dr. Shilan Hama Ali
+H365,Duhok Community Hospital 365,Duhok,Specialist,220,"Mental Health, Endocrinology, Cardiac Surgery, General",Dr. Aryan Latif Karim
+H366,Halabja General Hospital 366,Halabja,Public,205,"Research, Emergency",Dr. Sardar Kamaran Kadir
+H367,Zakho Teaching Hospital 367,Zakho,Private,456,"Oncology, Cardiology, Haematology",Dr. Zeynep Karim Hassan
+H368,Sulaymaniyah Teaching Hospital 368,Sulaymaniyah,Teaching,124,"Research, Surgery",Dr. Jalal Mustafa Hassan
+H369,Sulaymaniyah Community Hospital 369,Sulaymaniyah,Specialist,529,"Research, Mental Health, Emergency",Dr. Lana Karim Faris
+H370,Halabja Teaching Hospital 370,Halabja,Teaching,404,"Nephrology, Research, Paediatrics, Emergency",Dr. Karwan Aryan Hama
+H371,Sulaymaniyah Specialist Hospital 371,Sulaymaniyah,Public,115,"Paediatrics, Neurology, Mental Health, Cardiology",Dr. Aryan Rizgar Taha
+H372,Zakho Medical Hospital 372,Zakho,Specialist,201,"Orthopaedics, Cardiac Surgery",Dr. Wrya Jamal Hama
+H373,Zakho Medical Hospital 373,Zakho,Teaching,618,"Cardiology, Oncology",Dr. Rozhan Karim Saeed
+H374,Sulaymaniyah Teaching Hospital 374,Sulaymaniyah,Public,420,"Endocrinology, General",Dr. Zeynep Ihsan Karimi
+H375,Halabja Private Hospital 375,Halabja,Teaching,622,"Emergency, Oncology",Dr. Naz Latif Faris
+H376,Sulaymaniyah Teaching Hospital 376,Sulaymaniyah,Private,135,"General, Paediatrics",Dr. Baran Farhad Faris
+H377,Sulaymaniyah Private Hospital 377,Sulaymaniyah,Teaching,202,"Research, Endocrinology, Neurology",Dr. Dara Aziz Karim
+H378,Sulaymaniyah General Hospital 378,Sulaymaniyah,Public,613,"Emergency, Paediatrics",Dr. Rozhan Farid Said
+H379,Zakho Specialist Hospital 379,Zakho,Specialist,677,"Cardiology, Haematology, Mental Health, Oncology",Dr. Bestun Saeed Taha
+H380,Zakho Specialist Hospital 380,Zakho,Teaching,411,"Oncology, Emergency",Dr. Vian Omar Othman
+H381,Erbil General Hospital 381,Erbil,Public,683,"Cardiology, General, Surgery",Dr. Saman Kamaran Said
+H382,Duhok Private Hospital 382,Duhok,Private,262,"Oncology, Haematology",Dr. Dilan Aziz Taha
+H383,Zakho General Hospital 383,Zakho,Teaching,89,"Oncology, Nephrology, Orthopaedics",Dr. Avan Karim Hama
+H384,Halabja Teaching Hospital 384,Halabja,Teaching,195,"Cardiac Surgery, Orthopaedics",Dr. Pishtiwan Salam Faris
+H385,Duhok Teaching Hospital 385,Duhok,Public,670,"Cardiology, Haematology, Emergency, Oncology",Dr. Randa Nawzad Ahmad
+H386,Zakho Teaching Hospital 386,Zakho,Specialist,676,"Haematology, Endocrinology",Dr. Yara Raber Karim
+H387,Duhok General Hospital 387,Duhok,Teaching,432,"Orthopaedics, General",Dr. Pishtiwan Saber Mustafa
+H388,Erbil Medical Hospital 388,Erbil,Teaching,644,"Haematology, Nephrology",Dr. Dashni Aziz Hassan
+H389,Halabja Specialist Hospital 389,Halabja,Public,152,"Endocrinology, Cardiac Surgery, Research",Dr. Vian Karim Hama
+H390,Erbil Medical Hospital 390,Erbil,Specialist,224,"Neurology, Oncology, Emergency",Dr. Salih Aziz Hasan
+H391,Sulaymaniyah Specialist Hospital 391,Sulaymaniyah,Public,375,"Cardiology, Research",Dr. Sardar Farhad Qadir
+H392,Zakho Community Hospital 392,Zakho,Public,387,"Cardiac Surgery, Haematology, Cardiology, Orthopaedics",Dr. Baran Kamaran Ali
+H393,Duhok Teaching Hospital 393,Duhok,Public,382,"Orthopaedics, Cardiac Surgery, Oncology, Endocrinology",Dr. Fuad Raber Taha
+H394,Zakho Private Hospital 394,Zakho,Teaching,327,"Mental Health, Neurology, Orthopaedics",Dr. Dilan Kamaran Ahmad
+H395,Duhok Medical Hospital 395,Duhok,Private,660,"Oncology, Research, Cardiac Surgery",Dr. Xezal Mohammed Nasser
+H396,Erbil General Hospital 396,Erbil,Teaching,568,"Endocrinology, Oncology, Research",Dr. Bestun Bakr Faris
+H397,Zakho Private Hospital 397,Zakho,Public,276,"Surgery, Nephrology, Oncology, Haematology",Dr. Shilan Rebaz Kadir
+H398,Halabja Community Hospital 398,Halabja,Teaching,417,"Orthopaedics, General",Dr. Jalal Mustafa Aziz
+H399,Erbil Private Hospital 399,Erbil,Public,366,"Paediatrics, Cardiology, Surgery, Haematology",Dr. Naz Bakr Qadir
+H400,Sulaymaniyah Specialist Hospital 400,Sulaymaniyah,Teaching,660,"Research, Cardiac Surgery, Neurology, Mental Health",Dr. Dara Mohammed Ali
+H401,Duhok Community Hospital 401,Duhok,Specialist,663,"Paediatrics, Research, Nephrology",Dr. Azad Omar Nasser
+H402,Sulaymaniyah Medical Hospital 402,Sulaymaniyah,Teaching,389,"Endocrinology, Surgery, Orthopaedics, General",Dr. Dashni Nawzad Rashid
+H403,Zakho Specialist Hospital 403,Zakho,Public,448,"Endocrinology, Mental Health, Cardiology",Dr. Layla Raber Hasan
+H404,Duhok Community Hospital 404,Duhok,Private,235,"Paediatrics, General, Cardiology, Research",Dr. Randa Saeed Taha
+H405,Sulaymaniyah Medical Hospital 405,Sulaymaniyah,Public,576,"Surgery, Emergency, Haematology, General",Dr. Helin Saber Faris
+H406,Zakho Private Hospital 406,Zakho,Private,57,"Cardiology, Oncology, Mental Health, Surgery",Dr. Rebaz Saber Mahmoud
+H407,Erbil Private Hospital 407,Erbil,Specialist,641,"Cardiac Surgery, Orthopaedics",Dr. Azad Farid Faris
+H408,Erbil Private Hospital 408,Erbil,Private,266,"Cardiac Surgery, Haematology, General",Dr. Salih Rizgar Karim
+H409,Halabja Community Hospital 409,Halabja,Specialist,574,"Research, Oncology, Surgery, Nephrology",Dr. Hawkar Raber Kadir
+H410,Sulaymaniyah Community Hospital 410,Sulaymaniyah,Public,632,"Haematology, Cardiac Surgery, Orthopaedics",Dr. Layla Farhad Hassan
+H411,Zakho Teaching Hospital 411,Zakho,Teaching,333,"Emergency, Neurology, Nephrology",Dr. Tara Rebaz Othman
+H412,Duhok Specialist Hospital 412,Duhok,Specialist,645,"Cardiology, General, Paediatrics",Dr. Baran Karim Omar
+H413,Sulaymaniyah Medical Hospital 413,Sulaymaniyah,Private,354,"Endocrinology, Research, Neurology, Mental Health",Dr. Chnar Barzan Hasan
+H414,Erbil Private Hospital 414,Erbil,Teaching,305,"General, Endocrinology, Cardiac Surgery",Dr. Vian Aryan Hama
+H415,Halabja Teaching Hospital 415,Halabja,Public,523,"Surgery, Research, Mental Health, Cardiac Surgery",Dr. Azad Kamaran Hasan
+H416,Zakho Specialist Hospital 416,Zakho,Private,558,"Nephrology, Research, Paediatrics, Surgery",Dr. Vian Nawzad Othman
+H417,Halabja General Hospital 417,Halabja,Private,363,"Paediatrics, Surgery, Neurology",Dr. Zhyan Fuad Ahmad
+H418,Sulaymaniyah General Hospital 418,Sulaymaniyah,Specialist,526,"Mental Health, Nephrology, Cardiology",Dr. Yara Jalal Othman
+H419,Sulaymaniyah Specialist Hospital 419,Sulaymaniyah,Specialist,570,"General, Mental Health, Endocrinology, Nephrology",Dr. Jalal Salam Mahmoud
+H420,Halabja Teaching Hospital 420,Halabja,Teaching,339,"Orthopaedics, Nephrology",Dr. Layla Ihsan Taha
+H421,Zakho Community Hospital 421,Zakho,Teaching,94,"Emergency, Research, Oncology, Surgery",Dr. Dara Ihsan Mustafa
+H422,Sulaymaniyah Private Hospital 422,Sulaymaniyah,Specialist,293,"Research, Orthopaedics, Oncology",Dr. Tara Kamaran Othman
+H423,Duhok General Hospital 423,Duhok,Teaching,658,"Emergency, Paediatrics, Oncology",Dr. Dilan Salam Rashid
+H424,Sulaymaniyah Teaching Hospital 424,Sulaymaniyah,Teaching,484,"Paediatrics, Nephrology, Cardiology",Dr. Rami Hama Karimi
+H425,Halabja Teaching Hospital 425,Halabja,Specialist,92,"Research, Nephrology, Endocrinology, Cardiac Surgery",Dr. Avan Mohammed Karimi
+H426,Zakho General Hospital 426,Zakho,Specialist,366,"Neurology, Cardiology, Orthopaedics",Dr. Narin Mustafa Tahir
+H427,Halabja Specialist Hospital 427,Halabja,Private,160,"Endocrinology, Haematology, Cardiology",Dr. Farhad Aryan Nuri
+H428,Halabja General Hospital 428,Halabja,Specialist,382,"Oncology, Paediatrics, Mental Health, General",Dr. Sardar Rebaz Mahmoud
+H429,Erbil Teaching Hospital 429,Erbil,Private,697,"Nephrology, Oncology",Dr. Sardar Barzan Mahmoud
+H430,Duhok Specialist Hospital 430,Duhok,Private,54,"Surgery, Cardiac Surgery, Research",Dr. Narin Barzan Tahir
+H431,Duhok Specialist Hospital 431,Duhok,Private,390,"Research, General, Oncology, Haematology",Dr. Bestun Aziz Karim
+H432,Zakho Medical Hospital 432,Zakho,Private,287,"Emergency, Endocrinology, Mental Health, Neurology",Dr. Naz Fuad Omar
+H433,Sulaymaniyah Community Hospital 433,Sulaymaniyah,Specialist,86,"Emergency, General, Neurology, Mental Health",Dr. Sardar Latif Saeed
+H434,Sulaymaniyah Medical Hospital 434,Sulaymaniyah,Specialist,626,"Haematology, Cardiac Surgery, Mental Health, Oncology",Dr. Sardar Bakr Othman
+H435,Sulaymaniyah Teaching Hospital 435,Sulaymaniyah,Teaching,395,"Emergency, Paediatrics",Dr. Sardar Jamal Nasser
+H436,Zakho Community Hospital 436,Zakho,Specialist,74,"Haematology, Mental Health",Dr. Karwan Hama Othman
+H437,Erbil Teaching Hospital 437,Erbil,Private,308,"General, Orthopaedics",Dr. Saman Sherzad Karimi
+H438,Zakho Medical Hospital 438,Zakho,Private,125,"Paediatrics, Oncology, Cardiology, Haematology",Dr. Farhad Farhad Taha
+H439,Sulaymaniyah Private Hospital 439,Sulaymaniyah,Public,660,"Emergency, Cardiac Surgery",Dr. Baran Aryan Mahmoud
+H440,Halabja Teaching Hospital 440,Halabja,Private,75,"General, Research",Dr. Aryan Omar Saeed
+H441,Sulaymaniyah Medical Hospital 441,Sulaymaniyah,Private,198,"Nephrology, General",Dr. Fuad Ihsan Hama
+H442,Zakho Medical Hospital 442,Zakho,Teaching,342,"Neurology, Oncology, Paediatrics, General",Dr. Rami Raber Ali
+H443,Zakho Private Hospital 443,Zakho,Private,113,"Surgery, Paediatrics, Oncology, Nephrology",Dr. Zeynep Salam Rashid
+H444,Sulaymaniyah Private Hospital 444,Sulaymaniyah,Public,221,"Surgery, Cardiac Surgery, Endocrinology, General",Dr. Alan Aryan Said
+H445,Erbil Specialist Hospital 445,Erbil,Teaching,565,"Haematology, Cardiac Surgery, Nephrology",Dr. Nawzad Hama Rashid
+H446,Duhok Medical Hospital 446,Duhok,Public,486,"General, Emergency, Haematology",Dr. Narin Rebaz Rashid
+H447,Duhok Specialist Hospital 447,Duhok,Private,513,"Research, Paediatrics",Dr. Farhad Rebaz Ahmad
+H448,Duhok Medical Hospital 448,Duhok,Public,502,"Surgery, Nephrology, Neurology",Dr. Layla Mustafa Ahmad
+H449,Halabja Specialist Hospital 449,Halabja,Specialist,104,"Research, Paediatrics, Endocrinology",Dr. Bestun Omar Rashid
+H450,Halabja Community Hospital 450,Halabja,Teaching,208,"Emergency, Paediatrics, Oncology, Surgery",Dr. Zeynep Latif Karimi
+H451,Halabja Teaching Hospital 451,Halabja,Public,436,"Endocrinology, Oncology, Haematology, Mental Health",Dr. Narin Jalal Faris
+H452,Erbil General Hospital 452,Erbil,Specialist,84,"Orthopaedics, Paediatrics, Cardiology",Dr. Vian Jamal Ahmad
+H453,Zakho Community Hospital 453,Zakho,Specialist,437,"General, Endocrinology, Orthopaedics, Cardiology",Dr. Saman Fuad Hasan
+H454,Duhok Private Hospital 454,Duhok,Private,176,"Oncology, Paediatrics",Dr. Dara Saeed Kadir
+H455,Sulaymaniyah Community Hospital 455,Sulaymaniyah,Teaching,135,"Research, Orthopaedics, Nephrology, Mental Health",Dr. Zeynep Mustafa Hassan
+H456,Erbil Community Hospital 456,Erbil,Teaching,619,"Cardiology, Emergency, Surgery, Mental Health",Dr. Sardar Latif Faris
+H457,Erbil Private Hospital 457,Erbil,Specialist,547,"Paediatrics, General",Dr. Hawkar Barzan Saeed
+H458,Erbil Medical Hospital 458,Erbil,Public,532,"Mental Health, Cardiology, Cardiac Surgery",Dr. Rozhan Mohammed Salih
+H459,Sulaymaniyah Teaching Hospital 459,Sulaymaniyah,Specialist,661,"Surgery, Emergency, Research",Dr. Yara Rebaz Ahmad
+H460,Sulaymaniyah Private Hospital 460,Sulaymaniyah,Public,385,"Haematology, Cardiology, Mental Health",Dr. Karwan Omar Karimi
+H461,Halabja General Hospital 461,Halabja,Public,158,"Mental Health, Paediatrics",Dr. Rebaz Raber Tahir
+H462,Erbil Private Hospital 462,Erbil,Public,202,"General, Research",Dr. Wrya Rizgar Salih
+H463,Halabja Medical Hospital 463,Halabja,Private,682,"Mental Health, Endocrinology",Dr. Dara Mohammed Mustafa
+H464,Erbil Private Hospital 464,Erbil,Teaching,689,"Emergency, Paediatrics",Dr. Azad Fuad Kadir
+H465,Zakho Private Hospital 465,Zakho,Private,663,"Mental Health, Nephrology, Research, Endocrinology",Dr. Bestun Hama Qadir
+H466,Zakho Private Hospital 466,Zakho,Teaching,204,"Neurology, Endocrinology, Oncology",Dr. Yara Rizgar Othman
+H467,Halabja Private Hospital 467,Halabja,Public,338,"Mental Health, Nephrology, Oncology",Dr. Shilan Jamal Salih
+H468,Erbil Specialist Hospital 468,Erbil,Teaching,145,"Orthopaedics, Paediatrics, Neurology, General",Dr. Helin Ihsan Faris
+H469,Halabja Teaching Hospital 469,Halabja,Specialist,438,"Endocrinology, Haematology, Nephrology",Dr. Jalal Jalal Othman
+H470,Zakho General Hospital 470,Zakho,Specialist,358,"Research, Nephrology, Paediatrics, Cardiology",Dr. Azad Rizgar Karimi
+H471,Duhok Community Hospital 471,Duhok,Public,331,"Emergency, Cardiac Surgery, Haematology",Dr. Pishtiwan Aryan Qadir
+H472,Erbil Community Hospital 472,Erbil,Teaching,565,"Orthopaedics, Endocrinology",Dr. Zeynep Bakr Salih
+H473,Erbil Private Hospital 473,Erbil,Teaching,77,"Paediatrics, Neurology, Endocrinology",Dr. Kamaran Sherzad Hasan
+H474,Halabja Medical Hospital 474,Halabja,Teaching,299,"Oncology, Neurology",Dr. Tara Farid Faris
+H475,Halabja General Hospital 475,Halabja,Public,580,"Cardiology, Nephrology",Dr. Xezal Mustafa Ahmad
+H476,Erbil Community Hospital 476,Erbil,Teaching,660,"Haematology, Mental Health, Nephrology",Dr. Lana Bakr Mustafa
+H477,Sulaymaniyah Specialist Hospital 477,Sulaymaniyah,Private,103,"Haematology, Cardiology, Surgery, Mental Health",Dr. Dashni Karim Ahmad
+H478,Sulaymaniyah Private Hospital 478,Sulaymaniyah,Public,209,"Cardiac Surgery, Surgery, General",Dr. Avan Rizgar Omar
+H479,Duhok Teaching Hospital 479,Duhok,Private,58,"Emergency, Paediatrics, Mental Health",Dr. Vian Hama Salih
+H480,Halabja Teaching Hospital 480,Halabja,Private,115,"Surgery, Paediatrics, Nephrology, Cardiology",Dr. Rozhan Fuad Othman
+H481,Duhok Community Hospital 481,Duhok,Specialist,55,"Surgery, Neurology, Paediatrics, Endocrinology",Dr. Rozhan Bakr Hasan
+H482,Sulaymaniyah Medical Hospital 482,Sulaymaniyah,Teaching,535,"Paediatrics, Cardiac Surgery",Dr. Dara Omar Kadir
+H483,Zakho General Hospital 483,Zakho,Public,327,"Oncology, Paediatrics, Research",Dr. Wrya Mustafa Rashid
+H484,Halabja Teaching Hospital 484,Halabja,Specialist,653,"Paediatrics, Haematology, Emergency",Dr. Jalal Latif Faris
+H485,Zakho Specialist Hospital 485,Zakho,Teaching,512,"Neurology, Research, Surgery",Dr. Rozhan Omar Nuri
+H486,Duhok General Hospital 486,Duhok,Private,475,"Emergency, Oncology",Dr. Layla Kamaran Ali
+H487,Halabja Medical Hospital 487,Halabja,Teaching,115,"Cardiac Surgery, Paediatrics",Dr. Nawzad Salam Kadir
+H488,Zakho Teaching Hospital 488,Zakho,Teaching,590,"Emergency, General, Cardiology, Oncology",Dr. Rozhan Mustafa Salih
+H489,Zakho Community Hospital 489,Zakho,Teaching,466,"Haematology, Cardiac Surgery",Dr. Randa Omar Tahir
+H490,Zakho Community Hospital 490,Zakho,Private,113,"Oncology, Cardiac Surgery, Nephrology",Dr. Dashni Aziz Othman
+H491,Zakho Specialist Hospital 491,Zakho,Private,154,"Neurology, Surgery, General, Research",Dr. Yara Mohammed Rashid
+H492,Sulaymaniyah Medical Hospital 492,Sulaymaniyah,Private,500,"Neurology, Orthopaedics, Endocrinology, General",Dr. Dara Mustafa Hama
+H493,Zakho General Hospital 493,Zakho,Teaching,355,"Haematology, Mental Health, Endocrinology, Oncology",Dr. Dashni Barzan Omar
+H494,Sulaymaniyah General Hospital 494,Sulaymaniyah,Public,264,"Oncology, Mental Health",Dr. Jalal Kamaran Hassan
+H495,Zakho Community Hospital 495,Zakho,Public,454,"Surgery, Paediatrics",Dr. Alan Omar Ali
+H496,Duhok Specialist Hospital 496,Duhok,Specialist,435,"Nephrology, Surgery, Research, Endocrinology",Dr. Lana Barzan Omar
+H497,Duhok Private Hospital 497,Duhok,Private,693,"Cardiology, Surgery, General",Dr. Farhad Rizgar Aziz
+H498,Sulaymaniyah Specialist Hospital 498,Sulaymaniyah,Specialist,493,"Cardiology, Oncology",Dr. Nawzad Mohammed Ali
+H499,Halabja Specialist Hospital 499,Halabja,Teaching,229,"Emergency, Cardiac Surgery, Nephrology",Dr. Jalal Latif Saeed
+H500,Halabja Specialist Hospital 500,Halabja,Public,298,"General, Research, Oncology",Dr. Shilan Rizgar Nuri
+H501,Sulaymaniyah Community Hospital 501,Sulaymaniyah,Private,213,"Surgery, Paediatrics, Cardiology, Oncology",Dr. Sardar Salam Omar
+H502,Zakho Community Hospital 502,Zakho,Specialist,608,"Neurology, Oncology, Paediatrics",Dr. Yara Farid Omar
+H503,Halabja Private Hospital 503,Halabja,Private,591,"Endocrinology, Research, Oncology, Paediatrics",Dr. Dashni Karim Mahmoud
+H504,Erbil Private Hospital 504,Erbil,Specialist,509,"Oncology, General",Dr. Farhad Ihsan Kadir
+H505,Zakho General Hospital 505,Zakho,Private,277,"General, Haematology, Oncology, Mental Health",Dr. Pishtiwan Farhad Hama
+H506,Duhok Private Hospital 506,Duhok,Specialist,227,"Research, Paediatrics, Orthopaedics, Nephrology",Dr. Helin Farhad Rashid
+H507,Zakho Medical Hospital 507,Zakho,Teaching,388,"Cardiac Surgery, Endocrinology, General, Nephrology",Dr. Kavar Hama Aziz
+H508,Duhok Private Hospital 508,Duhok,Specialist,275,"Paediatrics, Orthopaedics, General, Oncology",Dr. Naz Bakr Said
+H509,Duhok Medical Hospital 509,Duhok,Private,310,"Neurology, Cardiac Surgery",Dr. Zhyan Saeed Rashid
+H510,Duhok Specialist Hospital 510,Duhok,Private,642,"Neurology, Haematology, Surgery",Dr. Chnar Rebaz Hama
+H511,Erbil Specialist Hospital 511,Erbil,Specialist,621,"Cardiology, Haematology",Dr. Jalal Omar Tahir
+H512,Halabja Medical Hospital 512,Halabja,Specialist,288,"Endocrinology, Neurology, Haematology, Mental Health",Dr. Salih Jamal Ali
+H513,Zakho Community Hospital 513,Zakho,Teaching,491,"Neurology, Nephrology",Dr. Rebaz Karim Nuri
+H514,Sulaymaniyah Teaching Hospital 514,Sulaymaniyah,Teaching,607,"Oncology, Emergency, Cardiology, Nephrology",Dr. Azad Hama Tahir
+H515,Halabja Medical Hospital 515,Halabja,Specialist,215,"Paediatrics, General, Endocrinology, Mental Health",Dr. Mazin Rizgar Qadir
+H516,Duhok Specialist Hospital 516,Duhok,Private,481,"Nephrology, Emergency, Mental Health, Neurology",Dr. Pishtiwan Mohammed Karim
+H517,Zakho General Hospital 517,Zakho,Public,137,"Surgery, Emergency, Research, Orthopaedics",Dr. Naz Kamaran Karimi
+H518,Sulaymaniyah Teaching Hospital 518,Sulaymaniyah,Private,566,"Surgery, General, Cardiac Surgery, Cardiology",Dr. Rebaz Omar Mahmoud
+H519,Sulaymaniyah Community Hospital 519,Sulaymaniyah,Specialist,612,"Orthopaedics, Research",Dr. Rami Mohammed Ali
+H520,Halabja General Hospital 520,Halabja,Public,169,"Surgery, Mental Health",Dr. Xezal Salam Taha
+H521,Zakho Specialist Hospital 521,Zakho,Specialist,71,"Research, Haematology",Dr. Naz Farhad Hama
+H522,Zakho Medical Hospital 522,Zakho,Specialist,122,"Surgery, Endocrinology",Dr. Tara Jamal Tahir
+H523,Halabja Medical Hospital 523,Halabja,Teaching,411,"Emergency, Research, Paediatrics, Nephrology",Dr. Rebaz Hama Hasan
+H524,Duhok Community Hospital 524,Duhok,Teaching,295,"Research, Nephrology, General, Endocrinology",Dr. Yara Farid Hasan
+H525,Erbil Medical Hospital 525,Erbil,Teaching,343,"Neurology, Surgery",Dr. Karwan Raber Nuri
+H526,Halabja Specialist Hospital 526,Halabja,Private,425,"Cardiac Surgery, Research",Dr. Avan Mustafa Karimi
+H527,Zakho Private Hospital 527,Zakho,Specialist,370,"Mental Health, Surgery, Oncology, Cardiology",Dr. Hawkar Omar Qadir
+H528,Sulaymaniyah General Hospital 528,Sulaymaniyah,Teaching,352,"Nephrology, Research, Paediatrics",Dr. Tara Farid Karimi
+H529,Sulaymaniyah General Hospital 529,Sulaymaniyah,Teaching,524,"Oncology, Paediatrics, Mental Health, Haematology",Dr. Helin Aziz Aziz
+H530,Halabja Teaching Hospital 530,Halabja,Teaching,297,"General, Orthopaedics, Cardiac Surgery",Dr. Dara Karim Mustafa
+H531,Sulaymaniyah Private Hospital 531,Sulaymaniyah,Private,646,"Neurology, General, Cardiac Surgery",Dr. Helin Saeed Omar
+H532,Sulaymaniyah Specialist Hospital 532,Sulaymaniyah,Teaching,142,"Nephrology, Endocrinology, General, Emergency",Dr. Dara Mustafa Ahmad
+H533,Erbil Community Hospital 533,Erbil,Private,412,"Research, Cardiac Surgery",Dr. Aryan Aryan Ali
+H534,Halabja Community Hospital 534,Halabja,Teaching,539,"Cardiac Surgery, General",Dr. Azad Saber Mustafa
+H535,Sulaymaniyah Private Hospital 535,Sulaymaniyah,Teaching,466,"Oncology, Research",Dr. Layla Omar Said
+H536,Halabja General Hospital 536,Halabja,Teaching,288,"Orthopaedics, Endocrinology",Dr. Narin Mustafa Aziz
+H537,Duhok Medical Hospital 537,Duhok,Specialist,230,"Orthopaedics, Nephrology",Dr. Dashni Nawzad Said
+H538,Zakho General Hospital 538,Zakho,Teaching,181,"Paediatrics, Orthopaedics",Dr. Randa Saeed Nasser
+H539,Sulaymaniyah General Hospital 539,Sulaymaniyah,Private,564,"Emergency, Cardiology",Dr. Shilan Ihsan Karimi
+H540,Erbil Specialist Hospital 540,Erbil,Private,682,"Nephrology, Neurology, Surgery, General",Dr. Salih Sherzad Karimi
+H541,Halabja Community Hospital 541,Halabja,Specialist,472,"Surgery, Cardiac Surgery, Cardiology, Emergency",Dr. Saman Mustafa Tahir
+H542,Sulaymaniyah Teaching Hospital 542,Sulaymaniyah,Public,639,"Nephrology, Emergency",Dr. Nawzad Mohammed Aziz
+H543,Sulaymaniyah General Hospital 543,Sulaymaniyah,Private,146,"Orthopaedics, Nephrology, Research, Haematology",Dr. Chnar Farid Nuri
+H544,Zakho Private Hospital 544,Zakho,Public,545,"Paediatrics, General, Neurology",Dr. Shilan Aziz Hama
+H545,Sulaymaniyah Private Hospital 545,Sulaymaniyah,Specialist,347,"Emergency, Cardiology, Nephrology, Endocrinology",Dr. Zhyan Hama Hassan
+H546,Erbil Teaching Hospital 546,Erbil,Private,328,"Orthopaedics, Endocrinology, Oncology, General",Dr. Narin Aryan Tahir
+H547,Zakho General Hospital 547,Zakho,Specialist,450,"Cardiology, Neurology, Surgery",Dr. Wrya Mohammed Ahmad
+H548,Zakho Medical Hospital 548,Zakho,Teaching,520,"Endocrinology, Cardiac Surgery, Oncology",Dr. Avan Ihsan Mustafa
+H549,Zakho Private Hospital 549,Zakho,Public,250,"Cardiology, Haematology",Dr. Rebaz Farhad Aziz
+H550,Erbil General Hospital 550,Erbil,Teaching,500,"Nephrology, Mental Health, Cardiac Surgery, General",Dr. Sardar Salam Hasan
+H551,Halabja Medical Hospital 551,Halabja,Specialist,522,"General, Haematology",Dr. Sardar Aziz Tahir
+H552,Halabja Community Hospital 552,Halabja,Specialist,669,"Haematology, Emergency, Nephrology",Dr. Mazin Kamaran Rashid
+H553,Sulaymaniyah Teaching Hospital 553,Sulaymaniyah,Public,375,"Paediatrics, General, Endocrinology, Nephrology",Dr. Salih Aziz Hassan
+H554,Halabja Medical Hospital 554,Halabja,Public,622,"Neurology, Mental Health",Dr. Alan Salam Nuri
+H555,Sulaymaniyah Teaching Hospital 555,Sulaymaniyah,Teaching,597,"Orthopaedics, General, Haematology",Dr. Rebaz Dara Salih
+H556,Halabja Private Hospital 556,Halabja,Private,299,"Surgery, Orthopaedics, Emergency, Mental Health",Dr. Dashni Hama Qadir
+H557,Erbil Community Hospital 557,Erbil,Teaching,604,"Oncology, Nephrology, Surgery",Dr. Avan Rizgar Tahir
+H558,Halabja Specialist Hospital 558,Halabja,Private,685,"Neurology, Research, Endocrinology, Cardiology",Dr. Randa Aryan Omar
+H559,Erbil Teaching Hospital 559,Erbil,Specialist,557,"Surgery, Oncology, Orthopaedics",Dr. Jalal Raber Taha
+H560,Halabja Private Hospital 560,Halabja,Private,198,"Orthopaedics, Haematology, Emergency",Dr. Mazin Raber Hassan
+H561,Erbil Specialist Hospital 561,Erbil,Teaching,581,"Orthopaedics, Haematology, Neurology, Paediatrics",Dr. Saman Nawzad Omar
+H562,Duhok Community Hospital 562,Duhok,Teaching,150,"Cardiac Surgery, Paediatrics, Nephrology",Dr. Zeynep Ihsan Karim
+H563,Erbil Teaching Hospital 563,Erbil,Public,518,"Haematology, Orthopaedics",Dr. Vian Barzan Saeed
+H564,Halabja Medical Hospital 564,Halabja,Teaching,416,"Haematology, General, Cardiology",Dr. Fuad Dara Hassan
+H565,Halabja General Hospital 565,Halabja,Teaching,309,"Cardiac Surgery, Endocrinology",Dr. Shilan Barzan Faris
+H566,Sulaymaniyah Community Hospital 566,Sulaymaniyah,Private,438,"Cardiac Surgery, Neurology",Dr. Karwan Omar Omar
+H567,Halabja Medical Hospital 567,Halabja,Specialist,81,"Cardiology, Neurology",Dr. Helin Jamal Mustafa
+H568,Erbil Community Hospital 568,Erbil,Teaching,399,"Oncology, Haematology, Cardiac Surgery, General",Dr. Vian Kamaran Hama
+H569,Duhok Medical Hospital 569,Duhok,Specialist,562,"Neurology, Oncology, Cardiac Surgery",Dr. Mazin Jamal Aziz
+H570,Duhok Teaching Hospital 570,Duhok,Public,253,"Paediatrics, Cardiology, Neurology",Dr. Rozhan Mustafa Othman
+H571,Duhok Private Hospital 571,Duhok,Teaching,470,"Research, Neurology, Nephrology, Emergency",Dr. Bestun Aziz Hassan
+H572,Sulaymaniyah General Hospital 572,Sulaymaniyah,Specialist,190,"Cardiology, Emergency",Dr. Avan Fuad Rashid
+H573,Sulaymaniyah Community Hospital 573,Sulaymaniyah,Teaching,178,"Endocrinology, Emergency, Paediatrics",Dr. Hawkar Farhad Faris
+H574,Sulaymaniyah Medical Hospital 574,Sulaymaniyah,Public,644,"Orthopaedics, Surgery, Research, Mental Health",Dr. Tara Rizgar Hama
+H575,Zakho General Hospital 575,Zakho,Public,466,"Orthopaedics, Neurology, General, Emergency",Dr. Xezal Mohammed Said
+H576,Erbil General Hospital 576,Erbil,Teaching,69,"Haematology, Endocrinology",Dr. Mazin Saber Aziz
+H577,Duhok Community Hospital 577,Duhok,Specialist,84,"Orthopaedics, Cardiac Surgery, Paediatrics",Dr. Layla Kamaran Omar
+H578,Sulaymaniyah Medical Hospital 578,Sulaymaniyah,Teaching,177,"Research, Cardiac Surgery, Mental Health, Emergency",Dr. Saman Mustafa Saeed
+H579,Halabja Specialist Hospital 579,Halabja,Specialist,488,"Neurology, Emergency, Cardiac Surgery",Dr. Kamaran Hama Salih
+H580,Sulaymaniyah General Hospital 580,Sulaymaniyah,Specialist,183,"Endocrinology, Cardiac Surgery, Paediatrics, Research",Dr. Aryan Hama Saeed
+H581,Halabja General Hospital 581,Halabja,Public,507,"Cardiology, Haematology",Dr. Kavar Saber Salih
+H582,Zakho Community Hospital 582,Zakho,Private,289,"Endocrinology, Neurology, Cardiac Surgery, Research",Dr. Tara Rizgar Nasser
+H583,Zakho Private Hospital 583,Zakho,Private,482,"Surgery, Orthopaedics",Dr. Pishtiwan Karim Aziz
+H584,Halabja Medical Hospital 584,Halabja,Public,142,"Cardiology, Mental Health, Endocrinology, General",Dr. Chnar Aziz Faris
+H585,Halabja General Hospital 585,Halabja,Teaching,395,"Mental Health, Cardiac Surgery",Dr. Chnar Jamal Mustafa
+H586,Sulaymaniyah General Hospital 586,Sulaymaniyah,Teaching,622,"Nephrology, Endocrinology, Emergency",Dr. Rozhan Omar Ahmad
+H587,Duhok Teaching Hospital 587,Duhok,Teaching,203,"Cardiac Surgery, Mental Health, Orthopaedics, Research",Dr. Jalal Salam Hama
+H588,Sulaymaniyah Medical Hospital 588,Sulaymaniyah,Specialist,417,"Mental Health, Surgery",Dr. Zeynep Rizgar Karim
+H589,Halabja Community Hospital 589,Halabja,Public,191,"Mental Health, Orthopaedics",Dr. Alan Hama Mahmoud
+H590,Duhok Private Hospital 590,Duhok,Public,399,"Cardiac Surgery, Paediatrics, Cardiology",Dr. Salih Raber Rashid
+H591,Erbil Community Hospital 591,Erbil,Teaching,124,"General, Mental Health, Surgery",Dr. Layla Fuad Hasan
+H592,Erbil General Hospital 592,Erbil,Specialist,313,"Cardiology, Nephrology, Neurology",Dr. Narin Jamal Ahmad
+H593,Erbil General Hospital 593,Erbil,Specialist,421,"Nephrology, Surgery, Orthopaedics, General",Dr. Saman Bakr Salih
+H594,Zakho Teaching Hospital 594,Zakho,Teaching,239,"Nephrology, Endocrinology, Mental Health, Surgery",Dr. Mazin Fuad Othman
+H595,Zakho Specialist Hospital 595,Zakho,Public,107,"Mental Health, Cardiac Surgery, Paediatrics, Endocrinology",Dr. Aryan Raber Said
+H596,Erbil Private Hospital 596,Erbil,Private,392,"Research, Orthopaedics",Dr. Hawkar Bakr Mustafa
+H597,Halabja General Hospital 597,Halabja,Specialist,635,"Oncology, Endocrinology, Nephrology, Haematology",Dr. Nawzad Mohammed Qadir
+H598,Zakho Private Hospital 598,Zakho,Private,604,"Haematology, Cardiac Surgery, General",Dr. Bestun Barzan Taha
+H599,Halabja Teaching Hospital 599,Halabja,Specialist,364,"Mental Health, Research, Paediatrics, Cardiology",Dr. Zeynep Saeed Othman
+H600,Halabja Teaching Hospital 600,Halabja,Public,64,"Endocrinology, Cardiac Surgery",Dr. Helin Rizgar Karim
+H601,Erbil Private Hospital 601,Erbil,Private,549,"Nephrology, General, Paediatrics, Endocrinology",Dr. Salih Saeed Karimi
+H602,Halabja Private Hospital 602,Halabja,Private,218,"Endocrinology, Cardiac Surgery, Haematology, Nephrology",Dr. Zhyan Fuad Ahmad
+H603,Erbil Community Hospital 603,Erbil,Private,495,"Orthopaedics, Neurology, Surgery, Endocrinology",Dr. Rebaz Karim Salih
+H604,Halabja Medical Hospital 604,Halabja,Specialist,405,"Mental Health, Oncology, Emergency",Dr. Dilan Fuad Salih
+H605,Duhok Specialist Hospital 605,Duhok,Specialist,532,"Research, Paediatrics, Oncology",Dr. Zeynep Barzan Othman
+H606,Duhok General Hospital 606,Duhok,Specialist,650,"Surgery, Oncology, Nephrology, Cardiology",Dr. Pishtiwan Fuad Karim
+H607,Halabja Specialist Hospital 607,Halabja,Public,248,"Nephrology, Endocrinology",Dr. Saman Hama Rashid
+H608,Sulaymaniyah General Hospital 608,Sulaymaniyah,Specialist,676,"Haematology, Oncology",Dr. Lana Mohammed Taha
+H609,Sulaymaniyah Private Hospital 609,Sulaymaniyah,Private,430,"Mental Health, Neurology, Research",Dr. Chnar Ihsan Nuri
+H610,Erbil Community Hospital 610,Erbil,Public,440,"Endocrinology, General, Paediatrics, Neurology",Dr. Lana Hama Mustafa
+H611,Zakho Community Hospital 611,Zakho,Teaching,526,"Oncology, Mental Health, Nephrology",Dr. Zeynep Karim Karim
+H612,Duhok General Hospital 612,Duhok,Private,543,"Research, Cardiac Surgery",Dr. Kamaran Aryan Hassan
+H613,Erbil Private Hospital 613,Erbil,Specialist,664,"Nephrology, Orthopaedics, Haematology",Dr. Kavar Salam Rashid
+H614,Zakho Medical Hospital 614,Zakho,Private,203,"Orthopaedics, Neurology",Dr. Jalal Barzan Ahmad
+H615,Zakho Teaching Hospital 615,Zakho,Specialist,230,"Orthopaedics, Paediatrics, Oncology, Nephrology",Dr. Dara Hama Hasan
+H616,Sulaymaniyah General Hospital 616,Sulaymaniyah,Private,532,"Orthopaedics, Endocrinology",Dr. Dilan Aziz Said
+H617,Halabja Specialist Hospital 617,Halabja,Teaching,84,"Mental Health, Orthopaedics",Dr. Kavar Karim Faris
+H618,Erbil Specialist Hospital 618,Erbil,Private,176,"Orthopaedics, Nephrology",Dr. Jalal Mustafa Aziz
+H619,Sulaymaniyah Community Hospital 619,Sulaymaniyah,Public,180,"Research, Haematology, Mental Health",Dr. Xezal Farhad Karim
+H620,Halabja Private Hospital 620,Halabja,Private,500,"Neurology, Paediatrics",Dr. Hawkar Aryan Aziz
+H621,Duhok Private Hospital 621,Duhok,Specialist,603,"Cardiology, Paediatrics, Haematology, Emergency",Dr. Sardar Farhad Hama
+H622,Zakho Specialist Hospital 622,Zakho,Teaching,359,"Nephrology, Cardiac Surgery, Research",Dr. Avan Jalal Tahir
+H623,Zakho Private Hospital 623,Zakho,Private,495,"Surgery, Endocrinology, Orthopaedics, Paediatrics",Dr. Rozhan Aziz Ali
+H624,Sulaymaniyah Private Hospital 624,Sulaymaniyah,Private,666,"Mental Health, Paediatrics",Dr. Bestun Latif Aziz
+H625,Duhok Community Hospital 625,Duhok,Private,588,"Neurology, Cardiac Surgery",Dr. Farhad Salam Hama
+H626,Halabja General Hospital 626,Halabja,Specialist,580,"Emergency, Paediatrics",Dr. Kavar Rizgar Taha
+H627,Erbil Private Hospital 627,Erbil,Public,658,"General, Orthopaedics, Oncology",Dr. Fuad Barzan Hasan
+H628,Zakho Specialist Hospital 628,Zakho,Public,180,"Endocrinology, Cardiology, Mental Health",Dr. Vian Aziz Mahmoud
+H629,Zakho Medical Hospital 629,Zakho,Public,462,"Mental Health, Surgery, Haematology, Nephrology",Dr. Dashni Ihsan Salih
+H630,Zakho Medical Hospital 630,Zakho,Specialist,302,"Cardiology, Neurology, Emergency",Dr. Avan Raber Hasan
+H631,Duhok Private Hospital 631,Duhok,Teaching,239,"Cardiology, Cardiac Surgery, General, Orthopaedics",Dr. Saman Farid Karim
+H632,Zakho Teaching Hospital 632,Zakho,Teaching,629,"Cardiology, Research",Dr. Zeynep Ihsan Othman
+H633,Zakho Specialist Hospital 633,Zakho,Specialist,283,"Emergency, Mental Health",Dr. Azad Sherzad Kadir
+H634,Halabja Specialist Hospital 634,Halabja,Teaching,378,"Neurology, General, Orthopaedics, Surgery",Dr. Rozhan Nawzad Tahir
+H635,Zakho Private Hospital 635,Zakho,Public,575,"Research, Orthopaedics, Cardiology, Paediatrics",Dr. Rebaz Salam Karimi
+H636,Erbil Teaching Hospital 636,Erbil,Private,528,"Nephrology, Cardiology, General, Mental Health",Dr. Kavar Jamal Othman
+H637,Zakho Teaching Hospital 637,Zakho,Specialist,259,"Cardiac Surgery, Oncology, Research, Haematology",Dr. Dara Bakr Taha
+H638,Duhok Community Hospital 638,Duhok,Public,486,"Neurology, Emergency, Orthopaedics",Dr. Zeynep Aziz Nasser
+H639,Halabja General Hospital 639,Halabja,Teaching,611,"Emergency, General",Dr. Salih Nawzad Mahmoud
+H640,Erbil Private Hospital 640,Erbil,Specialist,366,"Orthopaedics, Cardiac Surgery, Oncology",Dr. Saman Saeed Faris
+H641,Halabja Community Hospital 641,Halabja,Teaching,678,"Cardiac Surgery, Orthopaedics, Mental Health, Paediatrics",Dr. Xezal Farhad Kadir
+H642,Erbil Medical Hospital 642,Erbil,Public,663,"Endocrinology, General, Emergency",Dr. Helin Fuad Nasser
+H643,Zakho Specialist Hospital 643,Zakho,Public,64,"Mental Health, Nephrology, Research, Endocrinology",Dr. Rozhan Barzan Karim
+H644,Sulaymaniyah Private Hospital 644,Sulaymaniyah,Teaching,311,"Haematology, Nephrology, Emergency",Dr. Rebaz Mustafa Taha
+H645,Sulaymaniyah Community Hospital 645,Sulaymaniyah,Teaching,183,"Endocrinology, Surgery, General",Dr. Fuad Aryan Hassan
+H646,Duhok Medical Hospital 646,Duhok,Private,503,"Research, Cardiology, Surgery",Dr. Jalal Mustafa Salih
+H647,Zakho Medical Hospital 647,Zakho,Private,505,"Emergency, Surgery",Dr. Pishtiwan Ihsan Kadir
+H648,Duhok General Hospital 648,Duhok,Private,565,"Nephrology, Haematology, Surgery, Research",Dr. Zhyan Jamal Saeed
+H649,Duhok General Hospital 649,Duhok,Specialist,337,"Orthopaedics, General",Dr. Zeynep Mustafa Qadir
+H650,Sulaymaniyah Specialist Hospital 650,Sulaymaniyah,Private,416,"Neurology, Endocrinology",Dr. Narin Latif Mahmoud
+H651,Halabja Specialist Hospital 651,Halabja,Public,414,"Cardiology, Oncology",Dr. Yara Mohammed Nuri
+H652,Halabja Medical Hospital 652,Halabja,Public,264,"General, Surgery",Dr. Vian Dara Omar
+H653,Halabja Specialist Hospital 653,Halabja,Public,267,"Haematology, General, Neurology",Dr. Aryan Jamal Kadir
+H654,Zakho Specialist Hospital 654,Zakho,Public,133,"Haematology, Cardiac Surgery, Emergency",Dr. Bestun Omar Saeed
+H655,Sulaymaniyah General Hospital 655,Sulaymaniyah,Specialist,370,"General, Endocrinology, Orthopaedics",Dr. Wrya Raber Omar
+H656,Halabja Private Hospital 656,Halabja,Public,93,"Cardiology, Mental Health, Emergency, Endocrinology",Dr. Saman Jalal Ali
+H657,Halabja Community Hospital 657,Halabja,Teaching,184,"Orthopaedics, Nephrology",Dr. Jalal Nawzad Ahmad
+H658,Zakho General Hospital 658,Zakho,Teaching,373,"Nephrology, Orthopaedics",Dr. Layla Saeed Hassan
+H659,Sulaymaniyah Community Hospital 659,Sulaymaniyah,Public,158,"Endocrinology, Paediatrics, Orthopaedics",Dr. Sardar Omar Saeed
+H660,Duhok Specialist Hospital 660,Duhok,Teaching,622,"Cardiology, Surgery, Nephrology",Dr. Dilan Jamal Hama
+H661,Erbil Community Hospital 661,Erbil,Public,244,"Emergency, Nephrology, Endocrinology",Dr. Zeynep Farhad Tahir
+H662,Erbil Specialist Hospital 662,Erbil,Private,640,"Cardiology, Emergency, Nephrology",Dr. Alan Raber Faris
+H663,Erbil Community Hospital 663,Erbil,Public,544,"Endocrinology, Mental Health, Paediatrics",Dr. Layla Raber Hassan
+H664,Duhok Community Hospital 664,Duhok,Private,621,"Emergency, Orthopaedics",Dr. Xezal Aziz Karim
+H665,Erbil Community Hospital 665,Erbil,Private,262,"Cardiology, Oncology, Emergency",Dr. Naz Omar Taha
+H666,Duhok Community Hospital 666,Duhok,Teaching,92,"Oncology, Nephrology, General",Dr. Dilan Salam Karim
+H667,Erbil Medical Hospital 667,Erbil,Teaching,444,"Research, Surgery, Endocrinology",Dr. Avan Kamaran Faris
+H668,Duhok Community Hospital 668,Duhok,Public,119,"Haematology, Nephrology",Dr. Dara Nawzad Rashid
+H669,Erbil Private Hospital 669,Erbil,Teaching,125,"General, Haematology",Dr. Bestun Hama Karim
+H670,Erbil Teaching Hospital 670,Erbil,Specialist,99,"Cardiology, Surgery",Dr. Karwan Raber Mustafa
+H671,Erbil Private Hospital 671,Erbil,Private,679,"Oncology, Mental Health, Cardiac Surgery, Endocrinology",Dr. Azad Ihsan Taha
+H672,Erbil Teaching Hospital 672,Erbil,Specialist,644,"Research, Emergency, Cardiac Surgery",Dr. Naz Mohammed Omar
+H673,Sulaymaniyah Teaching Hospital 673,Sulaymaniyah,Teaching,664,"Endocrinology, Neurology",Dr. Bestun Raber Othman
+H674,Halabja Private Hospital 674,Halabja,Specialist,698,"Nephrology, Cardiology, General, Emergency",Dr. Hawkar Aryan Mahmoud
+H675,Halabja General Hospital 675,Halabja,Private,141,"Research, General, Nephrology",Dr. Karwan Farid Karimi
+H676,Sulaymaniyah Medical Hospital 676,Sulaymaniyah,Specialist,330,"Surgery, Cardiology",Dr. Hawkar Kamaran Said
+H677,Erbil Specialist Hospital 677,Erbil,Public,604,"Cardiac Surgery, Endocrinology, Haematology",Dr. Karwan Kamaran Qadir
+H678,Zakho General Hospital 678,Zakho,Private,329,"General, Endocrinology, Surgery",Dr. Bestun Aryan Ali
+H679,Duhok Specialist Hospital 679,Duhok,Teaching,563,"Research, General, Haematology, Endocrinology",Dr. Zhyan Nawzad Rashid
+H680,Zakho Specialist Hospital 680,Zakho,Private,683,"Haematology, Nephrology, Emergency",Dr. Jalal Barzan Hasan
+H681,Erbil Medical Hospital 681,Erbil,Public,362,"Oncology, Emergency, Neurology",Dr. Avan Rizgar Qadir
+H682,Erbil Specialist Hospital 682,Erbil,Specialist,233,"Research, Paediatrics, Mental Health, Endocrinology",Dr. Tara Salam Othman
+H683,Halabja Specialist Hospital 683,Halabja,Public,664,"Haematology, Endocrinology, Nephrology",Dr. Wrya Salam Karimi
+H684,Erbil Medical Hospital 684,Erbil,Specialist,176,"Paediatrics, Oncology, Surgery",Dr. Aryan Dara Othman
+H685,Zakho Community Hospital 685,Zakho,Specialist,182,"Emergency, General, Oncology",Dr. Azad Mustafa Faris
+H686,Zakho General Hospital 686,Zakho,Specialist,190,"Endocrinology, Haematology",Dr. Jalal Jamal Omar
+H687,Erbil Teaching Hospital 687,Erbil,Teaching,459,"Emergency, Surgery, Oncology",Dr. Farhad Sherzad Hama
+H688,Zakho Medical Hospital 688,Zakho,Specialist,211,"General, Cardiology, Haematology, Research",Dr. Rebaz Karim Karim
+H689,Duhok General Hospital 689,Duhok,Specialist,185,"Cardiology, Research",Dr. Kavar Omar Ahmad
+H690,Sulaymaniyah Specialist Hospital 690,Sulaymaniyah,Private,398,"Neurology, Oncology",Dr. Avan Hama Mahmoud
+H691,Erbil General Hospital 691,Erbil,Teaching,664,"Research, Cardiac Surgery, Surgery, Emergency",Dr. Yara Omar Faris
+H692,Sulaymaniyah General Hospital 692,Sulaymaniyah,Private,58,"Nephrology, General, Research",Dr. Xezal Karim Nuri
+H693,Duhok Teaching Hospital 693,Duhok,Public,577,"Orthopaedics, Cardiac Surgery",Dr. Pishtiwan Barzan Omar
+H694,Erbil Specialist Hospital 694,Erbil,Private,298,"Nephrology, Emergency, Orthopaedics, Neurology",Dr. Avan Farid Ahmad
+H695,Erbil General Hospital 695,Erbil,Teaching,281,"Cardiology, Oncology, Emergency, Neurology",Dr. Hawkar Mustafa Kadir
+H696,Erbil Specialist Hospital 696,Erbil,Specialist,574,"Endocrinology, Surgery",Dr. Lana Saber Ahmad
+H697,Sulaymaniyah Private Hospital 697,Sulaymaniyah,Private,361,"Paediatrics, Nephrology, Emergency, Surgery",Dr. Zhyan Saeed Rashid
+H698,Erbil General Hospital 698,Erbil,Public,272,"Surgery, Oncology, Orthopaedics",Dr. Rebaz Sherzad Hasan
+H699,Halabja General Hospital 699,Halabja,Specialist,204,"Cardiology, Mental Health, General, Cardiac Surgery",Dr. Saman Bakr Omar
+H700,Duhok Medical Hospital 700,Duhok,Teaching,420,"Endocrinology, Emergency, Haematology, Orthopaedics",Dr. Fuad Fuad Faris
+H701,Duhok Specialist Hospital 701,Duhok,Teaching,564,"Haematology, Orthopaedics",Dr. Salih Raber Rashid
+H702,Sulaymaniyah Private Hospital 702,Sulaymaniyah,Teaching,368,"Nephrology, Mental Health, Oncology",Dr. Rozhan Karim Saeed
+H703,Sulaymaniyah Private Hospital 703,Sulaymaniyah,Public,527,"Orthopaedics, Research, Cardiology",Dr. Salih Rizgar Said
+H704,Sulaymaniyah Community Hospital 704,Sulaymaniyah,Private,307,"Research, General",Dr. Vian Barzan Nuri
+H705,Halabja Private Hospital 705,Halabja,Public,318,"Oncology, Surgery, Paediatrics, Nephrology",Dr. Chnar Jamal Karim
+H706,Zakho Medical Hospital 706,Zakho,Private,603,"Cardiac Surgery, General, Surgery",Dr. Jalal Fuad Salih
+H707,Duhok Private Hospital 707,Duhok,Private,106,"Nephrology, Surgery, Paediatrics, Cardiology",Dr. Aryan Hama Taha
+H708,Erbil Private Hospital 708,Erbil,Teaching,668,"Cardiac Surgery, Haematology",Dr. Helin Jalal Tahir
+H709,Sulaymaniyah Medical Hospital 709,Sulaymaniyah,Public,542,"Cardiology, Mental Health",Dr. Rozhan Kamaran Mustafa
+H710,Duhok Specialist Hospital 710,Duhok,Public,65,"General, Mental Health",Dr. Yara Omar Kadir
+H711,Duhok Specialist Hospital 711,Duhok,Specialist,363,"Emergency, Endocrinology",Dr. Wrya Kamaran Faris
+H712,Duhok Specialist Hospital 712,Duhok,Specialist,149,"Orthopaedics, Cardiology",Dr. Randa Rizgar Tahir
+H713,Sulaymaniyah Teaching Hospital 713,Sulaymaniyah,Specialist,218,"Neurology, Endocrinology",Dr. Rami Nawzad Qadir
+H714,Zakho General Hospital 714,Zakho,Public,260,"General, Endocrinology",Dr. Saman Ihsan Salih
+H715,Duhok Community Hospital 715,Duhok,Teaching,614,"Paediatrics, Research, Cardiac Surgery, Surgery",Dr. Alan Farhad Mustafa
+H716,Halabja Community Hospital 716,Halabja,Public,183,"Cardiology, Paediatrics, Surgery, Haematology",Dr. Randa Barzan Hasan
+H717,Halabja Teaching Hospital 717,Halabja,Specialist,497,"Emergency, Neurology, Orthopaedics",Dr. Lana Latif Rashid
+H718,Zakho Specialist Hospital 718,Zakho,Public,214,"Nephrology, General, Orthopaedics, Cardiac Surgery",Dr. Baran Bakr Nuri
+H719,Halabja Specialist Hospital 719,Halabja,Public,346,"Surgery, General, Paediatrics",Dr. Chnar Salam Othman
+H720,Erbil Specialist Hospital 720,Erbil,Specialist,367,"Cardiac Surgery, Surgery, Orthopaedics, Haematology",Dr. Dashni Fuad Karim
+H721,Duhok General Hospital 721,Duhok,Specialist,470,"General, Orthopaedics, Haematology",Dr. Wrya Jamal Hassan
+H722,Erbil Private Hospital 722,Erbil,Private,612,"Haematology, Cardiac Surgery, Oncology",Dr. Avan Jalal Saeed
+H723,Halabja Teaching Hospital 723,Halabja,Specialist,600,"Emergency, Orthopaedics",Dr. Baran Fuad Said
+H724,Duhok Medical Hospital 724,Duhok,Private,663,"Haematology, Neurology",Dr. Kavar Salam Hassan
+H725,Duhok Private Hospital 725,Duhok,Private,87,"Mental Health, Emergency, Haematology",Dr. Zeynep Jamal Othman
+H726,Zakho General Hospital 726,Zakho,Public,236,"Surgery, Research, Orthopaedics",Dr. Helin Saber Hama
+H727,Duhok Teaching Hospital 727,Duhok,Teaching,642,"Surgery, Endocrinology, Cardiac Surgery",Dr. Farhad Omar Nasser
+H728,Halabja Private Hospital 728,Halabja,Teaching,150,"Nephrology, Endocrinology, Haematology",Dr. Avan Saber Saeed
+H729,Erbil General Hospital 729,Erbil,Public,535,"Cardiac Surgery, Orthopaedics, Paediatrics",Dr. Sardar Dara Said
+H730,Sulaymaniyah Medical Hospital 730,Sulaymaniyah,Public,470,"Mental Health, Surgery, Cardiology",Dr. Vian Aryan Tahir
+H731,Duhok Private Hospital 731,Duhok,Teaching,220,"Endocrinology, Mental Health, Cardiac Surgery, Research",Dr. Karwan Sherzad Nuri
+H732,Zakho Community Hospital 732,Zakho,Specialist,248,"Cardiology, Orthopaedics",Dr. Zeynep Hama Hasan
+H733,Zakho Teaching Hospital 733,Zakho,Specialist,537,"Haematology, Paediatrics, Nephrology",Dr. Rebaz Barzan Hasan
+H734,Sulaymaniyah Specialist Hospital 734,Sulaymaniyah,Public,547,"Haematology, Cardiology, Orthopaedics, Neurology",Dr. Narin Sherzad Mustafa
+H735,Halabja Specialist Hospital 735,Halabja,Public,610,"Endocrinology, Surgery",Dr. Jalal Mustafa Salih
+H736,Sulaymaniyah Medical Hospital 736,Sulaymaniyah,Private,672,"Nephrology, Oncology, Orthopaedics",Dr. Azad Aziz Othman
+H737,Zakho Medical Hospital 737,Zakho,Public,146,"Research, General",Dr. Karwan Omar Nuri
+H738,Halabja General Hospital 738,Halabja,Teaching,339,"Neurology, Surgery, General",Dr. Dara Karim Taha
+H739,Zakho Specialist Hospital 739,Zakho,Teaching,649,"Emergency, Oncology, Cardiology",Dr. Azad Aziz Mustafa
+H740,Erbil Private Hospital 740,Erbil,Specialist,670,"Haematology, Cardiology, Nephrology, Neurology",Dr. Sardar Dara Hama
+H741,Halabja Community Hospital 741,Halabja,Private,593,"Research, Paediatrics",Dr. Sardar Jamal Faris
+H742,Halabja Community Hospital 742,Halabja,Specialist,512,"Paediatrics, Mental Health, Orthopaedics",Dr. Dara Mohammed Hasan
+H743,Zakho General Hospital 743,Zakho,Private,519,"Endocrinology, Oncology",Dr. Dara Nawzad Salih
+H744,Sulaymaniyah Private Hospital 744,Sulaymaniyah,Specialist,631,"General, Research",Dr. Kamaran Rebaz Saeed
+H745,Duhok Specialist Hospital 745,Duhok,Teaching,420,"Paediatrics, Cardiology, Mental Health, Cardiac Surgery",Dr. Chnar Sherzad Taha
+H746,Sulaymaniyah Medical Hospital 746,Sulaymaniyah,Teaching,365,"General, Cardiology, Endocrinology",Dr. Rami Jalal Faris
+H747,Zakho Teaching Hospital 747,Zakho,Public,650,"Endocrinology, Oncology, Cardiac Surgery, Haematology",Dr. Bestun Latif Ali
+H748,Zakho Community Hospital 748,Zakho,Specialist,114,"Cardiac Surgery, Surgery, Mental Health, Nephrology",Dr. Zhyan Saeed Aziz
+H749,Duhok Private Hospital 749,Duhok,Specialist,540,"Paediatrics, Orthopaedics, Research, Surgery",Dr. Nawzad Dara Taha
+H750,Sulaymaniyah Medical Hospital 750,Sulaymaniyah,Private,441,"Neurology, Paediatrics, General",Dr. Helin Farid Karim
+H751,Zakho Medical Hospital 751,Zakho,Specialist,320,"Haematology, Endocrinology, Research, Emergency",Dr. Vian Latif Faris
+H752,Zakho Medical Hospital 752,Zakho,Specialist,130,"Neurology, Emergency, Mental Health, Nephrology",Dr. Wrya Barzan Hama
+H753,Sulaymaniyah Specialist Hospital 753,Sulaymaniyah,Public,182,"Neurology, Research, Mental Health",Dr. Narin Aziz Tahir
+H754,Sulaymaniyah Medical Hospital 754,Sulaymaniyah,Public,622,"Oncology, Emergency, Mental Health",Dr. Pishtiwan Rizgar Aziz
+H755,Halabja Medical Hospital 755,Halabja,Teaching,390,"Orthopaedics, Mental Health, Emergency",Dr. Sardar Ihsan Faris
+H756,Duhok Specialist Hospital 756,Duhok,Public,433,"Nephrology, General, Paediatrics, Surgery",Dr. Lana Raber Taha
+H757,Sulaymaniyah Private Hospital 757,Sulaymaniyah,Private,671,"Research, Haematology, Emergency, Orthopaedics",Dr. Randa Ihsan Omar
+H758,Halabja Medical Hospital 758,Halabja,Teaching,79,"Cardiac Surgery, Surgery, General",Dr. Aryan Ihsan Faris
+H759,Sulaymaniyah General Hospital 759,Sulaymaniyah,Specialist,273,"Cardiology, Research, General",Dr. Dara Mustafa Ahmad
+H760,Duhok General Hospital 760,Duhok,Private,467,"Cardiology, General, Cardiac Surgery",Dr. Xezal Latif Nuri
+H761,Halabja Medical Hospital 761,Halabja,Teaching,454,"Emergency, Haematology, Orthopaedics, Cardiac Surgery",Dr. Dashni Saber Hama
+H762,Zakho Specialist Hospital 762,Zakho,Private,273,"Endocrinology, Haematology, Nephrology, General",Dr. Naz Fuad Taha
+H763,Halabja Community Hospital 763,Halabja,Private,104,"Neurology, Cardiology, Research",Dr. Kamaran Dara Mustafa
+H764,Erbil General Hospital 764,Erbil,Specialist,496,"Oncology, Mental Health",Dr. Zhyan Fuad Said
+H765,Erbil Private Hospital 765,Erbil,Teaching,656,"Research, Cardiology, Haematology, Neurology",Dr. Dashni Fuad Hasan
+H766,Zakho Teaching Hospital 766,Zakho,Public,319,"Orthopaedics, Nephrology, General, Haematology",Dr. Narin Salam Ali
+H767,Zakho Private Hospital 767,Zakho,Private,399,"Neurology, Cardiac Surgery, Paediatrics",Dr. Sardar Mustafa Tahir
+H768,Sulaymaniyah Medical Hospital 768,Sulaymaniyah,Specialist,79,"Oncology, Endocrinology",Dr. Zeynep Latif Karim
+H769,Duhok Medical Hospital 769,Duhok,Public,213,"General, Paediatrics, Cardiology",Dr. Azad Bakr Nuri
+H770,Zakho General Hospital 770,Zakho,Private,242,"Emergency, Cardiology",Dr. Rebaz Rebaz Kadir
+H771,Duhok Community Hospital 771,Duhok,Public,262,"Emergency, Surgery, Neurology, Mental Health",Dr. Mazin Fuad Omar
+H772,Halabja Medical Hospital 772,Halabja,Public,551,"Research, Cardiac Surgery",Dr. Nawzad Omar Karimi
+H773,Zakho Private Hospital 773,Zakho,Teaching,91,"Cardiology, General, Haematology",Dr. Rebaz Mohammed Faris
+H774,Halabja Teaching Hospital 774,Halabja,Teaching,574,"Mental Health, Nephrology, Neurology, Paediatrics",Dr. Helin Mustafa Hassan
+H775,Sulaymaniyah Specialist Hospital 775,Sulaymaniyah,Private,493,"Nephrology, Endocrinology, Research, Paediatrics",Dr. Vian Rizgar Salih
+H776,Erbil Specialist Hospital 776,Erbil,Private,576,"Emergency, Oncology, Paediatrics",Dr. Dilan Sherzad Hassan
+H777,Sulaymaniyah General Hospital 777,Sulaymaniyah,Specialist,312,"Surgery, Nephrology, Orthopaedics",Dr. Mazin Karim Mustafa
+H778,Zakho Medical Hospital 778,Zakho,Teaching,317,"Surgery, Research, Cardiac Surgery, Emergency",Dr. Pishtiwan Mohammed Said
+H779,Halabja Private Hospital 779,Halabja,Public,254,"Research, Cardiac Surgery, Emergency, Orthopaedics",Dr. Dara Farhad Karimi
+H780,Zakho Private Hospital 780,Zakho,Teaching,208,"Haematology, General, Cardiac Surgery",Dr. Bestun Sherzad Qadir
+H781,Erbil General Hospital 781,Erbil,Public,183,"Research, Oncology, Orthopaedics, Mental Health",Dr. Azad Sherzad Othman
+H782,Halabja Medical Hospital 782,Halabja,Private,301,"Orthopaedics, Nephrology, General",Dr. Wrya Jamal Tahir
+H783,Duhok General Hospital 783,Duhok,Public,411,"General, Paediatrics",Dr. Pishtiwan Mustafa Karimi
+H784,Sulaymaniyah Private Hospital 784,Sulaymaniyah,Public,199,"Orthopaedics, Oncology, General",Dr. Azad Barzan Taha
+H785,Erbil Community Hospital 785,Erbil,Private,255,"General, Nephrology, Neurology",Dr. Shilan Rizgar Said
+H786,Sulaymaniyah Private Hospital 786,Sulaymaniyah,Specialist,579,"Endocrinology, Cardiac Surgery",Dr. Naz Mustafa Karimi
+H787,Duhok Community Hospital 787,Duhok,Public,630,"Endocrinology, Cardiac Surgery",Dr. Mazin Mohammed Tahir
+H788,Duhok Community Hospital 788,Duhok,Teaching,504,"Cardiac Surgery, Paediatrics, Orthopaedics",Dr. Rebaz Sherzad Faris
+H789,Sulaymaniyah Community Hospital 789,Sulaymaniyah,Teaching,292,"Cardiac Surgery, Oncology, Neurology, Research",Dr. Salih Jalal Tahir
+H790,Erbil Community Hospital 790,Erbil,Private,577,"Paediatrics, Oncology",Dr. Naz Nawzad Kadir
+H791,Sulaymaniyah Community Hospital 791,Sulaymaniyah,Teaching,239,"Nephrology, Cardiology, Surgery",Dr. Xezal Barzan Hama
+H792,Zakho Private Hospital 792,Zakho,Public,394,"Endocrinology, Surgery, Nephrology",Dr. Vian Aryan Karimi
+H793,Sulaymaniyah General Hospital 793,Sulaymaniyah,Teaching,360,"Cardiology, Emergency, Haematology, Endocrinology",Dr. Narin Karim Aziz
+H794,Zakho Medical Hospital 794,Zakho,Teaching,65,"Mental Health, Endocrinology",Dr. Rozhan Latif Said
+H795,Duhok Community Hospital 795,Duhok,Private,311,"Cardiology, Cardiac Surgery, Research, General",Dr. Rozhan Nawzad Ahmad
+H796,Duhok General Hospital 796,Duhok,Specialist,472,"Research, General",Dr. Azad Barzan Tahir
+H797,Duhok Community Hospital 797,Duhok,Teaching,570,"Endocrinology, Nephrology, Orthopaedics, Research",Dr. Fuad Omar Karimi
+H798,Halabja Private Hospital 798,Halabja,Specialist,499,"Mental Health, Oncology",Dr. Vian Dara Faris
+H799,Zakho Private Hospital 799,Zakho,Private,428,"Paediatrics, Neurology, Research",Dr. Rozhan Kamaran Nasser
+H800,Sulaymaniyah Teaching Hospital 800,Sulaymaniyah,Private,544,"Paediatrics, Oncology, Neurology, Emergency",Dr. Azad Fuad Qadir
+H801,Erbil General Hospital 801,Erbil,Teaching,422,"General, Cardiac Surgery, Neurology",Dr. Azad Dara Said
+H802,Duhok Community Hospital 802,Duhok,Public,496,"Cardiac Surgery, Haematology, Paediatrics, Neurology",Dr. Bestun Farid Taha
+H803,Halabja Specialist Hospital 803,Halabja,Private,387,"Mental Health, Paediatrics, Cardiology",Dr. Xezal Aryan Nuri
+H804,Duhok General Hospital 804,Duhok,Specialist,507,"Endocrinology, Paediatrics",Dr. Narin Sherzad Hassan
+H805,Zakho Specialist Hospital 805,Zakho,Private,552,"Endocrinology, Oncology",Dr. Avan Rizgar Karim
+H806,Zakho Specialist Hospital 806,Zakho,Teaching,426,"Endocrinology, Cardiology",Dr. Randa Kamaran Hama
+H807,Sulaymaniyah Specialist Hospital 807,Sulaymaniyah,Public,107,"Paediatrics, Mental Health",Dr. Vian Dara Tahir
+H808,Duhok Community Hospital 808,Duhok,Teaching,414,"Endocrinology, Neurology",Dr. Rami Hama Tahir
+H809,Zakho Teaching Hospital 809,Zakho,Private,258,"Haematology, Surgery",Dr. Xezal Mustafa Othman
+H810,Zakho Private Hospital 810,Zakho,Teaching,57,"Haematology, Surgery, General",Dr. Saman Mustafa Hasan
+H811,Erbil General Hospital 811,Erbil,Teaching,255,"Haematology, Endocrinology, Cardiac Surgery, General",Dr. Shilan Fuad Mustafa
+H812,Duhok Specialist Hospital 812,Duhok,Public,690,"Paediatrics, Surgery, Research, Oncology",Dr. Nawzad Rebaz Hasan
+H813,Sulaymaniyah Teaching Hospital 813,Sulaymaniyah,Private,120,"Surgery, Haematology, General",Dr. Alan Mohammed Aziz
+H814,Halabja Community Hospital 814,Halabja,Public,140,"Surgery, Research, Mental Health, Cardiac Surgery",Dr. Zhyan Barzan Tahir
+H815,Halabja Teaching Hospital 815,Halabja,Private,227,"Cardiology, Nephrology, Endocrinology, Research",Dr. Zhyan Bakr Mahmoud
+H816,Duhok General Hospital 816,Duhok,Private,293,"Emergency, Cardiac Surgery",Dr. Kavar Aryan Omar
+H817,Sulaymaniyah Medical Hospital 817,Sulaymaniyah,Private,606,"General, Oncology, Nephrology, Mental Health",Dr. Farhad Farhad Faris
+H818,Halabja Teaching Hospital 818,Halabja,Private,590,"Cardiology, Surgery, Endocrinology, Emergency",Dr. Saman Dara Faris
+H819,Halabja General Hospital 819,Halabja,Specialist,304,"Endocrinology, Paediatrics, Haematology",Dr. Pishtiwan Mustafa Rashid
+H820,Erbil Community Hospital 820,Erbil,Public,240,"Neurology, Surgery",Dr. Rozhan Bakr Mahmoud
+H821,Zakho Specialist Hospital 821,Zakho,Specialist,364,"Neurology, Oncology, Cardiac Surgery",Dr. Pishtiwan Aziz Kadir
+H822,Zakho Private Hospital 822,Zakho,Specialist,663,"Orthopaedics, Endocrinology, Mental Health, Oncology",Dr. Bestun Nawzad Nuri
+H823,Zakho Community Hospital 823,Zakho,Specialist,504,"Research, Surgery, Cardiology, Mental Health",Dr. Saman Saber Qadir
+H824,Halabja Teaching Hospital 824,Halabja,Public,363,"Haematology, Surgery, Paediatrics",Dr. Narin Jamal Qadir
+H825,Sulaymaniyah Community Hospital 825,Sulaymaniyah,Teaching,388,"Cardiac Surgery, Research, Orthopaedics, Cardiology",Dr. Bestun Jamal Salih
+H826,Sulaymaniyah Teaching Hospital 826,Sulaymaniyah,Specialist,647,"Neurology, General, Oncology, Mental Health",Dr. Layla Raber Hasan
+H827,Zakho Specialist Hospital 827,Zakho,Public,174,"Haematology, Nephrology, Endocrinology, Mental Health",Dr. Jalal Bakr Rashid
+H828,Halabja Teaching Hospital 828,Halabja,Private,322,"Mental Health, Endocrinology",Dr. Yara Raber Karim
+H829,Sulaymaniyah Teaching Hospital 829,Sulaymaniyah,Private,285,"Orthopaedics, Paediatrics",Dr. Rebaz Kamaran Said
+H830,Duhok General Hospital 830,Duhok,Private,577,"Mental Health, Cardiac Surgery, Cardiology",Dr. Alan Fuad Salih
+H831,Halabja Specialist Hospital 831,Halabja,Teaching,387,"Surgery, Orthopaedics, General",Dr. Tara Aryan Mahmoud
+H832,Duhok Private Hospital 832,Duhok,Teaching,521,"Mental Health, Haematology, Nephrology",Dr. Fuad Jamal Said
+H833,Erbil General Hospital 833,Erbil,Private,455,"Research, Cardiology, Cardiac Surgery",Dr. Aryan Farhad Omar
+H834,Duhok Private Hospital 834,Duhok,Specialist,279,"Emergency, Neurology, Orthopaedics",Dr. Baran Rebaz Karimi
+H835,Duhok Medical Hospital 835,Duhok,Teaching,247,"Neurology, Haematology",Dr. Narin Mustafa Kadir
+H836,Sulaymaniyah General Hospital 836,Sulaymaniyah,Public,572,"Neurology, Oncology",Dr. Bestun Rebaz Kadir
+H837,Zakho Private Hospital 837,Zakho,Private,101,"Nephrology, Research",Dr. Mazin Hama Mustafa
+H838,Halabja General Hospital 838,Halabja,Public,398,"Surgery, Research, Mental Health, Cardiac Surgery",Dr. Alan Barzan Hama
+H839,Erbil Teaching Hospital 839,Erbil,Teaching,100,"Research, Surgery",Dr. Jalal Omar Hama
+H840,Duhok Teaching Hospital 840,Duhok,Specialist,483,"Nephrology, Oncology",Dr. Alan Kamaran Taha
+H841,Sulaymaniyah Medical Hospital 841,Sulaymaniyah,Teaching,181,"Emergency, Cardiac Surgery, Endocrinology, General",Dr. Kavar Salam Said
+H842,Erbil General Hospital 842,Erbil,Public,552,"General, Cardiac Surgery, Surgery",Dr. Zhyan Mohammed Tahir
+H843,Sulaymaniyah Teaching Hospital 843,Sulaymaniyah,Specialist,352,"Cardiology, Surgery, Neurology, Research",Dr. Nawzad Saeed Omar
+H844,Duhok Community Hospital 844,Duhok,Public,234,"General, Research, Oncology, Paediatrics",Dr. Wrya Sherzad Qadir
+H845,Zakho General Hospital 845,Zakho,Private,374,"Endocrinology, Neurology",Dr. Fuad Salam Karimi
+H846,Duhok General Hospital 846,Duhok,Public,276,"Paediatrics, Nephrology, Cardiac Surgery, Research",Dr. Zhyan Nawzad Mustafa
+H847,Erbil Community Hospital 847,Erbil,Specialist,612,"Oncology, Cardiology",Dr. Nawzad Rebaz Salih
+H848,Duhok Teaching Hospital 848,Duhok,Private,208,"Cardiology, Neurology, Paediatrics",Dr. Zhyan Dara Nuri
+H849,Erbil Community Hospital 849,Erbil,Private,139,"Paediatrics, Neurology",Dr. Dara Nawzad Omar
+H850,Zakho Specialist Hospital 850,Zakho,Private,256,"Nephrology, General, Oncology",Dr. Zeynep Omar Omar
+H851,Duhok Specialist Hospital 851,Duhok,Specialist,383,"General, Haematology, Oncology, Neurology",Dr. Vian Hama Rashid
+H852,Zakho Medical Hospital 852,Zakho,Private,464,"General, Mental Health",Dr. Aryan Karim Karimi
+H853,Sulaymaniyah Medical Hospital 853,Sulaymaniyah,Teaching,497,"Research, Cardiology, General, Cardiac Surgery",Dr. Farhad Fuad Karimi
+H854,Zakho Community Hospital 854,Zakho,Public,122,"Research, Paediatrics",Dr. Dara Omar Ahmad
+H855,Halabja General Hospital 855,Halabja,Private,234,"Paediatrics, Cardiac Surgery, Emergency",Dr. Mazin Barzan Taha
+H856,Halabja Teaching Hospital 856,Halabja,Teaching,592,"Orthopaedics, General, Mental Health, Research",Dr. Rozhan Karim Hasan
+H857,Duhok General Hospital 857,Duhok,Specialist,645,"Research, Paediatrics, General",Dr. Rozhan Salam Rashid
+H858,Erbil Private Hospital 858,Erbil,Private,455,"Orthopaedics, General, Oncology, Neurology",Dr. Narin Nawzad Aziz
+H859,Duhok Private Hospital 859,Duhok,Public,196,"Research, Cardiac Surgery, Cardiology, Emergency",Dr. Zhyan Dara Mustafa
+H860,Erbil Specialist Hospital 860,Erbil,Teaching,150,"Neurology, Surgery, Endocrinology, General",Dr. Dilan Sherzad Nuri
+H861,Sulaymaniyah Specialist Hospital 861,Sulaymaniyah,Private,279,"Endocrinology, Research, Cardiac Surgery",Dr. Alan Salam Nuri
+H862,Erbil Specialist Hospital 862,Erbil,Teaching,248,"Cardiac Surgery, Endocrinology, Research",Dr. Dashni Kamaran Karimi
+H863,Erbil Community Hospital 863,Erbil,Private,511,"Neurology, Cardiology, Haematology, Nephrology",Dr. Chnar Mohammed Hama
+H864,Sulaymaniyah General Hospital 864,Sulaymaniyah,Specialist,112,"General, Cardiac Surgery, Neurology",Dr. Randa Bakr Ali
+H865,Halabja Teaching Hospital 865,Halabja,Specialist,144,"Mental Health, Endocrinology, Orthopaedics, Cardiac Surgery",Dr. Chnar Farhad Said
+H866,Duhok Medical Hospital 866,Duhok,Specialist,433,"Cardiology, Paediatrics, Haematology, Emergency",Dr. Zhyan Barzan Qadir
+H867,Erbil Medical Hospital 867,Erbil,Public,120,"Orthopaedics, Cardiac Surgery, Emergency, Nephrology",Dr. Dilan Rizgar Tahir
+H868,Duhok Community Hospital 868,Duhok,Private,303,"Endocrinology, Haematology",Dr. Karwan Fuad Hasan
+H869,Sulaymaniyah Medical Hospital 869,Sulaymaniyah,Teaching,357,"Mental Health, Paediatrics, General",Dr. Zhyan Jamal Tahir
+H870,Duhok Specialist Hospital 870,Duhok,Private,427,"Cardiac Surgery, Research",Dr. Dashni Aziz Othman
+H871,Zakho Medical Hospital 871,Zakho,Specialist,234,"General, Emergency, Neurology",Dr. Layla Fuad Said
+H872,Duhok Medical Hospital 872,Duhok,Private,510,"Mental Health, Cardiac Surgery",Dr. Randa Aryan Othman
+H873,Sulaymaniyah Medical Hospital 873,Sulaymaniyah,Specialist,116,"Endocrinology, Oncology",Dr. Randa Raber Omar
+H874,Halabja General Hospital 874,Halabja,Specialist,53,"Cardiology, General, Emergency, Orthopaedics",Dr. Nawzad Farhad Mustafa
+H875,Halabja Specialist Hospital 875,Halabja,Specialist,100,"General, Surgery, Cardiology, Mental Health",Dr. Dilan Salam Rashid
+H876,Zakho Private Hospital 876,Zakho,Public,402,"Mental Health, Oncology, Surgery",Dr. Salih Rebaz Faris
+H877,Zakho Medical Hospital 877,Zakho,Specialist,187,"Cardiology, Neurology",Dr. Yara Latif Rashid
+H878,Erbil General Hospital 878,Erbil,Specialist,363,"Research, Haematology, Mental Health, Cardiac Surgery",Dr. Bestun Aziz Karim
+H879,Zakho Teaching Hospital 879,Zakho,Public,657,"Research, Emergency, Nephrology, Haematology",Dr. Baran Farid Karimi
+H880,Duhok General Hospital 880,Duhok,Private,632,"Research, Haematology",Dr. Dashni Mustafa Salih
+H881,Halabja Private Hospital 881,Halabja,Specialist,415,"Oncology, Research, General, Cardiac Surgery",Dr. Hawkar Nawzad Faris
+H882,Duhok Private Hospital 882,Duhok,Teaching,604,"Haematology, Mental Health, Paediatrics, Orthopaedics",Dr. Randa Raber Rashid
+H883,Erbil Medical Hospital 883,Erbil,Teaching,561,"Paediatrics, Neurology, Surgery, Nephrology",Dr. Chnar Sherzad Nuri
+H884,Duhok Community Hospital 884,Duhok,Teaching,271,"Mental Health, Nephrology, Research, Endocrinology",Dr. Jalal Ihsan Tahir
+H885,Zakho Community Hospital 885,Zakho,Teaching,198,"Emergency, Paediatrics, Cardiology, Oncology",Dr. Zhyan Omar Qadir
+H886,Sulaymaniyah General Hospital 886,Sulaymaniyah,Public,202,"Haematology, Neurology, Nephrology, Mental Health",Dr. Yara Mustafa Karim
+H887,Erbil Community Hospital 887,Erbil,Private,265,"Emergency, Haematology",Dr. Xezal Ihsan Othman
+H888,Erbil Teaching Hospital 888,Erbil,Private,90,"Cardiology, Orthopaedics, Surgery, Paediatrics",Dr. Tara Farhad Mahmoud
+H889,Halabja Teaching Hospital 889,Halabja,Teaching,287,"Endocrinology, Cardiac Surgery, Nephrology, Paediatrics",Dr. Mazin Hama Ali
+H890,Sulaymaniyah Medical Hospital 890,Sulaymaniyah,Teaching,612,"Oncology, General, Nephrology, Emergency",Dr. Rebaz Saber Karim
+H891,Halabja General Hospital 891,Halabja,Private,462,"Oncology, Surgery",Dr. Nawzad Rizgar Hasan
+H892,Sulaymaniyah Specialist Hospital 892,Sulaymaniyah,Private,180,"Research, Cardiology, Paediatrics, Orthopaedics",Dr. Naz Aryan Nuri
+H893,Erbil Medical Hospital 893,Erbil,Public,300,"Paediatrics, Surgery, Haematology, Research",Dr. Kamaran Farhad Kadir
+H894,Zakho Specialist Hospital 894,Zakho,Specialist,556,"Mental Health, General, Research, Cardiac Surgery",Dr. Aryan Saeed Hasan
+H895,Erbil Medical Hospital 895,Erbil,Teaching,266,"Orthopaedics, Cardiology, Oncology",Dr. Saman Farhad Ali
+H896,Sulaymaniyah Specialist Hospital 896,Sulaymaniyah,Public,120,"Surgery, Cardiac Surgery",Dr. Vian Fuad Tahir
+H897,Erbil Community Hospital 897,Erbil,Public,683,"Paediatrics, Oncology",Dr. Pishtiwan Latif Karimi
+H898,Sulaymaniyah Medical Hospital 898,Sulaymaniyah,Teaching,477,"Cardiac Surgery, Research, Paediatrics, Mental Health",Dr. Dara Sherzad Kadir
+H899,Sulaymaniyah Teaching Hospital 899,Sulaymaniyah,Specialist,54,"Cardiology, Haematology, Surgery, Endocrinology",Dr. Salih Raber Ali
+H900,Duhok General Hospital 900,Duhok,Private,643,"Emergency, Endocrinology, Neurology",Dr. Pishtiwan Saber Nasser
+H901,Erbil Private Hospital 901,Erbil,Private,548,"General, Neurology",Dr. Nawzad Fuad Kadir
+H902,Halabja Teaching Hospital 902,Halabja,Public,51,"Neurology, Emergency, Oncology",Dr. Hawkar Latif Mustafa
+H903,Halabja Community Hospital 903,Halabja,Public,269,"Emergency, Haematology, Nephrology, Cardiac Surgery",Dr. Avan Saeed Hama
+H904,Halabja Teaching Hospital 904,Halabja,Teaching,564,"Paediatrics, Research, Orthopaedics",Dr. Karwan Jalal Mustafa
+H905,Duhok Private Hospital 905,Duhok,Specialist,428,"General, Orthopaedics, Neurology",Dr. Zeynep Mohammed Hama
+H906,Erbil Medical Hospital 906,Erbil,Specialist,241,"Nephrology, Mental Health, Oncology",Dr. Saman Hama Ali
+H907,Duhok Medical Hospital 907,Duhok,Public,286,"General, Oncology",Dr. Vian Kamaran Kadir
+H908,Zakho Community Hospital 908,Zakho,Private,633,"Cardiac Surgery, Oncology, Endocrinology, Mental Health",Dr. Rozhan Aziz Karim
+H909,Erbil Medical Hospital 909,Erbil,Private,332,"Mental Health, Neurology",Dr. Yara Jamal Karimi
+H910,Halabja Specialist Hospital 910,Halabja,Public,477,"Paediatrics, Mental Health, General",Dr. Dilan Mustafa Nuri
+H911,Halabja Community Hospital 911,Halabja,Teaching,160,"General, Paediatrics",Dr. Zeynep Salam Ali
+H912,Sulaymaniyah General Hospital 912,Sulaymaniyah,Public,231,"Mental Health, Endocrinology, Cardiac Surgery",Dr. Layla Bakr Saeed
+H913,Duhok Private Hospital 913,Duhok,Specialist,118,"Paediatrics, Research",Dr. Yara Latif Karimi
+H914,Halabja Specialist Hospital 914,Halabja,Teaching,326,"Neurology, Mental Health, Cardiology",Dr. Randa Salam Taha
+H915,Sulaymaniyah Medical Hospital 915,Sulaymaniyah,Private,580,"Research, Cardiac Surgery, General",Dr. Vian Sherzad Mustafa
+H916,Duhok Medical Hospital 916,Duhok,Specialist,677,"Endocrinology, Research, Surgery, Cardiology",Dr. Hawkar Rizgar Tahir
+H917,Zakho Community Hospital 917,Zakho,Teaching,231,"Emergency, General",Dr. Saman Aryan Saeed
+H918,Sulaymaniyah General Hospital 918,Sulaymaniyah,Public,339,"Nephrology, Cardiology, Mental Health, Cardiac Surgery",Dr. Baran Aryan Hasan
+H919,Halabja Specialist Hospital 919,Halabja,Public,136,"Cardiology, Neurology, Nephrology, Endocrinology",Dr. Kavar Latif Tahir
+H920,Zakho Community Hospital 920,Zakho,Private,472,"Orthopaedics, Emergency, Cardiology, Neurology",Dr. Tara Farid Hassan
+H921,Erbil Teaching Hospital 921,Erbil,Public,205,"General, Cardiology, Paediatrics, Neurology",Dr. Dilan Sherzad Aziz
+H922,Duhok Private Hospital 922,Duhok,Specialist,462,"Haematology, Emergency, Surgery",Dr. Xezal Sherzad Salih
+H923,Halabja General Hospital 923,Halabja,Public,303,"Surgery, Oncology, Paediatrics, Endocrinology",Dr. Yara Rebaz Othman
+H924,Duhok Community Hospital 924,Duhok,Teaching,640,"Haematology, Neurology",Dr. Randa Hama Taha
+H925,Sulaymaniyah Private Hospital 925,Sulaymaniyah,Public,147,"Surgery, Mental Health",Dr. Hawkar Salam Karimi
+H926,Halabja Specialist Hospital 926,Halabja,Teaching,462,"Orthopaedics, Cardiology",Dr. Jalal Saeed Saeed
+H927,Sulaymaniyah Specialist Hospital 927,Sulaymaniyah,Public,178,"Surgery, Neurology",Dr. Avan Karim Kadir
+H928,Zakho Teaching Hospital 928,Zakho,Private,211,"Paediatrics, Cardiology, Mental Health",Dr. Layla Farid Ali
+H929,Sulaymaniyah Specialist Hospital 929,Sulaymaniyah,Specialist,501,"Orthopaedics, Surgery",Dr. Zhyan Rebaz Karim
+H930,Zakho General Hospital 930,Zakho,Private,699,"Endocrinology, Oncology, Emergency",Dr. Nawzad Saeed Said
+H931,Zakho Private Hospital 931,Zakho,Teaching,103,"Haematology, Cardiac Surgery, Nephrology, Paediatrics",Dr. Jalal Kamaran Karim
+H932,Zakho Teaching Hospital 932,Zakho,Teaching,232,"General, Paediatrics",Dr. Rozhan Kamaran Karimi
+H933,Erbil Teaching Hospital 933,Erbil,Teaching,124,"Cardiac Surgery, General",Dr. Sardar Kamaran Othman
+H934,Halabja Private Hospital 934,Halabja,Private,402,"Oncology, Neurology, Paediatrics",Dr. Pishtiwan Bakr Omar
+H935,Duhok Specialist Hospital 935,Duhok,Private,657,"Haematology, Cardiac Surgery",Dr. Dara Fuad Omar
+H936,Sulaymaniyah Community Hospital 936,Sulaymaniyah,Public,614,"Research, Cardiac Surgery, Oncology, Orthopaedics",Dr. Baran Mustafa Aziz
+H937,Halabja Teaching Hospital 937,Halabja,Private,520,"Mental Health, Orthopaedics, Nephrology",Dr. Farhad Farhad Omar
+H938,Halabja General Hospital 938,Halabja,Private,287,"Cardiac Surgery, General, Neurology",Dr. Wrya Rebaz Hama
+H939,Sulaymaniyah General Hospital 939,Sulaymaniyah,Private,122,"Emergency, Nephrology, Research, Endocrinology",Dr. Shilan Karim Omar
+H940,Halabja Community Hospital 940,Halabja,Private,376,"Mental Health, Cardiology",Dr. Mazin Dara Ahmad
+H941,Zakho Private Hospital 941,Zakho,Specialist,53,"Research, General",Dr. Rebaz Fuad Tahir
+H942,Erbil Private Hospital 942,Erbil,Teaching,641,"Surgery, Endocrinology, Neurology, Emergency",Dr. Rami Sherzad Mahmoud
+H943,Sulaymaniyah Specialist Hospital 943,Sulaymaniyah,Specialist,178,"Haematology, Surgery, Nephrology",Dr. Karwan Ihsan Said
+H944,Erbil Specialist Hospital 944,Erbil,Teaching,417,"Research, Cardiology, Emergency, Neurology",Dr. Pishtiwan Karim Saeed
+H945,Sulaymaniyah Specialist Hospital 945,Sulaymaniyah,Private,85,"Research, Nephrology, Cardiology, Orthopaedics",Dr. Tara Sherzad Mustafa
+H946,Duhok Specialist Hospital 946,Duhok,Private,412,"Emergency, Haematology",Dr. Randa Karim Ahmad
+H947,Erbil General Hospital 947,Erbil,Public,285,"Haematology, Paediatrics, Neurology, Research",Dr. Bestun Ihsan Mahmoud
+H948,Duhok Private Hospital 948,Duhok,Teaching,116,"General, Research, Cardiac Surgery, Nephrology",Dr. Rebaz Ihsan Karim
+H949,Sulaymaniyah Teaching Hospital 949,Sulaymaniyah,Specialist,548,"Neurology, Oncology",Dr. Fuad Mustafa Faris
+H950,Erbil Private Hospital 950,Erbil,Private,271,"Nephrology, Mental Health",Dr. Jalal Jalal Rashid
+H951,Halabja General Hospital 951,Halabja,Private,411,"Cardiology, Endocrinology, Surgery",Dr. Saman Rizgar Faris
+H952,Duhok Teaching Hospital 952,Duhok,Specialist,374,"Cardiology, Oncology",Dr. Nawzad Nawzad Nuri
+H953,Zakho Teaching Hospital 953,Zakho,Private,294,"Cardiology, Neurology",Dr. Hawkar Aziz Said
+H954,Halabja Medical Hospital 954,Halabja,Specialist,392,"Orthopaedics, General",Dr. Nawzad Saber Othman
+H955,Erbil General Hospital 955,Erbil,Public,571,"Nephrology, Surgery",Dr. Sardar Ihsan Ahmad
+H956,Zakho Specialist Hospital 956,Zakho,Public,95,"Research, Cardiac Surgery, Cardiology, Mental Health",Dr. Naz Omar Aziz
+H957,Sulaymaniyah Specialist Hospital 957,Sulaymaniyah,Public,607,"Cardiac Surgery, Neurology",Dr. Shilan Rebaz Karimi
+H958,Sulaymaniyah Community Hospital 958,Sulaymaniyah,Specialist,595,"Haematology, Cardiology, Nephrology",Dr. Chnar Farhad Hama
+H959,Sulaymaniyah Teaching Hospital 959,Sulaymaniyah,Specialist,61,"Neurology, Emergency",Dr. Kavar Rizgar Rashid
+H960,Erbil Specialist Hospital 960,Erbil,Specialist,311,"Mental Health, Neurology",Dr. Kavar Karim Taha
+H961,Duhok Specialist Hospital 961,Duhok,Specialist,419,"Cardiology, General",Dr. Karwan Mohammed Hassan
+H962,Duhok Medical Hospital 962,Duhok,Teaching,163,"Cardiology, General",Dr. Helin Jalal Nuri
+H963,Duhok Specialist Hospital 963,Duhok,Teaching,186,"Cardiac Surgery, Paediatrics, Emergency",Dr. Dilan Karim Karim
+H964,Sulaymaniyah Private Hospital 964,Sulaymaniyah,Teaching,483,"Oncology, Mental Health, Orthopaedics, Emergency",Dr. Dashni Farid Othman
+H965,Erbil Medical Hospital 965,Erbil,Specialist,617,"Endocrinology, Nephrology, Cardiology",Dr. Dashni Fuad Omar
+H966,Zakho Private Hospital 966,Zakho,Specialist,525,"Research, Cardiology, Orthopaedics",Dr. Karwan Farid Taha
+H967,Halabja Community Hospital 967,Halabja,Private,679,"Surgery, Emergency",Dr. Dashni Farhad Hama
+H968,Sulaymaniyah General Hospital 968,Sulaymaniyah,Public,331,"Surgery, Paediatrics, Orthopaedics",Dr. Xezal Jalal Hasan
+H969,Duhok Specialist Hospital 969,Duhok,Public,517,"Cardiac Surgery, Surgery, Haematology",Dr. Lana Saber Nasser
+H970,Halabja Community Hospital 970,Halabja,Specialist,369,"General, Paediatrics, Emergency, Mental Health",Dr. Zhyan Ihsan Hama
+H971,Erbil Specialist Hospital 971,Erbil,Teaching,684,"Endocrinology, Research, Surgery",Dr. Helin Aryan Nasser
+H972,Halabja Private Hospital 972,Halabja,Private,83,"Orthopaedics, Mental Health, Haematology",Dr. Xezal Saber Salih
+H973,Halabja Teaching Hospital 973,Halabja,Specialist,133,"Emergency, Oncology",Dr. Kamaran Hama Kadir
+H974,Erbil Medical Hospital 974,Erbil,Specialist,517,"Surgery, Research",Dr. Layla Farid Karimi
+H975,Zakho Private Hospital 975,Zakho,Private,519,"Endocrinology, Research",Dr. Farhad Rizgar Kadir
+H976,Sulaymaniyah General Hospital 976,Sulaymaniyah,Teaching,394,"Research, Nephrology, Mental Health, Cardiac Surgery",Dr. Lana Rizgar Ali
+H977,Duhok Specialist Hospital 977,Duhok,Specialist,516,"Paediatrics, Endocrinology",Dr. Dashni Kamaran Aziz
+H978,Halabja Community Hospital 978,Halabja,Public,82,"Oncology, Mental Health, Cardiac Surgery, Nephrology",Dr. Zhyan Rebaz Rashid
+H979,Erbil Specialist Hospital 979,Erbil,Teaching,556,"Endocrinology, Nephrology",Dr. Karwan Jalal Saeed
+H980,Duhok Medical Hospital 980,Duhok,Teaching,553,"Cardiac Surgery, Paediatrics",Dr. Jalal Kamaran Hassan
+H981,Duhok General Hospital 981,Duhok,Specialist,468,"Cardiac Surgery, Neurology",Dr. Aryan Omar Aziz
+H982,Zakho Specialist Hospital 982,Zakho,Teaching,357,"Oncology, Haematology, Nephrology",Dr. Rebaz Mohammed Ahmad
+H983,Duhok Community Hospital 983,Duhok,Public,170,"Haematology, Paediatrics, Cardiology, Cardiac Surgery",Dr. Fuad Rebaz Faris
+H984,Erbil Teaching Hospital 984,Erbil,Specialist,98,"Oncology, Research",Dr. Rozhan Rizgar Salih
+H985,Sulaymaniyah General Hospital 985,Sulaymaniyah,Specialist,483,"Orthopaedics, Oncology, Neurology",Dr. Salih Aryan Qadir
+H986,Zakho Private Hospital 986,Zakho,Public,268,"Emergency, Endocrinology, Mental Health",Dr. Dilan Saber Nuri
+H987,Halabja General Hospital 987,Halabja,Private,317,"Paediatrics, Emergency, Endocrinology",Dr. Zeynep Aryan Saeed
+H988,Duhok Medical Hospital 988,Duhok,Public,157,"Neurology, Surgery",Dr. Helin Mohammed Mustafa
+H989,Halabja Medical Hospital 989,Halabja,Public,320,"Orthopaedics, Oncology, Nephrology",Dr. Wrya Kamaran Mahmoud
+H990,Duhok General Hospital 990,Duhok,Teaching,658,"Endocrinology, Cardiology, Oncology, Paediatrics",Dr. Shilan Fuad Karimi
+H991,Erbil Teaching Hospital 991,Erbil,Teaching,252,"Orthopaedics, Endocrinology, Paediatrics",Dr. Avan Barzan Mahmoud
+H992,Zakho Specialist Hospital 992,Zakho,Teaching,265,"Nephrology, Endocrinology",Dr. Yara Farid Ali
+H993,Erbil Private Hospital 993,Erbil,Teaching,314,"Oncology, Orthopaedics, Cardiology, Cardiac Surgery",Dr. Hawkar Farhad Mustafa
+H994,Erbil Community Hospital 994,Erbil,Public,438,"Mental Health, Oncology",Dr. Layla Fuad Nasser
+H995,Sulaymaniyah Private Hospital 995,Sulaymaniyah,Public,83,"Mental Health, Emergency, Orthopaedics",Dr. Xezal Farid Saeed
+H996,Erbil Private Hospital 996,Erbil,Specialist,498,"Neurology, Oncology, Mental Health",Dr. Mazin Karim Tahir
+H997,Sulaymaniyah Community Hospital 997,Sulaymaniyah,Specialist,172,"Mental Health, Oncology, Research",Dr. Randa Nawzad Nasser
+H998,Duhok Private Hospital 998,Duhok,Teaching,195,"Emergency, Cardiac Surgery, Nephrology, Neurology",Dr. Alan Mustafa Ahmad
+H999,Erbil Community Hospital 999,Erbil,Private,499,"Nephrology, Research, Endocrinology",Dr. Tara Raber Rashid
+H1000,Zakho Community Hospital 1000,Zakho,Teaching,111,"Cardiac Surgery, Mental Health",Dr. Jalal Jalal Kadir

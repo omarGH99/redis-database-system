@@ -1,0 +1,1001 @@
+dept_id,department_name,university,head_professor,students,budget_usd
+D01,Computer Science,UKH,Dr. Khalid Aziz,320,480000
+D02,Data Science,UKH,Dr. Sana Younis Karim,210,360000
+D03,Cybersecurity,UKH,Dr. Rami Faris Hama,180,420000
+D04,Software Engineering,SPU,Dr. Laila Omar Said,410,520000
+D05,Electrical Engineering,SPU,Dr. Hama Ali Qadir,290,510000
+D06,Mathematics,UZakho,Dr. Farhad Karim Aziz,240,280000
+D07,Computer Science,UZakho,Dr. Narin Salih Omar,310,390000
+D08,Electrical Engineering,UoS,Dr. Saeed Rashid Hama,520,600000
+D09,Data Science,UoS,Dr. Zana Azad Tahir,280,340000
+D10,Business Informatics,EBU,Dr. Aryan Jalal Said,390,460000
+D11,Mathematics,SPU,Dr. Bestun Nazar Ali,200,270000
+D12,Software Engineering,UKH,Dr. Chnar Rebaz Hasan,260,400000
+D013,Data Science,U008,Dr. Kavar Rizgar Hama,872,403530
+D014,Business Informatics,U886,Dr. Hawkar Salam Said,799,636379
+D015,Data Science,U663,Dr. Avan Aziz Faris,814,527828
+D016,Data Science,U039,Dr. Karwan Mohammed Saeed,893,444144
+D017,Data Science,U572,Dr. Kamaran Ihsan Kadir,497,586881
+D018,Business Informatics,U462,Dr. Bestun Hama Hassan,478,886004
+D019,Network Engineering,U122,Dr. Layla Farhad Qadir,144,794054
+D020,Data Science,U047,Dr. Wrya Latif Nasser,376,899195
+D021,Information Systems,U309,Dr. Shilan Dara Faris,470,594306
+D022,Computer Science,U842,Dr. Aryan Bakr Said,305,323006
+D023,Business Informatics,U765,Dr. Jalal Dara Hama,227,492534
+D024,Mathematics,U694,Dr. Layla Raber Said,224,309221
+D025,Computer Science,U043,Dr. Kamaran Sherzad Mahmoud,630,754122
+D026,Data Science,U970,Dr. Saman Salam Tahir,296,612699
+D027,Network Engineering,U928,Dr. Avan Bakr Saeed,306,826850
+D028,Electrical Engineering,U855,Dr. Helin Jalal Saeed,767,774849
+D029,Computer Science,U873,Dr. Farhad Rebaz Hama,642,256697
+D030,Data Science,U298,Dr. Narin Jalal Taha,823,788798
+D031,Mathematics,U499,Dr. Wrya Farid Othman,751,425925
+D032,Electrical Engineering,U103,Dr. Rami Omar Taha,405,689462
+D033,Mathematics,U462,Dr. Rami Rizgar Salih,790,792546
+D034,Information Systems,U157,Dr. Kamaran Barzan Ali,518,356831
+D035,Mathematics,EBU,Dr. Mazin Mustafa Nuri,809,851967
+D036,Electrical Engineering,U447,Dr. Xezal Farid Othman,830,527668
+D037,Artificial Intelligence,U899,Dr. Dashni Rebaz Tahir,873,500310
+D038,Network Engineering,U499,Dr. Hawkar Bakr Hama,701,265955
+D039,Electrical Engineering,U862,Dr. Naz Raber Taha,349,949177
+D040,Data Science,U908,Dr. Karwan Aziz Aziz,726,212709
+D041,Information Systems,U833,Dr. Nawzad Jamal Hasan,297,218436
+D042,Electrical Engineering,U565,Dr. Jalal Raber Karim,749,335852
+D043,Business Informatics,U375,Dr. Lana Saeed Hasan,830,485134
+D044,Artificial Intelligence,U138,Dr. Fuad Latif Mustafa,486,561540
+D045,Computer Science,U515,Dr. Mazin Mustafa Qadir,780,353899
+D046,Network Engineering,U776,Dr. Naz Rebaz Saeed,263,773868
+D047,Information Systems,U972,Dr. Avan Karim Karim,447,222383
+D048,Artificial Intelligence,U225,Dr. Lana Omar Kadir,458,425386
+D049,Software Engineering,U044,Dr. Salih Mustafa Tahir,477,672489
+D050,Artificial Intelligence,U940,Dr. Zhyan Mohammed Hama,411,288239
+D051,Network Engineering,U721,Dr. Pishtiwan Karim Kadir,672,750792
+D052,Cybersecurity,U584,Dr. Yara Farhad Mahmoud,454,796225
+D053,Data Science,U670,Dr. Salih Saber Mahmoud,308,721455
+D054,Mathematics,U416,Dr. Wrya Fuad Karim,698,186918
+D055,Cybersecurity,U514,Dr. Chnar Bakr Nuri,158,719535
+D056,Electrical Engineering,U659,Dr. Kavar Farid Saeed,241,559818
+D057,Data Science,U617,Dr. Lana Nawzad Ali,817,298844
+D058,Artificial Intelligence,U494,Dr. Aryan Salam Hasan,245,858700
+D059,Business Informatics,U854,Dr. Sardar Ihsan Karimi,210,781344
+D060,Cybersecurity,U607,Dr. Naz Farhad Aziz,120,780067
+D061,Computer Science,U151,Dr. Baran Saber Saeed,609,605151
+D062,Information Systems,U614,Dr. Sardar Karim Othman,370,269913
+D063,Artificial Intelligence,U222,Dr. Azad Fuad Karim,254,410019
+D064,Business Informatics,U851,Dr. Azad Farid Hasan,865,370719
+D065,Network Engineering,U639,Dr. Narin Bakr Othman,430,655497
+D066,Information Systems,U611,Dr. Karwan Ihsan Mahmoud,474,318635
+D067,Computer Science,U112,Dr. Helin Latif Aziz,780,620186
+D068,Cybersecurity,U847,Dr. Azad Jalal Saeed,567,824610
+D069,Computer Science,U615,Dr. Jalal Latif Nasser,175,685666
+D070,Cybersecurity,U676,Dr. Azad Raber Hassan,873,891521
+D071,Business Informatics,U665,Dr. Salih Nawzad Tahir,124,911531
+D072,Business Informatics,U543,Dr. Lana Mustafa Karim,888,579755
+D073,Information Systems,U359,Dr. Kamaran Jalal Omar,217,446881
+D074,Software Engineering,U489,Dr. Shilan Dara Qadir,636,608497
+D075,Software Engineering,U264,Dr. Layla Kamaran Hassan,671,727923
+D076,Network Engineering,U121,Dr. Layla Jamal Hama,290,901175
+D077,Mathematics,U824,Dr. Alan Barzan Nasser,238,626768
+D078,Information Systems,U668,Dr. Narin Saber Said,513,772099
+D079,Information Systems,U375,Dr. Pishtiwan Rizgar Mahmoud,853,393588
+D080,Network Engineering,U424,Dr. Farhad Fuad Saeed,459,766252
+D081,Artificial Intelligence,U569,Dr. Narin Dara Hasan,432,919764
+D082,Cybersecurity,U408,Dr. Randa Karim Nuri,537,913281
+D083,Cybersecurity,U973,Dr. Hawkar Salam Aziz,490,534877
+D084,Network Engineering,U821,Dr. Rami Kamaran Othman,803,234581
+D085,Business Informatics,U165,Dr. Layla Mustafa Mustafa,228,674580
+D086,Information Systems,U949,Dr. Bestun Omar Mustafa,349,412542
+D087,Data Science,U380,Dr. Azad Mohammed Mahmoud,490,823789
+D088,Network Engineering,U672,Dr. Rozhan Kamaran Qadir,138,363785
+D089,Artificial Intelligence,U656,Dr. Chnar Aziz Taha,752,723323
+D090,Software Engineering,U293,Dr. Zhyan Mustafa Qadir,602,720869
+D091,Software Engineering,U716,Dr. Rami Bakr Othman,116,557214
+D092,Computer Science,U245,Dr. Baran Omar Kadir,878,598836
+D093,Business Informatics,U362,Dr. Zeynep Aryan Taha,610,196112
+D094,Data Science,U755,Dr. Shilan Raber Salih,823,766273
+D095,Information Systems,U937,Dr. Wrya Barzan Kadir,311,815818
+D096,Software Engineering,U987,Dr. Dashni Jamal Hasan,84,453791
+D097,Business Informatics,U180,Dr. Fuad Jalal Said,154,707611
+D098,Mathematics,U302,Dr. Randa Mustafa Aziz,343,744032
+D099,Information Systems,U833,Dr. Narin Kamaran Faris,466,770525
+D100,Software Engineering,U496,Dr. Vian Saeed Faris,777,663100
+D101,Information Systems,U919,Dr. Sardar Fuad Nasser,344,250835
+D102,Software Engineering,U392,Dr. Lana Mustafa Ali,502,550248
+D103,Network Engineering,U529,Dr. Layla Kamaran Kadir,334,481244
+D104,Business Informatics,U096,Dr. Vian Omar Said,262,679704
+D105,Mathematics,U322,Dr. Kavar Aryan Kadir,267,896289
+D106,Software Engineering,U953,Dr. Rebaz Karim Taha,320,433814
+D107,Electrical Engineering,U894,Dr. Kavar Ihsan Taha,335,828645
+D108,Cybersecurity,U365,Dr. Hawkar Jalal Mustafa,772,875650
+D109,Information Systems,U505,Dr. Layla Saeed Said,123,685719
+D110,Information Systems,U381,Dr. Tara Fuad Hasan,361,694646
+D111,Network Engineering,U188,Dr. Pishtiwan Jamal Nuri,848,784677
+D112,Computer Science,U132,Dr. Salih Mustafa Omar,569,747036
+D113,Network Engineering,U034,Dr. Wrya Jamal Othman,874,363291
+D114,Data Science,U469,Dr. Salih Rebaz Ali,785,188827
+D115,Software Engineering,U013,Dr. Yara Aryan Nasser,413,559167
+D116,Electrical Engineering,U628,Dr. Dara Raber Kadir,322,462495
+D117,Information Systems,U483,Dr. Vian Barzan Saeed,590,624536
+D118,Business Informatics,U216,Dr. Xezal Barzan Mahmoud,366,652623
+D119,Information Systems,U185,Dr. Naz Aryan Othman,314,284721
+D120,Electrical Engineering,U739,Dr. Mazin Raber Omar,470,385587
+D121,Cybersecurity,U150,Dr. Aryan Mustafa Hassan,260,621996
+D122,Cybersecurity,U512,Dr. Salih Raber Ali,884,690258
+D123,Electrical Engineering,U308,Dr. Farhad Aryan Karimi,487,283782
+D124,Cybersecurity,U708,Dr. Dilan Salam Kadir,567,840458
+D125,Artificial Intelligence,U099,Dr. Vian Saber Tahir,448,767569
+D126,Electrical Engineering,U571,Dr. Wrya Aziz Omar,204,548145
+D127,Information Systems,U889,Dr. Helin Aryan Hasan,745,860663
+D128,Cybersecurity,U552,Dr. Rozhan Barzan Ali,769,715239
+D129,Artificial Intelligence,U500,Dr. Shilan Jamal Qadir,373,666279
+D130,Cybersecurity,U647,Dr. Baran Farhad Ali,511,841938
+D131,Information Systems,U628,Dr. Zeynep Omar Mustafa,245,540317
+D132,Mathematics,U234,Dr. Tara Farhad Salih,807,460465
+D133,Business Informatics,U620,Dr. Pishtiwan Rebaz Tahir,845,795429
+D134,Artificial Intelligence,U534,Dr. Alan Bakr Saeed,103,311113
+D135,Software Engineering,U746,Dr. Narin Karim Ahmad,847,263953
+D136,Cybersecurity,U216,Dr. Zeynep Jalal Nasser,145,676171
+D137,Computer Science,U562,Dr. Sardar Saeed Mahmoud,616,267295
+D138,Electrical Engineering,U107,Dr. Rami Farid Mustafa,750,588783
+D139,Software Engineering,U317,Dr. Mazin Karim Salih,533,836912
+D140,Cybersecurity,U130,Dr. Salih Bakr Hassan,115,875781
+D141,Mathematics,U366,Dr. Aryan Rebaz Said,358,755191
+D142,Cybersecurity,U456,Dr. Jalal Bakr Hasan,691,658720
+D143,Information Systems,U647,Dr. Bestun Latif Hama,734,739713
+D144,Mathematics,U318,Dr. Aryan Raber Nuri,171,643324
+D145,Mathematics,U316,Dr. Alan Saber Rashid,390,191068
+D146,Network Engineering,UKH,Dr. Naz Barzan Salih,560,741091
+D147,Artificial Intelligence,U009,Dr. Aryan Dara Hassan,864,631344
+D148,Electrical Engineering,U818,Dr. Azad Ihsan Hassan,641,571794
+D149,Business Informatics,U194,Dr. Farhad Nawzad Mahmoud,335,351200
+D150,Business Informatics,U733,Dr. Yara Ihsan Kadir,161,622750
+D151,Software Engineering,U641,Dr. Salih Saeed Qadir,790,897897
+D152,Electrical Engineering,U279,Dr. Jalal Mustafa Kadir,502,377132
+D153,Data Science,U874,Dr. Dara Farid Salih,193,847830
+D154,Information Systems,U467,Dr. Chnar Saber Ahmad,717,695895
+D155,Mathematics,U193,Dr. Sardar Farid Karimi,627,203205
+D156,Data Science,U191,Dr. Rozhan Saber Rashid,812,639713
+D157,Computer Science,U745,Dr. Lana Omar Rashid,95,697555
+D158,Mathematics,U223,Dr. Alan Dara Karim,460,666208
+D159,Computer Science,U714,Dr. Vian Omar Rashid,137,459449
+D160,Business Informatics,U795,Dr. Karwan Raber Karim,265,381528
+D161,Electrical Engineering,U918,Dr. Yara Aziz Nasser,866,929398
+D162,Business Informatics,U255,Dr. Chnar Ihsan Karimi,283,663220
+D163,Data Science,U753,Dr. Salih Rizgar Taha,564,588024
+D164,Electrical Engineering,U698,Dr. Tara Bakr Hama,825,224235
+D165,Network Engineering,U763,Dr. Salih Jalal Kadir,572,849536
+D166,Software Engineering,U306,Dr. Xezal Mohammed Othman,303,298414
+D167,Business Informatics,U242,Dr. Tara Aziz Saeed,893,469511
+D168,Data Science,U599,Dr. Zeynep Mustafa Nuri,89,224033
+D169,Artificial Intelligence,U596,Dr. Azad Farid Tahir,869,273826
+D170,Cybersecurity,U255,Dr. Rebaz Omar Othman,713,534861
+D171,Computer Science,U954,Dr. Dilan Barzan Hama,237,915395
+D172,Data Science,U550,Dr. Naz Fuad Nuri,404,765472
+D173,Mathematics,U808,Dr. Chnar Karim Taha,101,902730
+D174,Mathematics,U387,Dr. Naz Saber Karimi,576,920951
+D175,Network Engineering,U449,Dr. Rozhan Raber Ahmad,581,378994
+D176,Cybersecurity,U581,Dr. Jalal Barzan Ali,829,671147
+D177,Information Systems,U282,Dr. Farhad Bakr Mustafa,623,342555
+D178,Electrical Engineering,U461,Dr. Narin Raber Tahir,544,180754
+D179,Network Engineering,U795,Dr. Yara Karim Saeed,99,829838
+D180,Mathematics,U878,Dr. Rami Ihsan Ali,818,246418
+D181,Network Engineering,U675,Dr. Yara Salam Aziz,779,701718
+D182,Network Engineering,U785,Dr. Avan Sherzad Salih,410,609711
+D183,Mathematics,U657,Dr. Randa Jalal Aziz,754,249918
+D184,Cybersecurity,U045,Dr. Dara Mohammed Taha,189,688947
+D185,Data Science,U197,Dr. Zhyan Aryan Hama,477,869880
+D186,Network Engineering,U502,Dr. Rami Kamaran Hasan,342,231470
+D187,Software Engineering,U376,Dr. Azad Kamaran Mustafa,93,398877
+D188,Artificial Intelligence,U672,Dr. Shilan Rebaz Hama,142,558458
+D189,Business Informatics,U572,Dr. Xezal Mustafa Ahmad,139,826901
+D190,Network Engineering,U273,Dr. Zhyan Karim Mustafa,391,261721
+D191,Software Engineering,U968,Dr. Salih Jalal Nasser,822,422239
+D192,Business Informatics,U545,Dr. Helin Salam Aziz,752,440846
+D193,Cybersecurity,U584,Dr. Farhad Karim Said,505,290639
+D194,Information Systems,U785,Dr. Wrya Rizgar Faris,799,877557
+D195,Data Science,U438,Dr. Baran Mustafa Saeed,643,601063
+D196,Mathematics,U517,Dr. Baran Raber Qadir,533,549438
+D197,Mathematics,U925,Dr. Farhad Hama Tahir,502,844001
+D198,Mathematics,U441,Dr. Azad Ihsan Hasan,638,404319
+D199,Network Engineering,U385,Dr. Narin Barzan Faris,538,596379
+D200,Computer Science,UKH,Dr. Rozhan Sherzad Hassan,610,321647
+D201,Electrical Engineering,U912,Dr. Layla Dara Nuri,299,510201
+D202,Electrical Engineering,U023,Dr. Farhad Latif Said,664,779378
+D203,Data Science,U159,Dr. Zhyan Rebaz Tahir,239,325131
+D204,Mathematics,U272,Dr. Nawzad Ihsan Nuri,342,494889
+D205,Information Systems,U095,Dr. Zeynep Aryan Taha,831,260951
+D206,Mathematics,U741,Dr. Aryan Bakr Karim,786,916989
+D207,Data Science,U591,Dr. Azad Farhad Salih,118,946288
+D208,Information Systems,U828,Dr. Yara Omar Karimi,869,530632
+D209,Business Informatics,U357,Dr. Alan Jalal Nuri,845,864488
+D210,Information Systems,U870,Dr. Layla Farhad Hama,471,236757
+D211,Network Engineering,U313,Dr. Zhyan Hama Said,658,336846
+D212,Network Engineering,U335,Dr. Lana Farid Karimi,769,947115
+D213,Artificial Intelligence,U403,Dr. Azad Aryan Aziz,172,412873
+D214,Electrical Engineering,U443,Dr. Zeynep Farid Rashid,424,266554
+D215,Information Systems,U488,Dr. Dilan Raber Mahmoud,348,269211
+D216,Network Engineering,U409,Dr. Bestun Saeed Ahmad,213,321422
+D217,Network Engineering,U493,Dr. Helin Fuad Mahmoud,747,779083
+D218,Network Engineering,U201,Dr. Rami Karim Aziz,332,434085
+D219,Electrical Engineering,U074,Dr. Bestun Hama Othman,669,273946
+D220,Business Informatics,U116,Dr. Bestun Barzan Tahir,275,516318
+D221,Information Systems,U353,Dr. Sardar Saeed Salih,253,546704
+D222,Artificial Intelligence,U632,Dr. Rami Farid Faris,125,424831
+D223,Mathematics,U205,Dr. Avan Saeed Mustafa,195,237187
+D224,Information Systems,U249,Dr. Avan Dara Hassan,431,907497
+D225,Data Science,U824,Dr. Saman Rebaz Karim,103,527997
+D226,Network Engineering,U215,Dr. Kavar Salam Said,615,451222
+D227,Artificial Intelligence,U562,Dr. Rami Karim Rashid,791,912697
+D228,Computer Science,U685,Dr. Yara Aryan Othman,619,225594
+D229,Cybersecurity,U262,Dr. Dilan Dara Taha,888,910361
+D230,Electrical Engineering,U633,Dr. Dilan Rebaz Hama,88,249832
+D231,Electrical Engineering,U398,Dr. Xezal Jalal Hassan,379,860956
+D232,Software Engineering,U396,Dr. Yara Latif Ahmad,181,510779
+D233,Information Systems,U497,Dr. Jalal Omar Saeed,283,704970
+D234,Artificial Intelligence,U990,Dr. Farhad Kamaran Hassan,120,439409
+D235,Network Engineering,U945,Dr. Saman Hama Karim,482,344631
+D236,Mathematics,U019,Dr. Wrya Barzan Hama,389,427678
+D237,Electrical Engineering,U514,Dr. Dilan Farhad Kadir,476,210897
+D238,Network Engineering,U967,Dr. Pishtiwan Ihsan Rashid,429,591929
+D239,Cybersecurity,U673,Dr. Shilan Karim Mahmoud,613,890929
+D240,Software Engineering,U628,Dr. Alan Ihsan Hasan,236,627180
+D241,Electrical Engineering,U994,Dr. Azad Hama Faris,635,318173
+D242,Cybersecurity,U212,Dr. Nawzad Raber Othman,899,392137
+D243,Cybersecurity,U884,Dr. Saman Kamaran Ahmad,616,321822
+D244,Cybersecurity,U441,Dr. Kamaran Bakr Ali,149,764413
+D245,Data Science,U546,Dr. Dara Hama Rashid,824,210915
+D246,Mathematics,U784,Dr. Alan Nawzad Salih,533,847782
+D247,Electrical Engineering,U956,Dr. Avan Saeed Taha,189,317935
+D248,Computer Science,U190,Dr. Rami Sherzad Kadir,700,774587
+D249,Software Engineering,U628,Dr. Azad Ihsan Nuri,783,207351
+D250,Data Science,U368,Dr. Aryan Farid Aziz,699,671534
+D251,Mathematics,U730,Dr. Dara Jamal Karim,565,324192
+D252,Software Engineering,U168,Dr. Lana Mohammed Omar,862,195743
+D253,Electrical Engineering,U948,Dr. Alan Ihsan Othman,287,394498
+D254,Cybersecurity,U068,Dr. Chnar Sherzad Karim,784,520677
+D255,Artificial Intelligence,U888,Dr. Mazin Nawzad Mahmoud,874,223858
+D256,Business Informatics,U623,Dr. Tara Jamal Qadir,840,779716
+D257,Network Engineering,U609,Dr. Salih Farhad Ahmad,885,220382
+D258,Data Science,U534,Dr. Chnar Rebaz Karimi,331,723899
+D259,Business Informatics,U551,Dr. Zhyan Raber Mahmoud,608,841282
+D260,Computer Science,U986,Dr. Helin Dara Faris,487,499348
+D261,Electrical Engineering,U793,Dr. Dashni Bakr Omar,381,822917
+D262,Computer Science,U942,Dr. Salih Farid Faris,741,653639
+D263,Network Engineering,U093,Dr. Randa Bakr Hasan,792,752949
+D264,Business Informatics,U139,Dr. Alan Hama Faris,105,367567
+D265,Information Systems,U465,Dr. Helin Rebaz Mustafa,336,519817
+D266,Cybersecurity,U709,Dr. Randa Omar Nasser,803,651228
+D267,Mathematics,U650,Dr. Shilan Latif Ahmad,473,942182
+D268,Network Engineering,U811,Dr. Rami Bakr Mahmoud,643,579095
+D269,Cybersecurity,U045,Dr. Vian Aryan Othman,233,349999
+D270,Cybersecurity,U890,Dr. Dara Saeed Ahmad,132,619963
+D271,Electrical Engineering,U316,Dr. Chnar Dara Hama,265,303264
+D272,Cybersecurity,U921,Dr. Helin Aziz Qadir,863,445406
+D273,Artificial Intelligence,U013,Dr. Rebaz Fuad Said,85,817517
+D274,Artificial Intelligence,U904,Dr. Mazin Salam Hasan,755,678820
+D275,Business Informatics,U465,Dr. Chnar Omar Qadir,694,186892
+D276,Network Engineering,U251,Dr. Pishtiwan Sherzad Hama,650,397723
+D277,Cybersecurity,U051,Dr. Avan Mohammed Hama,437,218504
+D278,Computer Science,U149,Dr. Kamaran Sherzad Salih,419,271962
+D279,Data Science,U051,Dr. Alan Bakr Saeed,768,478194
+D280,Information Systems,U626,Dr. Kamaran Mustafa Said,261,657456
+D281,Information Systems,U768,Dr. Xezal Mohammed Mustafa,866,493833
+D282,Mathematics,U331,Dr. Yara Omar Omar,643,248079
+D283,Artificial Intelligence,U300,Dr. Naz Jalal Ahmad,361,525200
+D284,Business Informatics,U540,Dr. Salih Salam Ahmad,294,821784
+D285,Data Science,U060,Dr. Kamaran Karim Hama,621,271928
+D286,Information Systems,U496,Dr. Rozhan Nawzad Qadir,404,452273
+D287,Information Systems,U539,Dr. Rami Barzan Rashid,709,769964
+D288,Network Engineering,U509,Dr. Rebaz Fuad Saeed,704,424026
+D289,Electrical Engineering,U726,Dr. Helin Aziz Nasser,104,667467
+D290,Data Science,U641,Dr. Kavar Mustafa Qadir,504,614153
+D291,Mathematics,U047,Dr. Wrya Raber Hama,297,191846
+D292,Software Engineering,U656,Dr. Rozhan Saber Mustafa,395,494870
+D293,Network Engineering,U519,Dr. Tara Saeed Hassan,196,899150
+D294,Mathematics,U342,Dr. Zeynep Karim Hasan,710,210531
+D295,Cybersecurity,U853,Dr. Helin Hama Ali,768,682381
+D296,Artificial Intelligence,U939,Dr. Zhyan Farhad Rashid,573,342934
+D297,Artificial Intelligence,U643,Dr. Jalal Hama Faris,882,614061
+D298,Computer Science,U951,Dr. Salih Dara Hasan,822,891141
+D299,Network Engineering,U324,Dr. Jalal Aziz Taha,671,898791
+D300,Mathematics,U340,Dr. Karwan Farid Kadir,111,535627
+D301,Network Engineering,U385,Dr. Baran Aryan Qadir,478,376481
+D302,Data Science,U610,Dr. Saman Kamaran Ali,806,213164
+D303,Business Informatics,U279,Dr. Shilan Fuad Nuri,460,653858
+D304,Electrical Engineering,U850,Dr. Kavar Latif Salih,259,297683
+D305,Computer Science,U384,Dr. Helin Omar Faris,598,206146
+D306,Artificial Intelligence,U819,Dr. Fuad Farid Taha,428,686957
+D307,Network Engineering,U751,Dr. Saman Saeed Ali,226,283024
+D308,Network Engineering,U842,Dr. Naz Salam Karimi,550,586415
+D309,Network Engineering,U731,Dr. Randa Aziz Salih,125,900426
+D310,Information Systems,U869,Dr. Shilan Hama Faris,127,288111
+D311,Electrical Engineering,U534,Dr. Sardar Aryan Salih,734,400039
+D312,Software Engineering,U329,Dr. Helin Dara Kadir,625,514652
+D313,Artificial Intelligence,U792,Dr. Randa Saber Rashid,241,466929
+D314,Computer Science,U118,Dr. Rami Raber Aziz,184,396612
+D315,Mathematics,U556,Dr. Farhad Hama Kadir,224,918568
+D316,Electrical Engineering,U824,Dr. Kamaran Ihsan Saeed,152,506503
+D317,Mathematics,U628,Dr. Jalal Rebaz Karimi,213,210401
+D318,Computer Science,U483,Dr. Hawkar Jamal Karimi,168,627181
+D319,Cybersecurity,U402,Dr. Azad Aryan Hama,786,913337
+D320,Information Systems,U457,Dr. Wrya Dara Ali,282,927528
+D321,Network Engineering,U777,Dr. Shilan Saeed Faris,661,318197
+D322,Artificial Intelligence,U096,Dr. Hawkar Rebaz Salih,780,855721
+D323,Artificial Intelligence,U728,Dr. Aryan Ihsan Nuri,227,826910
+D324,Mathematics,U265,Dr. Zeynep Bakr Ahmad,761,526373
+D325,Mathematics,U808,Dr. Dashni Fuad Hassan,146,678424
+D326,Mathematics,U116,Dr. Aryan Rebaz Saeed,369,545549
+D327,Information Systems,U619,Dr. Naz Latif Nasser,495,928969
+D328,Data Science,U816,Dr. Tara Raber Hama,152,496793
+D329,Artificial Intelligence,U546,Dr. Zeynep Aryan Omar,324,831034
+D330,Network Engineering,U250,Dr. Baran Fuad Mahmoud,147,537264
+D331,Information Systems,U214,Dr. Bestun Mustafa Omar,660,538823
+D332,Software Engineering,U558,Dr. Dara Rizgar Othman,159,926490
+D333,Artificial Intelligence,U588,Dr. Randa Aryan Qadir,554,521183
+D334,Data Science,U569,Dr. Chnar Bakr Salih,495,252988
+D335,Data Science,U613,Dr. Azad Saeed Mahmoud,415,698306
+D336,Computer Science,U661,Dr. Shilan Salam Rashid,674,847033
+D337,Computer Science,U830,Dr. Avan Rizgar Rashid,543,737062
+D338,Business Informatics,U299,Dr. Rami Aryan Faris,280,395651
+D339,Mathematics,U698,Dr. Saman Aryan Othman,391,635844
+D340,Mathematics,U736,Dr. Shilan Aryan Hassan,706,715218
+D341,Cybersecurity,U414,Dr. Rozhan Mohammed Tahir,642,235708
+D342,Network Engineering,UKH,Dr. Wrya Jalal Salih,111,426668
+D343,Information Systems,U443,Dr. Zeynep Farhad Ali,808,581384
+D344,Business Informatics,U416,Dr. Bestun Raber Taha,758,361833
+D345,Cybersecurity,U487,Dr. Helin Raber Mahmoud,448,617503
+D346,Electrical Engineering,U158,Dr. Naz Farid Hassan,153,859885
+D347,Cybersecurity,U017,Dr. Rebaz Rizgar Omar,219,268776
+D348,Business Informatics,U141,Dr. Dashni Mustafa Ahmad,698,626383
+D349,Cybersecurity,U639,Dr. Dashni Latif Omar,645,651907
+D350,Mathematics,U394,Dr. Lana Bakr Omar,699,187790
+D351,Artificial Intelligence,U592,Dr. Mazin Kamaran Aziz,355,610794
+D352,Network Engineering,U949,Dr. Kamaran Barzan Karimi,118,775748
+D353,Mathematics,U495,Dr. Randa Aryan Karim,787,263952
+D354,Network Engineering,U146,Dr. Pishtiwan Rebaz Aziz,160,728779
+D355,Information Systems,U912,Dr. Shilan Ihsan Karim,725,875978
+D356,Data Science,U984,Dr. Jalal Mustafa Hasan,399,822818
+D357,Mathematics,U055,Dr. Jalal Saeed Hassan,560,656089
+D358,Artificial Intelligence,U525,Dr. Kamaran Karim Ali,511,550057
+D359,Electrical Engineering,U984,Dr. Rozhan Bakr Karimi,791,806667
+D360,Electrical Engineering,U768,Dr. Kamaran Saber Karimi,724,676144
+D361,Cybersecurity,U593,Dr. Kamaran Mohammed Othman,378,834643
+D362,Electrical Engineering,U028,Dr. Rebaz Omar Rashid,597,260595
+D363,Electrical Engineering,U872,Dr. Narin Farid Qadir,367,468586
+D364,Electrical Engineering,U879,Dr. Layla Karim Nasser,698,363095
+D365,Information Systems,U932,Dr. Avan Rizgar Faris,458,363919
+D366,Software Engineering,U268,Dr. Rebaz Bakr Aziz,113,539502
+D367,Cybersecurity,U087,Dr. Azad Farid Karim,850,613007
+D368,Business Informatics,U789,Dr. Mazin Rizgar Faris,823,848545
+D369,Software Engineering,U172,Dr. Kamaran Karim Tahir,135,853459
+D370,Data Science,U271,Dr. Dilan Bakr Faris,488,679365
+D371,Artificial Intelligence,U309,Dr. Jalal Ihsan Mahmoud,779,919883
+D372,Artificial Intelligence,U400,Dr. Narin Farid Aziz,525,192439
+D373,Artificial Intelligence,U296,Dr. Yara Rizgar Ali,622,896047
+D374,Computer Science,U979,Dr. Hawkar Raber Hama,442,632760
+D375,Electrical Engineering,U626,Dr. Vian Saber Kadir,180,447747
+D376,Information Systems,U671,Dr. Zeynep Rebaz Othman,847,433542
+D377,Information Systems,U752,Dr. Helin Latif Ali,773,903809
+D378,Mathematics,U185,Dr. Farhad Aziz Othman,88,251252
+D379,Business Informatics,U013,Dr. Hawkar Latif Nasser,781,647604
+D380,Software Engineering,U360,Dr. Rozhan Saber Taha,114,204851
+D381,Data Science,U635,Dr. Dilan Sherzad Othman,302,808500
+D382,Data Science,U654,Dr. Randa Omar Qadir,213,574220
+D383,Information Systems,U673,Dr. Dara Jalal Ahmad,268,445641
+D384,Artificial Intelligence,U302,Dr. Karwan Farhad Faris,363,627724
+D385,Mathematics,U709,Dr. Narin Bakr Mustafa,363,245417
+D386,Business Informatics,U392,Dr. Vian Mohammed Kadir,351,366572
+D387,Data Science,U452,Dr. Rebaz Salam Qadir,482,367110
+D388,Artificial Intelligence,U661,Dr. Hawkar Farid Said,867,632202
+D389,Information Systems,U224,Dr. Hawkar Rebaz Ahmad,345,288304
+D390,Data Science,U036,Dr. Karwan Aryan Kadir,875,647541
+D391,Artificial Intelligence,U020,Dr. Avan Farhad Hama,80,219673
+D392,Business Informatics,U681,Dr. Pishtiwan Farid Ahmad,417,590339
+D393,Computer Science,U589,Dr. Fuad Kamaran Karim,569,637239
+D394,Data Science,U414,Dr. Jalal Ihsan Hassan,473,902742
+D395,Artificial Intelligence,U838,Dr. Randa Aryan Said,447,529636
+D396,Electrical Engineering,U699,Dr. Zeynep Mohammed Hama,742,275071
+D397,Network Engineering,U375,Dr. Vian Omar Faris,858,484043
+D398,Software Engineering,U664,Dr. Dara Raber Karimi,473,872829
+D399,Electrical Engineering,U196,Dr. Yara Jalal Hama,785,556712
+D400,Data Science,U499,Dr. Chnar Karim Taha,223,217432
+D401,Computer Science,U198,Dr. Nawzad Ihsan Karim,478,246052
+D402,Network Engineering,U812,Dr. Saman Fuad Said,540,197215
+D403,Mathematics,U038,Dr. Dilan Hama Karimi,495,303928
+D404,Network Engineering,U217,Dr. Dashni Rizgar Said,232,787488
+D405,Data Science,U239,Dr. Zhyan Karim Rashid,580,865592
+D406,Artificial Intelligence,U020,Dr. Rami Mohammed Nuri,798,860301
+D407,Computer Science,U134,Dr. Dara Farhad Karimi,394,282018
+D408,Information Systems,U468,Dr. Baran Aryan Mustafa,188,299726
+D409,Information Systems,U510,Dr. Rami Ihsan Mustafa,287,626915
+D410,Business Informatics,U346,Dr. Tara Jalal Othman,669,752401
+D411,Mathematics,U141,Dr. Kavar Saeed Karimi,687,361873
+D412,Data Science,U344,Dr. Randa Saber Rashid,855,615320
+D413,Mathematics,U173,Dr. Farhad Bakr Faris,329,790256
+D414,Cybersecurity,U042,Dr. Hawkar Mustafa Hama,707,574401
+D415,Cybersecurity,U797,Dr. Sardar Fuad Mustafa,86,187574
+D416,Data Science,U184,Dr. Nawzad Dara Omar,790,679135
+D417,Cybersecurity,U709,Dr. Kavar Farid Hama,357,728496
+D418,Business Informatics,U462,Dr. Mazin Bakr Qadir,788,219448
+D419,Cybersecurity,U611,Dr. Rebaz Sherzad Mustafa,722,495830
+D420,Business Informatics,U357,Dr. Layla Raber Nuri,276,303215
+D421,Data Science,U543,Dr. Rami Barzan Said,599,409927
+D422,Software Engineering,U476,Dr. Pishtiwan Mohammed Taha,195,336465
+D423,Artificial Intelligence,U702,Dr. Rebaz Bakr Saeed,766,225209
+D424,Mathematics,U056,Dr. Rozhan Salam Omar,337,530533
+D425,Artificial Intelligence,U632,Dr. Zhyan Jalal Karimi,630,364431
+D426,Computer Science,U162,Dr. Rebaz Latif Nasser,152,426729
+D427,Artificial Intelligence,U739,Dr. Nawzad Aryan Ali,509,388405
+D428,Mathematics,U766,Dr. Lana Saeed Nasser,413,418846
+D429,Software Engineering,U101,Dr. Alan Salam Mahmoud,305,257101
+D430,Information Systems,U483,Dr. Rebaz Mohammed Omar,228,406665
+D431,Information Systems,U951,Dr. Dashni Bakr Mahmoud,462,323030
+D432,Software Engineering,U469,Dr. Wrya Saber Taha,423,313391
+D433,Information Systems,U033,Dr. Dilan Saber Rashid,193,668148
+D434,Business Informatics,U470,Dr. Baran Saeed Ali,305,489499
+D435,Cybersecurity,U619,Dr. Rami Bakr Hasan,646,420860
+D436,Business Informatics,U089,Dr. Salih Fuad Taha,685,676489
+D437,Artificial Intelligence,U858,Dr. Pishtiwan Aziz Omar,833,438635
+D438,Mathematics,U254,Dr. Bestun Aryan Nuri,685,336206
+D439,Information Systems,U936,Dr. Layla Nawzad Karimi,121,673515
+D440,Network Engineering,U752,Dr. Zhyan Nawzad Aziz,483,682550
+D441,Data Science,U830,Dr. Chnar Fuad Nuri,165,765616
+D442,Computer Science,U772,Dr. Alan Salam Rashid,447,490158
+D443,Data Science,U245,Dr. Sardar Fuad Othman,392,349662
+D444,Artificial Intelligence,U721,Dr. Kamaran Karim Hasan,104,656935
+D445,Cybersecurity,U475,Dr. Zeynep Bakr Tahir,721,666849
+D446,Computer Science,U721,Dr. Karwan Jamal Ahmad,420,736710
+D447,Electrical Engineering,U034,Dr. Bestun Saeed Kadir,794,822254
+D448,Information Systems,U556,Dr. Kavar Mustafa Othman,162,830594
+D449,Mathematics,U902,Dr. Dilan Latif Othman,452,234067
+D450,Business Informatics,U114,Dr. Xezal Rebaz Qadir,121,563329
+D451,Cybersecurity,U376,Dr. Farhad Kamaran Mustafa,654,923793
+D452,Software Engineering,U793,Dr. Naz Hama Nuri,632,299073
+D453,Artificial Intelligence,U665,Dr. Nawzad Kamaran Taha,851,416388
+D454,Mathematics,U329,Dr. Pishtiwan Latif Othman,513,470607
+D455,Data Science,U056,Dr. Xezal Barzan Faris,577,705808
+D456,Data Science,U540,Dr. Aryan Kamaran Said,774,738739
+D457,Electrical Engineering,U922,Dr. Chnar Sherzad Tahir,899,886013
+D458,Data Science,U969,Dr. Helin Rebaz Mustafa,162,589660
+D459,Cybersecurity,U920,Dr. Rozhan Omar Nasser,248,469346
+D460,Cybersecurity,U115,Dr. Rebaz Farid Taha,613,837746
+D461,Electrical Engineering,U024,Dr. Alan Rizgar Said,215,676925
+D462,Business Informatics,U356,Dr. Chnar Karim Hama,101,485677
+D463,Data Science,U194,Dr. Sardar Mustafa Nuri,612,855987
+D464,Business Informatics,U344,Dr. Nawzad Hama Hama,741,522157
+D465,Information Systems,U498,Dr. Salih Raber Faris,548,498853
+D466,Cybersecurity,U581,Dr. Saman Bakr Kadir,312,687765
+D467,Electrical Engineering,U381,Dr. Dilan Farid Tahir,371,658073
+D468,Cybersecurity,U980,Dr. Rami Bakr Ahmad,628,479102
+D469,Cybersecurity,U187,Dr. Avan Bakr Nuri,199,223150
+D470,Information Systems,U325,Dr. Naz Rebaz Kadir,458,373458
+D471,Network Engineering,U211,Dr. Zhyan Rizgar Ali,432,335130
+D472,Artificial Intelligence,U382,Dr. Jalal Bakr Said,388,307391
+D473,Computer Science,U943,Dr. Zeynep Fuad Rashid,549,515772
+D474,Computer Science,U160,Dr. Jalal Latif Ali,742,919719
+D475,Artificial Intelligence,U303,Dr. Rozhan Saeed Hasan,762,334228
+D476,Information Systems,U819,Dr. Chnar Hama Ahmad,195,947180
+D477,Computer Science,U491,Dr. Naz Rizgar Said,199,503047
+D478,Business Informatics,U026,Dr. Rami Ihsan Faris,445,276973
+D479,Computer Science,U335,Dr. Azad Farhad Taha,677,732005
+D480,Electrical Engineering,U228,Dr. Helin Aziz Mustafa,631,647096
+D481,Data Science,U694,Dr. Fuad Jamal Taha,582,513193
+D482,Information Systems,U618,Dr. Fuad Mohammed Othman,449,596869
+D483,Business Informatics,U152,Dr. Xezal Jamal Tahir,92,478477
+D484,Mathematics,U354,Dr. Saman Rebaz Said,169,406172
+D485,Artificial Intelligence,U746,Dr. Alan Mustafa Faris,375,351746
+D486,Business Informatics,U826,Dr. Alan Farid Hasan,692,270259
+D487,Software Engineering,U148,Dr. Saman Fuad Aziz,423,249327
+D488,Information Systems,U956,Dr. Yara Omar Hassan,499,849836
+D489,Electrical Engineering,U937,Dr. Alan Bakr Said,553,924747
+D490,Cybersecurity,U582,Dr. Helin Bakr Mahmoud,376,760771
+D491,Computer Science,U503,Dr. Saman Aryan Salih,585,766448
+D492,Artificial Intelligence,U758,Dr. Lana Aziz Hassan,237,455436
+D493,Artificial Intelligence,U308,Dr. Randa Farhad Othman,374,617420
+D494,Artificial Intelligence,U184,Dr. Mazin Aziz Nasser,863,470683
+D495,Data Science,U505,Dr. Azad Karim Tahir,675,683825
+D496,Business Informatics,U580,Dr. Narin Farhad Othman,567,907968
+D497,Data Science,U838,Dr. Xezal Latif Hasan,97,452144
+D498,Information Systems,U167,Dr. Dilan Farid Ali,552,906959
+D499,Mathematics,U139,Dr. Baran Mohammed Kadir,449,619892
+D500,Mathematics,U652,Dr. Dilan Dara Salih,622,849983
+D501,Data Science,U959,Dr. Fuad Salam Hama,267,279099
+D502,Cybersecurity,U614,Dr. Jalal Hama Ali,781,495697
+D503,Mathematics,U278,Dr. Hawkar Raber Hasan,440,330698
+D504,Cybersecurity,U014,Dr. Salih Dara Tahir,877,688453
+D505,Mathematics,U422,Dr. Baran Jalal Taha,238,707835
+D506,Software Engineering,U227,Dr. Farhad Sherzad Ahmad,618,737942
+D507,Network Engineering,U730,Dr. Randa Nawzad Faris,158,302227
+D508,Cybersecurity,U839,Dr. Sardar Fuad Tahir,399,904619
+D509,Cybersecurity,U372,Dr. Chnar Sherzad Aziz,861,538660
+D510,Electrical Engineering,U177,Dr. Sardar Karim Nasser,307,314966
+D511,Cybersecurity,U878,Dr. Lana Dara Rashid,294,316543
+D512,Business Informatics,U081,Dr. Randa Omar Hassan,873,687778
+D513,Business Informatics,U776,Dr. Zhyan Salam Nasser,113,871838
+D514,Information Systems,U526,Dr. Dilan Fuad Nasser,339,225383
+D515,Electrical Engineering,U068,Dr. Layla Saeed Nasser,881,309806
+D516,Information Systems,U943,Dr. Kavar Aryan Taha,269,883175
+D517,Computer Science,U360,Dr. Shilan Farid Kadir,673,544733
+D518,Cybersecurity,U361,Dr. Fuad Saeed Qadir,327,709435
+D519,Data Science,U584,Dr. Hawkar Aryan Hassan,621,407538
+D520,Software Engineering,U733,Dr. Rozhan Bakr Said,84,940583
+D521,Software Engineering,U102,Dr. Fuad Kamaran Karim,455,912045
+D522,Cybersecurity,U604,Dr. Chnar Rizgar Nasser,265,552058
+D523,Business Informatics,U389,Dr. Kavar Latif Nuri,497,298327
+D524,Mathematics,U780,Dr. Randa Rebaz Nasser,612,322514
+D525,Mathematics,U508,Dr. Rozhan Raber Karimi,164,524053
+D526,Data Science,U506,Dr. Yara Dara Faris,694,507162
+D527,Artificial Intelligence,U704,Dr. Lana Raber Omar,377,628750
+D528,Data Science,U194,Dr. Aryan Rizgar Tahir,263,193406
+D529,Artificial Intelligence,U691,Dr. Hawkar Jamal Faris,615,870537
+D530,Data Science,U693,Dr. Randa Farid Mahmoud,490,908799
+D531,Data Science,U605,Dr. Baran Omar Tahir,283,535081
+D532,Information Systems,U206,Dr. Zeynep Jalal Nuri,514,940427
+D533,Electrical Engineering,U512,Dr. Nawzad Aryan Kadir,854,855105
+D534,Business Informatics,U966,Dr. Wrya Fuad Othman,697,604089
+D535,Network Engineering,U497,Dr. Pishtiwan Farid Faris,190,308125
+D536,Artificial Intelligence,U257,Dr. Rebaz Ihsan Hama,217,211167
+D537,Computer Science,U102,Dr. Karwan Fuad Othman,107,367795
+D538,Information Systems,U392,Dr. Tara Farid Salih,716,833506
+D539,Data Science,U099,Dr. Salih Saeed Karim,891,668659
+D540,Electrical Engineering,U207,Dr. Rebaz Fuad Aziz,347,748787
+D541,Network Engineering,U352,Dr. Jalal Aziz Karimi,520,304921
+D542,Artificial Intelligence,U393,Dr. Tara Jamal Faris,550,217728
+D543,Cybersecurity,U034,Dr. Farhad Rizgar Salih,803,352117
+D544,Business Informatics,U504,Dr. Naz Dara Ahmad,478,691133
+D545,Data Science,U783,Dr. Kamaran Rizgar Karim,755,760684
+D546,Network Engineering,U702,Dr. Kamaran Fuad Karim,655,343903
+D547,Computer Science,U519,Dr. Zeynep Saber Karim,685,576149
+D548,Mathematics,U632,Dr. Rozhan Hama Karimi,108,799145
+D549,Cybersecurity,U047,Dr. Xezal Barzan Hasan,107,835520
+D550,Business Informatics,U350,Dr. Hawkar Nawzad Tahir,445,611939
+D551,Computer Science,U360,Dr. Mazin Ihsan Nuri,743,507260
+D552,Data Science,U607,Dr. Karwan Dara Nasser,425,358026
+D553,Network Engineering,U021,Dr. Tara Mohammed Faris,753,622995
+D554,Network Engineering,U582,Dr. Alan Saber Hassan,792,672516
+D555,Computer Science,U603,Dr. Tara Jamal Hasan,479,518083
+D556,Data Science,U587,Dr. Rebaz Jalal Ahmad,771,395910
+D557,Artificial Intelligence,U345,Dr. Fuad Mustafa Othman,427,354721
+D558,Electrical Engineering,U630,Dr. Xezal Nawzad Taha,588,846311
+D559,Data Science,U868,Dr. Jalal Salam Salih,351,229840
+D560,Information Systems,U305,Dr. Zeynep Mustafa Nuri,719,276424
+D561,Information Systems,U735,Dr. Hawkar Aryan Ali,359,250537
+D562,Network Engineering,U581,Dr. Aryan Nawzad Taha,435,260385
+D563,Electrical Engineering,U668,Dr. Fuad Mustafa Salih,523,875684
+D564,Mathematics,U553,Dr. Helin Nawzad Mahmoud,337,835322
+D565,Artificial Intelligence,U528,Dr. Farhad Bakr Hassan,722,917496
+D566,Cybersecurity,U529,Dr. Kamaran Fuad Taha,756,669994
+D567,Network Engineering,U275,Dr. Rami Saeed Omar,659,941911
+D568,Computer Science,U642,Dr. Salih Salam Tahir,553,334920
+D569,Cybersecurity,U247,Dr. Saman Nawzad Omar,406,247557
+D570,Software Engineering,U650,Dr. Alan Saber Salih,741,348384
+D571,Information Systems,U263,Dr. Mazin Jamal Nuri,196,337246
+D572,Computer Science,U197,Dr. Mazin Mustafa Salih,555,688960
+D573,Business Informatics,U574,Dr. Bestun Farhad Karimi,286,347099
+D574,Cybersecurity,U280,Dr. Sardar Saber Kadir,754,757457
+D575,Computer Science,U181,Dr. Rebaz Mustafa Hassan,136,268006
+D576,Information Systems,U322,Dr. Saman Omar Omar,452,884299
+D577,Data Science,U674,Dr. Zeynep Karim Rashid,321,297369
+D578,Network Engineering,U585,Dr. Randa Latif Othman,674,730775
+D579,Artificial Intelligence,U258,Dr. Shilan Ihsan Qadir,205,508634
+D580,Information Systems,U338,Dr. Yara Mustafa Nuri,513,408598
+D581,Data Science,U148,Dr. Dara Salam Kadir,530,608212
+D582,Information Systems,U261,Dr. Dilan Fuad Said,463,913602
+D583,Data Science,U972,Dr. Tara Raber Omar,566,895903
+D584,Electrical Engineering,U253,Dr. Avan Barzan Karim,812,565602
+D585,Electrical Engineering,U842,Dr. Sardar Farhad Qadir,115,874391
+D586,Computer Science,U819,Dr. Mazin Saber Said,473,504291
+D587,Mathematics,U655,Dr. Randa Raber Nuri,533,587341
+D588,Business Informatics,U009,Dr. Narin Dara Mustafa,854,426898
+D589,Software Engineering,U305,Dr. Baran Rebaz Hama,404,855733
+D590,Computer Science,U417,Dr. Pishtiwan Omar Karim,562,613021
+D591,Mathematics,U949,Dr. Bestun Jalal Saeed,795,453646
+D592,Data Science,U519,Dr. Wrya Nawzad Qadir,826,754334
+D593,Mathematics,U756,Dr. Dashni Kamaran Hassan,860,234629
+D594,Cybersecurity,U657,Dr. Chnar Mustafa Hama,219,183225
+D595,Software Engineering,U411,Dr. Saman Hama Hasan,164,296211
+D596,Software Engineering,U162,Dr. Salih Kamaran Hama,861,316412
+D597,Information Systems,U868,Dr. Alan Mustafa Ali,542,681602
+D598,Cybersecurity,U895,Dr. Narin Bakr Othman,687,523492
+D599,Electrical Engineering,U819,Dr. Helin Omar Omar,456,370724
+D600,Business Informatics,U403,Dr. Kamaran Ihsan Hassan,103,765661
+D601,Information Systems,U663,Dr. Lana Omar Faris,283,454499
+D602,Cybersecurity,U719,Dr. Dilan Jamal Qadir,519,809557
+D603,Cybersecurity,U267,Dr. Shilan Barzan Saeed,660,303050
+D604,Network Engineering,U015,Dr. Bestun Saeed Faris,769,698152
+D605,Software Engineering,U122,Dr. Kavar Salam Kadir,374,698172
+D606,Cybersecurity,U392,Dr. Bestun Salam Qadir,300,476712
+D607,Software Engineering,U745,Dr. Alan Bakr Omar,891,333032
+D608,Electrical Engineering,U030,Dr. Narin Ihsan Qadir,541,440380
+D609,Information Systems,U379,Dr. Dashni Omar Hassan,560,319675
+D610,Mathematics,U893,Dr. Zeynep Rizgar Taha,810,582124
+D611,Business Informatics,U726,Dr. Azad Saber Mustafa,177,764056
+D612,Computer Science,U061,Dr. Vian Ihsan Karim,442,815829
+D613,Information Systems,U962,Dr. Zhyan Aziz Kadir,596,829758
+D614,Electrical Engineering,U391,Dr. Zeynep Rizgar Tahir,215,766741
+D615,Information Systems,U043,Dr. Dara Saber Saeed,595,696780
+D616,Mathematics,U953,Dr. Dashni Farid Mustafa,404,924756
+D617,Business Informatics,U544,Dr. Avan Saber Nasser,400,226307
+D618,Artificial Intelligence,U131,Dr. Pishtiwan Karim Tahir,520,476668
+D619,Electrical Engineering,U925,Dr. Rami Saeed Kadir,609,508215
+D620,Cybersecurity,U447,Dr. Tara Karim Karim,862,338612
+D621,Artificial Intelligence,U570,Dr. Dilan Salam Rashid,135,421026
+D622,Computer Science,U188,Dr. Aryan Saber Saeed,802,669824
+D623,Data Science,U447,Dr. Rebaz Mohammed Faris,445,923470
+D624,Artificial Intelligence,U575,Dr. Dashni Fuad Nasser,817,335245
+D625,Mathematics,U127,Dr. Shilan Salam Salih,264,356470
+D626,Network Engineering,U768,Dr. Pishtiwan Aryan Othman,679,402713
+D627,Computer Science,U598,Dr. Salih Saeed Hasan,264,616646
+D628,Data Science,U943,Dr. Mazin Saeed Karim,773,278886
+D629,Mathematics,U909,Dr. Sardar Dara Othman,776,307916
+D630,Mathematics,U404,Dr. Nawzad Jalal Ali,237,210277
+D631,Artificial Intelligence,U084,Dr. Aryan Rebaz Hama,355,803068
+D632,Computer Science,U674,Dr. Vian Mohammed Hama,717,655111
+D633,Information Systems,U333,Dr. Naz Salam Karimi,900,854909
+D634,Mathematics,U290,Dr. Dilan Karim Mustafa,640,811548
+D635,Data Science,U391,Dr. Zeynep Saber Saeed,325,598295
+D636,Computer Science,U092,Dr. Kavar Bakr Mahmoud,878,601943
+D637,Cybersecurity,U292,Dr. Randa Dara Karim,900,633360
+D638,Electrical Engineering,U754,Dr. Azad Farid Tahir,761,280780
+D639,Mathematics,U853,Dr. Fuad Salam Karim,536,586941
+D640,Electrical Engineering,U488,Dr. Kamaran Sherzad Omar,172,623061
+D641,Mathematics,U831,Dr. Rami Bakr Omar,725,626711
+D642,Computer Science,U096,Dr. Fuad Hama Faris,772,415122
+D643,Cybersecurity,U664,Dr. Rebaz Latif Hama,742,730164
+D644,Electrical Engineering,U086,Dr. Dashni Nawzad Mustafa,900,680811
+D645,Cybersecurity,U308,Dr. Naz Rizgar Salih,334,728501
+D646,Electrical Engineering,U438,Dr. Kamaran Mohammed Said,158,227285
+D647,Data Science,U526,Dr. Fuad Nawzad Omar,176,667227
+D648,Information Systems,U677,Dr. Narin Barzan Kadir,679,265741
+D649,Network Engineering,U788,Dr. Sardar Jalal Othman,553,368274
+D650,Cybersecurity,U806,Dr. Zeynep Mohammed Mustafa,506,918594
+D651,Mathematics,U305,Dr. Nawzad Karim Faris,855,882818
+D652,Information Systems,U461,Dr. Narin Hama Saeed,296,374078
+D653,Information Systems,U081,Dr. Narin Rizgar Nasser,524,740333
+D654,Computer Science,U019,Dr. Zeynep Jalal Hassan,255,867657
+D655,Artificial Intelligence,U489,Dr. Zeynep Rizgar Qadir,823,690365
+D656,Information Systems,U311,Dr. Rami Barzan Ahmad,769,903825
+D657,Business Informatics,U692,Dr. Saman Omar Rashid,218,194549
+D658,Data Science,U196,Dr. Sardar Kamaran Taha,107,399393
+D659,Cybersecurity,U493,Dr. Mazin Nawzad Hama,888,744744
+D660,Data Science,U196,Dr. Saman Saeed Faris,231,677013
+D661,Computer Science,U433,Dr. Randa Bakr Rashid,836,916727
+D662,Artificial Intelligence,U456,Dr. Aryan Aziz Faris,679,434415
+D663,Electrical Engineering,U207,Dr. Kamaran Jamal Karimi,421,188256
+D664,Business Informatics,U106,Dr. Alan Fuad Hasan,690,946591
+D665,Electrical Engineering,U568,Dr. Zhyan Fuad Mahmoud,577,718292
+D666,Information Systems,U606,Dr. Rebaz Ihsan Ahmad,142,733971
+D667,Business Informatics,U020,Dr. Kamaran Hama Said,145,460859
+D668,Business Informatics,U915,Dr. Aryan Jalal Karim,717,857568
+D669,Artificial Intelligence,U356,Dr. Bestun Aziz Saeed,374,941485
+D670,Artificial Intelligence,U197,Dr. Wrya Rebaz Nuri,599,410374
+D671,Mathematics,U602,Dr. Azad Kamaran Othman,559,317529
+D672,Electrical Engineering,U905,Dr. Yara Nawzad Othman,748,557755
+D673,Artificial Intelligence,U816,Dr. Baran Sherzad Taha,369,904248
+D674,Data Science,U768,Dr. Aryan Farid Saeed,284,343907
+D675,Artificial Intelligence,U621,Dr. Hawkar Mustafa Omar,585,498402
+D676,Software Engineering,U241,Dr. Farhad Mohammed Hassan,447,453477
+D677,Cybersecurity,U366,Dr. Dara Latif Karimi,145,534140
+D678,Data Science,U441,Dr. Rami Ihsan Nasser,655,414981
+D679,Electrical Engineering,U499,Dr. Vian Mustafa Tahir,867,228943
+D680,Network Engineering,U789,Dr. Pishtiwan Farid Ahmad,607,813643
+D681,Data Science,U686,Dr. Dilan Rebaz Faris,853,296319
+D682,Data Science,U999,Dr. Rami Sherzad Nasser,655,224008
+D683,Data Science,U520,Dr. Baran Farhad Nasser,290,559205
+D684,Electrical Engineering,U161,Dr. Chnar Saeed Aziz,590,948136
+D685,Data Science,U892,Dr. Avan Farhad Tahir,422,324464
+D686,Software Engineering,U126,Dr. Chnar Nawzad Hassan,331,676672
+D687,Electrical Engineering,U350,Dr. Fuad Bakr Mustafa,352,570527
+D688,Business Informatics,U733,Dr. Xezal Farhad Othman,331,338975
+D689,Network Engineering,U772,Dr. Alan Mustafa Nuri,221,629653
+D690,Business Informatics,U424,Dr. Dashni Latif Othman,450,211208
+D691,Cybersecurity,U454,Dr. Layla Kamaran Aziz,151,268896
+D692,Mathematics,U347,Dr. Zeynep Saeed Saeed,524,244454
+D693,Computer Science,U403,Dr. Avan Aryan Karimi,726,928022
+D694,Network Engineering,U819,Dr. Rozhan Nawzad Mahmoud,777,914831
+D695,Electrical Engineering,U567,Dr. Tara Barzan Hassan,366,733429
+D696,Cybersecurity,U626,Dr. Zeynep Rebaz Hama,290,750871
+D697,Information Systems,U640,Dr. Chnar Kamaran Tahir,880,860271
+D698,Software Engineering,U415,Dr. Saman Omar Karimi,630,530741
+D699,Cybersecurity,U400,Dr. Salih Raber Salih,298,277328
+D700,Network Engineering,U524,Dr. Saman Latif Ali,855,846564
+D701,Computer Science,U164,Dr. Sardar Mustafa Said,686,451256
+D702,Electrical Engineering,U248,Dr. Bestun Latif Nasser,829,242857
+D703,Mathematics,U862,Dr. Narin Farhad Aziz,442,309827
+D704,Data Science,U049,Dr. Chnar Dara Hasan,834,185466
+D705,Mathematics,U465,Dr. Mazin Mustafa Hasan,659,929361
+D706,Network Engineering,U916,Dr. Azad Ihsan Tahir,386,478357
+D707,Information Systems,U683,Dr. Naz Kamaran Mahmoud,612,439662
+D708,Mathematics,U108,Dr. Salih Aryan Taha,877,558816
+D709,Data Science,U466,Dr. Avan Kamaran Omar,501,265927
+D710,Computer Science,U095,Dr. Bestun Farid Karim,299,647836
+D711,Mathematics,U080,Dr. Salih Jamal Hasan,652,724153
+D712,Business Informatics,U798,Dr. Narin Aryan Karim,731,623990
+D713,Artificial Intelligence,U451,Dr. Alan Bakr Rashid,597,313299
+D714,Artificial Intelligence,U497,Dr. Naz Kamaran Aziz,621,303792
+D715,Software Engineering,U712,Dr. Dashni Fuad Karimi,844,344458
+D716,Network Engineering,U967,Dr. Xezal Jalal Qadir,498,295695
+D717,Mathematics,U124,Dr. Kamaran Dara Karimi,615,340751
+D718,Mathematics,U121,Dr. Saman Barzan Salih,381,689529
+D719,Cybersecurity,U029,Dr. Avan Mustafa Hasan,511,231014
+D720,Electrical Engineering,U960,Dr. Rozhan Salam Saeed,837,692537
+D721,Data Science,UZakho,Dr. Farhad Barzan Mustafa,125,617859
+D722,Information Systems,U493,Dr. Saman Aryan Faris,425,575633
+D723,Information Systems,U487,Dr. Naz Saeed Rashid,596,847376
+D724,Artificial Intelligence,U472,Dr. Chnar Farid Ali,171,835119
+D725,Information Systems,U681,Dr. Alan Jamal Nuri,484,535465
+D726,Computer Science,U554,Dr. Chnar Karim Kadir,741,272830
+D727,Cybersecurity,U887,Dr. Sardar Aryan Hama,895,921761
+D728,Network Engineering,U317,Dr. Randa Farhad Said,167,381774
+D729,Information Systems,U979,Dr. Jalal Aryan Karimi,663,727098
+D730,Artificial Intelligence,U194,Dr. Fuad Aziz Nasser,754,737695
+D731,Computer Science,U185,Dr. Pishtiwan Mustafa Taha,331,919893
+D732,Information Systems,U860,Dr. Chnar Omar Said,701,515996
+D733,Information Systems,U412,Dr. Zhyan Fuad Hassan,428,638245
+D734,Business Informatics,U185,Dr. Sardar Latif Ali,471,449670
+D735,Data Science,U094,Dr. Hawkar Raber Saeed,372,331030
+D736,Electrical Engineering,U188,Dr. Shilan Farid Salih,497,891572
+D737,Computer Science,U174,Dr. Rami Hama Saeed,107,927949
+D738,Electrical Engineering,U060,Dr. Yara Jalal Ali,225,612876
+D739,Mathematics,U915,Dr. Narin Jamal Nasser,133,392398
+D740,Information Systems,U246,Dr. Nawzad Ihsan Karim,600,708924
+D741,Data Science,U395,Dr. Pishtiwan Mohammed Ali,555,759989
+D742,Data Science,U417,Dr. Aryan Aziz Omar,728,425094
+D743,Computer Science,U936,Dr. Pishtiwan Raber Hasan,771,286440
+D744,Network Engineering,U253,Dr. Naz Dara Hasan,496,647646
+D745,Network Engineering,U086,Dr. Kavar Mustafa Rashid,462,746692
+D746,Software Engineering,U173,Dr. Jalal Nawzad Said,542,223822
+D747,Artificial Intelligence,SPU,Dr. Rami Dara Hama,251,180569
+D748,Artificial Intelligence,U062,Dr. Pishtiwan Sherzad Kadir,776,578619
+D749,Software Engineering,U360,Dr. Nawzad Latif Salih,126,349257
+D750,Network Engineering,U757,Dr. Kamaran Omar Salih,171,594507
+D751,Data Science,U716,Dr. Naz Karim Said,366,632945
+D752,Information Systems,U216,Dr. Fuad Mustafa Ali,778,539279
+D753,Electrical Engineering,U651,Dr. Chnar Saber Nuri,758,517262
+D754,Software Engineering,U350,Dr. Dashni Sherzad Ali,96,905452
+D755,Computer Science,U137,Dr. Azad Fuad Hassan,89,885383
+D756,Business Informatics,U178,Dr. Farhad Kamaran Ahmad,580,591871
+D757,Data Science,U552,Dr. Karwan Raber Hassan,767,646801
+D758,Data Science,U689,Dr. Wrya Jamal Qadir,446,585537
+D759,Computer Science,U182,Dr. Randa Rebaz Tahir,277,646173
+D760,Software Engineering,U010,Dr. Sardar Saeed Kadir,776,923647
+D761,Software Engineering,U367,Dr. Shilan Sherzad Hama,390,932677
+D762,Software Engineering,U227,Dr. Rebaz Barzan Karimi,367,696777
+D763,Information Systems,U927,Dr. Kavar Aziz Taha,733,595326
+D764,Electrical Engineering,U114,Dr. Kamaran Latif Karim,254,758588
+D765,Information Systems,U199,Dr. Azad Aryan Saeed,146,796735
+D766,Data Science,U132,Dr. Naz Saber Hasan,313,728489
+D767,Electrical Engineering,U747,Dr. Helin Rizgar Hassan,789,890656
+D768,Information Systems,U546,Dr. Narin Rizgar Said,544,182049
+D769,Business Informatics,U961,Dr. Dilan Hama Omar,496,467347
+D770,Network Engineering,U125,Dr. Dashni Fuad Tahir,609,225576
+D771,Software Engineering,U906,Dr. Dilan Saber Omar,625,650665
+D772,Computer Science,U324,Dr. Zeynep Salam Ali,163,779596
+D773,Computer Science,U828,Dr. Lana Kamaran Omar,156,442127
+D774,Cybersecurity,U202,Dr. Vian Dara Mustafa,721,835669
+D775,Computer Science,U100,Dr. Aryan Nawzad Hassan,686,836720
+D776,Mathematics,U958,Dr. Narin Ihsan Nasser,564,429937
+D777,Mathematics,U982,Dr. Dilan Hama Aziz,893,428243
+D778,Data Science,U967,Dr. Azad Sherzad Faris,862,280318
+D779,Artificial Intelligence,U641,Dr. Nawzad Jalal Mustafa,142,214963
+D780,Mathematics,U387,Dr. Karwan Mustafa Rashid,143,643385
+D781,Electrical Engineering,U057,Dr. Rami Farhad Omar,147,286773
+D782,Computer Science,U694,Dr. Farhad Mohammed Salih,470,601195
+D783,Information Systems,U099,Dr. Alan Ihsan Qadir,886,871770
+D784,Computer Science,U639,Dr. Dashni Jamal Faris,894,628901
+D785,Information Systems,U902,Dr. Rami Jalal Ali,746,888602
+D786,Computer Science,U802,Dr. Dashni Latif Ali,681,381831
+D787,Data Science,U111,Dr. Layla Sherzad Ahmad,149,801686
+D788,Software Engineering,U809,Dr. Kamaran Farid Hama,601,448735
+D789,Business Informatics,U364,Dr. Aryan Karim Qadir,535,374954
+D790,Cybersecurity,U249,Dr. Zhyan Mohammed Rashid,399,792916
+D791,Network Engineering,U447,Dr. Wrya Dara Hasan,634,332698
+D792,Artificial Intelligence,U151,Dr. Saman Sherzad Ali,378,566746
+D793,Computer Science,U994,Dr. Salih Aryan Othman,774,331624
+D794,Software Engineering,U059,Dr. Fuad Raber Karimi,512,540517
+D795,Software Engineering,U201,Dr. Helin Mustafa Mustafa,429,378553
+D796,Artificial Intelligence,U684,Dr. Dashni Sherzad Ahmad,419,786507
+D797,Mathematics,U580,Dr. Rami Dara Omar,416,350162
+D798,Artificial Intelligence,U108,Dr. Zhyan Fuad Nuri,83,849795
+D799,Software Engineering,U229,Dr. Dashni Sherzad Taha,324,684098
+D800,Mathematics,U753,Dr. Yara Salam Mahmoud,268,187052
+D801,Computer Science,U372,Dr. Karwan Barzan Hassan,648,300784
+D802,Electrical Engineering,U146,Dr. Chnar Salam Hama,679,557392
+D803,Computer Science,U045,Dr. Helin Salam Salih,258,409580
+D804,Electrical Engineering,U907,Dr. Dara Hama Said,331,367214
+D805,Computer Science,U201,Dr. Dara Saber Nasser,101,890360
+D806,Business Informatics,U141,Dr. Randa Hama Taha,392,658364
+D807,Mathematics,U246,Dr. Xezal Rizgar Saeed,619,833476
+D808,Business Informatics,U903,Dr. Karwan Jalal Rashid,213,378853
+D809,Network Engineering,U197,Dr. Yara Kamaran Tahir,405,808672
+D810,Software Engineering,U440,Dr. Zhyan Saeed Qadir,681,378287
+D811,Network Engineering,U875,Dr. Rozhan Mustafa Rashid,415,439178
+D812,Electrical Engineering,U055,Dr. Naz Latif Hasan,580,399401
+D813,Data Science,U745,Dr. Aryan Mustafa Othman,709,248024
+D814,Network Engineering,U172,Dr. Yara Saeed Hama,849,713891
+D815,Artificial Intelligence,U384,Dr. Salih Rebaz Saeed,409,927096
+D816,Network Engineering,U383,Dr. Aryan Kamaran Karim,565,461370
+D817,Business Informatics,U596,Dr. Nawzad Farhad Karimi,292,410189
+D818,Software Engineering,U917,Dr. Chnar Ihsan Mahmoud,303,500863
+D819,Business Informatics,U436,Dr. Kamaran Bakr Tahir,340,757295
+D820,Cybersecurity,U087,Dr. Shilan Dara Faris,611,548653
+D821,Information Systems,U236,Dr. Zhyan Rebaz Aziz,716,532713
+D822,Artificial Intelligence,U437,Dr. Dashni Nawzad Omar,456,701711
+D823,Electrical Engineering,U325,Dr. Yara Aziz Saeed,532,425147
+D824,Data Science,U272,Dr. Wrya Omar Salih,593,717700
+D825,Data Science,U560,Dr. Pishtiwan Ihsan Nasser,201,254814
+D826,Computer Science,U369,Dr. Jalal Salam Ali,281,887901
+D827,Electrical Engineering,U338,Dr. Saman Karim Othman,361,379903
+D828,Information Systems,U723,Dr. Naz Saeed Ahmad,837,749508
+D829,Electrical Engineering,U935,Dr. Layla Saeed Salih,368,543470
+D830,Business Informatics,U802,Dr. Zeynep Aryan Hama,92,674932
+D831,Network Engineering,U670,Dr. Avan Jamal Nuri,312,938472
+D832,Software Engineering,U768,Dr. Aryan Ihsan Aziz,681,759459
+D833,Artificial Intelligence,U776,Dr. Dashni Hama Mustafa,400,376971
+D834,Business Informatics,U440,Dr. Kavar Rebaz Faris,651,211566
+D835,Cybersecurity,U384,Dr. Kamaran Farid Salih,835,190151
+D836,Mathematics,U512,Dr. Vian Ihsan Omar,515,899074
+D837,Business Informatics,U771,Dr. Jalal Dara Ali,681,204368
+D838,Computer Science,U582,Dr. Naz Farid Ali,661,840434
+D839,Information Systems,U819,Dr. Azad Aryan Mahmoud,470,394124
+D840,Business Informatics,U972,Dr. Karwan Raber Mahmoud,272,677840
+D841,Mathematics,U112,Dr. Kamaran Rebaz Hama,391,277770
+D842,Data Science,U176,Dr. Farhad Bakr Karimi,785,812672
+D843,Computer Science,U501,Dr. Dara Salam Mustafa,475,477604
+D844,Software Engineering,U211,Dr. Rozhan Rizgar Aziz,151,656749
+D845,Mathematics,U059,Dr. Salih Aziz Saeed,414,610819
+D846,Cybersecurity,U401,Dr. Randa Farid Said,508,681482
+D847,Data Science,U761,Dr. Yara Salam Rashid,290,504803
+D848,Artificial Intelligence,U443,Dr. Baran Sherzad Hasan,397,796029
+D849,Network Engineering,U208,Dr. Dashni Saber Taha,87,329623
+D850,Data Science,U457,Dr. Zeynep Sherzad Nuri,618,524867
+D851,Information Systems,U933,Dr. Rebaz Rebaz Faris,669,220983
+D852,Data Science,U755,Dr. Rozhan Farhad Faris,435,914335
+D853,Electrical Engineering,U863,Dr. Zeynep Sherzad Saeed,505,441236
+D854,Information Systems,U184,Dr. Bestun Rebaz Mahmoud,754,372355
+D855,Information Systems,U716,Dr. Hawkar Jamal Ahmad,124,431338
+D856,Cybersecurity,U907,Dr. Pishtiwan Farhad Said,378,879040
+D857,Data Science,U939,Dr. Kavar Fuad Omar,860,759677
+D858,Mathematics,U125,Dr. Karwan Saeed Nasser,596,521849
+D859,Artificial Intelligence,U420,Dr. Baran Saber Taha,598,226803
+D860,Computer Science,U474,Dr. Karwan Farhad Ahmad,771,664341
+D861,Mathematics,U391,Dr. Zeynep Salam Mahmoud,118,191258
+D862,Data Science,U257,Dr. Naz Hama Othman,846,666796
+D863,Artificial Intelligence,U497,Dr. Karwan Omar Said,752,434063
+D864,Artificial Intelligence,U731,Dr. Naz Fuad Kadir,245,358875
+D865,Computer Science,U859,Dr. Azad Jalal Saeed,381,310182
+D866,Business Informatics,U548,Dr. Baran Omar Othman,861,191755
+D867,Electrical Engineering,U694,Dr. Avan Rebaz Tahir,262,407197
+D868,Computer Science,U732,Dr. Jalal Salam Faris,793,230075
+D869,Network Engineering,U857,Dr. Hawkar Jamal Ahmad,395,645553
+D870,Information Systems,U054,Dr. Layla Mohammed Mahmoud,865,391537
+D871,Software Engineering,U952,Dr. Xezal Ihsan Taha,173,196817
+D872,Computer Science,U432,Dr. Layla Hama Taha,776,881444
+D873,Software Engineering,U065,Dr. Hawkar Mustafa Othman,251,939181
+D874,Computer Science,U172,Dr. Alan Latif Nasser,414,518354
+D875,Software Engineering,U576,Dr. Rami Salam Said,484,628665
+D876,Software Engineering,U124,Dr. Kavar Jalal Tahir,411,362055
+D877,Business Informatics,U016,Dr. Tara Aziz Mahmoud,297,661061
+D878,Data Science,U226,Dr. Pishtiwan Farhad Qadir,457,226073
+D879,Software Engineering,U069,Dr. Alan Dara Qadir,591,286759
+D880,Network Engineering,U730,Dr. Kamaran Bakr Kadir,177,809006
+D881,Business Informatics,U333,Dr. Naz Hama Saeed,730,901027
+D882,Artificial Intelligence,U326,Dr. Karwan Hama Hassan,703,793455
+D883,Business Informatics,U460,Dr. Fuad Farhad Nuri,595,796005
+D884,Computer Science,U722,Dr. Lana Aziz Qadir,857,310082
+D885,Software Engineering,U317,Dr. Bestun Saeed Nuri,714,263246
+D886,Cybersecurity,U062,Dr. Xezal Fuad Salih,286,339038
+D887,Software Engineering,U385,Dr. Zhyan Ihsan Qadir,534,524656
+D888,Electrical Engineering,U138,Dr. Tara Farhad Karimi,613,615047
+D889,Electrical Engineering,U664,Dr. Sardar Ihsan Ali,430,434016
+D890,Network Engineering,U211,Dr. Dilan Rizgar Nuri,900,900738
+D891,Software Engineering,U713,Dr. Azad Jamal Aziz,409,372461
+D892,Computer Science,U453,Dr. Karwan Fuad Mustafa,277,234638
+D893,Cybersecurity,U650,Dr. Kavar Farid Mustafa,257,801418
+D894,Software Engineering,U563,Dr. Mazin Latif Mustafa,516,940206
+D895,Electrical Engineering,U479,Dr. Baran Karim Taha,330,624613
+D896,Information Systems,U181,Dr. Mazin Dara Salih,670,650046
+D897,Software Engineering,U991,Dr. Pishtiwan Mustafa Karim,161,557048
+D898,Business Informatics,U408,Dr. Baran Fuad Faris,512,709837
+D899,Business Informatics,U625,Dr. Avan Mustafa Karim,100,579947
+D900,Data Science,U438,Dr. Saman Sherzad Said,236,759707
+D901,Cybersecurity,U745,Dr. Narin Jamal Faris,393,655637
+D902,Business Informatics,U291,Dr. Farhad Sherzad Karim,153,529421
+D903,Artificial Intelligence,U140,Dr. Helin Farid Taha,84,193457
+D904,Network Engineering,U883,Dr. Xezal Fuad Mahmoud,505,593820
+D905,Mathematics,U994,Dr. Yara Fuad Salih,736,796886
+D906,Business Informatics,U073,Dr. Zhyan Jalal Mahmoud,659,350249
+D907,Business Informatics,U199,Dr. Narin Saeed Tahir,601,923575
+D908,Mathematics,U501,Dr. Dilan Farhad Mahmoud,514,438779
+D909,Artificial Intelligence,U249,Dr. Zhyan Barzan Hama,803,889283
+D910,Cybersecurity,U029,Dr. Narin Sherzad Faris,777,334525
+D911,Software Engineering,U261,Dr. Azad Aryan Othman,245,192936
+D912,Data Science,U120,Dr. Yara Jamal Ahmad,680,264251
+D913,Software Engineering,U531,Dr. Bestun Bakr Omar,338,905443
+D914,Network Engineering,U310,Dr. Jalal Rizgar Mahmoud,680,502939
+D915,Business Informatics,U752,Dr. Shilan Jalal Hama,666,541122
+D916,Cybersecurity,U834,Dr. Pishtiwan Karim Taha,846,597302
+D917,Electrical Engineering,U716,Dr. Layla Bakr Karim,81,281576
+D918,Business Informatics,U072,Dr. Salih Nawzad Hama,375,948650
+D919,Cybersecurity,U442,Dr. Dara Barzan Saeed,800,320857
+D920,Artificial Intelligence,U203,Dr. Dara Latif Nasser,541,774639
+D921,Software Engineering,U834,Dr. Dara Salam Karimi,847,371605
+D922,Software Engineering,U829,Dr. Narin Nawzad Faris,721,834753
+D923,Cybersecurity,U112,Dr. Shilan Dara Mustafa,466,310738
+D924,Data Science,U284,Dr. Vian Aziz Hasan,320,681111
+D925,Data Science,U497,Dr. Layla Mohammed Kadir,849,187577
+D926,Information Systems,U682,Dr. Zhyan Jalal Taha,614,187614
+D927,Information Systems,U385,Dr. Salih Saeed Kadir,577,676219
+D928,Mathematics,U776,Dr. Azad Nawzad Ali,459,894982
+D929,Mathematics,U912,Dr. Tara Ihsan Tahir,761,597827
+D930,Information Systems,U388,Dr. Dilan Barzan Ali,182,183234
+D931,Business Informatics,U468,Dr. Naz Aziz Qadir,205,736405
+D932,Software Engineering,U287,Dr. Xezal Rebaz Qadir,782,870881
+D933,Artificial Intelligence,U891,Dr. Fuad Nawzad Othman,272,183281
+D934,Mathematics,U654,Dr. Sardar Farhad Tahir,126,521337
+D935,Artificial Intelligence,U695,Dr. Lana Sherzad Karim,489,822349
+D936,Data Science,U814,Dr. Wrya Nawzad Karim,754,913478
+D937,Data Science,U927,Dr. Yara Dara Qadir,279,926525
+D938,Network Engineering,U147,Dr. Kamaran Mustafa Ahmad,596,213287
+D939,Artificial Intelligence,U131,Dr. Shilan Dara Othman,641,669478
+D940,Artificial Intelligence,U173,Dr. Randa Fuad Othman,633,432603
+D941,Software Engineering,U250,Dr. Baran Saeed Othman,796,273776
+D942,Business Informatics,U109,Dr. Sardar Bakr Ali,472,473976
+D943,Electrical Engineering,U226,Dr. Aryan Rizgar Nasser,761,322350
+D944,Network Engineering,U945,Dr. Rebaz Omar Ahmad,420,414677
+D945,Information Systems,U955,Dr. Azad Omar Hama,431,575323
+D946,Business Informatics,U933,Dr. Farhad Nawzad Nuri,308,451679
+D947,Electrical Engineering,U119,Dr. Shilan Jalal Mustafa,428,800967
+D948,Software Engineering,U960,Dr. Randa Aryan Tahir,210,508594
+D949,Business Informatics,U977,Dr. Kamaran Karim Hassan,398,244891
+D950,Network Engineering,U605,Dr. Helin Jamal Omar,407,562755
+D951,Cybersecurity,U817,Dr. Salih Rizgar Qadir,684,412932
+D952,Business Informatics,U110,Dr. Layla Raber Faris,403,331729
+D953,Electrical Engineering,U836,Dr. Lana Fuad Othman,546,334586
+D954,Electrical Engineering,U616,Dr. Avan Karim Othman,900,917114
+D955,Information Systems,U036,Dr. Tara Dara Aziz,785,309461
+D956,Information Systems,U281,Dr. Aryan Farhad Taha,586,485654
+D957,Business Informatics,U722,Dr. Dilan Mustafa Ali,236,931583
+D958,Software Engineering,U216,Dr. Dilan Saeed Saeed,579,942729
+D959,Electrical Engineering,U402,Dr. Baran Aziz Said,481,533800
+D960,Artificial Intelligence,U433,Dr. Wrya Saeed Mahmoud,480,255312
+D961,Electrical Engineering,U541,Dr. Rozhan Kamaran Taha,797,754630
+D962,Data Science,U404,Dr. Naz Hama Hasan,135,924056
+D963,Artificial Intelligence,U312,Dr. Baran Aryan Rashid,532,909762
+D964,Electrical Engineering,U495,Dr. Avan Salam Taha,846,385159
+D965,Computer Science,U753,Dr. Xezal Karim Hasan,184,891267
+D966,Cybersecurity,U805,Dr. Yara Nawzad Othman,252,239067
+D967,Mathematics,U099,Dr. Aryan Bakr Karimi,200,720472
+D968,Mathematics,U666,Dr. Nawzad Nawzad Rashid,722,937649
+D969,Software Engineering,U414,Dr. Zhyan Jalal Nuri,486,692361
+D970,Information Systems,U310,Dr. Dara Farhad Mahmoud,874,905399
+D971,Data Science,U815,Dr. Dashni Farhad Mahmoud,361,843049
+D972,Artificial Intelligence,U669,Dr. Xezal Aziz Nasser,199,266651
+D973,Artificial Intelligence,U125,Dr. Fuad Ihsan Hassan,680,780815
+D974,Artificial Intelligence,U587,Dr. Pishtiwan Kamaran Nasser,893,801678
+D975,Business Informatics,U186,Dr. Aryan Farhad Ahmad,524,492856
+D976,Cybersecurity,U586,Dr. Hawkar Hama Mustafa,810,743621
+D977,Business Informatics,U190,Dr. Sardar Jamal Said,629,735837
+D978,Data Science,U501,Dr. Salih Aryan Said,810,863357
+D979,Software Engineering,U128,Dr. Randa Bakr Qadir,791,368678
+D980,Network Engineering,U006,Dr. Chnar Mustafa Ali,205,221044
+D981,Information Systems,U132,Dr. Kavar Farhad Saeed,169,769820
+D982,Computer Science,U263,Dr. Shilan Jalal Aziz,385,561219
+D983,Network Engineering,U990,Dr. Baran Nawzad Othman,80,440400
+D984,Computer Science,U308,Dr. Salih Mustafa Salih,754,740046
+D985,Cybersecurity,U456,Dr. Kamaran Fuad Ahmad,400,728055
+D986,Mathematics,U933,Dr. Azad Raber Aziz,294,901347
+D987,Computer Science,U102,Dr. Mazin Mohammed Taha,225,494267
+D988,Software Engineering,U877,Dr. Naz Sherzad Said,301,800529
+D989,Electrical Engineering,U368,Dr. Naz Karim Qadir,512,257971
+D990,Electrical Engineering,U564,Dr. Narin Jamal Hama,247,599492
+D991,Data Science,U468,Dr. Narin Rizgar Omar,791,330202
+D992,Software Engineering,U549,Dr. Karwan Farhad Kadir,728,910650
+D993,Software Engineering,U662,Dr. Xezal Aryan Othman,743,716270
+D994,Cybersecurity,U620,Dr. Alan Farid Ali,886,634691
+D995,Computer Science,U389,Dr. Azad Ihsan Mustafa,356,310674
+D996,Data Science,U545,Dr. Farhad Nawzad Mustafa,417,851274
+D997,Mathematics,U092,Dr. Vian Saeed Kadir,229,416732
+D998,Computer Science,U281,Dr. Hawkar Jamal Nuri,467,290103
+D999,Data Science,U802,Dr. Dara Latif Salih,682,693402
+D1000,Network Engineering,U098,Dr. Wrya Kamaran Hasan,368,758333

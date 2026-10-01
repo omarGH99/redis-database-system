@@ -1,0 +1,1001 @@
+university_id,name,city,founded,students,departments,contact_email
+UKH,University of Kurdistan Hewler,Erbil,2006,3200,8,info@ukh.edu.iq
+SPU,Sulaimani Polytechnic University,Sulaymaniyah,2014,4100,10,info@spu.edu.iq
+UZakho,University of Zakho,Zakho,2010,2700,7,info@uoz.edu.krd
+UoS,University of Sulaimani,Sulaymaniyah,1968,12000,16,info@univsul.edu.iq
+EBU,Erbil Business University,Erbil,2004,1800,5,info@ebu.edu.krd
+U006,Erbil Technical University 6,Erbil,1990,8824,11,info6@erbiltechnicaluniv.edu.krd
+U007,Sulaymaniyah Business University 7,Sulaymaniyah,1968,22974,21,info7@sulaymaniyahbusine.edu.krd
+U008,Erbil National University 8,Erbil,2009,1841,4,info8@erbilnationalunive.edu.krd
+U009,Erbil Applied Sciences University 9,Erbil,1984,17359,23,info9@erbilappliedscienc.edu.krd
+U010,Erbil National University 10,Erbil,1980,24262,24,info10@erbilnationalunive.edu.krd
+U011,Halabja Metropolitan University 11,Halabja,1983,15519,22,info11@halabjametropolita.edu.krd
+U012,Duhok Polytechnic University 12,Duhok,1955,6031,17,info12@duhokpolytechnicun.edu.krd
+U013,Duhok International University 13,Duhok,1974,7855,14,info13@duhokinternational.edu.krd
+U014,Erbil Technical University 14,Erbil,2003,3969,15,info14@erbiltechnicaluniv.edu.krd
+U015,Duhok National University 15,Duhok,1988,2223,18,info15@duhoknationalunive.edu.krd
+U016,Halabja Technical University 16,Halabja,2003,3382,21,info16@halabjatechnicalun.edu.krd
+U017,Duhok Polytechnic University 17,Duhok,2001,19718,10,info17@duhokpolytechnicun.edu.krd
+U018,Erbil Technical University 18,Erbil,1984,10282,6,info18@erbiltechnicaluniv.edu.krd
+U019,Sulaymaniyah Polytechnic University 19,Sulaymaniyah,1967,13255,12,info19@sulaymaniyahpolyte.edu.krd
+U020,Zakho Business University 20,Zakho,2001,6129,15,info20@zakhobusinessunive.edu.krd
+U021,Duhok Applied Sciences University 21,Duhok,1989,23797,24,info21@duhokappliedscienc.edu.krd
+U022,Erbil National University 22,Erbil,1976,18302,11,info22@erbilnationalunive.edu.krd
+U023,Sulaymaniyah Metropolitan University 23,Sulaymaniyah,2003,9645,24,info23@sulaymaniyahmetrop.edu.krd
+U024,Halabja Applied Sciences University 24,Halabja,1996,2632,11,info24@halabjaappliedscie.edu.krd
+U025,Erbil Polytechnic University 25,Erbil,1995,13945,12,info25@erbilpolytechnicun.edu.krd
+U026,Erbil Applied Sciences University 26,Erbil,1995,7767,24,info26@erbilappliedscienc.edu.krd
+U027,Zakho Metropolitan University 27,Zakho,2013,5481,12,info27@zakhometropolitanu.edu.krd
+U028,Sulaymaniyah Applied Sciences University 28,Sulaymaniyah,2023,9409,22,info28@sulaymaniyahapplie.edu.krd
+U029,Zakho National University 29,Zakho,2006,12661,11,info29@zakhonationalunive.edu.krd
+U030,Sulaymaniyah National University 30,Sulaymaniyah,2018,3778,5,info30@sulaymaniyahnation.edu.krd
+U031,Erbil Applied Sciences University 31,Erbil,1975,23098,17,info31@erbilappliedscienc.edu.krd
+U032,Halabja Technical University 32,Halabja,2004,13304,23,info32@halabjatechnicalun.edu.krd
+U033,Zakho National University 33,Zakho,1987,18928,4,info33@zakhonationalunive.edu.krd
+U034,Erbil Business University 34,Erbil,2023,9543,24,info34@erbilbusinessunive.edu.krd
+U035,Duhok Technical University 35,Duhok,1992,15046,9,info35@duhoktechnicaluniv.edu.krd
+U036,Zakho Technical University 36,Zakho,1988,17203,9,info36@zakhotechnicaluniv.edu.krd
+U037,Halabja Technical University 37,Halabja,1993,21737,20,info37@halabjatechnicalun.edu.krd
+U038,Halabja Applied Sciences University 38,Halabja,1974,13052,9,info38@halabjaappliedscie.edu.krd
+U039,Halabja Polytechnic University 39,Halabja,2022,818,23,info39@halabjapolytechnic.edu.krd
+U040,Duhok Metropolitan University 40,Duhok,1957,4465,15,info40@duhokmetropolitanu.edu.krd
+U041,Duhok Applied Sciences University 41,Duhok,1962,8692,22,info41@duhokappliedscienc.edu.krd
+U042,Erbil Technical University 42,Erbil,2017,3067,21,info42@erbiltechnicaluniv.edu.krd
+U043,Sulaymaniyah Applied Sciences University 43,Sulaymaniyah,2015,18815,9,info43@sulaymaniyahapplie.edu.krd
+U044,Duhok National University 44,Duhok,2009,7740,21,info44@duhoknationalunive.edu.krd
+U045,Sulaymaniyah Business University 45,Sulaymaniyah,1994,13874,24,info45@sulaymaniyahbusine.edu.krd
+U046,Duhok Metropolitan University 46,Duhok,2021,15594,7,info46@duhokmetropolitanu.edu.krd
+U047,Sulaymaniyah Applied Sciences University 47,Sulaymaniyah,1963,11878,4,info47@sulaymaniyahapplie.edu.krd
+U048,Halabja National University 48,Halabja,1984,20082,11,info48@halabjanationaluni.edu.krd
+U049,Erbil Technical University 49,Erbil,1962,8301,6,info49@erbiltechnicaluniv.edu.krd
+U050,Erbil Polytechnic University 50,Erbil,1997,3121,20,info50@erbilpolytechnicun.edu.krd
+U051,Sulaymaniyah International University 51,Sulaymaniyah,2017,7820,21,info51@sulaymaniyahintern.edu.krd
+U052,Sulaymaniyah Business University 52,Sulaymaniyah,2015,8762,19,info52@sulaymaniyahbusine.edu.krd
+U053,Zakho Applied Sciences University 53,Zakho,1967,3976,17,info53@zakhoappliedscienc.edu.krd
+U054,Duhok Metropolitan University 54,Duhok,2007,16103,5,info54@duhokmetropolitanu.edu.krd
+U055,Erbil Technical University 55,Erbil,2006,24662,14,info55@erbiltechnicaluniv.edu.krd
+U056,Erbil Applied Sciences University 56,Erbil,1979,7032,21,info56@erbilappliedscienc.edu.krd
+U057,Zakho Applied Sciences University 57,Zakho,2009,6812,12,info57@zakhoappliedscienc.edu.krd
+U058,Zakho Applied Sciences University 58,Zakho,1964,15320,21,info58@zakhoappliedscienc.edu.krd
+U059,Erbil Technical University 59,Erbil,2024,1283,6,info59@erbiltechnicaluniv.edu.krd
+U060,Sulaymaniyah Applied Sciences University 60,Sulaymaniyah,2007,16713,19,info60@sulaymaniyahapplie.edu.krd
+U061,Sulaymaniyah Polytechnic University 61,Sulaymaniyah,2006,2721,9,info61@sulaymaniyahpolyte.edu.krd
+U062,Zakho Technical University 62,Zakho,2004,9490,18,info62@zakhotechnicaluniv.edu.krd
+U063,Duhok Metropolitan University 63,Duhok,2017,5872,10,info63@duhokmetropolitanu.edu.krd
+U064,Duhok Applied Sciences University 64,Duhok,1962,19778,21,info64@duhokappliedscienc.edu.krd
+U065,Erbil Business University 65,Erbil,1995,2673,5,info65@erbilbusinessunive.edu.krd
+U066,Halabja Metropolitan University 66,Halabja,2019,18203,9,info66@halabjametropolita.edu.krd
+U067,Erbil National University 67,Erbil,1965,6889,6,info67@erbilnationalunive.edu.krd
+U068,Halabja Technical University 68,Halabja,1985,14030,7,info68@halabjatechnicalun.edu.krd
+U069,Halabja Applied Sciences University 69,Halabja,1960,21095,6,info69@halabjaappliedscie.edu.krd
+U070,Zakho Business University 70,Zakho,2021,11166,12,info70@zakhobusinessunive.edu.krd
+U071,Sulaymaniyah Business University 71,Sulaymaniyah,1995,8621,12,info71@sulaymaniyahbusine.edu.krd
+U072,Zakho Applied Sciences University 72,Zakho,1993,15782,14,info72@zakhoappliedscienc.edu.krd
+U073,Erbil Technical University 73,Erbil,2013,21154,22,info73@erbiltechnicaluniv.edu.krd
+U074,Erbil Technical University 74,Erbil,2023,7784,20,info74@erbiltechnicaluniv.edu.krd
+U075,Duhok Applied Sciences University 75,Duhok,1999,3054,11,info75@duhokappliedscienc.edu.krd
+U076,Duhok International University 76,Duhok,1975,15158,21,info76@duhokinternational.edu.krd
+U077,Duhok National University 77,Duhok,2022,1056,21,info77@duhoknationalunive.edu.krd
+U078,Duhok Business University 78,Duhok,1968,5200,12,info78@duhokbusinessunive.edu.krd
+U079,Erbil Technical University 79,Erbil,1974,9724,13,info79@erbiltechnicaluniv.edu.krd
+U080,Halabja Applied Sciences University 80,Halabja,1998,7471,24,info80@halabjaappliedscie.edu.krd
+U081,Duhok National University 81,Duhok,2017,9028,5,info81@duhoknationalunive.edu.krd
+U082,Erbil Business University 82,Erbil,2009,9866,5,info82@erbilbusinessunive.edu.krd
+U083,Erbil International University 83,Erbil,1971,21676,12,info83@erbilinternational.edu.krd
+U084,Sulaymaniyah Business University 84,Sulaymaniyah,2011,18877,17,info84@sulaymaniyahbusine.edu.krd
+U085,Halabja Technical University 85,Halabja,1969,3265,8,info85@halabjatechnicalun.edu.krd
+U086,Halabja Technical University 86,Halabja,2002,19887,21,info86@halabjatechnicalun.edu.krd
+U087,Sulaymaniyah Metropolitan University 87,Sulaymaniyah,1971,2170,13,info87@sulaymaniyahmetrop.edu.krd
+U088,Duhok Polytechnic University 88,Duhok,1960,12524,10,info88@duhokpolytechnicun.edu.krd
+U089,Sulaymaniyah Business University 89,Sulaymaniyah,1968,12389,21,info89@sulaymaniyahbusine.edu.krd
+U090,Zakho National University 90,Zakho,1974,8557,9,info90@zakhonationalunive.edu.krd
+U091,Sulaymaniyah Metropolitan University 91,Sulaymaniyah,1958,6677,14,info91@sulaymaniyahmetrop.edu.krd
+U092,Zakho Polytechnic University 92,Zakho,1986,9542,9,info92@zakhopolytechnicun.edu.krd
+U093,Erbil Metropolitan University 93,Erbil,1959,16223,11,info93@erbilmetropolitanu.edu.krd
+U094,Sulaymaniyah Polytechnic University 94,Sulaymaniyah,2013,12257,13,info94@sulaymaniyahpolyte.edu.krd
+U095,Sulaymaniyah Applied Sciences University 95,Sulaymaniyah,1958,22427,10,info95@sulaymaniyahapplie.edu.krd
+U096,Zakho International University 96,Zakho,1990,3074,12,info96@zakhointernational.edu.krd
+U097,Duhok Business University 97,Duhok,2020,13896,21,info97@duhokbusinessunive.edu.krd
+U098,Duhok Technical University 98,Duhok,1969,9359,9,info98@duhoktechnicaluniv.edu.krd
+U099,Halabja International University 99,Halabja,1959,4352,23,info99@halabjainternation.edu.krd
+U100,Zakho International University 100,Zakho,1995,15099,23,info100@zakhointernational.edu.krd
+U101,Halabja Technical University 101,Halabja,2004,19693,10,info101@halabjatechnicalun.edu.krd
+U102,Duhok Technical University 102,Duhok,2010,855,20,info102@duhoktechnicaluniv.edu.krd
+U103,Halabja Business University 103,Halabja,1980,12734,17,info103@halabjabusinessuni.edu.krd
+U104,Erbil Business University 104,Erbil,1997,21219,14,info104@erbilbusinessunive.edu.krd
+U105,Erbil Business University 105,Erbil,1993,17417,13,info105@erbilbusinessunive.edu.krd
+U106,Zakho International University 106,Zakho,2006,23646,13,info106@zakhointernational.edu.krd
+U107,Halabja Applied Sciences University 107,Halabja,1979,14577,16,info107@halabjaappliedscie.edu.krd
+U108,Sulaymaniyah National University 108,Sulaymaniyah,1993,14106,21,info108@sulaymaniyahnation.edu.krd
+U109,Erbil International University 109,Erbil,1991,7687,17,info109@erbilinternational.edu.krd
+U110,Halabja National University 110,Halabja,1996,16036,18,info110@halabjanationaluni.edu.krd
+U111,Zakho Business University 111,Zakho,1982,17550,19,info111@zakhobusinessunive.edu.krd
+U112,Sulaymaniyah Business University 112,Sulaymaniyah,1965,10099,20,info112@sulaymaniyahbusine.edu.krd
+U113,Halabja International University 113,Halabja,1966,8496,13,info113@halabjainternation.edu.krd
+U114,Sulaymaniyah Polytechnic University 114,Sulaymaniyah,1980,5628,4,info114@sulaymaniyahpolyte.edu.krd
+U115,Erbil Applied Sciences University 115,Erbil,2015,20830,6,info115@erbilappliedscienc.edu.krd
+U116,Zakho Metropolitan University 116,Zakho,1979,24338,16,info116@zakhometropolitanu.edu.krd
+U117,Zakho Metropolitan University 117,Zakho,1986,5635,24,info117@zakhometropolitanu.edu.krd
+U118,Erbil Polytechnic University 118,Erbil,1968,14731,11,info118@erbilpolytechnicun.edu.krd
+U119,Sulaymaniyah Polytechnic University 119,Sulaymaniyah,2021,16022,5,info119@sulaymaniyahpolyte.edu.krd
+U120,Halabja Applied Sciences University 120,Halabja,1970,15757,8,info120@halabjaappliedscie.edu.krd
+U121,Zakho Business University 121,Zakho,2022,19114,23,info121@zakhobusinessunive.edu.krd
+U122,Duhok Polytechnic University 122,Duhok,2011,20875,20,info122@duhokpolytechnicun.edu.krd
+U123,Zakho Polytechnic University 123,Zakho,2012,6015,19,info123@zakhopolytechnicun.edu.krd
+U124,Zakho International University 124,Zakho,1986,21694,12,info124@zakhointernational.edu.krd
+U125,Halabja Metropolitan University 125,Halabja,1985,9798,18,info125@halabjametropolita.edu.krd
+U126,Erbil Business University 126,Erbil,1991,8483,12,info126@erbilbusinessunive.edu.krd
+U127,Duhok International University 127,Duhok,2024,3440,8,info127@duhokinternational.edu.krd
+U128,Sulaymaniyah Applied Sciences University 128,Sulaymaniyah,2004,23539,8,info128@sulaymaniyahapplie.edu.krd
+U129,Sulaymaniyah Technical University 129,Sulaymaniyah,2008,14156,14,info129@sulaymaniyahtechni.edu.krd
+U130,Halabja Metropolitan University 130,Halabja,2008,2840,10,info130@halabjametropolita.edu.krd
+U131,Zakho Metropolitan University 131,Zakho,1957,19664,16,info131@zakhometropolitanu.edu.krd
+U132,Zakho Technical University 132,Zakho,2000,10584,16,info132@zakhotechnicaluniv.edu.krd
+U133,Zakho National University 133,Zakho,2024,20567,11,info133@zakhonationalunive.edu.krd
+U134,Zakho Applied Sciences University 134,Zakho,1989,15081,19,info134@zakhoappliedscienc.edu.krd
+U135,Erbil Metropolitan University 135,Erbil,1998,22717,16,info135@erbilmetropolitanu.edu.krd
+U136,Sulaymaniyah Polytechnic University 136,Sulaymaniyah,2014,4982,23,info136@sulaymaniyahpolyte.edu.krd
+U137,Halabja Technical University 137,Halabja,2005,20195,22,info137@halabjatechnicalun.edu.krd
+U138,Erbil Technical University 138,Erbil,2009,5246,18,info138@erbiltechnicaluniv.edu.krd
+U139,Sulaymaniyah Technical University 139,Sulaymaniyah,1988,13222,14,info139@sulaymaniyahtechni.edu.krd
+U140,Sulaymaniyah Metropolitan University 140,Sulaymaniyah,1996,11859,16,info140@sulaymaniyahmetrop.edu.krd
+U141,Duhok Polytechnic University 141,Duhok,2008,9066,6,info141@duhokpolytechnicun.edu.krd
+U142,Zakho Technical University 142,Zakho,2024,2506,15,info142@zakhotechnicaluniv.edu.krd
+U143,Sulaymaniyah Business University 143,Sulaymaniyah,1963,22156,5,info143@sulaymaniyahbusine.edu.krd
+U144,Erbil Applied Sciences University 144,Erbil,1980,1467,23,info144@erbilappliedscienc.edu.krd
+U145,Sulaymaniyah Applied Sciences University 145,Sulaymaniyah,1971,16317,7,info145@sulaymaniyahapplie.edu.krd
+U146,Halabja Applied Sciences University 146,Halabja,2014,23720,12,info146@halabjaappliedscie.edu.krd
+U147,Duhok Applied Sciences University 147,Duhok,1969,6166,13,info147@duhokappliedscienc.edu.krd
+U148,Erbil National University 148,Erbil,1958,11022,22,info148@erbilnationalunive.edu.krd
+U149,Zakho Metropolitan University 149,Zakho,1980,3290,22,info149@zakhometropolitanu.edu.krd
+U150,Sulaymaniyah Technical University 150,Sulaymaniyah,1993,23221,23,info150@sulaymaniyahtechni.edu.krd
+U151,Erbil Polytechnic University 151,Erbil,1960,12177,21,info151@erbilpolytechnicun.edu.krd
+U152,Zakho Business University 152,Zakho,2002,3059,20,info152@zakhobusinessunive.edu.krd
+U153,Duhok Technical University 153,Duhok,2008,16862,7,info153@duhoktechnicaluniv.edu.krd
+U154,Zakho International University 154,Zakho,2013,23977,8,info154@zakhointernational.edu.krd
+U155,Zakho Applied Sciences University 155,Zakho,2021,22114,12,info155@zakhoappliedscienc.edu.krd
+U156,Halabja Polytechnic University 156,Halabja,2023,16643,18,info156@halabjapolytechnic.edu.krd
+U157,Zakho Polytechnic University 157,Zakho,1989,11361,11,info157@zakhopolytechnicun.edu.krd
+U158,Erbil International University 158,Erbil,2012,8790,18,info158@erbilinternational.edu.krd
+U159,Halabja National University 159,Halabja,2003,11823,4,info159@halabjanationaluni.edu.krd
+U160,Zakho Polytechnic University 160,Zakho,1996,6758,19,info160@zakhopolytechnicun.edu.krd
+U161,Sulaymaniyah International University 161,Sulaymaniyah,1988,11952,12,info161@sulaymaniyahintern.edu.krd
+U162,Halabja Business University 162,Halabja,1990,19012,4,info162@halabjabusinessuni.edu.krd
+U163,Halabja Applied Sciences University 163,Halabja,1965,8708,17,info163@halabjaappliedscie.edu.krd
+U164,Zakho National University 164,Zakho,1985,23429,19,info164@zakhonationalunive.edu.krd
+U165,Zakho Metropolitan University 165,Zakho,1957,3849,13,info165@zakhometropolitanu.edu.krd
+U166,Sulaymaniyah Metropolitan University 166,Sulaymaniyah,1986,10833,22,info166@sulaymaniyahmetrop.edu.krd
+U167,Duhok Metropolitan University 167,Duhok,2022,12064,17,info167@duhokmetropolitanu.edu.krd
+U168,Halabja International University 168,Halabja,2000,23831,18,info168@halabjainternation.edu.krd
+U169,Duhok International University 169,Duhok,1987,8354,7,info169@duhokinternational.edu.krd
+U170,Sulaymaniyah International University 170,Sulaymaniyah,1970,18359,9,info170@sulaymaniyahintern.edu.krd
+U171,Sulaymaniyah Applied Sciences University 171,Sulaymaniyah,2016,9860,22,info171@sulaymaniyahapplie.edu.krd
+U172,Halabja National University 172,Halabja,1991,4094,10,info172@halabjanationaluni.edu.krd
+U173,Duhok Applied Sciences University 173,Duhok,2001,6679,13,info173@duhokappliedscienc.edu.krd
+U174,Erbil Business University 174,Erbil,2023,4947,12,info174@erbilbusinessunive.edu.krd
+U175,Erbil Technical University 175,Erbil,1992,23652,8,info175@erbiltechnicaluniv.edu.krd
+U176,Zakho Technical University 176,Zakho,1956,19610,13,info176@zakhotechnicaluniv.edu.krd
+U177,Zakho Metropolitan University 177,Zakho,2011,11964,9,info177@zakhometropolitanu.edu.krd
+U178,Erbil International University 178,Erbil,2016,4538,6,info178@erbilinternational.edu.krd
+U179,Zakho Metropolitan University 179,Zakho,1964,19707,24,info179@zakhometropolitanu.edu.krd
+U180,Erbil Applied Sciences University 180,Erbil,1974,19243,13,info180@erbilappliedscienc.edu.krd
+U181,Erbil Applied Sciences University 181,Erbil,1970,19086,17,info181@erbilappliedscienc.edu.krd
+U182,Halabja National University 182,Halabja,1983,17923,16,info182@halabjanationaluni.edu.krd
+U183,Zakho Metropolitan University 183,Zakho,1993,20084,17,info183@zakhometropolitanu.edu.krd
+U184,Duhok National University 184,Duhok,1962,20776,7,info184@duhoknationalunive.edu.krd
+U185,Sulaymaniyah Business University 185,Sulaymaniyah,1982,9471,6,info185@sulaymaniyahbusine.edu.krd
+U186,Sulaymaniyah Applied Sciences University 186,Sulaymaniyah,1977,18887,6,info186@sulaymaniyahapplie.edu.krd
+U187,Sulaymaniyah Technical University 187,Sulaymaniyah,2007,15562,23,info187@sulaymaniyahtechni.edu.krd
+U188,Zakho International University 188,Zakho,1959,8385,13,info188@zakhointernational.edu.krd
+U189,Duhok Business University 189,Duhok,2013,3132,11,info189@duhokbusinessunive.edu.krd
+U190,Duhok Polytechnic University 190,Duhok,1980,14730,7,info190@duhokpolytechnicun.edu.krd
+U191,Halabja Applied Sciences University 191,Halabja,1974,9504,8,info191@halabjaappliedscie.edu.krd
+U192,Erbil Technical University 192,Erbil,1976,10879,23,info192@erbiltechnicaluniv.edu.krd
+U193,Halabja International University 193,Halabja,2011,4874,18,info193@halabjainternation.edu.krd
+U194,Duhok Business University 194,Duhok,2006,9720,20,info194@duhokbusinessunive.edu.krd
+U195,Halabja Metropolitan University 195,Halabja,2011,3435,23,info195@halabjametropolita.edu.krd
+U196,Erbil Metropolitan University 196,Erbil,1996,20582,12,info196@erbilmetropolitanu.edu.krd
+U197,Erbil Technical University 197,Erbil,1984,22895,22,info197@erbiltechnicaluniv.edu.krd
+U198,Halabja Technical University 198,Halabja,1989,19682,5,info198@halabjatechnicalun.edu.krd
+U199,Sulaymaniyah Metropolitan University 199,Sulaymaniyah,2021,22148,18,info199@sulaymaniyahmetrop.edu.krd
+U200,Duhok Applied Sciences University 200,Duhok,2010,21600,19,info200@duhokappliedscienc.edu.krd
+U201,Erbil Metropolitan University 201,Erbil,1999,14180,14,info201@erbilmetropolitanu.edu.krd
+U202,Duhok Business University 202,Duhok,1968,6069,14,info202@duhokbusinessunive.edu.krd
+U203,Zakho Business University 203,Zakho,2018,10244,16,info203@zakhobusinessunive.edu.krd
+U204,Halabja Technical University 204,Halabja,2013,3685,14,info204@halabjatechnicalun.edu.krd
+U205,Duhok International University 205,Duhok,1969,14044,20,info205@duhokinternational.edu.krd
+U206,Erbil Business University 206,Erbil,2024,15938,17,info206@erbilbusinessunive.edu.krd
+U207,Erbil Applied Sciences University 207,Erbil,2021,12654,23,info207@erbilappliedscienc.edu.krd
+U208,Zakho Business University 208,Zakho,2011,2491,10,info208@zakhobusinessunive.edu.krd
+U209,Duhok National University 209,Duhok,1971,10238,18,info209@duhoknationalunive.edu.krd
+U210,Zakho Technical University 210,Zakho,1958,21444,23,info210@zakhotechnicaluniv.edu.krd
+U211,Sulaymaniyah Business University 211,Sulaymaniyah,1975,10982,21,info211@sulaymaniyahbusine.edu.krd
+U212,Erbil National University 212,Erbil,2007,3854,11,info212@erbilnationalunive.edu.krd
+U213,Erbil Metropolitan University 213,Erbil,1970,22024,8,info213@erbilmetropolitanu.edu.krd
+U214,Zakho Business University 214,Zakho,1992,17474,12,info214@zakhobusinessunive.edu.krd
+U215,Zakho Polytechnic University 215,Zakho,2016,16273,11,info215@zakhopolytechnicun.edu.krd
+U216,Zakho National University 216,Zakho,1973,13369,10,info216@zakhonationalunive.edu.krd
+U217,Halabja National University 217,Halabja,1972,3087,12,info217@halabjanationaluni.edu.krd
+U218,Zakho International University 218,Zakho,2019,9554,4,info218@zakhointernational.edu.krd
+U219,Duhok Business University 219,Duhok,1993,20032,22,info219@duhokbusinessunive.edu.krd
+U220,Zakho Polytechnic University 220,Zakho,1974,15432,21,info220@zakhopolytechnicun.edu.krd
+U221,Zakho International University 221,Zakho,1997,18885,21,info221@zakhointernational.edu.krd
+U222,Zakho Metropolitan University 222,Zakho,1996,6981,11,info222@zakhometropolitanu.edu.krd
+U223,Halabja Metropolitan University 223,Halabja,1984,14260,5,info223@halabjametropolita.edu.krd
+U224,Duhok Business University 224,Duhok,2015,23908,16,info224@duhokbusinessunive.edu.krd
+U225,Zakho Business University 225,Zakho,1974,17030,5,info225@zakhobusinessunive.edu.krd
+U226,Sulaymaniyah National University 226,Sulaymaniyah,1997,4088,18,info226@sulaymaniyahnation.edu.krd
+U227,Erbil National University 227,Erbil,2013,1302,8,info227@erbilnationalunive.edu.krd
+U228,Zakho Polytechnic University 228,Zakho,1974,3251,19,info228@zakhopolytechnicun.edu.krd
+U229,Duhok International University 229,Duhok,2005,22093,6,info229@duhokinternational.edu.krd
+U230,Duhok Polytechnic University 230,Duhok,2023,13252,14,info230@duhokpolytechnicun.edu.krd
+U231,Zakho Polytechnic University 231,Zakho,2024,1976,23,info231@zakhopolytechnicun.edu.krd
+U232,Erbil Applied Sciences University 232,Erbil,1991,8254,6,info232@erbilappliedscienc.edu.krd
+U233,Zakho Technical University 233,Zakho,1967,15338,9,info233@zakhotechnicaluniv.edu.krd
+U234,Duhok Technical University 234,Duhok,1960,11429,5,info234@duhoktechnicaluniv.edu.krd
+U235,Duhok International University 235,Duhok,2002,14912,8,info235@duhokinternational.edu.krd
+U236,Sulaymaniyah National University 236,Sulaymaniyah,2007,19344,9,info236@sulaymaniyahnation.edu.krd
+U237,Sulaymaniyah Applied Sciences University 237,Sulaymaniyah,1965,20771,16,info237@sulaymaniyahapplie.edu.krd
+U238,Halabja Business University 238,Halabja,1985,17107,22,info238@halabjabusinessuni.edu.krd
+U239,Sulaymaniyah Applied Sciences University 239,Sulaymaniyah,2014,21702,12,info239@sulaymaniyahapplie.edu.krd
+U240,Zakho International University 240,Zakho,1956,16045,13,info240@zakhointernational.edu.krd
+U241,Halabja Applied Sciences University 241,Halabja,1964,15274,15,info241@halabjaappliedscie.edu.krd
+U242,Halabja International University 242,Halabja,2009,23420,12,info242@halabjainternation.edu.krd
+U243,Zakho Polytechnic University 243,Zakho,1993,7327,16,info243@zakhopolytechnicun.edu.krd
+U244,Zakho Technical University 244,Zakho,1985,13296,22,info244@zakhotechnicaluniv.edu.krd
+U245,Duhok National University 245,Duhok,1992,23713,13,info245@duhoknationalunive.edu.krd
+U246,Erbil Polytechnic University 246,Erbil,2005,9794,4,info246@erbilpolytechnicun.edu.krd
+U247,Halabja Polytechnic University 247,Halabja,1961,20670,19,info247@halabjapolytechnic.edu.krd
+U248,Duhok Polytechnic University 248,Duhok,1984,20692,15,info248@duhokpolytechnicun.edu.krd
+U249,Sulaymaniyah Business University 249,Sulaymaniyah,1979,21145,12,info249@sulaymaniyahbusine.edu.krd
+U250,Sulaymaniyah Business University 250,Sulaymaniyah,1967,21360,24,info250@sulaymaniyahbusine.edu.krd
+U251,Erbil International University 251,Erbil,2011,1893,22,info251@erbilinternational.edu.krd
+U252,Duhok Business University 252,Duhok,1971,3753,13,info252@duhokbusinessunive.edu.krd
+U253,Duhok Business University 253,Duhok,2008,6555,10,info253@duhokbusinessunive.edu.krd
+U254,Sulaymaniyah Polytechnic University 254,Sulaymaniyah,2024,12788,20,info254@sulaymaniyahpolyte.edu.krd
+U255,Halabja International University 255,Halabja,1976,9220,19,info255@halabjainternation.edu.krd
+U256,Duhok Business University 256,Duhok,1998,4573,18,info256@duhokbusinessunive.edu.krd
+U257,Erbil Applied Sciences University 257,Erbil,1983,22961,16,info257@erbilappliedscienc.edu.krd
+U258,Halabja International University 258,Halabja,1966,13729,4,info258@halabjainternation.edu.krd
+U259,Duhok National University 259,Duhok,1970,15702,15,info259@duhoknationalunive.edu.krd
+U260,Duhok National University 260,Duhok,2003,21723,15,info260@duhoknationalunive.edu.krd
+U261,Erbil Business University 261,Erbil,1984,16249,4,info261@erbilbusinessunive.edu.krd
+U262,Halabja National University 262,Halabja,1996,20791,11,info262@halabjanationaluni.edu.krd
+U263,Erbil Business University 263,Erbil,2014,23772,13,info263@erbilbusinessunive.edu.krd
+U264,Zakho Technical University 264,Zakho,1972,2285,5,info264@zakhotechnicaluniv.edu.krd
+U265,Duhok Metropolitan University 265,Duhok,1969,3984,11,info265@duhokmetropolitanu.edu.krd
+U266,Halabja Applied Sciences University 266,Halabja,2004,15664,15,info266@halabjaappliedscie.edu.krd
+U267,Halabja Metropolitan University 267,Halabja,1974,14394,24,info267@halabjametropolita.edu.krd
+U268,Erbil Polytechnic University 268,Erbil,2017,20973,17,info268@erbilpolytechnicun.edu.krd
+U269,Duhok Technical University 269,Duhok,2002,7919,18,info269@duhoktechnicaluniv.edu.krd
+U270,Zakho Applied Sciences University 270,Zakho,2001,4055,15,info270@zakhoappliedscienc.edu.krd
+U271,Halabja Business University 271,Halabja,2000,2784,16,info271@halabjabusinessuni.edu.krd
+U272,Duhok Applied Sciences University 272,Duhok,1970,15700,6,info272@duhokappliedscienc.edu.krd
+U273,Sulaymaniyah Business University 273,Sulaymaniyah,1957,2457,14,info273@sulaymaniyahbusine.edu.krd
+U274,Sulaymaniyah Applied Sciences University 274,Sulaymaniyah,1981,3048,21,info274@sulaymaniyahapplie.edu.krd
+U275,Sulaymaniyah National University 275,Sulaymaniyah,1982,8434,14,info275@sulaymaniyahnation.edu.krd
+U276,Sulaymaniyah Polytechnic University 276,Sulaymaniyah,1955,9885,8,info276@sulaymaniyahpolyte.edu.krd
+U277,Sulaymaniyah National University 277,Sulaymaniyah,1987,6517,7,info277@sulaymaniyahnation.edu.krd
+U278,Erbil Applied Sciences University 278,Erbil,1956,12538,11,info278@erbilappliedscienc.edu.krd
+U279,Halabja International University 279,Halabja,1957,6509,12,info279@halabjainternation.edu.krd
+U280,Erbil Applied Sciences University 280,Erbil,2008,18038,7,info280@erbilappliedscienc.edu.krd
+U281,Erbil Metropolitan University 281,Erbil,2012,12663,20,info281@erbilmetropolitanu.edu.krd
+U282,Halabja Technical University 282,Halabja,2012,17309,11,info282@halabjatechnicalun.edu.krd
+U283,Halabja Technical University 283,Halabja,2021,10683,18,info283@halabjatechnicalun.edu.krd
+U284,Erbil Technical University 284,Erbil,2016,13960,17,info284@erbiltechnicaluniv.edu.krd
+U285,Erbil Metropolitan University 285,Erbil,2011,3208,6,info285@erbilmetropolitanu.edu.krd
+U286,Duhok National University 286,Duhok,1973,2952,8,info286@duhoknationalunive.edu.krd
+U287,Duhok National University 287,Duhok,1996,13281,23,info287@duhoknationalunive.edu.krd
+U288,Halabja International University 288,Halabja,2013,17365,23,info288@halabjainternation.edu.krd
+U289,Zakho Technical University 289,Zakho,1969,22253,24,info289@zakhotechnicaluniv.edu.krd
+U290,Halabja Business University 290,Halabja,1982,14892,18,info290@halabjabusinessuni.edu.krd
+U291,Sulaymaniyah Metropolitan University 291,Sulaymaniyah,1998,15660,16,info291@sulaymaniyahmetrop.edu.krd
+U292,Zakho Business University 292,Zakho,1967,11041,17,info292@zakhobusinessunive.edu.krd
+U293,Duhok Business University 293,Duhok,1987,13065,8,info293@duhokbusinessunive.edu.krd
+U294,Zakho Technical University 294,Zakho,1966,3597,6,info294@zakhotechnicaluniv.edu.krd
+U295,Zakho Technical University 295,Zakho,2002,5063,21,info295@zakhotechnicaluniv.edu.krd
+U296,Erbil National University 296,Erbil,1997,22754,7,info296@erbilnationalunive.edu.krd
+U297,Zakho International University 297,Zakho,2009,24427,5,info297@zakhointernational.edu.krd
+U298,Duhok National University 298,Duhok,1994,12322,7,info298@duhoknationalunive.edu.krd
+U299,Halabja National University 299,Halabja,1982,5870,19,info299@halabjanationaluni.edu.krd
+U300,Sulaymaniyah Polytechnic University 300,Sulaymaniyah,1968,12272,21,info300@sulaymaniyahpolyte.edu.krd
+U301,Duhok Technical University 301,Duhok,1990,19612,11,info301@duhoktechnicaluniv.edu.krd
+U302,Zakho Polytechnic University 302,Zakho,1958,20755,12,info302@zakhopolytechnicun.edu.krd
+U303,Erbil Applied Sciences University 303,Erbil,1989,23826,13,info303@erbilappliedscienc.edu.krd
+U304,Duhok International University 304,Duhok,1955,6744,8,info304@duhokinternational.edu.krd
+U305,Halabja Business University 305,Halabja,2006,3080,8,info305@halabjabusinessuni.edu.krd
+U306,Erbil Technical University 306,Erbil,2022,7849,16,info306@erbiltechnicaluniv.edu.krd
+U307,Zakho Metropolitan University 307,Zakho,1998,5957,15,info307@zakhometropolitanu.edu.krd
+U308,Duhok Business University 308,Duhok,1996,19398,23,info308@duhokbusinessunive.edu.krd
+U309,Erbil Technical University 309,Erbil,1974,5958,23,info309@erbiltechnicaluniv.edu.krd
+U310,Erbil Business University 310,Erbil,1965,9716,18,info310@erbilbusinessunive.edu.krd
+U311,Zakho Metropolitan University 311,Zakho,2011,14371,12,info311@zakhometropolitanu.edu.krd
+U312,Sulaymaniyah Polytechnic University 312,Sulaymaniyah,2020,4529,15,info312@sulaymaniyahpolyte.edu.krd
+U313,Zakho Technical University 313,Zakho,1991,23023,22,info313@zakhotechnicaluniv.edu.krd
+U314,Zakho National University 314,Zakho,1994,2288,11,info314@zakhonationalunive.edu.krd
+U315,Zakho National University 315,Zakho,1962,1051,10,info315@zakhonationalunive.edu.krd
+U316,Duhok Applied Sciences University 316,Duhok,1972,9172,13,info316@duhokappliedscienc.edu.krd
+U317,Duhok Technical University 317,Duhok,1955,17098,17,info317@duhoktechnicaluniv.edu.krd
+U318,Sulaymaniyah Applied Sciences University 318,Sulaymaniyah,2003,18251,11,info318@sulaymaniyahapplie.edu.krd
+U319,Halabja National University 319,Halabja,2000,3161,16,info319@halabjanationaluni.edu.krd
+U320,Erbil Metropolitan University 320,Erbil,1957,15865,6,info320@erbilmetropolitanu.edu.krd
+U321,Duhok National University 321,Duhok,2009,19589,16,info321@duhoknationalunive.edu.krd
+U322,Zakho International University 322,Zakho,1969,14072,4,info322@zakhointernational.edu.krd
+U323,Duhok Applied Sciences University 323,Duhok,2013,23397,15,info323@duhokappliedscienc.edu.krd
+U324,Erbil Metropolitan University 324,Erbil,1968,8772,17,info324@erbilmetropolitanu.edu.krd
+U325,Halabja Metropolitan University 325,Halabja,2022,3377,16,info325@halabjametropolita.edu.krd
+U326,Duhok Business University 326,Duhok,1998,8060,14,info326@duhokbusinessunive.edu.krd
+U327,Sulaymaniyah Technical University 327,Sulaymaniyah,2020,21549,7,info327@sulaymaniyahtechni.edu.krd
+U328,Halabja National University 328,Halabja,1979,12248,15,info328@halabjanationaluni.edu.krd
+U329,Sulaymaniyah Applied Sciences University 329,Sulaymaniyah,1968,5598,12,info329@sulaymaniyahapplie.edu.krd
+U330,Sulaymaniyah Applied Sciences University 330,Sulaymaniyah,1974,22279,6,info330@sulaymaniyahapplie.edu.krd
+U331,Sulaymaniyah Polytechnic University 331,Sulaymaniyah,2018,16002,22,info331@sulaymaniyahpolyte.edu.krd
+U332,Halabja Metropolitan University 332,Halabja,1996,21352,14,info332@halabjametropolita.edu.krd
+U333,Sulaymaniyah Metropolitan University 333,Sulaymaniyah,1963,16165,18,info333@sulaymaniyahmetrop.edu.krd
+U334,Duhok Polytechnic University 334,Duhok,1990,20179,5,info334@duhokpolytechnicun.edu.krd
+U335,Duhok National University 335,Duhok,1964,10971,18,info335@duhoknationalunive.edu.krd
+U336,Zakho Technical University 336,Zakho,1962,12882,13,info336@zakhotechnicaluniv.edu.krd
+U337,Erbil Business University 337,Erbil,1966,20952,23,info337@erbilbusinessunive.edu.krd
+U338,Halabja Metropolitan University 338,Halabja,2014,19816,21,info338@halabjametropolita.edu.krd
+U339,Erbil Metropolitan University 339,Erbil,1979,11335,23,info339@erbilmetropolitanu.edu.krd
+U340,Zakho National University 340,Zakho,1974,2827,18,info340@zakhonationalunive.edu.krd
+U341,Erbil Polytechnic University 341,Erbil,1998,24206,6,info341@erbilpolytechnicun.edu.krd
+U342,Halabja Business University 342,Halabja,1977,2082,11,info342@halabjabusinessuni.edu.krd
+U343,Zakho Metropolitan University 343,Zakho,2022,17929,23,info343@zakhometropolitanu.edu.krd
+U344,Sulaymaniyah International University 344,Sulaymaniyah,2002,10069,16,info344@sulaymaniyahintern.edu.krd
+U345,Zakho Polytechnic University 345,Zakho,1998,23046,23,info345@zakhopolytechnicun.edu.krd
+U346,Erbil Polytechnic University 346,Erbil,1997,2959,14,info346@erbilpolytechnicun.edu.krd
+U347,Erbil National University 347,Erbil,2004,10110,12,info347@erbilnationalunive.edu.krd
+U348,Halabja Polytechnic University 348,Halabja,1974,11723,6,info348@halabjapolytechnic.edu.krd
+U349,Halabja Business University 349,Halabja,1973,12262,13,info349@halabjabusinessuni.edu.krd
+U350,Zakho Applied Sciences University 350,Zakho,1965,10944,21,info350@zakhoappliedscienc.edu.krd
+U351,Zakho Business University 351,Zakho,1997,4987,20,info351@zakhobusinessunive.edu.krd
+U352,Erbil Business University 352,Erbil,2009,17462,15,info352@erbilbusinessunive.edu.krd
+U353,Erbil International University 353,Erbil,1994,6706,10,info353@erbilinternational.edu.krd
+U354,Duhok Polytechnic University 354,Duhok,2017,7091,11,info354@duhokpolytechnicun.edu.krd
+U355,Sulaymaniyah Applied Sciences University 355,Sulaymaniyah,1964,10492,7,info355@sulaymaniyahapplie.edu.krd
+U356,Halabja Polytechnic University 356,Halabja,2024,18053,5,info356@halabjapolytechnic.edu.krd
+U357,Duhok Polytechnic University 357,Duhok,1971,20370,16,info357@duhokpolytechnicun.edu.krd
+U358,Sulaymaniyah Applied Sciences University 358,Sulaymaniyah,1978,23503,23,info358@sulaymaniyahapplie.edu.krd
+U359,Sulaymaniyah Business University 359,Sulaymaniyah,2011,2231,17,info359@sulaymaniyahbusine.edu.krd
+U360,Duhok Business University 360,Duhok,1985,15355,23,info360@duhokbusinessunive.edu.krd
+U361,Duhok Polytechnic University 361,Duhok,2012,8467,21,info361@duhokpolytechnicun.edu.krd
+U362,Sulaymaniyah International University 362,Sulaymaniyah,2015,7157,15,info362@sulaymaniyahintern.edu.krd
+U363,Halabja Metropolitan University 363,Halabja,2014,10033,16,info363@halabjametropolita.edu.krd
+U364,Halabja National University 364,Halabja,2008,6110,10,info364@halabjanationaluni.edu.krd
+U365,Halabja Applied Sciences University 365,Halabja,1987,2509,24,info365@halabjaappliedscie.edu.krd
+U366,Zakho Polytechnic University 366,Zakho,2002,18971,7,info366@zakhopolytechnicun.edu.krd
+U367,Halabja Polytechnic University 367,Halabja,1970,10140,6,info367@halabjapolytechnic.edu.krd
+U368,Sulaymaniyah International University 368,Sulaymaniyah,2012,17621,8,info368@sulaymaniyahintern.edu.krd
+U369,Zakho Technical University 369,Zakho,1983,15582,15,info369@zakhotechnicaluniv.edu.krd
+U370,Erbil Metropolitan University 370,Erbil,1961,13791,20,info370@erbilmetropolitanu.edu.krd
+U371,Duhok Applied Sciences University 371,Duhok,2004,3474,15,info371@duhokappliedscienc.edu.krd
+U372,Sulaymaniyah Technical University 372,Sulaymaniyah,1995,4046,24,info372@sulaymaniyahtechni.edu.krd
+U373,Duhok Polytechnic University 373,Duhok,1973,5308,5,info373@duhokpolytechnicun.edu.krd
+U374,Duhok Polytechnic University 374,Duhok,2015,23608,8,info374@duhokpolytechnicun.edu.krd
+U375,Zakho Metropolitan University 375,Zakho,1955,3396,4,info375@zakhometropolitanu.edu.krd
+U376,Duhok Applied Sciences University 376,Duhok,1974,18783,23,info376@duhokappliedscienc.edu.krd
+U377,Halabja Metropolitan University 377,Halabja,1969,10240,11,info377@halabjametropolita.edu.krd
+U378,Duhok Technical University 378,Duhok,1961,8613,17,info378@duhoktechnicaluniv.edu.krd
+U379,Halabja Metropolitan University 379,Halabja,1963,4432,19,info379@halabjametropolita.edu.krd
+U380,Halabja National University 380,Halabja,1957,21507,20,info380@halabjanationaluni.edu.krd
+U381,Halabja Applied Sciences University 381,Halabja,1973,10344,17,info381@halabjaappliedscie.edu.krd
+U382,Erbil National University 382,Erbil,2000,8682,22,info382@erbilnationalunive.edu.krd
+U383,Zakho Applied Sciences University 383,Zakho,1965,17953,15,info383@zakhoappliedscienc.edu.krd
+U384,Erbil National University 384,Erbil,2024,17424,20,info384@erbilnationalunive.edu.krd
+U385,Halabja Technical University 385,Halabja,2004,16205,5,info385@halabjatechnicalun.edu.krd
+U386,Zakho International University 386,Zakho,1987,1332,15,info386@zakhointernational.edu.krd
+U387,Erbil International University 387,Erbil,1985,24817,24,info387@erbilinternational.edu.krd
+U388,Erbil Polytechnic University 388,Erbil,1997,5171,5,info388@erbilpolytechnicun.edu.krd
+U389,Duhok National University 389,Duhok,1998,21863,9,info389@duhoknationalunive.edu.krd
+U390,Zakho Business University 390,Zakho,2016,21500,9,info390@zakhobusinessunive.edu.krd
+U391,Sulaymaniyah Technical University 391,Sulaymaniyah,2013,2011,13,info391@sulaymaniyahtechni.edu.krd
+U392,Sulaymaniyah Technical University 392,Sulaymaniyah,1980,2173,14,info392@sulaymaniyahtechni.edu.krd
+U393,Duhok National University 393,Duhok,2005,18594,19,info393@duhoknationalunive.edu.krd
+U394,Duhok Technical University 394,Duhok,1979,10175,15,info394@duhoktechnicaluniv.edu.krd
+U395,Erbil Polytechnic University 395,Erbil,1997,9752,7,info395@erbilpolytechnicun.edu.krd
+U396,Duhok Metropolitan University 396,Duhok,2006,15209,16,info396@duhokmetropolitanu.edu.krd
+U397,Duhok Applied Sciences University 397,Duhok,2018,23477,19,info397@duhokappliedscienc.edu.krd
+U398,Duhok Polytechnic University 398,Duhok,2021,9539,6,info398@duhokpolytechnicun.edu.krd
+U399,Zakho Technical University 399,Zakho,2010,20541,9,info399@zakhotechnicaluniv.edu.krd
+U400,Halabja International University 400,Halabja,1996,4161,6,info400@halabjainternation.edu.krd
+U401,Duhok Business University 401,Duhok,1992,10843,18,info401@duhokbusinessunive.edu.krd
+U402,Halabja Business University 402,Halabja,2009,6260,18,info402@halabjabusinessuni.edu.krd
+U403,Duhok Metropolitan University 403,Duhok,1960,24616,15,info403@duhokmetropolitanu.edu.krd
+U404,Halabja Metropolitan University 404,Halabja,1990,21754,5,info404@halabjametropolita.edu.krd
+U405,Erbil Business University 405,Erbil,2006,12704,20,info405@erbilbusinessunive.edu.krd
+U406,Sulaymaniyah Technical University 406,Sulaymaniyah,1973,20708,18,info406@sulaymaniyahtechni.edu.krd
+U407,Erbil Applied Sciences University 407,Erbil,1963,8533,24,info407@erbilappliedscienc.edu.krd
+U408,Duhok International University 408,Duhok,2004,19387,5,info408@duhokinternational.edu.krd
+U409,Halabja Applied Sciences University 409,Halabja,2012,12955,15,info409@halabjaappliedscie.edu.krd
+U410,Zakho Polytechnic University 410,Zakho,1964,19606,8,info410@zakhopolytechnicun.edu.krd
+U411,Halabja International University 411,Halabja,2005,11101,24,info411@halabjainternation.edu.krd
+U412,Duhok Applied Sciences University 412,Duhok,1969,1649,9,info412@duhokappliedscienc.edu.krd
+U413,Zakho National University 413,Zakho,2004,19204,7,info413@zakhonationalunive.edu.krd
+U414,Duhok Polytechnic University 414,Duhok,1988,23869,18,info414@duhokpolytechnicun.edu.krd
+U415,Sulaymaniyah National University 415,Sulaymaniyah,1991,23540,19,info415@sulaymaniyahnation.edu.krd
+U416,Sulaymaniyah Technical University 416,Sulaymaniyah,1972,3226,18,info416@sulaymaniyahtechni.edu.krd
+U417,Sulaymaniyah Business University 417,Sulaymaniyah,2011,3676,14,info417@sulaymaniyahbusine.edu.krd
+U418,Duhok Business University 418,Duhok,1963,18822,21,info418@duhokbusinessunive.edu.krd
+U419,Duhok International University 419,Duhok,1975,24124,24,info419@duhokinternational.edu.krd
+U420,Sulaymaniyah Polytechnic University 420,Sulaymaniyah,2001,17470,11,info420@sulaymaniyahpolyte.edu.krd
+U421,Erbil Applied Sciences University 421,Erbil,1972,8557,19,info421@erbilappliedscienc.edu.krd
+U422,Erbil International University 422,Erbil,2002,16115,21,info422@erbilinternational.edu.krd
+U423,Sulaymaniyah National University 423,Sulaymaniyah,1966,2954,13,info423@sulaymaniyahnation.edu.krd
+U424,Zakho Business University 424,Zakho,2016,18025,17,info424@zakhobusinessunive.edu.krd
+U425,Zakho Polytechnic University 425,Zakho,1964,4906,14,info425@zakhopolytechnicun.edu.krd
+U426,Erbil Metropolitan University 426,Erbil,2014,23085,20,info426@erbilmetropolitanu.edu.krd
+U427,Duhok Applied Sciences University 427,Duhok,1978,5028,17,info427@duhokappliedscienc.edu.krd
+U428,Halabja Polytechnic University 428,Halabja,1962,4868,20,info428@halabjapolytechnic.edu.krd
+U429,Sulaymaniyah International University 429,Sulaymaniyah,1976,6107,14,info429@sulaymaniyahintern.edu.krd
+U430,Sulaymaniyah International University 430,Sulaymaniyah,2021,10107,6,info430@sulaymaniyahintern.edu.krd
+U431,Duhok Applied Sciences University 431,Duhok,1990,4901,24,info431@duhokappliedscienc.edu.krd
+U432,Duhok National University 432,Duhok,2023,3861,20,info432@duhoknationalunive.edu.krd
+U433,Sulaymaniyah National University 433,Sulaymaniyah,1974,6409,23,info433@sulaymaniyahnation.edu.krd
+U434,Halabja International University 434,Halabja,1960,1729,6,info434@halabjainternation.edu.krd
+U435,Erbil Business University 435,Erbil,1988,22136,10,info435@erbilbusinessunive.edu.krd
+U436,Halabja Metropolitan University 436,Halabja,1958,17119,24,info436@halabjametropolita.edu.krd
+U437,Halabja International University 437,Halabja,1993,16625,11,info437@halabjainternation.edu.krd
+U438,Zakho International University 438,Zakho,2013,3191,5,info438@zakhointernational.edu.krd
+U439,Sulaymaniyah Metropolitan University 439,Sulaymaniyah,2008,16667,18,info439@sulaymaniyahmetrop.edu.krd
+U440,Sulaymaniyah International University 440,Sulaymaniyah,1973,11042,14,info440@sulaymaniyahintern.edu.krd
+U441,Duhok Metropolitan University 441,Duhok,1971,12941,20,info441@duhokmetropolitanu.edu.krd
+U442,Halabja Technical University 442,Halabja,1995,8721,18,info442@halabjatechnicalun.edu.krd
+U443,Erbil International University 443,Erbil,2012,8923,8,info443@erbilinternational.edu.krd
+U444,Erbil Technical University 444,Erbil,1992,13387,23,info444@erbiltechnicaluniv.edu.krd
+U445,Zakho Applied Sciences University 445,Zakho,1975,11529,22,info445@zakhoappliedscienc.edu.krd
+U446,Duhok Applied Sciences University 446,Duhok,1975,17127,20,info446@duhokappliedscienc.edu.krd
+U447,Zakho Metropolitan University 447,Zakho,1994,17097,4,info447@zakhometropolitanu.edu.krd
+U448,Erbil Metropolitan University 448,Erbil,2019,15782,11,info448@erbilmetropolitanu.edu.krd
+U449,Sulaymaniyah National University 449,Sulaymaniyah,2000,2394,5,info449@sulaymaniyahnation.edu.krd
+U450,Duhok Metropolitan University 450,Duhok,2015,10163,21,info450@duhokmetropolitanu.edu.krd
+U451,Erbil Polytechnic University 451,Erbil,1968,14920,8,info451@erbilpolytechnicun.edu.krd
+U452,Duhok Business University 452,Duhok,2001,14013,15,info452@duhokbusinessunive.edu.krd
+U453,Erbil Metropolitan University 453,Erbil,1961,19486,21,info453@erbilmetropolitanu.edu.krd
+U454,Sulaymaniyah International University 454,Sulaymaniyah,1991,3209,16,info454@sulaymaniyahintern.edu.krd
+U455,Halabja Metropolitan University 455,Halabja,1990,21222,23,info455@halabjametropolita.edu.krd
+U456,Erbil Applied Sciences University 456,Erbil,1967,13707,15,info456@erbilappliedscienc.edu.krd
+U457,Duhok National University 457,Duhok,2001,5527,10,info457@duhoknationalunive.edu.krd
+U458,Halabja National University 458,Halabja,2006,17186,5,info458@halabjanationaluni.edu.krd
+U459,Erbil Technical University 459,Erbil,1972,24182,14,info459@erbiltechnicaluniv.edu.krd
+U460,Zakho National University 460,Zakho,2013,5680,23,info460@zakhonationalunive.edu.krd
+U461,Halabja Applied Sciences University 461,Halabja,1996,20889,14,info461@halabjaappliedscie.edu.krd
+U462,Sulaymaniyah Metropolitan University 462,Sulaymaniyah,1993,20255,14,info462@sulaymaniyahmetrop.edu.krd
+U463,Halabja Polytechnic University 463,Halabja,2020,18243,19,info463@halabjapolytechnic.edu.krd
+U464,Halabja International University 464,Halabja,2015,1345,15,info464@halabjainternation.edu.krd
+U465,Duhok Business University 465,Duhok,1969,14449,22,info465@duhokbusinessunive.edu.krd
+U466,Duhok Polytechnic University 466,Duhok,1958,20359,19,info466@duhokpolytechnicun.edu.krd
+U467,Duhok Business University 467,Duhok,1984,24438,5,info467@duhokbusinessunive.edu.krd
+U468,Halabja Metropolitan University 468,Halabja,1976,17978,24,info468@halabjametropolita.edu.krd
+U469,Halabja Polytechnic University 469,Halabja,2003,5642,11,info469@halabjapolytechnic.edu.krd
+U470,Erbil National University 470,Erbil,1969,7051,4,info470@erbilnationalunive.edu.krd
+U471,Zakho International University 471,Zakho,2008,5762,17,info471@zakhointernational.edu.krd
+U472,Sulaymaniyah Metropolitan University 472,Sulaymaniyah,2019,20836,19,info472@sulaymaniyahmetrop.edu.krd
+U473,Erbil Business University 473,Erbil,1972,17796,10,info473@erbilbusinessunive.edu.krd
+U474,Halabja International University 474,Halabja,2016,18018,16,info474@halabjainternation.edu.krd
+U475,Duhok Applied Sciences University 475,Duhok,2013,18269,14,info475@duhokappliedscienc.edu.krd
+U476,Halabja International University 476,Halabja,1988,20790,19,info476@halabjainternation.edu.krd
+U477,Sulaymaniyah Applied Sciences University 477,Sulaymaniyah,1990,19087,13,info477@sulaymaniyahapplie.edu.krd
+U478,Sulaymaniyah International University 478,Sulaymaniyah,1991,23898,10,info478@sulaymaniyahintern.edu.krd
+U479,Zakho International University 479,Zakho,2016,12229,21,info479@zakhointernational.edu.krd
+U480,Duhok International University 480,Duhok,1970,19591,21,info480@duhokinternational.edu.krd
+U481,Zakho Metropolitan University 481,Zakho,1999,5599,13,info481@zakhometropolitanu.edu.krd
+U482,Erbil International University 482,Erbil,1965,12149,18,info482@erbilinternational.edu.krd
+U483,Duhok Business University 483,Duhok,2016,7811,10,info483@duhokbusinessunive.edu.krd
+U484,Halabja International University 484,Halabja,1989,5298,7,info484@halabjainternation.edu.krd
+U485,Halabja Business University 485,Halabja,1985,8744,5,info485@halabjabusinessuni.edu.krd
+U486,Halabja Applied Sciences University 486,Halabja,1984,2520,7,info486@halabjaappliedscie.edu.krd
+U487,Zakho International University 487,Zakho,2015,4094,8,info487@zakhointernational.edu.krd
+U488,Erbil National University 488,Erbil,1975,14133,24,info488@erbilnationalunive.edu.krd
+U489,Zakho Metropolitan University 489,Zakho,1980,10212,14,info489@zakhometropolitanu.edu.krd
+U490,Duhok Business University 490,Duhok,1962,3731,24,info490@duhokbusinessunive.edu.krd
+U491,Halabja Applied Sciences University 491,Halabja,2023,24495,5,info491@halabjaappliedscie.edu.krd
+U492,Sulaymaniyah Metropolitan University 492,Sulaymaniyah,1977,1990,16,info492@sulaymaniyahmetrop.edu.krd
+U493,Zakho Applied Sciences University 493,Zakho,1992,2027,4,info493@zakhoappliedscienc.edu.krd
+U494,Duhok National University 494,Duhok,1968,11778,13,info494@duhoknationalunive.edu.krd
+U495,Zakho Business University 495,Zakho,2024,17980,19,info495@zakhobusinessunive.edu.krd
+U496,Sulaymaniyah Polytechnic University 496,Sulaymaniyah,2019,16136,12,info496@sulaymaniyahpolyte.edu.krd
+U497,Sulaymaniyah Polytechnic University 497,Sulaymaniyah,1969,11635,9,info497@sulaymaniyahpolyte.edu.krd
+U498,Zakho Business University 498,Zakho,1987,24347,9,info498@zakhobusinessunive.edu.krd
+U499,Erbil Business University 499,Erbil,1998,10467,22,info499@erbilbusinessunive.edu.krd
+U500,Sulaymaniyah Applied Sciences University 500,Sulaymaniyah,2006,14814,20,info500@sulaymaniyahapplie.edu.krd
+U501,Duhok Technical University 501,Duhok,2006,22730,7,info501@duhoktechnicaluniv.edu.krd
+U502,Sulaymaniyah Applied Sciences University 502,Sulaymaniyah,2016,11403,11,info502@sulaymaniyahapplie.edu.krd
+U503,Erbil International University 503,Erbil,2004,8517,18,info503@erbilinternational.edu.krd
+U504,Duhok International University 504,Duhok,1993,19886,22,info504@duhokinternational.edu.krd
+U505,Erbil International University 505,Erbil,2001,23500,11,info505@erbilinternational.edu.krd
+U506,Erbil Business University 506,Erbil,1970,16050,13,info506@erbilbusinessunive.edu.krd
+U507,Sulaymaniyah Metropolitan University 507,Sulaymaniyah,2019,23854,13,info507@sulaymaniyahmetrop.edu.krd
+U508,Erbil Business University 508,Erbil,1992,12843,23,info508@erbilbusinessunive.edu.krd
+U509,Sulaymaniyah Applied Sciences University 509,Sulaymaniyah,1972,16469,8,info509@sulaymaniyahapplie.edu.krd
+U510,Zakho Business University 510,Zakho,2002,14426,21,info510@zakhobusinessunive.edu.krd
+U511,Zakho Polytechnic University 511,Zakho,2023,22561,10,info511@zakhopolytechnicun.edu.krd
+U512,Sulaymaniyah Business University 512,Sulaymaniyah,1965,18019,18,info512@sulaymaniyahbusine.edu.krd
+U513,Halabja Business University 513,Halabja,2001,3359,22,info513@halabjabusinessuni.edu.krd
+U514,Erbil Technical University 514,Erbil,2019,7424,22,info514@erbiltechnicaluniv.edu.krd
+U515,Halabja Applied Sciences University 515,Halabja,1976,11551,20,info515@halabjaappliedscie.edu.krd
+U516,Zakho Technical University 516,Zakho,1981,24291,22,info516@zakhotechnicaluniv.edu.krd
+U517,Zakho Technical University 517,Zakho,2020,15397,5,info517@zakhotechnicaluniv.edu.krd
+U518,Zakho Applied Sciences University 518,Zakho,2020,14412,18,info518@zakhoappliedscienc.edu.krd
+U519,Halabja Technical University 519,Halabja,2014,22845,13,info519@halabjatechnicalun.edu.krd
+U520,Erbil Metropolitan University 520,Erbil,1987,898,10,info520@erbilmetropolitanu.edu.krd
+U521,Halabja Technical University 521,Halabja,1960,14683,15,info521@halabjatechnicalun.edu.krd
+U522,Erbil National University 522,Erbil,1962,3061,19,info522@erbilnationalunive.edu.krd
+U523,Erbil International University 523,Erbil,2007,6697,8,info523@erbilinternational.edu.krd
+U524,Zakho International University 524,Zakho,2003,15497,16,info524@zakhointernational.edu.krd
+U525,Zakho Technical University 525,Zakho,2024,5157,24,info525@zakhotechnicaluniv.edu.krd
+U526,Duhok Technical University 526,Duhok,1977,18404,16,info526@duhoktechnicaluniv.edu.krd
+U527,Halabja Applied Sciences University 527,Halabja,1983,913,4,info527@halabjaappliedscie.edu.krd
+U528,Duhok Metropolitan University 528,Duhok,2024,14697,21,info528@duhokmetropolitanu.edu.krd
+U529,Zakho Polytechnic University 529,Zakho,1984,8910,18,info529@zakhopolytechnicun.edu.krd
+U530,Duhok Applied Sciences University 530,Duhok,1990,6976,7,info530@duhokappliedscienc.edu.krd
+U531,Erbil Polytechnic University 531,Erbil,2008,20949,4,info531@erbilpolytechnicun.edu.krd
+U532,Sulaymaniyah Applied Sciences University 532,Sulaymaniyah,1963,4106,23,info532@sulaymaniyahapplie.edu.krd
+U533,Erbil Metropolitan University 533,Erbil,1961,8819,5,info533@erbilmetropolitanu.edu.krd
+U534,Zakho Metropolitan University 534,Zakho,1984,18486,10,info534@zakhometropolitanu.edu.krd
+U535,Erbil Applied Sciences University 535,Erbil,2019,10278,11,info535@erbilappliedscienc.edu.krd
+U536,Halabja International University 536,Halabja,1996,8562,13,info536@halabjainternation.edu.krd
+U537,Sulaymaniyah Business University 537,Sulaymaniyah,2021,8043,17,info537@sulaymaniyahbusine.edu.krd
+U538,Duhok International University 538,Duhok,1962,19042,22,info538@duhokinternational.edu.krd
+U539,Sulaymaniyah Business University 539,Sulaymaniyah,2009,19014,19,info539@sulaymaniyahbusine.edu.krd
+U540,Erbil International University 540,Erbil,2003,17985,14,info540@erbilinternational.edu.krd
+U541,Zakho Metropolitan University 541,Zakho,1974,10626,16,info541@zakhometropolitanu.edu.krd
+U542,Sulaymaniyah Polytechnic University 542,Sulaymaniyah,2023,16316,11,info542@sulaymaniyahpolyte.edu.krd
+U543,Sulaymaniyah International University 543,Sulaymaniyah,1973,15972,5,info543@sulaymaniyahintern.edu.krd
+U544,Halabja Metropolitan University 544,Halabja,2008,19061,20,info544@halabjametropolita.edu.krd
+U545,Sulaymaniyah Metropolitan University 545,Sulaymaniyah,1986,9155,10,info545@sulaymaniyahmetrop.edu.krd
+U546,Duhok Business University 546,Duhok,1965,15538,15,info546@duhokbusinessunive.edu.krd
+U547,Erbil National University 547,Erbil,1979,2488,12,info547@erbilnationalunive.edu.krd
+U548,Zakho Business University 548,Zakho,1960,3184,10,info548@zakhobusinessunive.edu.krd
+U549,Halabja Business University 549,Halabja,1982,16508,10,info549@halabjabusinessuni.edu.krd
+U550,Duhok International University 550,Duhok,1956,7740,10,info550@duhokinternational.edu.krd
+U551,Erbil Business University 551,Erbil,2016,8749,23,info551@erbilbusinessunive.edu.krd
+U552,Sulaymaniyah Metropolitan University 552,Sulaymaniyah,1985,18890,14,info552@sulaymaniyahmetrop.edu.krd
+U553,Duhok Metropolitan University 553,Duhok,2014,18286,24,info553@duhokmetropolitanu.edu.krd
+U554,Duhok International University 554,Duhok,1988,12584,20,info554@duhokinternational.edu.krd
+U555,Zakho Metropolitan University 555,Zakho,1967,24472,19,info555@zakhometropolitanu.edu.krd
+U556,Duhok Applied Sciences University 556,Duhok,2002,11053,17,info556@duhokappliedscienc.edu.krd
+U557,Erbil National University 557,Erbil,1983,5581,4,info557@erbilnationalunive.edu.krd
+U558,Duhok National University 558,Duhok,2008,10472,8,info558@duhoknationalunive.edu.krd
+U559,Sulaymaniyah International University 559,Sulaymaniyah,1984,13246,22,info559@sulaymaniyahintern.edu.krd
+U560,Sulaymaniyah Metropolitan University 560,Sulaymaniyah,1998,9232,19,info560@sulaymaniyahmetrop.edu.krd
+U561,Zakho Metropolitan University 561,Zakho,1976,24811,15,info561@zakhometropolitanu.edu.krd
+U562,Sulaymaniyah Applied Sciences University 562,Sulaymaniyah,2024,16801,9,info562@sulaymaniyahapplie.edu.krd
+U563,Halabja Business University 563,Halabja,1962,17968,5,info563@halabjabusinessuni.edu.krd
+U564,Erbil Polytechnic University 564,Erbil,1961,1009,17,info564@erbilpolytechnicun.edu.krd
+U565,Sulaymaniyah Polytechnic University 565,Sulaymaniyah,1984,3027,8,info565@sulaymaniyahpolyte.edu.krd
+U566,Erbil Applied Sciences University 566,Erbil,2019,15742,15,info566@erbilappliedscienc.edu.krd
+U567,Erbil National University 567,Erbil,2016,22403,19,info567@erbilnationalunive.edu.krd
+U568,Erbil Technical University 568,Erbil,2023,18876,17,info568@erbiltechnicaluniv.edu.krd
+U569,Erbil Technical University 569,Erbil,2022,24464,12,info569@erbiltechnicaluniv.edu.krd
+U570,Halabja International University 570,Halabja,1957,17256,17,info570@halabjainternation.edu.krd
+U571,Sulaymaniyah Technical University 571,Sulaymaniyah,1967,17983,8,info571@sulaymaniyahtechni.edu.krd
+U572,Sulaymaniyah Applied Sciences University 572,Sulaymaniyah,2022,9071,15,info572@sulaymaniyahapplie.edu.krd
+U573,Duhok Polytechnic University 573,Duhok,2005,3389,15,info573@duhokpolytechnicun.edu.krd
+U574,Zakho Metropolitan University 574,Zakho,1986,23647,11,info574@zakhometropolitanu.edu.krd
+U575,Duhok Business University 575,Duhok,1965,22221,24,info575@duhokbusinessunive.edu.krd
+U576,Erbil Technical University 576,Erbil,2006,13227,16,info576@erbiltechnicaluniv.edu.krd
+U577,Halabja Metropolitan University 577,Halabja,1962,21664,4,info577@halabjametropolita.edu.krd
+U578,Sulaymaniyah Technical University 578,Sulaymaniyah,2018,15018,24,info578@sulaymaniyahtechni.edu.krd
+U579,Duhok National University 579,Duhok,1967,18106,5,info579@duhoknationalunive.edu.krd
+U580,Sulaymaniyah Applied Sciences University 580,Sulaymaniyah,2015,9683,5,info580@sulaymaniyahapplie.edu.krd
+U581,Erbil Business University 581,Erbil,1990,18594,22,info581@erbilbusinessunive.edu.krd
+U582,Erbil Applied Sciences University 582,Erbil,1995,1313,10,info582@erbilappliedscienc.edu.krd
+U583,Halabja Applied Sciences University 583,Halabja,2005,3321,13,info583@halabjaappliedscie.edu.krd
+U584,Sulaymaniyah National University 584,Sulaymaniyah,1985,19369,16,info584@sulaymaniyahnation.edu.krd
+U585,Halabja International University 585,Halabja,2004,5385,6,info585@halabjainternation.edu.krd
+U586,Halabja Business University 586,Halabja,1999,2559,7,info586@halabjabusinessuni.edu.krd
+U587,Zakho Applied Sciences University 587,Zakho,1964,11960,23,info587@zakhoappliedscienc.edu.krd
+U588,Halabja National University 588,Halabja,2005,11494,4,info588@halabjanationaluni.edu.krd
+U589,Duhok Polytechnic University 589,Duhok,2012,16876,11,info589@duhokpolytechnicun.edu.krd
+U590,Duhok National University 590,Duhok,2003,14950,9,info590@duhoknationalunive.edu.krd
+U591,Halabja Business University 591,Halabja,2003,3608,23,info591@halabjabusinessuni.edu.krd
+U592,Duhok Polytechnic University 592,Duhok,1986,24167,6,info592@duhokpolytechnicun.edu.krd
+U593,Erbil International University 593,Erbil,1974,13251,24,info593@erbilinternational.edu.krd
+U594,Sulaymaniyah Business University 594,Sulaymaniyah,2004,11176,15,info594@sulaymaniyahbusine.edu.krd
+U595,Erbil Technical University 595,Erbil,1955,10901,18,info595@erbiltechnicaluniv.edu.krd
+U596,Duhok Polytechnic University 596,Duhok,1989,4149,8,info596@duhokpolytechnicun.edu.krd
+U597,Erbil Applied Sciences University 597,Erbil,2010,15507,21,info597@erbilappliedscienc.edu.krd
+U598,Halabja National University 598,Halabja,2007,4184,4,info598@halabjanationaluni.edu.krd
+U599,Erbil International University 599,Erbil,1966,20360,23,info599@erbilinternational.edu.krd
+U600,Duhok Polytechnic University 600,Duhok,2004,1204,13,info600@duhokpolytechnicun.edu.krd
+U601,Zakho Metropolitan University 601,Zakho,1965,24551,21,info601@zakhometropolitanu.edu.krd
+U602,Sulaymaniyah National University 602,Sulaymaniyah,2021,6356,16,info602@sulaymaniyahnation.edu.krd
+U603,Sulaymaniyah Applied Sciences University 603,Sulaymaniyah,1989,10667,12,info603@sulaymaniyahapplie.edu.krd
+U604,Zakho Applied Sciences University 604,Zakho,1963,6279,17,info604@zakhoappliedscienc.edu.krd
+U605,Duhok Metropolitan University 605,Duhok,1993,16667,6,info605@duhokmetropolitanu.edu.krd
+U606,Duhok International University 606,Duhok,1986,24422,24,info606@duhokinternational.edu.krd
+U607,Zakho National University 607,Zakho,1980,15803,7,info607@zakhonationalunive.edu.krd
+U608,Sulaymaniyah International University 608,Sulaymaniyah,1955,13766,14,info608@sulaymaniyahintern.edu.krd
+U609,Halabja Metropolitan University 609,Halabja,1997,15225,14,info609@halabjametropolita.edu.krd
+U610,Zakho Polytechnic University 610,Zakho,1972,10644,14,info610@zakhopolytechnicun.edu.krd
+U611,Halabja Business University 611,Halabja,1980,16496,14,info611@halabjabusinessuni.edu.krd
+U612,Sulaymaniyah Metropolitan University 612,Sulaymaniyah,1995,10350,24,info612@sulaymaniyahmetrop.edu.krd
+U613,Zakho National University 613,Zakho,1986,11478,16,info613@zakhonationalunive.edu.krd
+U614,Duhok Polytechnic University 614,Duhok,2005,12760,7,info614@duhokpolytechnicun.edu.krd
+U615,Halabja Applied Sciences University 615,Halabja,2024,6695,21,info615@halabjaappliedscie.edu.krd
+U616,Erbil Business University 616,Erbil,2014,24011,10,info616@erbilbusinessunive.edu.krd
+U617,Zakho Polytechnic University 617,Zakho,1992,23502,6,info617@zakhopolytechnicun.edu.krd
+U618,Zakho Business University 618,Zakho,2018,5360,24,info618@zakhobusinessunive.edu.krd
+U619,Duhok Applied Sciences University 619,Duhok,1987,22383,8,info619@duhokappliedscienc.edu.krd
+U620,Zakho Polytechnic University 620,Zakho,2003,3223,18,info620@zakhopolytechnicun.edu.krd
+U621,Halabja Metropolitan University 621,Halabja,2006,18310,20,info621@halabjametropolita.edu.krd
+U622,Zakho National University 622,Zakho,1959,12581,21,info622@zakhonationalunive.edu.krd
+U623,Halabja Business University 623,Halabja,1965,4383,11,info623@halabjabusinessuni.edu.krd
+U624,Duhok Applied Sciences University 624,Duhok,1960,19255,24,info624@duhokappliedscienc.edu.krd
+U625,Zakho Polytechnic University 625,Zakho,1997,14905,7,info625@zakhopolytechnicun.edu.krd
+U626,Erbil Technical University 626,Erbil,1988,8074,20,info626@erbiltechnicaluniv.edu.krd
+U627,Halabja National University 627,Halabja,1983,15407,15,info627@halabjanationaluni.edu.krd
+U628,Zakho Metropolitan University 628,Zakho,2019,5739,15,info628@zakhometropolitanu.edu.krd
+U629,Erbil Metropolitan University 629,Erbil,1968,10480,17,info629@erbilmetropolitanu.edu.krd
+U630,Erbil Technical University 630,Erbil,1973,12214,13,info630@erbiltechnicaluniv.edu.krd
+U631,Duhok Metropolitan University 631,Duhok,1981,17875,19,info631@duhokmetropolitanu.edu.krd
+U632,Duhok Metropolitan University 632,Duhok,1967,15157,18,info632@duhokmetropolitanu.edu.krd
+U633,Duhok Technical University 633,Duhok,1993,2264,7,info633@duhoktechnicaluniv.edu.krd
+U634,Erbil Polytechnic University 634,Erbil,1998,22032,7,info634@erbilpolytechnicun.edu.krd
+U635,Sulaymaniyah Business University 635,Sulaymaniyah,1986,17708,9,info635@sulaymaniyahbusine.edu.krd
+U636,Halabja Applied Sciences University 636,Halabja,1997,19145,17,info636@halabjaappliedscie.edu.krd
+U637,Zakho Applied Sciences University 637,Zakho,2006,21435,9,info637@zakhoappliedscienc.edu.krd
+U638,Sulaymaniyah Business University 638,Sulaymaniyah,2010,13762,4,info638@sulaymaniyahbusine.edu.krd
+U639,Halabja Applied Sciences University 639,Halabja,2012,20205,17,info639@halabjaappliedscie.edu.krd
+U640,Zakho Technical University 640,Zakho,1982,7543,12,info640@zakhotechnicaluniv.edu.krd
+U641,Erbil National University 641,Erbil,1968,18392,9,info641@erbilnationalunive.edu.krd
+U642,Duhok International University 642,Duhok,1980,15793,7,info642@duhokinternational.edu.krd
+U643,Duhok Business University 643,Duhok,2017,18092,24,info643@duhokbusinessunive.edu.krd
+U644,Duhok National University 644,Duhok,2004,20831,16,info644@duhoknationalunive.edu.krd
+U645,Halabja Technical University 645,Halabja,1999,12333,18,info645@halabjatechnicalun.edu.krd
+U646,Halabja Applied Sciences University 646,Halabja,1993,20935,22,info646@halabjaappliedscie.edu.krd
+U647,Erbil Business University 647,Erbil,1972,11062,7,info647@erbilbusinessunive.edu.krd
+U648,Sulaymaniyah International University 648,Sulaymaniyah,1969,6798,15,info648@sulaymaniyahintern.edu.krd
+U649,Sulaymaniyah National University 649,Sulaymaniyah,2004,14504,23,info649@sulaymaniyahnation.edu.krd
+U650,Sulaymaniyah National University 650,Sulaymaniyah,2004,14662,9,info650@sulaymaniyahnation.edu.krd
+U651,Zakho Business University 651,Zakho,2023,23522,24,info651@zakhobusinessunive.edu.krd
+U652,Sulaymaniyah National University 652,Sulaymaniyah,1976,16844,13,info652@sulaymaniyahnation.edu.krd
+U653,Sulaymaniyah Applied Sciences University 653,Sulaymaniyah,1995,15578,23,info653@sulaymaniyahapplie.edu.krd
+U654,Erbil Polytechnic University 654,Erbil,2000,1114,19,info654@erbilpolytechnicun.edu.krd
+U655,Sulaymaniyah Applied Sciences University 655,Sulaymaniyah,2004,19201,20,info655@sulaymaniyahapplie.edu.krd
+U656,Zakho Metropolitan University 656,Zakho,2017,14419,18,info656@zakhometropolitanu.edu.krd
+U657,Zakho Applied Sciences University 657,Zakho,1965,19326,4,info657@zakhoappliedscienc.edu.krd
+U658,Sulaymaniyah International University 658,Sulaymaniyah,1959,9806,11,info658@sulaymaniyahintern.edu.krd
+U659,Halabja International University 659,Halabja,1976,15785,22,info659@halabjainternation.edu.krd
+U660,Zakho National University 660,Zakho,2020,4509,22,info660@zakhonationalunive.edu.krd
+U661,Erbil International University 661,Erbil,2024,12821,21,info661@erbilinternational.edu.krd
+U662,Erbil Polytechnic University 662,Erbil,2011,18702,10,info662@erbilpolytechnicun.edu.krd
+U663,Zakho Technical University 663,Zakho,1986,10555,5,info663@zakhotechnicaluniv.edu.krd
+U664,Zakho International University 664,Zakho,1999,3650,18,info664@zakhointernational.edu.krd
+U665,Erbil Polytechnic University 665,Erbil,1985,7677,22,info665@erbilpolytechnicun.edu.krd
+U666,Duhok Polytechnic University 666,Duhok,2009,6238,23,info666@duhokpolytechnicun.edu.krd
+U667,Sulaymaniyah Polytechnic University 667,Sulaymaniyah,1981,7581,5,info667@sulaymaniyahpolyte.edu.krd
+U668,Halabja International University 668,Halabja,2023,10010,23,info668@halabjainternation.edu.krd
+U669,Halabja Applied Sciences University 669,Halabja,1996,23870,13,info669@halabjaappliedscie.edu.krd
+U670,Duhok National University 670,Duhok,1989,17656,7,info670@duhoknationalunive.edu.krd
+U671,Sulaymaniyah Polytechnic University 671,Sulaymaniyah,2007,2742,12,info671@sulaymaniyahpolyte.edu.krd
+U672,Sulaymaniyah Business University 672,Sulaymaniyah,1971,8981,8,info672@sulaymaniyahbusine.edu.krd
+U673,Duhok Polytechnic University 673,Duhok,1986,22958,16,info673@duhokpolytechnicun.edu.krd
+U674,Zakho Applied Sciences University 674,Zakho,1989,21372,17,info674@zakhoappliedscienc.edu.krd
+U675,Zakho Metropolitan University 675,Zakho,1964,21562,6,info675@zakhometropolitanu.edu.krd
+U676,Zakho National University 676,Zakho,1990,23564,15,info676@zakhonationalunive.edu.krd
+U677,Zakho Metropolitan University 677,Zakho,1996,19869,4,info677@zakhometropolitanu.edu.krd
+U678,Erbil Business University 678,Erbil,2013,21602,15,info678@erbilbusinessunive.edu.krd
+U679,Erbil Polytechnic University 679,Erbil,2023,13832,10,info679@erbilpolytechnicun.edu.krd
+U680,Zakho Polytechnic University 680,Zakho,1982,17010,12,info680@zakhopolytechnicun.edu.krd
+U681,Duhok Polytechnic University 681,Duhok,1991,11867,21,info681@duhokpolytechnicun.edu.krd
+U682,Halabja Applied Sciences University 682,Halabja,2017,12063,5,info682@halabjaappliedscie.edu.krd
+U683,Erbil Technical University 683,Erbil,2013,1333,7,info683@erbiltechnicaluniv.edu.krd
+U684,Sulaymaniyah Metropolitan University 684,Sulaymaniyah,2013,822,17,info684@sulaymaniyahmetrop.edu.krd
+U685,Sulaymaniyah Business University 685,Sulaymaniyah,1971,22099,13,info685@sulaymaniyahbusine.edu.krd
+U686,Sulaymaniyah Polytechnic University 686,Sulaymaniyah,1990,3858,24,info686@sulaymaniyahpolyte.edu.krd
+U687,Duhok International University 687,Duhok,1965,12984,24,info687@duhokinternational.edu.krd
+U688,Sulaymaniyah Technical University 688,Sulaymaniyah,2005,21299,13,info688@sulaymaniyahtechni.edu.krd
+U689,Sulaymaniyah Metropolitan University 689,Sulaymaniyah,1966,23858,7,info689@sulaymaniyahmetrop.edu.krd
+U690,Erbil Applied Sciences University 690,Erbil,2016,3353,8,info690@erbilappliedscienc.edu.krd
+U691,Halabja Applied Sciences University 691,Halabja,2021,23081,18,info691@halabjaappliedscie.edu.krd
+U692,Erbil Technical University 692,Erbil,1998,4751,17,info692@erbiltechnicaluniv.edu.krd
+U693,Sulaymaniyah Metropolitan University 693,Sulaymaniyah,1964,8302,16,info693@sulaymaniyahmetrop.edu.krd
+U694,Erbil Business University 694,Erbil,1968,4181,14,info694@erbilbusinessunive.edu.krd
+U695,Duhok International University 695,Duhok,1972,13341,8,info695@duhokinternational.edu.krd
+U696,Sulaymaniyah Technical University 696,Sulaymaniyah,2022,19257,4,info696@sulaymaniyahtechni.edu.krd
+U697,Halabja Business University 697,Halabja,1976,15221,15,info697@halabjabusinessuni.edu.krd
+U698,Sulaymaniyah Business University 698,Sulaymaniyah,1974,14290,23,info698@sulaymaniyahbusine.edu.krd
+U699,Zakho Polytechnic University 699,Zakho,1982,3640,7,info699@zakhopolytechnicun.edu.krd
+U700,Sulaymaniyah Polytechnic University 700,Sulaymaniyah,1970,20119,16,info700@sulaymaniyahpolyte.edu.krd
+U701,Duhok Metropolitan University 701,Duhok,1995,5381,11,info701@duhokmetropolitanu.edu.krd
+U702,Duhok Business University 702,Duhok,1965,8931,21,info702@duhokbusinessunive.edu.krd
+U703,Halabja National University 703,Halabja,1991,23425,4,info703@halabjanationaluni.edu.krd
+U704,Duhok Applied Sciences University 704,Duhok,2021,20687,20,info704@duhokappliedscienc.edu.krd
+U705,Sulaymaniyah Business University 705,Sulaymaniyah,2005,10484,24,info705@sulaymaniyahbusine.edu.krd
+U706,Erbil Polytechnic University 706,Erbil,1985,17016,16,info706@erbilpolytechnicun.edu.krd
+U707,Erbil Applied Sciences University 707,Erbil,2018,21708,23,info707@erbilappliedscienc.edu.krd
+U708,Erbil National University 708,Erbil,1956,12632,14,info708@erbilnationalunive.edu.krd
+U709,Sulaymaniyah Metropolitan University 709,Sulaymaniyah,2008,12773,21,info709@sulaymaniyahmetrop.edu.krd
+U710,Sulaymaniyah Polytechnic University 710,Sulaymaniyah,2015,3191,4,info710@sulaymaniyahpolyte.edu.krd
+U711,Halabja Technical University 711,Halabja,1956,9391,10,info711@halabjatechnicalun.edu.krd
+U712,Erbil Technical University 712,Erbil,2005,17400,13,info712@erbiltechnicaluniv.edu.krd
+U713,Halabja Polytechnic University 713,Halabja,2008,14679,16,info713@halabjapolytechnic.edu.krd
+U714,Erbil Business University 714,Erbil,2023,18417,23,info714@erbilbusinessunive.edu.krd
+U715,Sulaymaniyah International University 715,Sulaymaniyah,1965,10955,6,info715@sulaymaniyahintern.edu.krd
+U716,Halabja Applied Sciences University 716,Halabja,1974,18376,14,info716@halabjaappliedscie.edu.krd
+U717,Zakho National University 717,Zakho,1963,10963,17,info717@zakhonationalunive.edu.krd
+U718,Sulaymaniyah Technical University 718,Sulaymaniyah,1986,3625,17,info718@sulaymaniyahtechni.edu.krd
+U719,Erbil Metropolitan University 719,Erbil,1962,10934,9,info719@erbilmetropolitanu.edu.krd
+U720,Erbil Technical University 720,Erbil,1972,23786,4,info720@erbiltechnicaluniv.edu.krd
+U721,Sulaymaniyah Metropolitan University 721,Sulaymaniyah,1999,17937,20,info721@sulaymaniyahmetrop.edu.krd
+U722,Duhok Applied Sciences University 722,Duhok,2002,4959,12,info722@duhokappliedscienc.edu.krd
+U723,Erbil Polytechnic University 723,Erbil,1958,11777,17,info723@erbilpolytechnicun.edu.krd
+U724,Duhok National University 724,Duhok,1963,9416,22,info724@duhoknationalunive.edu.krd
+U725,Erbil Metropolitan University 725,Erbil,2013,17537,15,info725@erbilmetropolitanu.edu.krd
+U726,Erbil Metropolitan University 726,Erbil,1976,12848,9,info726@erbilmetropolitanu.edu.krd
+U727,Duhok Polytechnic University 727,Duhok,1968,19605,7,info727@duhokpolytechnicun.edu.krd
+U728,Sulaymaniyah Business University 728,Sulaymaniyah,2020,884,5,info728@sulaymaniyahbusine.edu.krd
+U729,Erbil Applied Sciences University 729,Erbil,1960,16258,15,info729@erbilappliedscienc.edu.krd
+U730,Zakho Applied Sciences University 730,Zakho,1977,1958,21,info730@zakhoappliedscienc.edu.krd
+U731,Zakho Applied Sciences University 731,Zakho,1996,8935,17,info731@zakhoappliedscienc.edu.krd
+U732,Duhok International University 732,Duhok,1964,19528,15,info732@duhokinternational.edu.krd
+U733,Erbil National University 733,Erbil,1961,6676,11,info733@erbilnationalunive.edu.krd
+U734,Halabja Technical University 734,Halabja,2006,3058,18,info734@halabjatechnicalun.edu.krd
+U735,Duhok Polytechnic University 735,Duhok,1994,11524,6,info735@duhokpolytechnicun.edu.krd
+U736,Halabja Metropolitan University 736,Halabja,1956,12888,10,info736@halabjametropolita.edu.krd
+U737,Duhok National University 737,Duhok,1993,21205,11,info737@duhoknationalunive.edu.krd
+U738,Zakho International University 738,Zakho,2018,7203,21,info738@zakhointernational.edu.krd
+U739,Sulaymaniyah Applied Sciences University 739,Sulaymaniyah,1955,14236,4,info739@sulaymaniyahapplie.edu.krd
+U740,Sulaymaniyah National University 740,Sulaymaniyah,1999,21638,4,info740@sulaymaniyahnation.edu.krd
+U741,Duhok Technical University 741,Duhok,2003,24985,13,info741@duhoktechnicaluniv.edu.krd
+U742,Erbil Applied Sciences University 742,Erbil,2022,8604,17,info742@erbilappliedscienc.edu.krd
+U743,Zakho Technical University 743,Zakho,1973,24119,12,info743@zakhotechnicaluniv.edu.krd
+U744,Erbil Technical University 744,Erbil,1984,17831,17,info744@erbiltechnicaluniv.edu.krd
+U745,Duhok Metropolitan University 745,Duhok,1965,19830,7,info745@duhokmetropolitanu.edu.krd
+U746,Halabja Applied Sciences University 746,Halabja,2005,3252,22,info746@halabjaappliedscie.edu.krd
+U747,Halabja Technical University 747,Halabja,2010,22506,8,info747@halabjatechnicalun.edu.krd
+U748,Sulaymaniyah International University 748,Sulaymaniyah,1988,11122,16,info748@sulaymaniyahintern.edu.krd
+U749,Duhok International University 749,Duhok,2012,9711,11,info749@duhokinternational.edu.krd
+U750,Erbil Applied Sciences University 750,Erbil,1972,19959,7,info750@erbilappliedscienc.edu.krd
+U751,Sulaymaniyah Technical University 751,Sulaymaniyah,1976,15531,18,info751@sulaymaniyahtechni.edu.krd
+U752,Duhok Metropolitan University 752,Duhok,1970,18361,15,info752@duhokmetropolitanu.edu.krd
+U753,Sulaymaniyah Metropolitan University 753,Sulaymaniyah,1994,15982,12,info753@sulaymaniyahmetrop.edu.krd
+U754,Erbil Technical University 754,Erbil,1975,23280,13,info754@erbiltechnicaluniv.edu.krd
+U755,Halabja Technical University 755,Halabja,1982,11541,8,info755@halabjatechnicalun.edu.krd
+U756,Erbil Business University 756,Erbil,1986,12456,16,info756@erbilbusinessunive.edu.krd
+U757,Halabja Technical University 757,Halabja,1993,9325,9,info757@halabjatechnicalun.edu.krd
+U758,Erbil Metropolitan University 758,Erbil,2012,19017,21,info758@erbilmetropolitanu.edu.krd
+U759,Sulaymaniyah Technical University 759,Sulaymaniyah,2014,4139,8,info759@sulaymaniyahtechni.edu.krd
+U760,Erbil Technical University 760,Erbil,1962,8083,8,info760@erbiltechnicaluniv.edu.krd
+U761,Sulaymaniyah Polytechnic University 761,Sulaymaniyah,2006,12997,24,info761@sulaymaniyahpolyte.edu.krd
+U762,Erbil National University 762,Erbil,1988,3257,4,info762@erbilnationalunive.edu.krd
+U763,Erbil Applied Sciences University 763,Erbil,2011,5020,6,info763@erbilappliedscienc.edu.krd
+U764,Duhok Technical University 764,Duhok,1960,15905,5,info764@duhoktechnicaluniv.edu.krd
+U765,Sulaymaniyah National University 765,Sulaymaniyah,2010,24538,16,info765@sulaymaniyahnation.edu.krd
+U766,Zakho Technical University 766,Zakho,2003,23187,17,info766@zakhotechnicaluniv.edu.krd
+U767,Sulaymaniyah International University 767,Sulaymaniyah,1982,6932,12,info767@sulaymaniyahintern.edu.krd
+U768,Duhok Metropolitan University 768,Duhok,1974,1935,23,info768@duhokmetropolitanu.edu.krd
+U769,Halabja National University 769,Halabja,1986,22010,13,info769@halabjanationaluni.edu.krd
+U770,Zakho Metropolitan University 770,Zakho,2016,2798,6,info770@zakhometropolitanu.edu.krd
+U771,Duhok Metropolitan University 771,Duhok,1972,14537,10,info771@duhokmetropolitanu.edu.krd
+U772,Halabja Applied Sciences University 772,Halabja,2024,1439,16,info772@halabjaappliedscie.edu.krd
+U773,Duhok Metropolitan University 773,Duhok,2024,16681,15,info773@duhokmetropolitanu.edu.krd
+U774,Halabja National University 774,Halabja,1996,13526,12,info774@halabjanationaluni.edu.krd
+U775,Sulaymaniyah Technical University 775,Sulaymaniyah,1995,20366,11,info775@sulaymaniyahtechni.edu.krd
+U776,Erbil Polytechnic University 776,Erbil,1990,2719,19,info776@erbilpolytechnicun.edu.krd
+U777,Halabja International University 777,Halabja,1984,6030,7,info777@halabjainternation.edu.krd
+U778,Sulaymaniyah Business University 778,Sulaymaniyah,1985,9533,21,info778@sulaymaniyahbusine.edu.krd
+U779,Erbil Polytechnic University 779,Erbil,1983,19664,16,info779@erbilpolytechnicun.edu.krd
+U780,Duhok Polytechnic University 780,Duhok,1977,6570,11,info780@duhokpolytechnicun.edu.krd
+U781,Halabja International University 781,Halabja,2000,20184,4,info781@halabjainternation.edu.krd
+U782,Duhok National University 782,Duhok,1973,19251,10,info782@duhoknationalunive.edu.krd
+U783,Zakho National University 783,Zakho,1994,6552,19,info783@zakhonationalunive.edu.krd
+U784,Erbil Technical University 784,Erbil,1962,8422,23,info784@erbiltechnicaluniv.edu.krd
+U785,Sulaymaniyah Technical University 785,Sulaymaniyah,2022,16462,4,info785@sulaymaniyahtechni.edu.krd
+U786,Duhok National University 786,Duhok,1980,5075,14,info786@duhoknationalunive.edu.krd
+U787,Sulaymaniyah Polytechnic University 787,Sulaymaniyah,1996,2751,4,info787@sulaymaniyahpolyte.edu.krd
+U788,Sulaymaniyah National University 788,Sulaymaniyah,1973,4434,20,info788@sulaymaniyahnation.edu.krd
+U789,Duhok Technical University 789,Duhok,2002,23886,16,info789@duhoktechnicaluniv.edu.krd
+U790,Halabja Technical University 790,Halabja,1998,10688,14,info790@halabjatechnicalun.edu.krd
+U791,Sulaymaniyah Applied Sciences University 791,Sulaymaniyah,2010,21747,19,info791@sulaymaniyahapplie.edu.krd
+U792,Duhok Applied Sciences University 792,Duhok,2000,8115,22,info792@duhokappliedscienc.edu.krd
+U793,Sulaymaniyah Metropolitan University 793,Sulaymaniyah,1994,24851,13,info793@sulaymaniyahmetrop.edu.krd
+U794,Sulaymaniyah Applied Sciences University 794,Sulaymaniyah,1955,23803,22,info794@sulaymaniyahapplie.edu.krd
+U795,Zakho Polytechnic University 795,Zakho,1959,6766,23,info795@zakhopolytechnicun.edu.krd
+U796,Duhok Polytechnic University 796,Duhok,1983,21759,22,info796@duhokpolytechnicun.edu.krd
+U797,Erbil Metropolitan University 797,Erbil,1973,11651,6,info797@erbilmetropolitanu.edu.krd
+U798,Sulaymaniyah International University 798,Sulaymaniyah,1995,6301,24,info798@sulaymaniyahintern.edu.krd
+U799,Erbil Polytechnic University 799,Erbil,1997,15435,4,info799@erbilpolytechnicun.edu.krd
+U800,Duhok Applied Sciences University 800,Duhok,1986,23513,6,info800@duhokappliedscienc.edu.krd
+U801,Duhok International University 801,Duhok,1968,24406,4,info801@duhokinternational.edu.krd
+U802,Erbil Metropolitan University 802,Erbil,2011,24805,17,info802@erbilmetropolitanu.edu.krd
+U803,Sulaymaniyah Metropolitan University 803,Sulaymaniyah,2018,13209,15,info803@sulaymaniyahmetrop.edu.krd
+U804,Halabja Metropolitan University 804,Halabja,1967,16511,22,info804@halabjametropolita.edu.krd
+U805,Sulaymaniyah Applied Sciences University 805,Sulaymaniyah,2012,3215,5,info805@sulaymaniyahapplie.edu.krd
+U806,Duhok Technical University 806,Duhok,1995,9356,7,info806@duhoktechnicaluniv.edu.krd
+U807,Erbil International University 807,Erbil,1976,13103,9,info807@erbilinternational.edu.krd
+U808,Erbil National University 808,Erbil,1966,11873,23,info808@erbilnationalunive.edu.krd
+U809,Halabja Metropolitan University 809,Halabja,1958,14933,24,info809@halabjametropolita.edu.krd
+U810,Sulaymaniyah National University 810,Sulaymaniyah,2010,5947,5,info810@sulaymaniyahnation.edu.krd
+U811,Erbil International University 811,Erbil,1981,7025,17,info811@erbilinternational.edu.krd
+U812,Halabja Business University 812,Halabja,2024,9492,13,info812@halabjabusinessuni.edu.krd
+U813,Duhok Applied Sciences University 813,Duhok,1967,2426,16,info813@duhokappliedscienc.edu.krd
+U814,Halabja National University 814,Halabja,2017,5832,5,info814@halabjanationaluni.edu.krd
+U815,Duhok Technical University 815,Duhok,2009,3671,13,info815@duhoktechnicaluniv.edu.krd
+U816,Halabja Metropolitan University 816,Halabja,1980,3978,4,info816@halabjametropolita.edu.krd
+U817,Sulaymaniyah Applied Sciences University 817,Sulaymaniyah,1992,3484,19,info817@sulaymaniyahapplie.edu.krd
+U818,Erbil International University 818,Erbil,2005,16231,19,info818@erbilinternational.edu.krd
+U819,Duhok Technical University 819,Duhok,2024,13498,9,info819@duhoktechnicaluniv.edu.krd
+U820,Duhok Metropolitan University 820,Duhok,2002,6913,18,info820@duhokmetropolitanu.edu.krd
+U821,Erbil International University 821,Erbil,2011,16039,12,info821@erbilinternational.edu.krd
+U822,Sulaymaniyah Polytechnic University 822,Sulaymaniyah,1989,19289,5,info822@sulaymaniyahpolyte.edu.krd
+U823,Sulaymaniyah Polytechnic University 823,Sulaymaniyah,1967,3608,15,info823@sulaymaniyahpolyte.edu.krd
+U824,Halabja Metropolitan University 824,Halabja,1984,18940,5,info824@halabjametropolita.edu.krd
+U825,Zakho Polytechnic University 825,Zakho,2021,14517,21,info825@zakhopolytechnicun.edu.krd
+U826,Zakho National University 826,Zakho,1985,16406,13,info826@zakhonationalunive.edu.krd
+U827,Erbil Metropolitan University 827,Erbil,1959,17252,22,info827@erbilmetropolitanu.edu.krd
+U828,Halabja Polytechnic University 828,Halabja,1973,4741,18,info828@halabjapolytechnic.edu.krd
+U829,Sulaymaniyah Applied Sciences University 829,Sulaymaniyah,1982,7115,8,info829@sulaymaniyahapplie.edu.krd
+U830,Erbil Metropolitan University 830,Erbil,1965,23184,17,info830@erbilmetropolitanu.edu.krd
+U831,Sulaymaniyah Polytechnic University 831,Sulaymaniyah,1973,20298,12,info831@sulaymaniyahpolyte.edu.krd
+U832,Duhok Business University 832,Duhok,1963,3651,16,info832@duhokbusinessunive.edu.krd
+U833,Halabja Metropolitan University 833,Halabja,1996,9850,20,info833@halabjametropolita.edu.krd
+U834,Zakho Polytechnic University 834,Zakho,1956,23751,23,info834@zakhopolytechnicun.edu.krd
+U835,Halabja National University 835,Halabja,2008,4487,17,info835@halabjanationaluni.edu.krd
+U836,Sulaymaniyah Applied Sciences University 836,Sulaymaniyah,1967,4261,22,info836@sulaymaniyahapplie.edu.krd
+U837,Erbil Polytechnic University 837,Erbil,1991,18351,15,info837@erbilpolytechnicun.edu.krd
+U838,Zakho International University 838,Zakho,2004,22256,19,info838@zakhointernational.edu.krd
+U839,Halabja National University 839,Halabja,2015,2027,9,info839@halabjanationaluni.edu.krd
+U840,Duhok Metropolitan University 840,Duhok,1973,21058,23,info840@duhokmetropolitanu.edu.krd
+U841,Zakho Technical University 841,Zakho,2005,11662,11,info841@zakhotechnicaluniv.edu.krd
+U842,Erbil Business University 842,Erbil,2015,9600,15,info842@erbilbusinessunive.edu.krd
+U843,Erbil International University 843,Erbil,1993,10989,12,info843@erbilinternational.edu.krd
+U844,Zakho Polytechnic University 844,Zakho,1967,8269,8,info844@zakhopolytechnicun.edu.krd
+U845,Duhok Business University 845,Duhok,2011,11314,12,info845@duhokbusinessunive.edu.krd
+U846,Zakho National University 846,Zakho,1966,6958,18,info846@zakhonationalunive.edu.krd
+U847,Sulaymaniyah Polytechnic University 847,Sulaymaniyah,2007,16674,20,info847@sulaymaniyahpolyte.edu.krd
+U848,Duhok Polytechnic University 848,Duhok,1962,17684,9,info848@duhokpolytechnicun.edu.krd
+U849,Erbil International University 849,Erbil,2019,14018,8,info849@erbilinternational.edu.krd
+U850,Halabja National University 850,Halabja,1958,6493,10,info850@halabjanationaluni.edu.krd
+U851,Sulaymaniyah Polytechnic University 851,Sulaymaniyah,1962,8975,5,info851@sulaymaniyahpolyte.edu.krd
+U852,Zakho Technical University 852,Zakho,2001,23889,10,info852@zakhotechnicaluniv.edu.krd
+U853,Duhok International University 853,Duhok,2014,17351,16,info853@duhokinternational.edu.krd
+U854,Erbil Business University 854,Erbil,1958,8727,15,info854@erbilbusinessunive.edu.krd
+U855,Zakho National University 855,Zakho,2012,6619,19,info855@zakhonationalunive.edu.krd
+U856,Halabja National University 856,Halabja,1999,12080,9,info856@halabjanationaluni.edu.krd
+U857,Duhok Business University 857,Duhok,1966,10141,4,info857@duhokbusinessunive.edu.krd
+U858,Zakho Technical University 858,Zakho,1975,19551,10,info858@zakhotechnicaluniv.edu.krd
+U859,Sulaymaniyah Business University 859,Sulaymaniyah,1983,23006,10,info859@sulaymaniyahbusine.edu.krd
+U860,Duhok Business University 860,Duhok,2007,17619,4,info860@duhokbusinessunive.edu.krd
+U861,Erbil Metropolitan University 861,Erbil,1971,22013,9,info861@erbilmetropolitanu.edu.krd
+U862,Halabja Polytechnic University 862,Halabja,1956,8132,12,info862@halabjapolytechnic.edu.krd
+U863,Halabja Polytechnic University 863,Halabja,1994,24155,24,info863@halabjapolytechnic.edu.krd
+U864,Duhok Metropolitan University 864,Duhok,2003,12226,18,info864@duhokmetropolitanu.edu.krd
+U865,Duhok Applied Sciences University 865,Duhok,2014,10700,20,info865@duhokappliedscienc.edu.krd
+U866,Halabja Metropolitan University 866,Halabja,1968,1040,20,info866@halabjametropolita.edu.krd
+U867,Duhok National University 867,Duhok,1991,10580,7,info867@duhoknationalunive.edu.krd
+U868,Zakho Technical University 868,Zakho,1998,9859,24,info868@zakhotechnicaluniv.edu.krd
+U869,Duhok Polytechnic University 869,Duhok,1990,9357,24,info869@duhokpolytechnicun.edu.krd
+U870,Duhok Applied Sciences University 870,Duhok,1974,17750,11,info870@duhokappliedscienc.edu.krd
+U871,Erbil Polytechnic University 871,Erbil,2006,22444,14,info871@erbilpolytechnicun.edu.krd
+U872,Sulaymaniyah Business University 872,Sulaymaniyah,1958,22276,19,info872@sulaymaniyahbusine.edu.krd
+U873,Duhok International University 873,Duhok,2008,14057,16,info873@duhokinternational.edu.krd
+U874,Erbil National University 874,Erbil,1979,12044,11,info874@erbilnationalunive.edu.krd
+U875,Halabja Business University 875,Halabja,2015,22815,15,info875@halabjabusinessuni.edu.krd
+U876,Halabja International University 876,Halabja,1976,22348,21,info876@halabjainternation.edu.krd
+U877,Sulaymaniyah International University 877,Sulaymaniyah,1967,16226,8,info877@sulaymaniyahintern.edu.krd
+U878,Duhok Business University 878,Duhok,1978,23072,14,info878@duhokbusinessunive.edu.krd
+U879,Erbil Applied Sciences University 879,Erbil,2000,8118,13,info879@erbilappliedscienc.edu.krd
+U880,Zakho Polytechnic University 880,Zakho,1997,12979,12,info880@zakhopolytechnicun.edu.krd
+U881,Halabja International University 881,Halabja,2014,4659,19,info881@halabjainternation.edu.krd
+U882,Erbil Polytechnic University 882,Erbil,1964,16273,10,info882@erbilpolytechnicun.edu.krd
+U883,Halabja Technical University 883,Halabja,2003,18161,13,info883@halabjatechnicalun.edu.krd
+U884,Zakho Technical University 884,Zakho,1974,5301,10,info884@zakhotechnicaluniv.edu.krd
+U885,Duhok Metropolitan University 885,Duhok,2013,5493,14,info885@duhokmetropolitanu.edu.krd
+U886,Sulaymaniyah Polytechnic University 886,Sulaymaniyah,1965,16777,14,info886@sulaymaniyahpolyte.edu.krd
+U887,Sulaymaniyah International University 887,Sulaymaniyah,1962,954,18,info887@sulaymaniyahintern.edu.krd
+U888,Duhok Applied Sciences University 888,Duhok,1976,19683,9,info888@duhokappliedscienc.edu.krd
+U889,Zakho Polytechnic University 889,Zakho,1966,5040,23,info889@zakhopolytechnicun.edu.krd
+U890,Zakho Business University 890,Zakho,2009,14018,17,info890@zakhobusinessunive.edu.krd
+U891,Zakho Metropolitan University 891,Zakho,1955,2036,21,info891@zakhometropolitanu.edu.krd
+U892,Sulaymaniyah Business University 892,Sulaymaniyah,2002,1261,14,info892@sulaymaniyahbusine.edu.krd
+U893,Halabja Applied Sciences University 893,Halabja,1957,22975,4,info893@halabjaappliedscie.edu.krd
+U894,Sulaymaniyah Applied Sciences University 894,Sulaymaniyah,1999,11026,8,info894@sulaymaniyahapplie.edu.krd
+U895,Erbil Metropolitan University 895,Erbil,2019,20089,13,info895@erbilmetropolitanu.edu.krd
+U896,Sulaymaniyah Technical University 896,Sulaymaniyah,1960,10571,13,info896@sulaymaniyahtechni.edu.krd
+U897,Zakho Business University 897,Zakho,2021,20341,20,info897@zakhobusinessunive.edu.krd
+U898,Duhok Metropolitan University 898,Duhok,1972,12030,19,info898@duhokmetropolitanu.edu.krd
+U899,Duhok Polytechnic University 899,Duhok,1979,6202,16,info899@duhokpolytechnicun.edu.krd
+U900,Erbil Applied Sciences University 900,Erbil,1983,24627,8,info900@erbilappliedscienc.edu.krd
+U901,Sulaymaniyah Business University 901,Sulaymaniyah,1957,20123,20,info901@sulaymaniyahbusine.edu.krd
+U902,Sulaymaniyah Technical University 902,Sulaymaniyah,2001,24101,24,info902@sulaymaniyahtechni.edu.krd
+U903,Erbil Metropolitan University 903,Erbil,1987,18322,23,info903@erbilmetropolitanu.edu.krd
+U904,Erbil National University 904,Erbil,1961,22491,7,info904@erbilnationalunive.edu.krd
+U905,Erbil Technical University 905,Erbil,1969,14456,18,info905@erbiltechnicaluniv.edu.krd
+U906,Zakho Technical University 906,Zakho,1987,16345,8,info906@zakhotechnicaluniv.edu.krd
+U907,Sulaymaniyah Business University 907,Sulaymaniyah,1956,10666,17,info907@sulaymaniyahbusine.edu.krd
+U908,Erbil Business University 908,Erbil,2021,9646,23,info908@erbilbusinessunive.edu.krd
+U909,Halabja Business University 909,Halabja,1972,14524,7,info909@halabjabusinessuni.edu.krd
+U910,Halabja Business University 910,Halabja,1970,10063,7,info910@halabjabusinessuni.edu.krd
+U911,Erbil Metropolitan University 911,Erbil,1980,20755,10,info911@erbilmetropolitanu.edu.krd
+U912,Duhok Polytechnic University 912,Duhok,2021,7408,15,info912@duhokpolytechnicun.edu.krd
+U913,Zakho International University 913,Zakho,1975,2091,21,info913@zakhointernational.edu.krd
+U914,Zakho Applied Sciences University 914,Zakho,2016,11633,11,info914@zakhoappliedscienc.edu.krd
+U915,Erbil Technical University 915,Erbil,1966,4418,22,info915@erbiltechnicaluniv.edu.krd
+U916,Zakho Applied Sciences University 916,Zakho,1966,17567,6,info916@zakhoappliedscienc.edu.krd
+U917,Erbil International University 917,Erbil,1984,15766,13,info917@erbilinternational.edu.krd
+U918,Duhok Metropolitan University 918,Duhok,1961,4070,9,info918@duhokmetropolitanu.edu.krd
+U919,Erbil Polytechnic University 919,Erbil,1992,12603,14,info919@erbilpolytechnicun.edu.krd
+U920,Zakho Business University 920,Zakho,1969,3912,5,info920@zakhobusinessunive.edu.krd
+U921,Erbil Polytechnic University 921,Erbil,1972,22536,24,info921@erbilpolytechnicun.edu.krd
+U922,Sulaymaniyah International University 922,Sulaymaniyah,2000,15143,23,info922@sulaymaniyahintern.edu.krd
+U923,Duhok Business University 923,Duhok,1966,13010,14,info923@duhokbusinessunive.edu.krd
+U924,Sulaymaniyah Technical University 924,Sulaymaniyah,2006,13915,18,info924@sulaymaniyahtechni.edu.krd
+U925,Duhok Polytechnic University 925,Duhok,2004,23406,19,info925@duhokpolytechnicun.edu.krd
+U926,Zakho Business University 926,Zakho,1976,4504,8,info926@zakhobusinessunive.edu.krd
+U927,Erbil Polytechnic University 927,Erbil,1975,4198,17,info927@erbilpolytechnicun.edu.krd
+U928,Halabja Metropolitan University 928,Halabja,2011,6739,23,info928@halabjametropolita.edu.krd
+U929,Zakho Polytechnic University 929,Zakho,2000,20832,4,info929@zakhopolytechnicun.edu.krd
+U930,Sulaymaniyah Metropolitan University 930,Sulaymaniyah,2017,4500,17,info930@sulaymaniyahmetrop.edu.krd
+U931,Zakho Technical University 931,Zakho,1963,9372,24,info931@zakhotechnicaluniv.edu.krd
+U932,Duhok Technical University 932,Duhok,2022,19695,22,info932@duhoktechnicaluniv.edu.krd
+U933,Sulaymaniyah Business University 933,Sulaymaniyah,1998,17809,20,info933@sulaymaniyahbusine.edu.krd
+U934,Halabja Technical University 934,Halabja,2010,22483,11,info934@halabjatechnicalun.edu.krd
+U935,Zakho International University 935,Zakho,2004,5671,21,info935@zakhointernational.edu.krd
+U936,Halabja Technical University 936,Halabja,1956,21882,9,info936@halabjatechnicalun.edu.krd
+U937,Halabja Polytechnic University 937,Halabja,2015,17047,9,info937@halabjapolytechnic.edu.krd
+U938,Erbil Polytechnic University 938,Erbil,2017,11306,11,info938@erbilpolytechnicun.edu.krd
+U939,Duhok International University 939,Duhok,1961,17411,11,info939@duhokinternational.edu.krd
+U940,Halabja Business University 940,Halabja,2003,14014,11,info940@halabjabusinessuni.edu.krd
+U941,Erbil Metropolitan University 941,Erbil,2011,19577,18,info941@erbilmetropolitanu.edu.krd
+U942,Erbil Polytechnic University 942,Erbil,2018,15449,14,info942@erbilpolytechnicun.edu.krd
+U943,Erbil Metropolitan University 943,Erbil,1957,4163,16,info943@erbilmetropolitanu.edu.krd
+U944,Zakho Technical University 944,Zakho,1955,3778,23,info944@zakhotechnicaluniv.edu.krd
+U945,Halabja Business University 945,Halabja,1993,17457,21,info945@halabjabusinessuni.edu.krd
+U946,Sulaymaniyah Business University 946,Sulaymaniyah,2013,11969,15,info946@sulaymaniyahbusine.edu.krd
+U947,Erbil Polytechnic University 947,Erbil,1983,15691,14,info947@erbilpolytechnicun.edu.krd
+U948,Halabja Polytechnic University 948,Halabja,2015,24283,15,info948@halabjapolytechnic.edu.krd
+U949,Zakho Technical University 949,Zakho,1967,22391,11,info949@zakhotechnicaluniv.edu.krd
+U950,Erbil International University 950,Erbil,2000,21563,13,info950@erbilinternational.edu.krd
+U951,Halabja National University 951,Halabja,2002,23806,7,info951@halabjanationaluni.edu.krd
+U952,Erbil Applied Sciences University 952,Erbil,2018,5402,17,info952@erbilappliedscienc.edu.krd
+U953,Erbil International University 953,Erbil,1980,6945,7,info953@erbilinternational.edu.krd
+U954,Zakho Applied Sciences University 954,Zakho,2013,7044,14,info954@zakhoappliedscienc.edu.krd
+U955,Erbil Polytechnic University 955,Erbil,2008,2323,24,info955@erbilpolytechnicun.edu.krd
+U956,Halabja Technical University 956,Halabja,2012,15787,22,info956@halabjatechnicalun.edu.krd
+U957,Halabja Applied Sciences University 957,Halabja,2018,942,20,info957@halabjaappliedscie.edu.krd
+U958,Erbil National University 958,Erbil,2010,19973,19,info958@erbilnationalunive.edu.krd
+U959,Halabja Polytechnic University 959,Halabja,1977,23469,22,info959@halabjapolytechnic.edu.krd
+U960,Sulaymaniyah Business University 960,Sulaymaniyah,1971,4193,16,info960@sulaymaniyahbusine.edu.krd
+U961,Halabja National University 961,Halabja,1996,17318,16,info961@halabjanationaluni.edu.krd
+U962,Zakho National University 962,Zakho,1986,9765,16,info962@zakhonationalunive.edu.krd
+U963,Duhok International University 963,Duhok,2012,5170,8,info963@duhokinternational.edu.krd
+U964,Zakho National University 964,Zakho,2020,10594,21,info964@zakhonationalunive.edu.krd
+U965,Duhok Business University 965,Duhok,1982,7382,10,info965@duhokbusinessunive.edu.krd
+U966,Halabja Business University 966,Halabja,1992,23298,15,info966@halabjabusinessuni.edu.krd
+U967,Sulaymaniyah Business University 967,Sulaymaniyah,1977,17311,21,info967@sulaymaniyahbusine.edu.krd
+U968,Duhok Business University 968,Duhok,1969,12342,21,info968@duhokbusinessunive.edu.krd
+U969,Zakho National University 969,Zakho,2008,22893,21,info969@zakhonationalunive.edu.krd
+U970,Duhok Polytechnic University 970,Duhok,2009,1218,20,info970@duhokpolytechnicun.edu.krd
+U971,Erbil Technical University 971,Erbil,2003,5562,5,info971@erbiltechnicaluniv.edu.krd
+U972,Erbil Applied Sciences University 972,Erbil,1989,6073,13,info972@erbilappliedscienc.edu.krd
+U973,Duhok Applied Sciences University 973,Duhok,1962,23429,13,info973@duhokappliedscienc.edu.krd
+U974,Sulaymaniyah Polytechnic University 974,Sulaymaniyah,2024,1858,15,info974@sulaymaniyahpolyte.edu.krd
+U975,Zakho Technical University 975,Zakho,1983,22004,21,info975@zakhotechnicaluniv.edu.krd
+U976,Zakho Applied Sciences University 976,Zakho,2020,23610,13,info976@zakhoappliedscienc.edu.krd
+U977,Erbil Metropolitan University 977,Erbil,2004,14450,14,info977@erbilmetropolitanu.edu.krd
+U978,Halabja Technical University 978,Halabja,1956,9035,10,info978@halabjatechnicalun.edu.krd
+U979,Halabja Polytechnic University 979,Halabja,2011,8190,24,info979@halabjapolytechnic.edu.krd
+U980,Duhok Polytechnic University 980,Duhok,2024,24997,23,info980@duhokpolytechnicun.edu.krd
+U981,Sulaymaniyah Polytechnic University 981,Sulaymaniyah,1979,10439,18,info981@sulaymaniyahpolyte.edu.krd
+U982,Sulaymaniyah Business University 982,Sulaymaniyah,1964,6926,9,info982@sulaymaniyahbusine.edu.krd
+U983,Halabja Technical University 983,Halabja,2003,2131,17,info983@halabjatechnicalun.edu.krd
+U984,Duhok National University 984,Duhok,1988,5062,9,info984@duhoknationalunive.edu.krd
+U985,Halabja Polytechnic University 985,Halabja,1987,984,14,info985@halabjapolytechnic.edu.krd
+U986,Zakho Business University 986,Zakho,1974,2108,8,info986@zakhobusinessunive.edu.krd
+U987,Duhok National University 987,Duhok,1961,21292,23,info987@duhoknationalunive.edu.krd
+U988,Duhok Metropolitan University 988,Duhok,2000,3188,14,info988@duhokmetropolitanu.edu.krd
+U989,Halabja Applied Sciences University 989,Halabja,1978,17859,6,info989@halabjaappliedscie.edu.krd
+U990,Halabja Applied Sciences University 990,Halabja,2008,18595,21,info990@halabjaappliedscie.edu.krd
+U991,Zakho Technical University 991,Zakho,1999,8048,10,info991@zakhotechnicaluniv.edu.krd
+U992,Duhok International University 992,Duhok,2001,10419,10,info992@duhokinternational.edu.krd
+U993,Halabja National University 993,Halabja,2015,19193,24,info993@halabjanationaluni.edu.krd
+U994,Erbil Technical University 994,Erbil,1999,15403,11,info994@erbiltechnicaluniv.edu.krd
+U995,Halabja National University 995,Halabja,1986,2106,14,info995@halabjanationaluni.edu.krd
+U996,Zakho Polytechnic University 996,Zakho,1969,13444,12,info996@zakhopolytechnicun.edu.krd
+U997,Halabja Business University 997,Halabja,1991,1609,20,info997@halabjabusinessuni.edu.krd
+U998,Duhok National University 998,Duhok,2020,15400,19,info998@duhoknationalunive.edu.krd
+U999,Erbil International University 999,Erbil,1979,11296,20,info999@erbilinternational.edu.krd
+U1000,Erbil Technical University 1000,Erbil,1976,18428,21,info1000@erbiltechnicaluniv.edu.krd

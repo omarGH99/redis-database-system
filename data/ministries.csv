@@ -1,0 +1,1001 @@
+ministry_id,ministry_name,city,minister,employees,annual_budget_usd,website
+MOH,Ministry of Health,Erbil,Dr. Saman Kamaran Aziz,3200,420000000,moh.krg.org
+MOE,Ministry of Education,Erbil,Dr. Alan Sherzad Tahir,5800,380000000,moe.krg.org
+MOP,Ministry of Planning,Erbil,Dr. Narin Fuad Karim,1400,160000000,mop.krg.org
+MOT,Ministry of Transport,Erbil,Eng. Hawkar Salam Qadir,2100,285000000,mot.krg.org
+MOF,Ministry of Finance,Erbil,Dr. Dilan Jalal Nasser,1800,120000000,mof.krg.org
+MOI,Ministry of Interior,Erbil,Gen. Bestun Faris Tahir,4500,310000000,moi.krg.org
+M007,Ministry of Labour & Social Affairs 7,Halabja,Gen. Mazin Jalal Mahmoud,7706,82527278,l&sa77.krg.org
+M008,Ministry of Finance 8,Zakho,Gen. Bestun Salam Ahmad,2724,614230456,f88.krg.org
+M009,Ministry of Water Resources 9,Zakho,Eng. Zeynep Karim Nasser,1391,608974542,wr99.krg.org
+M010,Ministry of Education 10,Zakho,Gen. Wrya Hama Saeed,7532,174185656,e110.krg.org
+M011,Ministry of Transport 11,Erbil,Gen. Azad Saeed Ali,2037,124915635,t111.krg.org
+M012,Ministry of Youth & Sports 12,Erbil,Eng. Yara Mustafa Mahmoud,4166,634387668,y&s112.krg.org
+M013,Ministry of Justice 13,Halabja,Eng. Hawkar Salam Kadir,895,161808672,j113.krg.org
+M014,Ministry of Finance 14,Halabja,Dr. Jalal Rizgar Aziz,849,49215549,f114.krg.org
+M015,Ministry of Higher Education 15,Sulaymaniyah,Dr. Farhad Farhad Othman,2958,712864833,he115.krg.org
+M016,Ministry of Interior 16,Duhok,Eng. Rami Jamal Ali,5943,424070357,i116.krg.org
+M017,Ministry of Municipalities 17,Duhok,Dr. Fuad Hama Ali,2439,620609289,m117.krg.org
+M018,Ministry of Trade & Industry 18,Duhok,Gen. Fuad Farhad Ahmad,7339,87134374,t&i118.krg.org
+M019,Ministry of Youth & Sports 19,Halabja,Dr. Saman Ihsan Hasan,6724,629114124,y&s119.krg.org
+M020,Ministry of Labour & Social Affairs 20,Halabja,Gen. Jalal Sherzad Hasan,5034,349861666,l&sa220.krg.org
+M021,Ministry of Housing 21,Duhok,Eng. Layla Jamal Karimi,1496,456789588,h221.krg.org
+M022,Ministry of Environment 22,Erbil,Gen. Xezal Sherzad Salih,697,410844687,e222.krg.org
+M023,Ministry of Finance 23,Erbil,Gen. Salih Aryan Qadir,451,241139763,f223.krg.org
+M024,Ministry of Health 24,Zakho,Eng. Rebaz Salam Karimi,4667,580053345,h224.krg.org
+M025,Ministry of Planning 25,Duhok,Dr. Sardar Bakr Hasan,2105,262032702,p225.krg.org
+M026,Ministry of Agriculture 26,Zakho,Eng. Chnar Mohammed Tahir,1455,645977868,a226.krg.org
+M027,Ministry of Labour & Social Affairs 27,Halabja,Dr. Wrya Ihsan Said,2819,148584325,l&sa227.krg.org
+M028,Ministry of Finance 28,Zakho,Gen. Hawkar Mustafa Nuri,1475,441324629,f228.krg.org
+M029,Ministry of Culture 29,Sulaymaniyah,Dr. Wrya Latif Said,4471,319225432,c229.krg.org
+M030,Ministry of Health 30,Duhok,Dr. Bestun Bakr Karim,2554,230406971,h330.krg.org
+M031,Ministry of Finance 31,Erbil,Dr. Randa Omar Ali,2766,739406343,f331.krg.org
+M032,Ministry of Higher Education 32,Duhok,Gen. Fuad Saeed Tahir,426,196463420,he332.krg.org
+M033,Ministry of Municipalities 33,Zakho,Gen. Karwan Aziz Othman,5962,115750448,m333.krg.org
+M034,Ministry of Youth & Sports 34,Halabja,Dr. Layla Fuad Nasser,2321,557571457,y&s334.krg.org
+M035,Ministry of Labour & Social Affairs 35,Halabja,Gen. Rebaz Ihsan Hassan,5377,720927977,l&sa335.krg.org
+M036,Ministry of Justice 36,Erbil,Gen. Saman Farhad Mahmoud,385,519807959,j336.krg.org
+M037,Ministry of Agriculture 37,Zakho,Dr. Dilan Dara Karimi,2293,721637064,a337.krg.org
+M038,Ministry of Interior 38,Duhok,Dr. Rozhan Dara Hassan,1140,209870574,i338.krg.org
+M039,Ministry of Planning 39,Zakho,Gen. Vian Nawzad Ahmad,5542,260372454,p339.krg.org
+M040,Ministry of Municipalities 40,Sulaymaniyah,Eng. Karwan Saber Ali,3287,75044953,m440.krg.org
+M041,Ministry of Planning 41,Sulaymaniyah,Gen. Sardar Saber Nuri,979,211222786,p441.krg.org
+M042,Ministry of Trade & Industry 42,Zakho,Gen. Bestun Nawzad Faris,3893,410693778,t&i442.krg.org
+M043,Ministry of Youth & Sports 43,Duhok,Eng. Rami Mustafa Aziz,6620,759907195,y&s443.krg.org
+M044,Ministry of Agriculture 44,Zakho,Dr. Kavar Saeed Rashid,584,650538559,a444.krg.org
+M045,Ministry of Municipalities 45,Halabja,Gen. Hawkar Nawzad Aziz,7173,420821603,m445.krg.org
+M046,Ministry of Agriculture 46,Erbil,Gen. Nawzad Rizgar Qadir,313,778515751,a446.krg.org
+M047,Ministry of Trade & Industry 47,Zakho,Dr. Karwan Saeed Salih,3416,161361833,t&i447.krg.org
+M048,Ministry of Trade & Industry 48,Zakho,Dr. Baran Fuad Ahmad,7031,285270252,t&i448.krg.org
+M049,Ministry of Finance 49,Duhok,Eng. Dashni Raber Nuri,1030,367305832,f449.krg.org
+M050,Ministry of Youth & Sports 50,Duhok,Dr. Vian Saeed Hassan,4462,595400661,y&s550.krg.org
+M051,Ministry of Interior 51,Sulaymaniyah,Dr. Narin Farhad Taha,5413,481210481,i551.krg.org
+M052,Ministry of Environment 52,Zakho,Gen. Saman Kamaran Othman,3968,767811790,e552.krg.org
+M053,Ministry of Labour & Social Affairs 53,Sulaymaniyah,Dr. Mazin Fuad Saeed,2394,674990595,l&sa553.krg.org
+M054,Ministry of Interior 54,Halabja,Dr. Shilan Ihsan Nuri,1432,368323507,i554.krg.org
+M055,Ministry of Health 55,Zakho,Dr. Salih Jamal Othman,5332,733297283,h555.krg.org
+M056,Ministry of Municipalities 56,Zakho,Dr. Wrya Jamal Hasan,6960,200551255,m556.krg.org
+M057,Ministry of Water Resources 57,Duhok,Eng. Sardar Barzan Ahmad,3631,703182749,wr557.krg.org
+M058,Ministry of Tourism 58,Halabja,Dr. Yara Omar Omar,6335,665989327,t558.krg.org
+M059,Ministry of Transport 59,Sulaymaniyah,Eng. Lana Farhad Aziz,5831,115820555,t559.krg.org
+M060,Ministry of Finance 60,Duhok,Gen. Dilan Bakr Ali,7383,460829419,f660.krg.org
+M061,Ministry of Interior 61,Erbil,Gen. Chnar Saber Karim,3870,91030836,i661.krg.org
+M062,Ministry of Municipalities 62,Duhok,Dr. Saman Farid Kadir,1189,349905401,m662.krg.org
+M063,Ministry of Finance 63,Zakho,Eng. Yara Farid Omar,876,464272103,f663.krg.org
+M064,Ministry of Education 64,Duhok,Eng. Saman Ihsan Hassan,7498,69065786,e664.krg.org
+M065,Ministry of Water Resources 65,Sulaymaniyah,Eng. Dashni Jamal Mahmoud,5948,50973841,wr665.krg.org
+M066,Ministry of Tourism 66,Sulaymaniyah,Dr. Kavar Sherzad Ahmad,4237,607928411,t666.krg.org
+M067,Ministry of Agriculture 67,Zakho,Eng. Aryan Jamal Mahmoud,6798,687750539,a667.krg.org
+M068,Ministry of Culture 68,Zakho,Eng. Aryan Mustafa Saeed,2799,229238874,c668.krg.org
+M069,Ministry of Higher Education 69,Sulaymaniyah,Eng. Fuad Dara Ahmad,890,229154162,he669.krg.org
+M070,Ministry of Housing 70,Zakho,Gen. Alan Saeed Nasser,1394,581882678,h770.krg.org
+M071,Ministry of Finance 71,Zakho,Dr. Baran Saber Ahmad,5077,697710271,f771.krg.org
+M072,Ministry of Housing 72,Zakho,Eng. Azad Aryan Qadir,7212,347701027,h772.krg.org
+M073,Ministry of Trade & Industry 73,Erbil,Gen. Saman Kamaran Karimi,3634,798947290,t&i773.krg.org
+M074,Ministry of Housing 74,Erbil,Dr. Dashni Barzan Mahmoud,1039,51475989,h774.krg.org
+M075,Ministry of Municipalities 75,Erbil,Gen. Bestun Fuad Taha,1473,387487721,m775.krg.org
+M076,Ministry of Trade & Industry 76,Zakho,Gen. Pishtiwan Latif Mustafa,547,446332996,t&i776.krg.org
+M077,Ministry of Interior 77,Duhok,Eng. Karwan Jamal Tahir,7803,460515656,i777.krg.org
+M078,Ministry of Agriculture 78,Halabja,Gen. Alan Hama Mustafa,7917,235805630,a778.krg.org
+M079,Ministry of Health 79,Duhok,Eng. Randa Barzan Rashid,4415,68277489,h779.krg.org
+M080,Ministry of Labour & Social Affairs 80,Halabja,Eng. Saman Rebaz Karim,363,161962063,l&sa880.krg.org
+M081,Ministry of Electricity 81,Halabja,Eng. Naz Aziz Rashid,5734,297052043,e881.krg.org
+M082,Ministry of Agriculture 82,Zakho,Dr. Rebaz Aziz Mahmoud,3340,302115561,a882.krg.org
+M083,Ministry of Housing 83,Erbil,Dr. Aryan Raber Hasan,3011,455666377,h883.krg.org
+M084,Ministry of Finance 84,Sulaymaniyah,Eng. Rozhan Ihsan Tahir,5622,112871426,f884.krg.org
+M085,Ministry of Interior 85,Halabja,Dr. Saman Barzan Said,6851,647610587,i885.krg.org
+M086,Ministry of Electricity 86,Sulaymaniyah,Gen. Farhad Barzan Qadir,7903,430719561,e886.krg.org
+M087,Ministry of Finance 87,Duhok,Dr. Vian Mohammed Karimi,2573,379320092,f887.krg.org
+M088,Ministry of Planning 88,Erbil,Gen. Zeynep Farhad Mahmoud,6559,477471373,p888.krg.org
+M089,Ministry of Health 89,Duhok,Gen. Fuad Mohammed Hasan,2886,650709719,h889.krg.org
+M090,Ministry of Interior 90,Duhok,Dr. Nawzad Farhad Hama,4427,131506722,i990.krg.org
+M091,Ministry of Justice 91,Halabja,Gen. Fuad Ihsan Saeed,1571,442281422,j991.krg.org
+M092,Ministry of Labour & Social Affairs 92,Erbil,Dr. Randa Jalal Omar,4747,459274935,l&sa992.krg.org
+M093,Ministry of Youth & Sports 93,Erbil,Dr. Jalal Sherzad Othman,6038,235362248,y&s993.krg.org
+M094,Ministry of Trade & Industry 94,Erbil,Eng. Rami Latif Qadir,3526,415663406,t&i994.krg.org
+M095,Ministry of Electricity 95,Halabja,Gen. Hawkar Kamaran Karim,4821,158529718,e995.krg.org
+M096,Ministry of Tourism 96,Duhok,Gen. Farhad Kamaran Taha,3445,133117480,t996.krg.org
+M097,Ministry of Planning 97,Duhok,Dr. Farhad Ihsan Nuri,3395,457278547,p997.krg.org
+M098,Ministry of Municipalities 98,Duhok,Gen. Helin Dara Faris,6041,342771554,m998.krg.org
+M099,Ministry of Culture 99,Erbil,Dr. Rozhan Farhad Rashid,3824,540012100,c999.krg.org
+M100,Ministry of Housing 100,Duhok,Eng. Zeynep Nawzad Mustafa,1192,393356972,h1100.krg.org
+M101,Ministry of Tourism 101,Zakho,Gen. Karwan Nawzad Hassan,5184,451124340,t1101.krg.org
+M102,Ministry of Municipalities 102,Erbil,Eng. Chnar Latif Karim,7257,499354540,m1102.krg.org
+M103,Ministry of Electricity 103,Erbil,Gen. Karwan Fuad Said,1590,765911321,e1103.krg.org
+M104,Ministry of Youth & Sports 104,Erbil,Eng. Aryan Ihsan Hassan,4006,353923668,y&s1104.krg.org
+M105,Ministry of Housing 105,Erbil,Dr. Dashni Sherzad Karim,6285,791476016,h1105.krg.org
+M106,Ministry of Finance 106,Zakho,Dr. Layla Jalal Hasan,7653,699504854,f1106.krg.org
+M107,Ministry of Electricity 107,Halabja,Gen. Saman Jamal Tahir,6813,203745573,e1107.krg.org
+M108,Ministry of Transport 108,Zakho,Eng. Xezal Farhad Mahmoud,2874,636880849,t1108.krg.org
+M109,Ministry of Environment 109,Halabja,Gen. Pishtiwan Salam Said,3771,643483580,e1109.krg.org
+M110,Ministry of Municipalities 110,Duhok,Dr. Farhad Aziz Othman,3509,601042992,m1110.krg.org
+M111,Ministry of Higher Education 111,Erbil,Eng. Xezal Rebaz Hasan,3197,412870082,he1111.krg.org
+M112,Ministry of Water Resources 112,Sulaymaniyah,Gen. Karwan Hama Hama,3774,525318820,wr1112.krg.org
+M113,Ministry of Environment 113,Halabja,Eng. Naz Latif Mustafa,3116,495684488,e1113.krg.org
+M114,Ministry of Planning 114,Sulaymaniyah,Gen. Sardar Farid Hama,2156,213022830,p1114.krg.org
+M115,Ministry of Labour & Social Affairs 115,Zakho,Dr. Azad Omar Mahmoud,6126,718284098,l&sa1115.krg.org
+M116,Ministry of Municipalities 116,Halabja,Eng. Kavar Saeed Hasan,3993,462268415,m1116.krg.org
+M117,Ministry of Trade & Industry 117,Zakho,Gen. Yara Barzan Hasan,7733,478654739,t&i1117.krg.org
+M118,Ministry of Municipalities 118,Zakho,Dr. Jalal Mustafa Mustafa,5823,557919601,m1118.krg.org
+M119,Ministry of Tourism 119,Sulaymaniyah,Eng. Zhyan Aryan Omar,1182,720328060,t1119.krg.org
+M120,Ministry of Environment 120,Halabja,Eng. Wrya Jalal Mustafa,6881,561238428,e1120.krg.org
+M121,Ministry of Justice 121,Zakho,Dr. Rozhan Saber Karimi,3678,93540158,j1121.krg.org
+M122,Ministry of Finance 122,Erbil,Dr. Nawzad Jalal Mahmoud,6963,236062938,f1122.krg.org
+M123,Ministry of Electricity 123,Halabja,Eng. Rami Nawzad Karim,1631,528485032,e1123.krg.org
+M124,Ministry of Trade & Industry 124,Sulaymaniyah,Dr. Dara Mustafa Saeed,3407,263311384,t&i1124.krg.org
+M125,Ministry of Labour & Social Affairs 125,Sulaymaniyah,Dr. Kamaran Nawzad Aziz,1728,367042167,l&sa1125.krg.org
+M126,Ministry of Agriculture 126,Zakho,Gen. Fuad Omar Rashid,7571,89554319,a1126.krg.org
+M127,Ministry of Education 127,Zakho,Eng. Farhad Kamaran Qadir,3976,209599440,e1127.krg.org
+M128,Ministry of Electricity 128,Zakho,Dr. Xezal Nawzad Hasan,1006,725452490,e1128.krg.org
+M129,Ministry of Municipalities 129,Zakho,Dr. Karwan Bakr Qadir,7071,623072802,m1129.krg.org
+M130,Ministry of Agriculture 130,Halabja,Gen. Narin Rizgar Tahir,2697,124381921,a1130.krg.org
+M131,Ministry of Youth & Sports 131,Duhok,Eng. Sardar Fuad Othman,1180,417092737,y&s1131.krg.org
+M132,Ministry of Education 132,Erbil,Eng. Zeynep Barzan Saeed,4794,396084553,e1132.krg.org
+M133,Ministry of Agriculture 133,Erbil,Dr. Narin Hama Tahir,4145,786172635,a1133.krg.org
+M134,Ministry of Trade & Industry 134,Zakho,Gen. Vian Sherzad Saeed,1529,202686349,t&i1134.krg.org
+M135,Ministry of Finance 135,Erbil,Dr. Yara Mustafa Tahir,6206,768997181,f1135.krg.org
+M136,Ministry of Labour & Social Affairs 136,Zakho,Eng. Randa Dara Kadir,1410,725622353,l&sa1136.krg.org
+M137,Ministry of Education 137,Erbil,Gen. Layla Salam Salih,1479,41369509,e1137.krg.org
+M138,Ministry of Youth & Sports 138,Halabja,Eng. Dara Omar Karim,524,341270559,y&s1138.krg.org
+M139,Ministry of Electricity 139,Zakho,Gen. Aryan Farhad Hassan,5722,759999619,e1139.krg.org
+M140,Ministry of Housing 140,Erbil,Eng. Rami Jamal Rashid,1318,126511665,h1140.krg.org
+M141,Ministry of Electricity 141,Zakho,Dr. Avan Ihsan Karimi,2472,458303806,e1141.krg.org
+M142,Ministry of Justice 142,Halabja,Dr. Zeynep Mustafa Tahir,5246,694134710,j1142.krg.org
+M143,Ministry of Housing 143,Erbil,Gen. Hawkar Nawzad Othman,3700,424362348,h1143.krg.org
+M144,Ministry of Housing 144,Erbil,Dr. Bestun Mustafa Omar,6054,215764683,h1144.krg.org
+M145,Ministry of Interior 145,Sulaymaniyah,Dr. Jalal Jamal Mustafa,5910,69608377,i1145.krg.org
+M146,Ministry of Finance 146,Erbil,Dr. Sardar Kamaran Ahmad,3277,66300146,f1146.krg.org
+M147,Ministry of Environment 147,Zakho,Dr. Azad Aryan Kadir,4272,631248514,e1147.krg.org
+M148,Ministry of Agriculture 148,Duhok,Gen. Farhad Omar Ahmad,2479,465767149,a1148.krg.org
+M149,Ministry of Health 149,Halabja,Dr. Narin Kamaran Faris,2773,56645005,h1149.krg.org
+M150,Ministry of Water Resources 150,Halabja,Gen. Saman Salam Salih,2853,346144791,wr1150.krg.org
+M151,Ministry of Transport 151,Zakho,Eng. Yara Nawzad Mahmoud,1031,684678964,t1151.krg.org
+M152,Ministry of Youth & Sports 152,Sulaymaniyah,Dr. Lana Bakr Nuri,5081,233890929,y&s1152.krg.org
+M153,Ministry of Tourism 153,Erbil,Dr. Nawzad Fuad Mahmoud,972,82796450,t1153.krg.org
+M154,Ministry of Agriculture 154,Sulaymaniyah,Dr. Zeynep Hama Aziz,6086,44931555,a1154.krg.org
+M155,Ministry of Housing 155,Zakho,Dr. Yara Rizgar Karim,5859,76392123,h1155.krg.org
+M156,Ministry of Justice 156,Erbil,Gen. Randa Sherzad Nuri,7222,602817061,j1156.krg.org
+M157,Ministry of Housing 157,Sulaymaniyah,Gen. Dilan Sherzad Hassan,2516,406805125,h1157.krg.org
+M158,Ministry of Trade & Industry 158,Erbil,Eng. Aryan Bakr Qadir,7344,128533546,t&i1158.krg.org
+M159,Ministry of Culture 159,Erbil,Eng. Naz Saeed Karimi,1017,642736310,c1159.krg.org
+M160,Ministry of Tourism 160,Halabja,Dr. Wrya Bakr Karim,2161,159245902,t1160.krg.org
+M161,Ministry of Planning 161,Halabja,Eng. Zeynep Barzan Omar,4324,239377158,p1161.krg.org
+M162,Ministry of Interior 162,Duhok,Dr. Baran Latif Mahmoud,7868,400077300,i1162.krg.org
+M163,Ministry of Health 163,Sulaymaniyah,Gen. Saman Jalal Karimi,1085,766628797,h1163.krg.org
+M164,Ministry of Environment 164,Duhok,Gen. Azad Farhad Ahmad,1829,211380121,e1164.krg.org
+M165,Ministry of Interior 165,Duhok,Gen. Dara Kamaran Kadir,2387,323100632,i1165.krg.org
+M166,Ministry of Health 166,Zakho,Eng. Shilan Barzan Hasan,5457,229811257,h1166.krg.org
+M167,Ministry of Finance 167,Sulaymaniyah,Dr. Nawzad Fuad Mahmoud,6042,765057765,f1167.krg.org
+M168,Ministry of Higher Education 168,Halabja,Eng. Karwan Raber Taha,6433,642169003,he1168.krg.org
+M169,Ministry of Interior 169,Duhok,Eng. Nawzad Jalal Salih,2097,229544690,i1169.krg.org
+M170,Ministry of Planning 170,Erbil,Gen. Aryan Bakr Kadir,3167,445275439,p1170.krg.org
+M171,Ministry of Education 171,Duhok,Dr. Fuad Bakr Karimi,4618,725549610,e1171.krg.org
+M172,Ministry of Education 172,Halabja,Eng. Randa Mustafa Faris,7998,591173365,e1172.krg.org
+M173,Ministry of Health 173,Halabja,Eng. Randa Salam Ali,2134,596486730,h1173.krg.org
+M174,Ministry of Municipalities 174,Zakho,Dr. Avan Saber Rashid,7723,103892291,m1174.krg.org
+M175,Ministry of Tourism 175,Zakho,Dr. Lana Nawzad Tahir,4958,441626685,t1175.krg.org
+M176,Ministry of Environment 176,Sulaymaniyah,Eng. Aryan Aziz Karim,6261,240639569,e1176.krg.org
+M177,Ministry of Labour & Social Affairs 177,Halabja,Dr. Azad Aziz Ahmad,2444,502205723,l&sa1177.krg.org
+M178,Ministry of Environment 178,Halabja,Gen. Karwan Omar Faris,1474,132256342,e1178.krg.org
+M179,Ministry of Culture 179,Zakho,Dr. Dara Kamaran Omar,6230,116588188,c1179.krg.org
+M180,Ministry of Youth & Sports 180,Zakho,Dr. Yara Kamaran Karim,1781,574233435,y&s1180.krg.org
+M181,Ministry of Education 181,Sulaymaniyah,Dr. Rozhan Omar Karimi,6736,217840654,e1181.krg.org
+M182,Ministry of Electricity 182,Sulaymaniyah,Dr. Sardar Raber Taha,408,630127028,e1182.krg.org
+M183,Ministry of Agriculture 183,Sulaymaniyah,Dr. Nawzad Omar Salih,6111,283060413,a1183.krg.org
+M184,Ministry of Transport 184,Halabja,Dr. Jalal Mustafa Kadir,7207,111391691,t1184.krg.org
+M185,Ministry of Justice 185,Sulaymaniyah,Dr. Karwan Kamaran Aziz,5166,219859876,j1185.krg.org
+M186,Ministry of Culture 186,Erbil,Eng. Lana Omar Nuri,5117,536770776,c1186.krg.org
+M187,Ministry of Finance 187,Halabja,Gen. Salih Fuad Saeed,4634,523639394,f1187.krg.org
+M188,Ministry of Water Resources 188,Erbil,Dr. Zhyan Dara Rashid,7291,289546866,wr1188.krg.org
+M189,Ministry of Trade & Industry 189,Zakho,Gen. Zeynep Latif Hassan,6375,670828111,t&i1189.krg.org
+M190,Ministry of Health 190,Erbil,Gen. Aryan Rizgar Faris,5351,498382584,h1190.krg.org
+M191,Ministry of Municipalities 191,Sulaymaniyah,Gen. Dashni Rebaz Karimi,5266,536631298,m1191.krg.org
+M192,Ministry of Trade & Industry 192,Duhok,Dr. Xezal Ihsan Hasan,5360,110479358,t&i1192.krg.org
+M193,Ministry of Agriculture 193,Halabja,Eng. Saman Omar Nuri,1303,534513752,a1193.krg.org
+M194,Ministry of Higher Education 194,Duhok,Gen. Vian Mustafa Ahmad,1294,665366650,he1194.krg.org
+M195,Ministry of Tourism 195,Duhok,Eng. Baran Rizgar Nuri,1980,319385223,t1195.krg.org
+M196,Ministry of Higher Education 196,Erbil,Dr. Xezal Kamaran Said,5645,583599439,he1196.krg.org
+M197,Ministry of Tourism 197,Duhok,Dr. Layla Latif Aziz,5266,203458171,t1197.krg.org
+M198,Ministry of Transport 198,Zakho,Dr. Layla Latif Othman,4011,333608669,t1198.krg.org
+M199,Ministry of Housing 199,Duhok,Dr. Shilan Hama Qadir,7141,717528835,h1199.krg.org
+M200,Ministry of Electricity 200,Duhok,Gen. Zeynep Kamaran Hassan,4880,521644335,e2200.krg.org
+M201,Ministry of Finance 201,Duhok,Eng. Rebaz Fuad Karim,3008,293596260,f2201.krg.org
+M202,Ministry of Trade & Industry 202,Halabja,Dr. Chnar Mustafa Omar,4698,281275718,t&i2202.krg.org
+M203,Ministry of Tourism 203,Sulaymaniyah,Dr. Pishtiwan Fuad Aziz,952,160227087,t2203.krg.org
+M204,Ministry of Health 204,Erbil,Eng. Avan Jalal Qadir,4561,651117296,h2204.krg.org
+M205,Ministry of Labour & Social Affairs 205,Duhok,Eng. Alan Aryan Taha,1037,489925535,l&sa2205.krg.org
+M206,Ministry of Housing 206,Erbil,Gen. Wrya Rizgar Othman,900,456963787,h2206.krg.org
+M207,Ministry of Municipalities 207,Halabja,Dr. Rami Aziz Karim,686,718947122,m2207.krg.org
+M208,Ministry of Higher Education 208,Duhok,Eng. Randa Sherzad Ahmad,3386,349879107,he2208.krg.org
+M209,Ministry of Environment 209,Sulaymaniyah,Dr. Sardar Jamal Ahmad,3787,110008873,e2209.krg.org
+M210,Ministry of Health 210,Erbil,Eng. Pishtiwan Mustafa Aziz,7401,355023252,h2210.krg.org
+M211,Ministry of Interior 211,Duhok,Dr. Pishtiwan Nawzad Faris,1277,683696927,i2211.krg.org
+M212,Ministry of Agriculture 212,Erbil,Eng. Rozhan Fuad Taha,5932,662805173,a2212.krg.org
+M213,Ministry of Health 213,Halabja,Eng. Wrya Salam Ali,4670,742150719,h2213.krg.org
+M214,Ministry of Environment 214,Halabja,Dr. Baran Karim Kadir,2007,393713460,e2214.krg.org
+M215,Ministry of Tourism 215,Erbil,Dr. Helin Ihsan Mustafa,7699,478593426,t2215.krg.org
+M216,Ministry of Tourism 216,Duhok,Dr. Naz Ihsan Saeed,2559,485921062,t2216.krg.org
+M217,Ministry of Environment 217,Sulaymaniyah,Eng. Wrya Jalal Omar,5355,572877933,e2217.krg.org
+M218,Ministry of Housing 218,Halabja,Dr. Rebaz Mustafa Karim,4247,209516705,h2218.krg.org
+M219,Ministry of Education 219,Duhok,Dr. Kamaran Fuad Nasser,4412,590628132,e2219.krg.org
+M220,Ministry of Housing 220,Duhok,Dr. Dashni Jalal Mahmoud,6233,710610219,h2220.krg.org
+M221,Ministry of Electricity 221,Duhok,Eng. Rozhan Barzan Tahir,6311,274034608,e2221.krg.org
+M222,Ministry of Interior 222,Halabja,Eng. Sardar Salam Kadir,4289,504492860,i2222.krg.org
+M223,Ministry of Youth & Sports 223,Duhok,Gen. Xezal Kamaran Kadir,7920,368800701,y&s2223.krg.org
+M224,Ministry of Health 224,Zakho,Eng. Salih Sherzad Hasan,6260,361939143,h2224.krg.org
+M225,Ministry of Finance 225,Duhok,Dr. Baran Latif Taha,3551,664780062,f2225.krg.org
+M226,Ministry of Culture 226,Erbil,Gen. Farhad Aziz Mustafa,1103,735402518,c2226.krg.org
+M227,Ministry of Housing 227,Zakho,Dr. Randa Farhad Taha,4950,623617838,h2227.krg.org
+M228,Ministry of Agriculture 228,Erbil,Dr. Zhyan Kamaran Hassan,6937,419963036,a2228.krg.org
+M229,Ministry of Electricity 229,Duhok,Eng. Baran Rizgar Taha,4698,500442737,e2229.krg.org
+M230,Ministry of Transport 230,Zakho,Gen. Dilan Omar Said,7029,501304677,t2230.krg.org
+M231,Ministry of Planning 231,Halabja,Dr. Mazin Saeed Omar,5847,330663515,p2231.krg.org
+M232,Ministry of Education 232,Zakho,Gen. Vian Raber Karimi,6705,427891669,e2232.krg.org
+M233,Ministry of Planning 233,Halabja,Eng. Zhyan Dara Hama,4346,563775878,p2233.krg.org
+M234,Ministry of Culture 234,Duhok,Dr. Mazin Mustafa Nasser,4499,607916743,c2234.krg.org
+M235,Ministry of Municipalities 235,Halabja,Eng. Rozhan Omar Mahmoud,2132,236006355,m2235.krg.org
+M236,Ministry of Interior 236,Halabja,Eng. Wrya Nawzad Nuri,7029,287135049,i2236.krg.org
+M237,Ministry of Electricity 237,Zakho,Gen. Layla Bakr Nuri,3049,197634468,e2237.krg.org
+M238,Ministry of Planning 238,Zakho,Gen. Kamaran Rizgar Rashid,7590,153404179,p2238.krg.org
+M239,Ministry of Transport 239,Halabja,Dr. Jalal Aryan Mustafa,2330,69369839,t2239.krg.org
+M240,Ministry of Justice 240,Erbil,Dr. Avan Rebaz Mustafa,5300,58942883,j2240.krg.org
+M241,Ministry of Tourism 241,Halabja,Dr. Narin Rebaz Hama,5009,490597084,t2241.krg.org
+M242,Ministry of Education 242,Duhok,Eng. Naz Ihsan Taha,588,674309561,e2242.krg.org
+M243,Ministry of Higher Education 243,Zakho,Gen. Chnar Jamal Aziz,4614,401583241,he2243.krg.org
+M244,Ministry of Higher Education 244,Sulaymaniyah,Eng. Yara Mustafa Kadir,2961,583310020,he2244.krg.org
+M245,Ministry of Finance 245,Halabja,Eng. Narin Jamal Taha,7389,552012874,f2245.krg.org
+M246,Ministry of Agriculture 246,Sulaymaniyah,Dr. Layla Mohammed Nuri,6268,47404730,a2246.krg.org
+M247,Ministry of Higher Education 247,Zakho,Dr. Yara Rizgar Mahmoud,6953,202754560,he2247.krg.org
+M248,Ministry of Culture 248,Duhok,Gen. Dara Barzan Nuri,6402,733083913,c2248.krg.org
+M249,Ministry of Education 249,Erbil,Dr. Salih Mustafa Hama,6884,135732909,e2249.krg.org
+M250,Ministry of Environment 250,Duhok,Dr. Layla Jalal Mustafa,1414,671011458,e2250.krg.org
+M251,Ministry of Tourism 251,Sulaymaniyah,Dr. Rebaz Rizgar Aziz,1136,614862080,t2251.krg.org
+M252,Ministry of Labour & Social Affairs 252,Duhok,Dr. Saman Jamal Tahir,3708,488399344,l&sa2252.krg.org
+M253,Ministry of Culture 253,Zakho,Dr. Rebaz Mohammed Hama,2435,781174480,c2253.krg.org
+M254,Ministry of Culture 254,Zakho,Dr. Dashni Kamaran Tahir,964,314053720,c2254.krg.org
+M255,Ministry of Culture 255,Duhok,Dr. Tara Barzan Kadir,3806,217547702,c2255.krg.org
+M256,Ministry of Finance 256,Sulaymaniyah,Gen. Jalal Kamaran Salih,4053,474373602,f2256.krg.org
+M257,Ministry of Youth & Sports 257,Erbil,Dr. Rami Fuad Salih,6708,659722002,y&s2257.krg.org
+M258,Ministry of Health 258,Halabja,Dr. Avan Jamal Nasser,5268,283134390,h2258.krg.org
+M259,Ministry of Tourism 259,Halabja,Dr. Xezal Jalal Salih,1091,624188933,t2259.krg.org
+M260,Ministry of Tourism 260,Halabja,Eng. Dilan Mohammed Salih,4474,690083476,t2260.krg.org
+M261,Ministry of Youth & Sports 261,Duhok,Eng. Layla Raber Kadir,3467,644710328,y&s2261.krg.org
+M262,Ministry of Tourism 262,Duhok,Gen. Pishtiwan Sherzad Ali,7722,445696269,t2262.krg.org
+M263,Ministry of Environment 263,Zakho,Eng. Xezal Barzan Omar,7787,111400548,e2263.krg.org
+M264,Ministry of Interior 264,Sulaymaniyah,Eng. Sardar Mohammed Mustafa,6483,789153635,i2264.krg.org
+M265,Ministry of Justice 265,Sulaymaniyah,Dr. Rami Aziz Salih,507,715288010,j2265.krg.org
+M266,Ministry of Planning 266,Duhok,Dr. Aryan Nawzad Saeed,5162,330249994,p2266.krg.org
+M267,Ministry of Interior 267,Erbil,Dr. Avan Karim Nasser,4060,186783664,i2267.krg.org
+M268,Ministry of Interior 268,Erbil,Gen. Saman Ihsan Kadir,1725,241251048,i2268.krg.org
+M269,Ministry of Health 269,Halabja,Dr. Saman Omar Othman,5206,627928405,h2269.krg.org
+M270,Ministry of Tourism 270,Zakho,Eng. Fuad Fuad Taha,2665,158524099,t2270.krg.org
+M271,Ministry of Culture 271,Zakho,Dr. Kavar Mohammed Ahmad,6057,530658014,c2271.krg.org
+M272,Ministry of Culture 272,Duhok,Eng. Hawkar Farhad Taha,3496,113760100,c2272.krg.org
+M273,Ministry of Trade & Industry 273,Zakho,Eng. Narin Aryan Karim,4510,675997209,t&i2273.krg.org
+M274,Ministry of Tourism 274,Sulaymaniyah,Gen. Xezal Bakr Ali,4670,382293468,t2274.krg.org
+M275,Ministry of Culture 275,Duhok,Eng. Rami Aryan Ali,1282,378146559,c2275.krg.org
+M276,Ministry of Higher Education 276,Erbil,Eng. Mazin Nawzad Karimi,2666,297599399,he2276.krg.org
+M277,Ministry of Housing 277,Zakho,Dr. Rozhan Ihsan Hassan,4728,590468420,h2277.krg.org
+M278,Ministry of Municipalities 278,Halabja,Eng. Zhyan Nawzad Kadir,5627,167599401,m2278.krg.org
+M279,Ministry of Municipalities 279,Duhok,Gen. Avan Barzan Ahmad,708,649646356,m2279.krg.org
+M280,Ministry of Youth & Sports 280,Halabja,Dr. Mazin Saeed Karim,3019,791117936,y&s2280.krg.org
+M281,Ministry of Labour & Social Affairs 281,Halabja,Gen. Dilan Jalal Ali,3212,57963927,l&sa2281.krg.org
+M282,Ministry of Trade & Industry 282,Halabja,Dr. Bestun Salam Hasan,3083,598970634,t&i2282.krg.org
+M283,Ministry of Municipalities 283,Duhok,Eng. Wrya Aziz Hama,2926,798598404,m2283.krg.org
+M284,Ministry of Interior 284,Halabja,Eng. Wrya Ihsan Karim,676,312984928,i2284.krg.org
+M285,Ministry of Labour & Social Affairs 285,Zakho,Gen. Fuad Mohammed Qadir,4828,420210699,l&sa2285.krg.org
+M286,Ministry of Youth & Sports 286,Halabja,Dr. Tara Mohammed Tahir,1100,604622922,y&s2286.krg.org
+M287,Ministry of Culture 287,Duhok,Eng. Sardar Bakr Faris,3268,429539663,c2287.krg.org
+M288,Ministry of Higher Education 288,Zakho,Gen. Dilan Jalal Kadir,1753,672947733,he2288.krg.org
+M289,Ministry of Justice 289,Erbil,Dr. Helin Nawzad Hasan,2304,448892953,j2289.krg.org
+M290,Ministry of Housing 290,Sulaymaniyah,Eng. Zhyan Farid Nasser,1309,70953511,h2290.krg.org
+M291,Ministry of Higher Education 291,Duhok,Eng. Kamaran Latif Karimi,5445,712995494,he2291.krg.org
+M292,Ministry of Municipalities 292,Zakho,Dr. Zeynep Barzan Taha,7728,368965193,m2292.krg.org
+M293,Ministry of Environment 293,Sulaymaniyah,Dr. Rami Nawzad Omar,7401,509248872,e2293.krg.org
+M294,Ministry of Agriculture 294,Duhok,Gen. Randa Nawzad Mahmoud,7394,97835488,a2294.krg.org
+M295,Ministry of Tourism 295,Duhok,Eng. Chnar Salam Hasan,627,320188663,t2295.krg.org
+M296,Ministry of Tourism 296,Duhok,Gen. Rozhan Salam Omar,1825,278407731,t2296.krg.org
+M297,Ministry of Agriculture 297,Erbil,Gen. Kavar Omar Ahmad,1574,776697449,a2297.krg.org
+M298,Ministry of Planning 298,Erbil,Gen. Randa Jalal Othman,633,272892801,p2298.krg.org
+M299,Ministry of Housing 299,Zakho,Eng. Helin Karim Said,513,76091415,h2299.krg.org
+M300,Ministry of Water Resources 300,Zakho,Gen. Azad Mustafa Aziz,1070,653499629,wr3300.krg.org
+M301,Ministry of Youth & Sports 301,Halabja,Eng. Layla Kamaran Omar,7363,453999545,y&s3301.krg.org
+M302,Ministry of Electricity 302,Halabja,Gen. Fuad Dara Taha,7040,250714653,e3302.krg.org
+M303,Ministry of Planning 303,Zakho,Eng. Zhyan Sherzad Said,2051,281759984,p3303.krg.org
+M304,Ministry of Housing 304,Erbil,Gen. Dara Fuad Rashid,6759,355047089,h3304.krg.org
+M305,Ministry of Education 305,Erbil,Eng. Dilan Barzan Salih,1932,679870356,e3305.krg.org
+M306,Ministry of Culture 306,Duhok,Eng. Rami Latif Qadir,4569,324758997,c3306.krg.org
+M307,Ministry of Labour & Social Affairs 307,Sulaymaniyah,Gen. Rozhan Ihsan Hasan,2893,270503363,l&sa3307.krg.org
+M308,Ministry of Labour & Social Affairs 308,Sulaymaniyah,Eng. Salih Aziz Mustafa,7010,401048340,l&sa3308.krg.org
+M309,Ministry of Culture 309,Duhok,Gen. Rozhan Aryan Omar,1551,59019194,c3309.krg.org
+M310,Ministry of Education 310,Sulaymaniyah,Dr. Lana Mohammed Saeed,389,159884896,e3310.krg.org
+M311,Ministry of Finance 311,Zakho,Gen. Jalal Jamal Karimi,7223,158640049,f3311.krg.org
+M312,Ministry of Labour & Social Affairs 312,Sulaymaniyah,Gen. Wrya Hama Ahmad,3283,430272825,l&sa3312.krg.org
+M313,Ministry of Tourism 313,Erbil,Eng. Hawkar Farhad Said,1053,795979407,t3313.krg.org
+M314,Ministry of Water Resources 314,Zakho,Dr. Saman Bakr Mahmoud,6782,490222193,wr3314.krg.org
+M315,Ministry of Finance 315,Duhok,Eng. Lana Nawzad Karim,4211,798482000,f3315.krg.org
+M316,Ministry of Health 316,Duhok,Gen. Shilan Omar Hassan,4406,83239317,h3316.krg.org
+M317,Ministry of Education 317,Sulaymaniyah,Gen. Zeynep Saber Qadir,1144,257859190,e3317.krg.org
+M318,Ministry of Justice 318,Halabja,Eng. Narin Latif Hasan,3241,474420796,j3318.krg.org
+M319,Ministry of Higher Education 319,Sulaymaniyah,Eng. Avan Fuad Ali,6399,270636415,he3319.krg.org
+M320,Ministry of Planning 320,Zakho,Eng. Nawzad Omar Hassan,3271,287922046,p3320.krg.org
+M321,Ministry of Water Resources 321,Sulaymaniyah,Eng. Alan Barzan Mahmoud,2134,263737305,wr3321.krg.org
+M322,Ministry of Labour & Social Affairs 322,Sulaymaniyah,Eng. Helin Dara Said,4832,692711783,l&sa3322.krg.org
+M323,Ministry of Planning 323,Halabja,Dr. Sardar Saeed Hassan,7871,66296623,p3323.krg.org
+M324,Ministry of Interior 324,Duhok,Dr. Sardar Mustafa Mustafa,6883,182319814,i3324.krg.org
+M325,Ministry of Water Resources 325,Zakho,Eng. Sardar Jamal Mahmoud,7511,182646870,wr3325.krg.org
+M326,Ministry of Tourism 326,Halabja,Eng. Aryan Raber Karim,2723,360329194,t3326.krg.org
+M327,Ministry of Transport 327,Erbil,Dr. Fuad Dara Aziz,2651,227527170,t3327.krg.org
+M328,Ministry of Planning 328,Zakho,Gen. Dara Mustafa Karim,2376,717856508,p3328.krg.org
+M329,Ministry of Finance 329,Erbil,Gen. Rami Saber Karimi,5701,348423199,f3329.krg.org
+M330,Ministry of Labour & Social Affairs 330,Halabja,Gen. Kamaran Rizgar Mustafa,1959,504439893,l&sa3330.krg.org
+M331,Ministry of Labour & Social Affairs 331,Erbil,Eng. Karwan Farhad Omar,4600,356321359,l&sa3331.krg.org
+M332,Ministry of Environment 332,Halabja,Gen. Kamaran Sherzad Hama,917,719498577,e3332.krg.org
+M333,Ministry of Finance 333,Zakho,Dr. Salih Kamaran Rashid,3998,678273004,f3333.krg.org
+M334,Ministry of Municipalities 334,Erbil,Eng. Wrya Farhad Tahir,326,674081190,m3334.krg.org
+M335,Ministry of Water Resources 335,Sulaymaniyah,Dr. Helin Mohammed Qadir,7855,599827477,wr3335.krg.org
+M336,Ministry of Labour & Social Affairs 336,Erbil,Dr. Fuad Bakr Ahmad,2544,222468589,l&sa3336.krg.org
+M337,Ministry of Environment 337,Halabja,Eng. Avan Fuad Karimi,2693,700383824,e3337.krg.org
+M338,Ministry of Water Resources 338,Sulaymaniyah,Eng. Saman Dara Mahmoud,7500,264989582,wr3338.krg.org
+M339,Ministry of Municipalities 339,Zakho,Eng. Aryan Saber Hasan,3851,403195704,m3339.krg.org
+M340,Ministry of Environment 340,Erbil,Dr. Hawkar Omar Hassan,876,439792370,e3340.krg.org
+M341,Ministry of Finance 341,Sulaymaniyah,Gen. Karwan Farhad Aziz,1064,417010998,f3341.krg.org
+M342,Ministry of Environment 342,Duhok,Gen. Jalal Omar Saeed,1900,497031418,e3342.krg.org
+M343,Ministry of Housing 343,Halabja,Eng. Yara Mohammed Aziz,5683,633412699,h3343.krg.org
+M344,Ministry of Interior 344,Sulaymaniyah,Dr. Mazin Barzan Nasser,885,304569196,i3344.krg.org
+M345,Ministry of Environment 345,Duhok,Gen. Baran Bakr Ali,6198,324024511,e3345.krg.org
+M346,Ministry of Environment 346,Duhok,Eng. Chnar Aziz Taha,955,544277897,e3346.krg.org
+M347,Ministry of Youth & Sports 347,Halabja,Gen. Hawkar Mohammed Mustafa,6493,741825137,y&s3347.krg.org
+M348,Ministry of Agriculture 348,Sulaymaniyah,Eng. Aryan Mohammed Karim,1840,100826920,a3348.krg.org
+M349,Ministry of Trade & Industry 349,Erbil,Eng. Shilan Saber Saeed,2125,511306311,t&i3349.krg.org
+M350,Ministry of Tourism 350,Zakho,Eng. Vian Rizgar Kadir,7107,441685862,t3350.krg.org
+M351,Ministry of Transport 351,Zakho,Dr. Helin Aziz Mustafa,3629,403670156,t3351.krg.org
+M352,Ministry of Higher Education 352,Halabja,Eng. Zeynep Barzan Faris,4647,137032536,he3352.krg.org
+M353,Ministry of Tourism 353,Halabja,Dr. Alan Jamal Tahir,3050,722886165,t3353.krg.org
+M354,Ministry of Planning 354,Zakho,Dr. Farhad Jamal Kadir,1562,122184471,p3354.krg.org
+M355,Ministry of Agriculture 355,Zakho,Dr. Randa Fuad Mustafa,2790,559379562,a3355.krg.org
+M356,Ministry of Interior 356,Sulaymaniyah,Gen. Naz Sherzad Ahmad,6846,344969842,i3356.krg.org
+M357,Ministry of Justice 357,Sulaymaniyah,Dr. Kamaran Jamal Ahmad,6901,380782333,j3357.krg.org
+M358,Ministry of Planning 358,Zakho,Eng. Rozhan Jalal Said,5721,56747240,p3358.krg.org
+M359,Ministry of Justice 359,Duhok,Dr. Sardar Latif Ali,6250,281313929,j3359.krg.org
+M360,Ministry of Trade & Industry 360,Erbil,Gen. Azad Saber Saeed,455,540574322,t&i3360.krg.org
+M361,Ministry of Youth & Sports 361,Erbil,Gen. Rami Aryan Karimi,7349,715858974,y&s3361.krg.org
+M362,Ministry of Water Resources 362,Halabja,Gen. Nawzad Nawzad Ali,6349,658642048,wr3362.krg.org
+M363,Ministry of Planning 363,Sulaymaniyah,Dr. Hawkar Raber Karim,480,752471261,p3363.krg.org
+M364,Ministry of Trade & Industry 364,Zakho,Gen. Karwan Hama Faris,7740,320165564,t&i3364.krg.org
+M365,Ministry of Environment 365,Erbil,Eng. Rebaz Omar Omar,7519,384188480,e3365.krg.org
+M366,Ministry of Electricity 366,Zakho,Dr. Kamaran Latif Omar,3825,568561928,e3366.krg.org
+M367,Ministry of Housing 367,Halabja,Eng. Randa Karim Omar,4809,231016675,h3367.krg.org
+M368,Ministry of Health 368,Sulaymaniyah,Gen. Xezal Farid Hama,4526,432891668,h3368.krg.org
+M369,Ministry of Water Resources 369,Halabja,Eng. Dilan Omar Ali,7835,349720806,wr3369.krg.org
+M370,Ministry of Planning 370,Duhok,Dr. Zeynep Latif Hasan,4867,404998210,p3370.krg.org
+M371,Ministry of Planning 371,Erbil,Gen. Farhad Farhad Mustafa,959,448580594,p3371.krg.org
+M372,Ministry of Labour & Social Affairs 372,Halabja,Eng. Helin Saber Aziz,755,640754257,l&sa3372.krg.org
+M373,Ministry of Justice 373,Erbil,Gen. Narin Sherzad Mahmoud,7380,481654891,j3373.krg.org
+M374,Ministry of Water Resources 374,Duhok,Eng. Hawkar Kamaran Mahmoud,4980,379799150,wr3374.krg.org
+M375,Ministry of Municipalities 375,Erbil,Dr. Helin Jalal Taha,6532,348408268,m3375.krg.org
+M376,Ministry of Interior 376,Zakho,Gen. Helin Sherzad Hama,6682,760499450,i3376.krg.org
+M377,Ministry of Youth & Sports 377,Halabja,Gen. Wrya Rebaz Nasser,2101,721910705,y&s3377.krg.org
+M378,Ministry of Tourism 378,Zakho,Dr. Zhyan Jalal Omar,4781,353830860,t3378.krg.org
+M379,Ministry of Tourism 379,Erbil,Gen. Avan Bakr Kadir,7546,716602130,t3379.krg.org
+M380,Ministry of Education 380,Sulaymaniyah,Dr. Salih Saeed Faris,6923,615568070,e3380.krg.org
+M381,Ministry of Agriculture 381,Erbil,Dr. Jalal Jalal Salih,6284,539731149,a3381.krg.org
+M382,Ministry of Youth & Sports 382,Erbil,Eng. Layla Aryan Mahmoud,7463,790678583,y&s3382.krg.org
+M383,Ministry of Interior 383,Zakho,Dr. Kamaran Bakr Rashid,3163,649710859,i3383.krg.org
+M384,Ministry of Tourism 384,Sulaymaniyah,Eng. Bestun Bakr Nasser,7322,45952163,t3384.krg.org
+M385,Ministry of Environment 385,Halabja,Eng. Helin Bakr Ahmad,3944,178959132,e3385.krg.org
+M386,Ministry of Water Resources 386,Sulaymaniyah,Dr. Bestun Jamal Faris,3319,334408966,wr3386.krg.org
+M387,Ministry of Environment 387,Erbil,Eng. Kamaran Fuad Taha,435,298241141,e3387.krg.org
+M388,Ministry of Water Resources 388,Duhok,Gen. Mazin Fuad Kadir,3367,779807191,wr3388.krg.org
+M389,Ministry of Education 389,Halabja,Gen. Salih Salam Hassan,6182,470213520,e3389.krg.org
+M390,Ministry of Housing 390,Sulaymaniyah,Gen. Narin Latif Nasser,7306,514737929,h3390.krg.org
+M391,Ministry of Education 391,Duhok,Gen. Alan Fuad Rashid,5082,360580236,e3391.krg.org
+M392,Ministry of Finance 392,Zakho,Gen. Rami Saeed Mustafa,7755,667429154,f3392.krg.org
+M393,Ministry of Planning 393,Zakho,Dr. Chnar Kamaran Qadir,4584,71454888,p3393.krg.org
+M394,Ministry of Education 394,Duhok,Eng. Avan Aziz Saeed,5975,609778750,e3394.krg.org
+M395,Ministry of Housing 395,Halabja,Gen. Baran Salam Hasan,3926,643982188,h3395.krg.org
+M396,Ministry of Labour & Social Affairs 396,Erbil,Gen. Chnar Fuad Karimi,7358,114186975,l&sa3396.krg.org
+M397,Ministry of Justice 397,Sulaymaniyah,Gen. Saman Rizgar Saeed,2491,344560158,j3397.krg.org
+M398,Ministry of Culture 398,Erbil,Dr. Naz Sherzad Hasan,2078,193203479,c3398.krg.org
+M399,Ministry of Transport 399,Erbil,Dr. Zeynep Fuad Hama,7291,323489388,t3399.krg.org
+M400,Ministry of Education 400,Erbil,Gen. Dara Karim Ali,7041,755681775,e4400.krg.org
+M401,Ministry of Higher Education 401,Sulaymaniyah,Eng. Sardar Mustafa Hasan,4518,271115515,he4401.krg.org
+M402,Ministry of Transport 402,Halabja,Dr. Jalal Mohammed Nuri,6660,339105863,t4402.krg.org
+M403,Ministry of Agriculture 403,Erbil,Eng. Hawkar Dara Said,6709,631336612,a4403.krg.org
+M404,Ministry of Agriculture 404,Erbil,Eng. Saman Barzan Hassan,6770,629824853,a4404.krg.org
+M405,Ministry of Finance 405,Zakho,Gen. Wrya Rizgar Qadir,4761,465836472,f4405.krg.org
+M406,Ministry of Trade & Industry 406,Duhok,Gen. Hawkar Sherzad Karim,2594,583593484,t&i4406.krg.org
+M407,Ministry of Housing 407,Duhok,Eng. Chnar Saber Said,7509,207769938,h4407.krg.org
+M408,Ministry of Interior 408,Sulaymaniyah,Dr. Jalal Jamal Kadir,1652,399376495,i4408.krg.org
+M409,Ministry of Health 409,Duhok,Eng. Pishtiwan Rebaz Mustafa,7932,787911405,h4409.krg.org
+M410,Ministry of Labour & Social Affairs 410,Duhok,Dr. Yara Barzan Said,4763,360442572,l&sa4410.krg.org
+M411,Ministry of Education 411,Zakho,Eng. Shilan Farid Kadir,3125,67376775,e4411.krg.org
+M412,Ministry of Planning 412,Erbil,Eng. Zhyan Mustafa Nasser,1585,723771764,p4412.krg.org
+M413,Ministry of Higher Education 413,Erbil,Gen. Hawkar Jalal Ahmad,3654,96671401,he4413.krg.org
+M414,Ministry of Water Resources 414,Zakho,Dr. Hawkar Aziz Hasan,7982,469290680,wr4414.krg.org
+M415,Ministry of Interior 415,Zakho,Gen. Dara Omar Mahmoud,4895,331248545,i4415.krg.org
+M416,Ministry of Labour & Social Affairs 416,Sulaymaniyah,Gen. Sardar Bakr Karimi,3410,249292625,l&sa4416.krg.org
+M417,Ministry of Planning 417,Duhok,Dr. Zhyan Aryan Rashid,2603,315806541,p4417.krg.org
+M418,Ministry of Agriculture 418,Sulaymaniyah,Gen. Wrya Karim Salih,334,753405162,a4418.krg.org
+M419,Ministry of Tourism 419,Zakho,Gen. Yara Dara Rashid,4995,462855996,t4419.krg.org
+M420,Ministry of Transport 420,Zakho,Dr. Pishtiwan Mustafa Faris,7733,187646775,t4420.krg.org
+M421,Ministry of Labour & Social Affairs 421,Sulaymaniyah,Dr. Salih Raber Hasan,4320,79815584,l&sa4421.krg.org
+M422,Ministry of Electricity 422,Erbil,Eng. Pishtiwan Jamal Rashid,441,266317102,e4422.krg.org
+M423,Ministry of Water Resources 423,Duhok,Eng. Wrya Fuad Mustafa,5024,710685960,wr4423.krg.org
+M424,Ministry of Planning 424,Zakho,Gen. Aryan Salam Salih,6020,199091094,p4424.krg.org
+M425,Ministry of Planning 425,Duhok,Dr. Shilan Jalal Kadir,502,537735380,p4425.krg.org
+M426,Ministry of Housing 426,Erbil,Dr. Bestun Rizgar Mahmoud,7028,375443028,h4426.krg.org
+M427,Ministry of Finance 427,Halabja,Dr. Rebaz Mohammed Taha,4540,278033931,f4427.krg.org
+M428,Ministry of Environment 428,Duhok,Dr. Dashni Jalal Nuri,6257,324540344,e4428.krg.org
+M429,Ministry of Finance 429,Duhok,Eng. Dilan Nawzad Othman,7670,359243129,f4429.krg.org
+M430,Ministry of Environment 430,Sulaymaniyah,Dr. Naz Hama Ahmad,3946,144439372,e4430.krg.org
+M431,Ministry of Electricity 431,Duhok,Dr. Sardar Saber Aziz,7719,797868517,e4431.krg.org
+M432,Ministry of Environment 432,Duhok,Dr. Narin Jalal Kadir,2119,724153868,e4432.krg.org
+M433,Ministry of Higher Education 433,Duhok,Eng. Saman Nawzad Mahmoud,2087,688021626,he4433.krg.org
+M434,Ministry of Labour & Social Affairs 434,Erbil,Gen. Zhyan Omar Rashid,6297,87954302,l&sa4434.krg.org
+M435,Ministry of Youth & Sports 435,Sulaymaniyah,Dr. Wrya Fuad Tahir,5515,660908747,y&s4435.krg.org
+M436,Ministry of Labour & Social Affairs 436,Halabja,Eng. Azad Rebaz Ali,7628,474608902,l&sa4436.krg.org
+M437,Ministry of Water Resources 437,Duhok,Eng. Pishtiwan Jamal Othman,3757,572612496,wr4437.krg.org
+M438,Ministry of Youth & Sports 438,Zakho,Eng. Narin Aryan Ahmad,1060,275944817,y&s4438.krg.org
+M439,Ministry of Municipalities 439,Halabja,Dr. Zeynep Aryan Kadir,7750,52991829,m4439.krg.org
+M440,Ministry of Agriculture 440,Sulaymaniyah,Eng. Avan Bakr Nasser,3767,793390418,a4440.krg.org
+M441,Ministry of Higher Education 441,Duhok,Dr. Naz Rizgar Salih,6210,348056936,he4441.krg.org
+M442,Ministry of Finance 442,Erbil,Eng. Zeynep Jalal Hassan,433,345000939,f4442.krg.org
+M443,Ministry of Environment 443,Halabja,Dr. Tara Sherzad Karimi,7153,96670785,e4443.krg.org
+M444,Ministry of Justice 444,Halabja,Dr. Rami Raber Taha,3760,432693236,j4444.krg.org
+M445,Ministry of Planning 445,Duhok,Eng. Nawzad Mohammed Ali,5177,755227550,p4445.krg.org
+M446,Ministry of Planning 446,Halabja,Dr. Aryan Nawzad Tahir,1975,705123403,p4446.krg.org
+M447,Ministry of Water Resources 447,Halabja,Dr. Zhyan Hama Faris,4714,272606712,wr4447.krg.org
+M448,Ministry of Higher Education 448,Erbil,Dr. Jalal Mohammed Karim,3232,78528324,he4448.krg.org
+M449,Ministry of Environment 449,Duhok,Dr. Kavar Hama Kadir,7696,439869521,e4449.krg.org
+M450,Ministry of Transport 450,Sulaymaniyah,Eng. Pishtiwan Mohammed Rashid,6241,789965549,t4450.krg.org
+M451,Ministry of Municipalities 451,Sulaymaniyah,Gen. Avan Kamaran Karimi,5749,767626088,m4451.krg.org
+M452,Ministry of Housing 452,Duhok,Gen. Tara Aziz Taha,6780,146976491,h4452.krg.org
+M453,Ministry of Finance 453,Erbil,Eng. Vian Aryan Tahir,5007,699509204,f4453.krg.org
+M454,Ministry of Tourism 454,Halabja,Dr. Pishtiwan Omar Qadir,5989,511828282,t4454.krg.org
+M455,Ministry of Transport 455,Zakho,Eng. Vian Hama Taha,3405,89467076,t4455.krg.org
+M456,Ministry of Transport 456,Halabja,Dr. Hawkar Farhad Karim,6584,40309368,t4456.krg.org
+M457,Ministry of Agriculture 457,Sulaymaniyah,Gen. Zhyan Rizgar Nuri,1538,785036505,a4457.krg.org
+M458,Ministry of Tourism 458,Sulaymaniyah,Gen. Helin Jamal Mustafa,7479,348104747,t4458.krg.org
+M459,Ministry of Higher Education 459,Halabja,Dr. Aryan Aryan Rashid,7043,115802404,he4459.krg.org
+M460,Ministry of Electricity 460,Duhok,Dr. Saman Raber Nasser,7465,107858885,e4460.krg.org
+M461,Ministry of Transport 461,Duhok,Eng. Farhad Fuad Saeed,3407,164023219,t4461.krg.org
+M462,Ministry of Transport 462,Zakho,Dr. Aryan Aziz Saeed,1300,442534581,t4462.krg.org
+M463,Ministry of Agriculture 463,Halabja,Eng. Wrya Mohammed Taha,3269,389785762,a4463.krg.org
+M464,Ministry of Environment 464,Halabja,Eng. Dashni Ihsan Mustafa,1928,753168285,e4464.krg.org
+M465,Ministry of Transport 465,Sulaymaniyah,Dr. Helin Mustafa Mustafa,6218,238273472,t4465.krg.org
+M466,Ministry of Municipalities 466,Sulaymaniyah,Eng. Yara Jamal Ahmad,3480,177586532,m4466.krg.org
+M467,Ministry of Transport 467,Sulaymaniyah,Gen. Yara Bakr Mustafa,3041,283730721,t4467.krg.org
+M468,Ministry of Environment 468,Duhok,Eng. Layla Saeed Mahmoud,318,122549002,e4468.krg.org
+M469,Ministry of Municipalities 469,Zakho,Gen. Randa Kamaran Rashid,376,408518576,m4469.krg.org
+M470,Ministry of Housing 470,Duhok,Gen. Farhad Dara Kadir,7951,525062846,h4470.krg.org
+M471,Ministry of Tourism 471,Sulaymaniyah,Gen. Helin Nawzad Karimi,528,554894470,t4471.krg.org
+M472,Ministry of Municipalities 472,Halabja,Dr. Helin Rizgar Taha,3326,292936526,m4472.krg.org
+M473,Ministry of Agriculture 473,Sulaymaniyah,Eng. Rami Saber Mustafa,7435,515776257,a4473.krg.org
+M474,Ministry of Tourism 474,Erbil,Gen. Sardar Rizgar Hassan,3972,752096531,t4474.krg.org
+M475,Ministry of Tourism 475,Zakho,Eng. Jalal Farid Ali,2986,320150043,t4475.krg.org
+M476,Ministry of Trade & Industry 476,Sulaymaniyah,Gen. Bestun Raber Mahmoud,1022,191284602,t&i4476.krg.org
+M477,Ministry of Agriculture 477,Duhok,Gen. Rebaz Sherzad Hassan,7857,403003218,a4477.krg.org
+M478,Ministry of Health 478,Zakho,Dr. Zhyan Kamaran Qadir,806,556724427,h4478.krg.org
+M479,Ministry of Finance 479,Halabja,Eng. Salih Hama Mahmoud,6813,306636112,f4479.krg.org
+M480,Ministry of Youth & Sports 480,Zakho,Eng. Chnar Salam Nasser,7777,269472686,y&s4480.krg.org
+M481,Ministry of Youth & Sports 481,Sulaymaniyah,Gen. Salih Jamal Nuri,1973,624997103,y&s4481.krg.org
+M482,Ministry of Environment 482,Zakho,Eng. Saman Fuad Hassan,1266,757911008,e4482.krg.org
+M483,Ministry of Planning 483,Sulaymaniyah,Dr. Rozhan Salam Ahmad,3237,692723602,p4483.krg.org
+M484,Ministry of Agriculture 484,Halabja,Dr. Kamaran Saber Saeed,7663,517746424,a4484.krg.org
+M485,Ministry of Interior 485,Halabja,Gen. Avan Mustafa Said,7565,588928155,i4485.krg.org
+M486,Ministry of Transport 486,Duhok,Eng. Xezal Karim Qadir,6522,450100596,t4486.krg.org
+M487,Ministry of Health 487,Duhok,Dr. Dara Raber Othman,4106,342361293,h4487.krg.org
+M488,Ministry of Municipalities 488,Zakho,Eng. Sardar Jamal Kadir,4747,124462820,m4488.krg.org
+M489,Ministry of Agriculture 489,Sulaymaniyah,Eng. Rebaz Latif Saeed,5361,672314427,a4489.krg.org
+M490,Ministry of Finance 490,Duhok,Gen. Rozhan Farid Nuri,7593,389084073,f4490.krg.org
+M491,Ministry of Education 491,Zakho,Gen. Salih Dara Taha,6507,675584516,e4491.krg.org
+M492,Ministry of Culture 492,Halabja,Dr. Rami Jamal Hassan,3511,791495668,c4492.krg.org
+M493,Ministry of Finance 493,Zakho,Dr. Jalal Kamaran Rashid,2185,705919765,f4493.krg.org
+M494,Ministry of Transport 494,Halabja,Dr. Nawzad Dara Karim,7856,789801519,t4494.krg.org
+M495,Ministry of Trade & Industry 495,Zakho,Eng. Wrya Mustafa Kadir,6891,426436580,t&i4495.krg.org
+M496,Ministry of Electricity 496,Erbil,Dr. Randa Farhad Hama,7172,622492211,e4496.krg.org
+M497,Ministry of Electricity 497,Halabja,Eng. Xezal Aryan Saeed,4189,681491378,e4497.krg.org
+M498,Ministry of Municipalities 498,Halabja,Dr. Dara Sherzad Hama,3677,356581297,m4498.krg.org
+M499,Ministry of Justice 499,Duhok,Gen. Naz Rebaz Karim,1323,647698506,j4499.krg.org
+M500,Ministry of Tourism 500,Halabja,Dr. Randa Sherzad Hasan,2456,158814172,t5500.krg.org
+M501,Ministry of Culture 501,Zakho,Eng. Saman Rizgar Faris,4156,212645702,c5501.krg.org
+M502,Ministry of Environment 502,Erbil,Dr. Jalal Latif Salih,7368,373394296,e5502.krg.org
+M503,Ministry of Education 503,Erbil,Eng. Chnar Saeed Ahmad,315,637635196,e5503.krg.org
+M504,Ministry of Interior 504,Sulaymaniyah,Dr. Nawzad Mustafa Mahmoud,1203,546570759,i5504.krg.org
+M505,Ministry of Finance 505,Duhok,Gen. Jalal Farid Othman,5727,594205512,f5505.krg.org
+M506,Ministry of Higher Education 506,Duhok,Gen. Baran Rebaz Nasser,5535,584417417,he5506.krg.org
+M507,Ministry of Health 507,Duhok,Eng. Tara Sherzad Mustafa,1739,622729224,h5507.krg.org
+M508,Ministry of Environment 508,Duhok,Dr. Baran Jalal Hama,7075,764023511,e5508.krg.org
+M509,Ministry of Labour & Social Affairs 509,Duhok,Gen. Saman Mustafa Faris,7916,441818837,l&sa5509.krg.org
+M510,Ministry of Electricity 510,Sulaymaniyah,Eng. Vian Jalal Aziz,2083,543906228,e5510.krg.org
+M511,Ministry of Health 511,Duhok,Eng. Zhyan Kamaran Saeed,1879,526567244,h5511.krg.org
+M512,Ministry of Transport 512,Sulaymaniyah,Eng. Sardar Jamal Aziz,1817,159146159,t5512.krg.org
+M513,Ministry of Finance 513,Erbil,Dr. Xezal Latif Nasser,6694,297954631,f5513.krg.org
+M514,Ministry of Water Resources 514,Halabja,Gen. Vian Omar Qadir,6801,772407110,wr5514.krg.org
+M515,Ministry of Electricity 515,Sulaymaniyah,Gen. Narin Barzan Rashid,2467,73604973,e5515.krg.org
+M516,Ministry of Tourism 516,Duhok,Gen. Kamaran Rebaz Saeed,2208,430046056,t5516.krg.org
+M517,Ministry of Planning 517,Halabja,Gen. Rami Latif Aziz,2875,424486253,p5517.krg.org
+M518,Ministry of Interior 518,Sulaymaniyah,Gen. Avan Sherzad Faris,4253,75736452,i5518.krg.org
+M519,Ministry of Interior 519,Duhok,Gen. Nawzad Mustafa Said,2622,421322709,i5519.krg.org
+M520,Ministry of Housing 520,Duhok,Eng. Rozhan Farid Saeed,7193,80844896,h5520.krg.org
+M521,Ministry of Justice 521,Duhok,Gen. Fuad Karim Faris,7946,230900009,j5521.krg.org
+M522,Ministry of Environment 522,Erbil,Dr. Azad Latif Othman,5943,773078699,e5522.krg.org
+M523,Ministry of Environment 523,Zakho,Eng. Mazin Ihsan Hama,3298,766019136,e5523.krg.org
+M524,Ministry of Culture 524,Zakho,Dr. Bestun Karim Taha,1497,261298444,c5524.krg.org
+M525,Ministry of Education 525,Erbil,Gen. Karwan Rebaz Mustafa,5284,419941503,e5525.krg.org
+M526,Ministry of Tourism 526,Zakho,Eng. Helin Farid Qadir,7540,441785105,t5526.krg.org
+M527,Ministry of Transport 527,Zakho,Eng. Naz Omar Tahir,5958,494354267,t5527.krg.org
+M528,Ministry of Labour & Social Affairs 528,Duhok,Gen. Yara Salam Karim,2615,567616128,l&sa5528.krg.org
+M529,Ministry of Education 529,Sulaymaniyah,Gen. Sardar Salam Omar,3520,301286097,e5529.krg.org
+M530,Ministry of Trade & Industry 530,Zakho,Gen. Dilan Farid Mahmoud,5431,589068343,t&i5530.krg.org
+M531,Ministry of Water Resources 531,Erbil,Gen. Dashni Hama Aziz,2412,61323898,wr5531.krg.org
+M532,Ministry of Justice 532,Sulaymaniyah,Dr. Jalal Farhad Said,3630,396482790,j5532.krg.org
+M533,Ministry of Housing 533,Duhok,Dr. Dara Latif Aziz,5532,543668154,h5533.krg.org
+M534,Ministry of Youth & Sports 534,Erbil,Eng. Baran Rebaz Kadir,7563,488084508,y&s5534.krg.org
+M535,Ministry of Education 535,Erbil,Dr. Rozhan Omar Hassan,6546,441240444,e5535.krg.org
+M536,Ministry of Housing 536,Halabja,Dr. Salih Rebaz Hassan,7184,292977669,h5536.krg.org
+M537,Ministry of Tourism 537,Erbil,Eng. Shilan Aryan Hasan,2505,761045618,t5537.krg.org
+M538,Ministry of Environment 538,Zakho,Eng. Vian Aziz Hassan,5246,551896769,e5538.krg.org
+M539,Ministry of Education 539,Zakho,Eng. Narin Mohammed Ahmad,4172,748679585,e5539.krg.org
+M540,Ministry of Planning 540,Sulaymaniyah,Gen. Tara Ihsan Salih,3724,154221573,p5540.krg.org
+M541,Ministry of Transport 541,Duhok,Eng. Vian Bakr Kadir,5456,72321507,t5541.krg.org
+M542,Ministry of Finance 542,Zakho,Gen. Dara Mohammed Nasser,3264,633202582,f5542.krg.org
+M543,Ministry of Planning 543,Erbil,Dr. Sardar Latif Hama,7626,285219297,p5543.krg.org
+M544,Ministry of Tourism 544,Sulaymaniyah,Dr. Karwan Saeed Omar,5523,706266723,t5544.krg.org
+M545,Ministry of Justice 545,Erbil,Eng. Naz Farid Taha,2453,391561131,j5545.krg.org
+M546,Ministry of Education 546,Halabja,Gen. Bestun Aziz Othman,6834,555651841,e5546.krg.org
+M547,Ministry of Planning 547,Sulaymaniyah,Eng. Yara Jamal Faris,399,745745386,p5547.krg.org
+M548,Ministry of Housing 548,Erbil,Eng. Layla Nawzad Karimi,7914,408810633,h5548.krg.org
+M549,Ministry of Education 549,Zakho,Eng. Sardar Barzan Nasser,1021,620243752,e5549.krg.org
+M550,Ministry of Culture 550,Sulaymaniyah,Gen. Pishtiwan Aziz Ahmad,6405,144427529,c5550.krg.org
+M551,Ministry of Municipalities 551,Duhok,Dr. Dashni Sherzad Hassan,2539,257047474,m5551.krg.org
+M552,Ministry of Trade & Industry 552,Halabja,Dr. Tara Ihsan Nasser,4023,244171663,t&i5552.krg.org
+M553,Ministry of Finance 553,Duhok,Eng. Hawkar Barzan Othman,3235,207829681,f5553.krg.org
+M554,Ministry of Finance 554,Duhok,Gen. Shilan Omar Nuri,7931,319720200,f5554.krg.org
+M555,Ministry of Planning 555,Duhok,Gen. Hawkar Farid Omar,6296,629660755,p5555.krg.org
+M556,Ministry of Environment 556,Sulaymaniyah,Eng. Xezal Raber Ahmad,2095,392126025,e5556.krg.org
+M557,Ministry of Interior 557,Zakho,Dr. Jalal Salam Hama,5349,480210961,i5557.krg.org
+M558,Ministry of Trade & Industry 558,Halabja,Eng. Alan Aziz Ahmad,7885,479445654,t&i5558.krg.org
+M559,Ministry of Higher Education 559,Duhok,Eng. Fuad Farhad Kadir,3896,95446678,he5559.krg.org
+M560,Ministry of Agriculture 560,Erbil,Gen. Xezal Fuad Hasan,5754,673237332,a5560.krg.org
+M561,Ministry of Electricity 561,Duhok,Gen. Hawkar Bakr Hama,2299,678207836,e5561.krg.org
+M562,Ministry of Higher Education 562,Duhok,Gen. Azad Saber Qadir,2083,45314299,he5562.krg.org
+M563,Ministry of Water Resources 563,Halabja,Eng. Vian Rebaz Aziz,2448,308915803,wr5563.krg.org
+M564,Ministry of Education 564,Sulaymaniyah,Dr. Dilan Fuad Karim,1238,372408838,e5564.krg.org
+M565,Ministry of Youth & Sports 565,Duhok,Gen. Zhyan Farhad Othman,7922,200557611,y&s5565.krg.org
+M566,Ministry of Housing 566,Zakho,Dr. Karwan Omar Aziz,2347,517360242,h5566.krg.org
+M567,Ministry of Electricity 567,Halabja,Dr. Zhyan Latif Mustafa,6731,627155391,e5567.krg.org
+M568,Ministry of Housing 568,Erbil,Gen. Lana Fuad Aziz,750,160837407,h5568.krg.org
+M569,Ministry of Transport 569,Erbil,Eng. Dashni Aziz Aziz,5662,730853345,t5569.krg.org
+M570,Ministry of Higher Education 570,Duhok,Gen. Narin Saber Ali,7322,287284754,he5570.krg.org
+M571,Ministry of Finance 571,Duhok,Eng. Aryan Farid Mustafa,7078,785623091,f5571.krg.org
+M572,Ministry of Planning 572,Halabja,Gen. Vian Omar Mustafa,362,650170121,p5572.krg.org
+M573,Ministry of Higher Education 573,Duhok,Gen. Naz Jamal Tahir,7659,604077369,he5573.krg.org
+M574,Ministry of Finance 574,Erbil,Eng. Vian Barzan Mustafa,2757,505620343,f5574.krg.org
+M575,Ministry of Interior 575,Erbil,Dr. Layla Raber Aziz,4741,599497302,i5575.krg.org
+M576,Ministry of Labour & Social Affairs 576,Zakho,Eng. Hawkar Dara Nuri,4050,518135655,l&sa5576.krg.org
+M577,Ministry of Interior 577,Sulaymaniyah,Dr. Fuad Barzan Ali,3819,662187851,i5577.krg.org
+M578,Ministry of Agriculture 578,Erbil,Eng. Kamaran Ihsan Tahir,2653,615839439,a5578.krg.org
+M579,Ministry of Housing 579,Erbil,Gen. Zhyan Karim Karim,1945,193677954,h5579.krg.org
+M580,Ministry of Water Resources 580,Zakho,Gen. Karwan Aryan Othman,5276,83784288,wr5580.krg.org
+M581,Ministry of Culture 581,Zakho,Eng. Chnar Ihsan Mustafa,1097,50042882,c5581.krg.org
+M582,Ministry of Interior 582,Duhok,Gen. Helin Mustafa Faris,5701,381882670,i5582.krg.org
+M583,Ministry of Environment 583,Sulaymaniyah,Dr. Vian Raber Ali,1236,785849683,e5583.krg.org
+M584,Ministry of Tourism 584,Erbil,Gen. Rozhan Aryan Kadir,622,753302687,t5584.krg.org
+M585,Ministry of Health 585,Zakho,Eng. Bestun Fuad Rashid,2162,670975764,h5585.krg.org
+M586,Ministry of Water Resources 586,Halabja,Gen. Jalal Omar Nasser,4599,582103443,wr5586.krg.org
+M587,Ministry of Finance 587,Erbil,Gen. Dilan Rebaz Mahmoud,7306,771931452,f5587.krg.org
+M588,Ministry of Education 588,Duhok,Gen. Kamaran Barzan Ali,4685,746823638,e5588.krg.org
+M589,Ministry of Water Resources 589,Erbil,Eng. Avan Barzan Nuri,5971,510289177,wr5589.krg.org
+M590,Ministry of Water Resources 590,Zakho,Gen. Alan Fuad Ahmad,2344,180638424,wr5590.krg.org
+M591,Ministry of Tourism 591,Duhok,Gen. Zeynep Jamal Hassan,7668,561681645,t5591.krg.org
+M592,Ministry of Health 592,Sulaymaniyah,Gen. Aryan Salam Karim,7174,176436203,h5592.krg.org
+M593,Ministry of Agriculture 593,Halabja,Dr. Xezal Rebaz Nasser,1576,164412826,a5593.krg.org
+M594,Ministry of Youth & Sports 594,Zakho,Dr. Azad Jamal Othman,7647,454545559,y&s5594.krg.org
+M595,Ministry of Trade & Industry 595,Sulaymaniyah,Eng. Lana Saber Saeed,4588,645350702,t&i5595.krg.org
+M596,Ministry of Education 596,Duhok,Dr. Zeynep Raber Ali,6348,776818052,e5596.krg.org
+M597,Ministry of Municipalities 597,Duhok,Eng. Layla Farhad Hama,5460,749597038,m5597.krg.org
+M598,Ministry of Youth & Sports 598,Halabja,Gen. Kamaran Hama Aziz,5259,693312392,y&s5598.krg.org
+M599,Ministry of Culture 599,Sulaymaniyah,Dr. Rami Omar Othman,7081,286365794,c5599.krg.org
+M600,Ministry of Agriculture 600,Erbil,Eng. Saman Farid Nasser,4218,689610300,a6600.krg.org
+M601,Ministry of Justice 601,Sulaymaniyah,Eng. Jalal Saeed Tahir,3710,310325733,j6601.krg.org
+M602,Ministry of Tourism 602,Erbil,Eng. Saman Nawzad Saeed,2415,66622146,t6602.krg.org
+M603,Ministry of Municipalities 603,Duhok,Dr. Zeynep Salam Mustafa,3779,748832775,m6603.krg.org
+M604,Ministry of Youth & Sports 604,Duhok,Dr. Rebaz Mohammed Karimi,811,277032890,y&s6604.krg.org
+M605,Ministry of Culture 605,Zakho,Gen. Sardar Saber Faris,2477,174239958,c6605.krg.org
+M606,Ministry of Transport 606,Sulaymaniyah,Gen. Zhyan Nawzad Othman,3533,63062151,t6606.krg.org
+M607,Ministry of Tourism 607,Halabja,Dr. Jalal Saeed Ali,3730,677257054,t6607.krg.org
+M608,Ministry of Health 608,Sulaymaniyah,Gen. Farhad Rizgar Hasan,1092,713585319,h6608.krg.org
+M609,Ministry of Labour & Social Affairs 609,Erbil,Gen. Fuad Latif Hassan,3895,191106612,l&sa6609.krg.org
+M610,Ministry of Higher Education 610,Sulaymaniyah,Dr. Aryan Hama Nuri,446,642879497,he6610.krg.org
+M611,Ministry of Water Resources 611,Zakho,Dr. Avan Jamal Qadir,3770,460397409,wr6611.krg.org
+M612,Ministry of Water Resources 612,Sulaymaniyah,Eng. Rami Hama Aziz,6005,508489950,wr6612.krg.org
+M613,Ministry of Education 613,Erbil,Gen. Tara Kamaran Karimi,667,608244996,e6613.krg.org
+M614,Ministry of Tourism 614,Halabja,Eng. Pishtiwan Aryan Mustafa,6131,352684656,t6614.krg.org
+M615,Ministry of Youth & Sports 615,Duhok,Dr. Bestun Fuad Hasan,1680,158632017,y&s6615.krg.org
+M616,Ministry of Finance 616,Zakho,Dr. Azad Hama Rashid,3624,139579580,f6616.krg.org
+M617,Ministry of Labour & Social Affairs 617,Erbil,Gen. Alan Fuad Karimi,5755,668178973,l&sa6617.krg.org
+M618,Ministry of Electricity 618,Halabja,Dr. Aryan Farid Hassan,854,509255772,e6618.krg.org
+M619,Ministry of Higher Education 619,Halabja,Gen. Tara Saber Faris,940,304622440,he6619.krg.org
+M620,Ministry of Culture 620,Sulaymaniyah,Gen. Tara Raber Mustafa,6042,668162823,c6620.krg.org
+M621,Ministry of Electricity 621,Sulaymaniyah,Eng. Farhad Omar Nuri,448,78118377,e6621.krg.org
+M622,Ministry of Municipalities 622,Sulaymaniyah,Eng. Avan Barzan Hama,7837,459786682,m6622.krg.org
+M623,Ministry of Environment 623,Erbil,Gen. Vian Ihsan Hama,6259,686839035,e6623.krg.org
+M624,Ministry of Culture 624,Erbil,Eng. Farhad Mustafa Mustafa,7964,618769578,c6624.krg.org
+M625,Ministry of Labour & Social Affairs 625,Zakho,Dr. Rozhan Aziz Kadir,7857,500128111,l&sa6625.krg.org
+M626,Ministry of Youth & Sports 626,Erbil,Dr. Karwan Mohammed Omar,5923,794868287,y&s6626.krg.org
+M627,Ministry of Planning 627,Halabja,Eng. Fuad Omar Mahmoud,1050,608224085,p6627.krg.org
+M628,Ministry of Agriculture 628,Sulaymaniyah,Gen. Jalal Nawzad Ali,1880,499408034,a6628.krg.org
+M629,Ministry of Youth & Sports 629,Erbil,Eng. Wrya Aziz Othman,929,634234713,y&s6629.krg.org
+M630,Ministry of Planning 630,Halabja,Eng. Farhad Barzan Karimi,2161,538096601,p6630.krg.org
+M631,Ministry of Municipalities 631,Sulaymaniyah,Eng. Karwan Bakr Ali,837,345916433,m6631.krg.org
+M632,Ministry of Interior 632,Zakho,Dr. Salih Sherzad Othman,951,180050588,i6632.krg.org
+M633,Ministry of Municipalities 633,Erbil,Eng. Baran Omar Rashid,961,740572851,m6633.krg.org
+M634,Ministry of Culture 634,Sulaymaniyah,Gen. Dashni Salam Hassan,669,773227631,c6634.krg.org
+M635,Ministry of Youth & Sports 635,Erbil,Dr. Baran Mustafa Aziz,5128,516622415,y&s6635.krg.org
+M636,Ministry of Tourism 636,Zakho,Dr. Dashni Karim Faris,3310,507791496,t6636.krg.org
+M637,Ministry of Municipalities 637,Erbil,Dr. Farhad Aryan Salih,3330,188068484,m6637.krg.org
+M638,Ministry of Education 638,Zakho,Dr. Vian Sherzad Kadir,6397,46680962,e6638.krg.org
+M639,Ministry of Agriculture 639,Zakho,Eng. Narin Aryan Salih,5986,125484096,a6639.krg.org
+M640,Ministry of Agriculture 640,Sulaymaniyah,Dr. Nawzad Latif Kadir,6296,382889394,a6640.krg.org
+M641,Ministry of Tourism 641,Sulaymaniyah,Gen. Naz Barzan Ali,2678,707496998,t6641.krg.org
+M642,Ministry of Higher Education 642,Sulaymaniyah,Dr. Fuad Hama Mustafa,2423,137853455,he6642.krg.org
+M643,Ministry of Culture 643,Zakho,Gen. Helin Farid Tahir,7517,378548449,c6643.krg.org
+M644,Ministry of Trade & Industry 644,Zakho,Dr. Mazin Salam Taha,7899,740535133,t&i6644.krg.org
+M645,Ministry of Agriculture 645,Erbil,Eng. Bestun Jalal Hama,7680,284038709,a6645.krg.org
+M646,Ministry of Transport 646,Erbil,Dr. Mazin Fuad Rashid,1992,787877130,t6646.krg.org
+M647,Ministry of Electricity 647,Zakho,Gen. Rami Mohammed Aziz,1777,173901966,e6647.krg.org
+M648,Ministry of Agriculture 648,Duhok,Gen. Dara Karim Rashid,925,165834645,a6648.krg.org
+M649,Ministry of Planning 649,Erbil,Gen. Nawzad Aziz Hasan,4799,271972474,p6649.krg.org
+M650,Ministry of Education 650,Halabja,Eng. Nawzad Aryan Taha,7550,275089227,e6650.krg.org
+M651,Ministry of Agriculture 651,Erbil,Gen. Karwan Salam Aziz,6898,737037875,a6651.krg.org
+M652,Ministry of Planning 652,Halabja,Gen. Bestun Aziz Saeed,446,587780788,p6652.krg.org
+M653,Ministry of Finance 653,Halabja,Gen. Alan Rizgar Othman,6298,583811995,f6653.krg.org
+M654,Ministry of Transport 654,Halabja,Dr. Pishtiwan Ihsan Taha,6562,381232974,t6654.krg.org
+M655,Ministry of Trade & Industry 655,Zakho,Dr. Jalal Ihsan Tahir,4440,642431223,t&i6655.krg.org
+M656,Ministry of Health 656,Duhok,Gen. Salih Saeed Faris,4281,747586669,h6656.krg.org
+M657,Ministry of Environment 657,Zakho,Gen. Zhyan Rebaz Omar,4858,571432764,e6657.krg.org
+M658,Ministry of Environment 658,Erbil,Dr. Pishtiwan Dara Omar,2440,333536477,e6658.krg.org
+M659,Ministry of Interior 659,Sulaymaniyah,Gen. Wrya Aryan Aziz,6217,720462564,i6659.krg.org
+M660,Ministry of Youth & Sports 660,Duhok,Gen. Pishtiwan Aziz Ahmad,6243,666817503,y&s6660.krg.org
+M661,Ministry of Interior 661,Zakho,Dr. Avan Aryan Karimi,6915,560304299,i6661.krg.org
+M662,Ministry of Tourism 662,Duhok,Dr. Avan Farhad Kadir,4841,665824914,t6662.krg.org
+M663,Ministry of Housing 663,Erbil,Dr. Saman Rebaz Mahmoud,4730,659089738,h6663.krg.org
+M664,Ministry of Housing 664,Sulaymaniyah,Eng. Helin Farhad Othman,5270,155711208,h6664.krg.org
+M665,Ministry of Justice 665,Halabja,Eng. Wrya Saeed Aziz,3373,487299366,j6665.krg.org
+M666,Ministry of Trade & Industry 666,Erbil,Eng. Dilan Saeed Nuri,7139,331174824,t&i6666.krg.org
+M667,Ministry of Housing 667,Duhok,Eng. Pishtiwan Hama Nuri,3751,528205607,h6667.krg.org
+M668,Ministry of Environment 668,Sulaymaniyah,Gen. Dara Nawzad Taha,2084,319792884,e6668.krg.org
+M669,Ministry of Tourism 669,Zakho,Dr. Fuad Rizgar Mustafa,887,548899465,t6669.krg.org
+M670,Ministry of Tourism 670,Halabja,Eng. Alan Mustafa Mustafa,6064,352867749,t6670.krg.org
+M671,Ministry of Municipalities 671,Zakho,Eng. Xezal Latif Othman,2496,668470600,m6671.krg.org
+M672,Ministry of Education 672,Halabja,Gen. Azad Mustafa Ahmad,3170,545296803,e6672.krg.org
+M673,Ministry of Transport 673,Erbil,Eng. Zhyan Jamal Nasser,1085,315775368,t6673.krg.org
+M674,Ministry of Health 674,Sulaymaniyah,Dr. Kavar Farhad Ali,7626,672759734,h6674.krg.org
+M675,Ministry of Electricity 675,Erbil,Eng. Wrya Latif Ali,7296,417864090,e6675.krg.org
+M676,Ministry of Interior 676,Sulaymaniyah,Gen. Xezal Aziz Qadir,5802,363084340,i6676.krg.org
+M677,Ministry of Municipalities 677,Sulaymaniyah,Eng. Sardar Mustafa Kadir,4675,592070747,m6677.krg.org
+M678,Ministry of Municipalities 678,Halabja,Gen. Zeynep Karim Mustafa,4667,157408791,m6678.krg.org
+M679,Ministry of Labour & Social Affairs 679,Duhok,Eng. Chnar Karim Ali,3914,472348226,l&sa6679.krg.org
+M680,Ministry of Trade & Industry 680,Sulaymaniyah,Eng. Kavar Mustafa Omar,5202,789564450,t&i6680.krg.org
+M681,Ministry of Health 681,Erbil,Gen. Nawzad Rizgar Karim,2217,736153521,h6681.krg.org
+M682,Ministry of Education 682,Sulaymaniyah,Eng. Wrya Sherzad Ahmad,7349,77618110,e6682.krg.org
+M683,Ministry of Water Resources 683,Zakho,Eng. Bestun Rebaz Kadir,2061,249565792,wr6683.krg.org
+M684,Ministry of Municipalities 684,Erbil,Gen. Dashni Mohammed Ali,3068,402107600,m6684.krg.org
+M685,Ministry of Health 685,Erbil,Gen. Helin Salam Taha,6980,352440745,h6685.krg.org
+M686,Ministry of Culture 686,Erbil,Eng. Naz Rizgar Karim,6031,350016066,c6686.krg.org
+M687,Ministry of Electricity 687,Sulaymaniyah,Dr. Fuad Latif Tahir,2220,316301789,e6687.krg.org
+M688,Ministry of Health 688,Sulaymaniyah,Eng. Randa Rizgar Karimi,1302,396146579,h6688.krg.org
+M689,Ministry of Trade & Industry 689,Duhok,Dr. Yara Salam Saeed,2004,129919724,t&i6689.krg.org
+M690,Ministry of Education 690,Zakho,Gen. Salih Kamaran Hama,7810,401239967,e6690.krg.org
+M691,Ministry of Labour & Social Affairs 691,Zakho,Gen. Farhad Dara Omar,1455,74347344,l&sa6691.krg.org
+M692,Ministry of Tourism 692,Duhok,Dr. Sardar Karim Ahmad,1018,136951690,t6692.krg.org
+M693,Ministry of Trade & Industry 693,Zakho,Eng. Fuad Bakr Karim,1649,468732599,t&i6693.krg.org
+M694,Ministry of Culture 694,Duhok,Dr. Shilan Saeed Aziz,4770,138643775,c6694.krg.org
+M695,Ministry of Municipalities 695,Halabja,Eng. Chnar Karim Kadir,1185,630262895,m6695.krg.org
+M696,Ministry of Planning 696,Halabja,Gen. Naz Rebaz Mustafa,5598,422060413,p6696.krg.org
+M697,Ministry of Transport 697,Sulaymaniyah,Dr. Nawzad Saber Aziz,1688,618040257,t6697.krg.org
+M698,Ministry of Housing 698,Sulaymaniyah,Eng. Alan Kamaran Nuri,2512,265405213,h6698.krg.org
+M699,Ministry of Higher Education 699,Zakho,Dr. Xezal Rebaz Nasser,4658,783515972,he6699.krg.org
+M700,Ministry of Trade & Industry 700,Zakho,Gen. Jalal Saeed Taha,2899,340733358,t&i7700.krg.org
+M701,Ministry of Labour & Social Affairs 701,Sulaymaniyah,Eng. Rozhan Hama Faris,1209,374178938,l&sa7701.krg.org
+M702,Ministry of Water Resources 702,Sulaymaniyah,Eng. Narin Rizgar Faris,5178,256996529,wr7702.krg.org
+M703,Ministry of Transport 703,Halabja,Gen. Sardar Rebaz Mustafa,1348,306041555,t7703.krg.org
+M704,Ministry of Agriculture 704,Zakho,Eng. Fuad Jalal Othman,1487,155388487,a7704.krg.org
+M705,Ministry of Justice 705,Duhok,Eng. Baran Ihsan Faris,2308,672550979,j7705.krg.org
+M706,Ministry of Environment 706,Zakho,Eng. Sardar Saber Othman,1143,308956411,e7706.krg.org
+M707,Ministry of Justice 707,Halabja,Gen. Alan Omar Taha,3534,329931239,j7707.krg.org
+M708,Ministry of Agriculture 708,Sulaymaniyah,Dr. Xezal Aryan Karimi,3564,300182929,a7708.krg.org
+M709,Ministry of Finance 709,Halabja,Eng. Chnar Hama Ali,2430,577942261,f7709.krg.org
+M710,Ministry of Municipalities 710,Erbil,Dr. Rozhan Farid Mustafa,6897,44054969,m7710.krg.org
+M711,Ministry of Environment 711,Zakho,Gen. Salih Latif Ali,4061,477446274,e7711.krg.org
+M712,Ministry of Health 712,Erbil,Gen. Kamaran Jamal Ahmad,3722,748149286,h7712.krg.org
+M713,Ministry of Youth & Sports 713,Zakho,Gen. Kavar Aryan Hasan,6367,241104422,y&s7713.krg.org
+M714,Ministry of Labour & Social Affairs 714,Halabja,Gen. Helin Jamal Hama,6154,74409017,l&sa7714.krg.org
+M715,Ministry of Labour & Social Affairs 715,Halabja,Gen. Azad Mohammed Ahmad,7264,648821844,l&sa7715.krg.org
+M716,Ministry of Labour & Social Affairs 716,Halabja,Gen. Dara Aziz Karim,5697,658954791,l&sa7716.krg.org
+M717,Ministry of Trade & Industry 717,Sulaymaniyah,Gen. Mazin Latif Mustafa,7506,54145447,t&i7717.krg.org
+M718,Ministry of Transport 718,Sulaymaniyah,Eng. Naz Saber Hassan,4454,245004291,t7718.krg.org
+M719,Ministry of Planning 719,Halabja,Eng. Avan Kamaran Ahmad,3400,319978473,p7719.krg.org
+M720,Ministry of Youth & Sports 720,Zakho,Eng. Narin Hama Omar,5961,247522758,y&s7720.krg.org
+M721,Ministry of Interior 721,Sulaymaniyah,Gen. Vian Aziz Tahir,2799,736512219,i7721.krg.org
+M722,Ministry of Youth & Sports 722,Zakho,Gen. Salih Latif Othman,2658,577784638,y&s7722.krg.org
+M723,Ministry of Housing 723,Erbil,Eng. Kamaran Hama Kadir,4225,347992725,h7723.krg.org
+M724,Ministry of Interior 724,Erbil,Dr. Naz Raber Hasan,6326,200215528,i7724.krg.org
+M725,Ministry of Culture 725,Duhok,Dr. Chnar Jalal Salih,7382,228518904,c7725.krg.org
+M726,Ministry of Municipalities 726,Sulaymaniyah,Gen. Fuad Rizgar Aziz,792,171799342,m7726.krg.org
+M727,Ministry of Culture 727,Zakho,Dr. Pishtiwan Sherzad Saeed,4686,632886513,c7727.krg.org
+M728,Ministry of Municipalities 728,Erbil,Gen. Kamaran Jamal Qadir,6607,490189518,m7728.krg.org
+M729,Ministry of Justice 729,Zakho,Dr. Salih Rizgar Ali,2214,713609290,j7729.krg.org
+M730,Ministry of Water Resources 730,Duhok,Dr. Dara Farid Hassan,4271,187254772,wr7730.krg.org
+M731,Ministry of Planning 731,Duhok,Gen. Jalal Farhad Karimi,3003,452551545,p7731.krg.org
+M732,Ministry of Health 732,Sulaymaniyah,Dr. Avan Saber Karim,5640,78077502,h7732.krg.org
+M733,Ministry of Culture 733,Sulaymaniyah,Gen. Shilan Ihsan Taha,4100,613886852,c7733.krg.org
+M734,Ministry of Health 734,Erbil,Eng. Jalal Dara Hassan,5346,778072697,h7734.krg.org
+M735,Ministry of Electricity 735,Duhok,Dr. Kamaran Ihsan Said,7271,428768120,e7735.krg.org
+M736,Ministry of Justice 736,Duhok,Dr. Chnar Farhad Hasan,1847,228186603,j7736.krg.org
+M737,Ministry of Health 737,Erbil,Gen. Salih Farid Othman,1348,361908100,h7737.krg.org
+M738,Ministry of Higher Education 738,Halabja,Dr. Lana Mohammed Hama,3441,148463986,he7738.krg.org
+M739,Ministry of Health 739,Halabja,Eng. Tara Rizgar Karim,748,340003738,h7739.krg.org
+M740,Ministry of Transport 740,Halabja,Dr. Alan Saber Hassan,6933,450281684,t7740.krg.org
+M741,Ministry of Higher Education 741,Erbil,Eng. Hawkar Jalal Aziz,1418,235057156,he7741.krg.org
+M742,Ministry of Interior 742,Duhok,Dr. Lana Rizgar Ahmad,7418,217238103,i7742.krg.org
+M743,Ministry of Environment 743,Duhok,Dr. Karwan Aziz Rashid,2304,232084547,e7743.krg.org
+M744,Ministry of Agriculture 744,Sulaymaniyah,Gen. Randa Salam Hasan,5032,724561112,a7744.krg.org
+M745,Ministry of Finance 745,Halabja,Eng. Fuad Jalal Salih,1828,571405260,f7745.krg.org
+M746,Ministry of Culture 746,Duhok,Dr. Dara Farid Nasser,6142,328605145,c7746.krg.org
+M747,Ministry of Planning 747,Zakho,Dr. Dilan Kamaran Mustafa,5212,663554724,p7747.krg.org
+M748,Ministry of Justice 748,Sulaymaniyah,Gen. Avan Omar Hassan,2992,695718358,j7748.krg.org
+M749,Ministry of Labour & Social Affairs 749,Halabja,Gen. Saman Rizgar Saeed,6960,750839343,l&sa7749.krg.org
+M750,Ministry of Housing 750,Erbil,Eng. Mazin Farhad Ali,7186,169494352,h7750.krg.org
+M751,Ministry of Municipalities 751,Erbil,Gen. Kamaran Rebaz Qadir,6756,616949386,m7751.krg.org
+M752,Ministry of Planning 752,Zakho,Eng. Mazin Aziz Othman,1169,678432785,p7752.krg.org
+M753,Ministry of Transport 753,Erbil,Eng. Pishtiwan Mustafa Taha,6293,162374303,t7753.krg.org
+M754,Ministry of Electricity 754,Zakho,Dr. Shilan Rizgar Salih,1198,41322051,e7754.krg.org
+M755,Ministry of Municipalities 755,Halabja,Gen. Naz Aziz Omar,2449,753522284,m7755.krg.org
+M756,Ministry of Tourism 756,Zakho,Dr. Sardar Farhad Hassan,5347,627419780,t7756.krg.org
+M757,Ministry of Agriculture 757,Sulaymaniyah,Gen. Rebaz Salam Omar,6580,435225198,a7757.krg.org
+M758,Ministry of Finance 758,Halabja,Dr. Rami Rebaz Rashid,3357,725141772,f7758.krg.org
+M759,Ministry of Finance 759,Erbil,Gen. Tara Jamal Tahir,3675,778371804,f7759.krg.org
+M760,Ministry of Water Resources 760,Halabja,Gen. Hawkar Saeed Omar,3942,117027711,wr7760.krg.org
+M761,Ministry of Finance 761,Zakho,Gen. Saman Mustafa Kadir,6076,60327300,f7761.krg.org
+M762,Ministry of Transport 762,Sulaymaniyah,Dr. Wrya Aryan Faris,1369,384859588,t7762.krg.org
+M763,Ministry of Agriculture 763,Sulaymaniyah,Gen. Baran Dara Hama,5078,528134334,a7763.krg.org
+M764,Ministry of Education 764,Zakho,Gen. Helin Aziz Mahmoud,4855,496695244,e7764.krg.org
+M765,Ministry of Housing 765,Halabja,Eng. Farhad Nawzad Nasser,5005,236420134,h7765.krg.org
+M766,Ministry of Education 766,Sulaymaniyah,Gen. Avan Raber Ahmad,3123,350218866,e7766.krg.org
+M767,Ministry of Education 767,Duhok,Dr. Avan Jamal Mustafa,3810,458944016,e7767.krg.org
+M768,Ministry of Trade & Industry 768,Duhok,Eng. Dilan Jalal Ali,6826,503634484,t&i7768.krg.org
+M769,Ministry of Finance 769,Sulaymaniyah,Eng. Jalal Saber Aziz,1242,708844954,f7769.krg.org
+M770,Ministry of Health 770,Zakho,Dr. Rozhan Hama Hama,6431,694817389,h7770.krg.org
+M771,Ministry of Housing 771,Sulaymaniyah,Gen. Chnar Raber Mustafa,2619,548700319,h7771.krg.org
+M772,Ministry of Education 772,Duhok,Gen. Bestun Dara Qadir,6655,535035936,e7772.krg.org
+M773,Ministry of Transport 773,Zakho,Dr. Nawzad Jalal Saeed,3578,644939841,t7773.krg.org
+M774,Ministry of Trade & Industry 774,Erbil,Eng. Mazin Ihsan Kadir,3243,281937258,t&i7774.krg.org
+M775,Ministry of Agriculture 775,Halabja,Eng. Kavar Aziz Qadir,5517,188517236,a7775.krg.org
+M776,Ministry of Electricity 776,Halabja,Eng. Fuad Latif Hama,1915,264797765,e7776.krg.org
+M777,Ministry of Transport 777,Erbil,Gen. Dara Saeed Karimi,4423,405979733,t7777.krg.org
+M778,Ministry of Finance 778,Erbil,Gen. Xezal Jamal Kadir,3069,699665413,f7778.krg.org
+M779,Ministry of Trade & Industry 779,Erbil,Dr. Narin Saber Karimi,3090,616720641,t&i7779.krg.org
+M780,Ministry of Tourism 780,Zakho,Eng. Rami Barzan Mustafa,5083,545531377,t7780.krg.org
+M781,Ministry of Higher Education 781,Sulaymaniyah,Gen. Wrya Mohammed Kadir,7472,358533539,he7781.krg.org
+M782,Ministry of Municipalities 782,Halabja,Gen. Naz Saeed Othman,443,676682238,m7782.krg.org
+M783,Ministry of Tourism 783,Duhok,Eng. Xezal Saber Qadir,1011,236040641,t7783.krg.org
+M784,Ministry of Trade & Industry 784,Sulaymaniyah,Dr. Hawkar Mustafa Faris,7580,788248673,t&i7784.krg.org
+M785,Ministry of Environment 785,Duhok,Gen. Rozhan Saber Rashid,1805,591538041,e7785.krg.org
+M786,Ministry of Culture 786,Sulaymaniyah,Gen. Kamaran Hama Othman,4403,532899522,c7786.krg.org
+M787,Ministry of Municipalities 787,Sulaymaniyah,Eng. Azad Nawzad Nuri,328,338763707,m7787.krg.org
+M788,Ministry of Justice 788,Duhok,Dr. Kamaran Mustafa Salih,3916,610650911,j7788.krg.org
+M789,Ministry of Youth & Sports 789,Duhok,Dr. Bestun Salam Said,4830,220902249,y&s7789.krg.org
+M790,Ministry of Trade & Industry 790,Erbil,Dr. Vian Karim Hasan,6517,212667058,t&i7790.krg.org
+M791,Ministry of Tourism 791,Erbil,Dr. Hawkar Jalal Aziz,5142,343160858,t7791.krg.org
+M792,Ministry of Youth & Sports 792,Sulaymaniyah,Dr. Hawkar Omar Omar,7614,443730305,y&s7792.krg.org
+M793,Ministry of Tourism 793,Duhok,Eng. Lana Farhad Omar,7409,279001049,t7793.krg.org
+M794,Ministry of Health 794,Erbil,Gen. Rozhan Rizgar Taha,1958,383324504,h7794.krg.org
+M795,Ministry of Environment 795,Erbil,Dr. Wrya Jamal Salih,404,532257674,e7795.krg.org
+M796,Ministry of Tourism 796,Duhok,Gen. Zeynep Aryan Salih,7257,138531215,t7796.krg.org
+M797,Ministry of Higher Education 797,Zakho,Gen. Chnar Salam Ali,5371,196275049,he7797.krg.org
+M798,Ministry of Trade & Industry 798,Sulaymaniyah,Gen. Rami Jamal Rashid,3319,549560200,t&i7798.krg.org
+M799,Ministry of Water Resources 799,Duhok,Gen. Hawkar Rizgar Mahmoud,1303,494571588,wr7799.krg.org
+M800,Ministry of Tourism 800,Zakho,Gen. Zeynep Saeed Ali,7689,537182740,t8800.krg.org
+M801,Ministry of Youth & Sports 801,Duhok,Dr. Zeynep Salam Nuri,3436,423933285,y&s8801.krg.org
+M802,Ministry of Justice 802,Halabja,Eng. Randa Rebaz Nasser,990,99783855,j8802.krg.org
+M803,Ministry of Electricity 803,Halabja,Eng. Dashni Aryan Mahmoud,5208,282100897,e8803.krg.org
+M804,Ministry of Interior 804,Duhok,Gen. Alan Farid Nuri,2849,344279931,i8804.krg.org
+M805,Ministry of Agriculture 805,Zakho,Gen. Dara Latif Ali,984,410076734,a8805.krg.org
+M806,Ministry of Electricity 806,Sulaymaniyah,Gen. Salih Salam Karim,5202,345406838,e8806.krg.org
+M807,Ministry of Water Resources 807,Zakho,Gen. Rozhan Omar Karim,6336,271727044,wr8807.krg.org
+M808,Ministry of Culture 808,Sulaymaniyah,Eng. Dilan Jalal Karimi,4148,617431310,c8808.krg.org
+M809,Ministry of Electricity 809,Zakho,Eng. Zhyan Barzan Taha,2616,399473732,e8809.krg.org
+M810,Ministry of Education 810,Sulaymaniyah,Eng. Farhad Kamaran Nasser,3807,762058425,e8810.krg.org
+M811,Ministry of Tourism 811,Duhok,Gen. Jalal Farhad Hama,753,713947001,t8811.krg.org
+M812,Ministry of Youth & Sports 812,Erbil,Gen. Saman Jamal Salih,4840,570433696,y&s8812.krg.org
+M813,Ministry of Youth & Sports 813,Erbil,Gen. Xezal Rebaz Mahmoud,2805,500741554,y&s8813.krg.org
+M814,Ministry of Health 814,Sulaymaniyah,Eng. Helin Rizgar Saeed,7520,343980643,h8814.krg.org
+M815,Ministry of Finance 815,Halabja,Eng. Zeynep Bakr Rashid,4390,145752754,f8815.krg.org
+M816,Ministry of Finance 816,Erbil,Eng. Lana Nawzad Mahmoud,6425,401452576,f8816.krg.org
+M817,Ministry of Electricity 817,Zakho,Eng. Lana Sherzad Karimi,3395,770422982,e8817.krg.org
+M818,Ministry of Education 818,Zakho,Dr. Rebaz Rizgar Karim,6507,215116864,e8818.krg.org
+M819,Ministry of Agriculture 819,Zakho,Eng. Chnar Nawzad Mustafa,2420,533424113,a8819.krg.org
+M820,Ministry of Electricity 820,Zakho,Eng. Aryan Farhad Nasser,3713,313963588,e8820.krg.org
+M821,Ministry of Health 821,Sulaymaniyah,Dr. Zeynep Jalal Ahmad,5700,176558631,h8821.krg.org
+M822,Ministry of Agriculture 822,Duhok,Gen. Narin Hama Faris,1727,326330431,a8822.krg.org
+M823,Ministry of Higher Education 823,Halabja,Dr. Dashni Nawzad Kadir,4707,237426651,he8823.krg.org
+M824,Ministry of Electricity 824,Erbil,Eng. Salih Farhad Mustafa,511,660930140,e8824.krg.org
+M825,Ministry of Justice 825,Zakho,Gen. Karwan Raber Nuri,1968,597676020,j8825.krg.org
+M826,Ministry of Health 826,Zakho,Dr. Lana Farhad Nuri,6433,164414231,h8826.krg.org
+M827,Ministry of Tourism 827,Zakho,Eng. Aryan Aziz Ali,1883,306766860,t8827.krg.org
+M828,Ministry of Education 828,Halabja,Eng. Shilan Sherzad Said,1932,623136598,e8828.krg.org
+M829,Ministry of Youth & Sports 829,Erbil,Eng. Kamaran Jamal Ahmad,1797,370268482,y&s8829.krg.org
+M830,Ministry of Housing 830,Halabja,Eng. Alan Karim Hasan,1008,108201166,h8830.krg.org
+M831,Ministry of Education 831,Sulaymaniyah,Dr. Jalal Aryan Faris,7465,424911746,e8831.krg.org
+M832,Ministry of Trade & Industry 832,Zakho,Dr. Farhad Kamaran Hama,6558,70346958,t&i8832.krg.org
+M833,Ministry of Higher Education 833,Erbil,Eng. Pishtiwan Jalal Mahmoud,909,465217359,he8833.krg.org
+M834,Ministry of Youth & Sports 834,Erbil,Dr. Layla Jamal Taha,2985,345045762,y&s8834.krg.org
+M835,Ministry of Trade & Industry 835,Duhok,Dr. Kamaran Nawzad Mustafa,5456,53826547,t&i8835.krg.org
+M836,Ministry of Municipalities 836,Halabja,Dr. Fuad Raber Hassan,2876,740606482,m8836.krg.org
+M837,Ministry of Labour & Social Affairs 837,Duhok,Gen. Nawzad Latif Ahmad,6129,560546385,l&sa8837.krg.org
+M838,Ministry of Tourism 838,Halabja,Gen. Narin Mustafa Karimi,1686,362238954,t8838.krg.org
+M839,Ministry of Environment 839,Sulaymaniyah,Gen. Dashni Omar Taha,4711,684205463,e8839.krg.org
+M840,Ministry of Finance 840,Zakho,Gen. Lana Hama Othman,2604,322544112,f8840.krg.org
+M841,Ministry of Higher Education 841,Duhok,Gen. Rami Aziz Ali,7341,509926215,he8841.krg.org
+M842,Ministry of Agriculture 842,Erbil,Dr. Nawzad Karim Qadir,2940,181979356,a8842.krg.org
+M843,Ministry of Youth & Sports 843,Erbil,Eng. Wrya Mustafa Othman,3947,727283301,y&s8843.krg.org
+M844,Ministry of Trade & Industry 844,Sulaymaniyah,Eng. Xezal Karim Hama,3591,495911154,t&i8844.krg.org
+M845,Ministry of Culture 845,Zakho,Dr. Dilan Barzan Nasser,1432,594983738,c8845.krg.org
+M846,Ministry of Planning 846,Zakho,Dr. Chnar Sherzad Hasan,3867,285435463,p8846.krg.org
+M847,Ministry of Planning 847,Zakho,Dr. Helin Saeed Taha,7444,641168441,p8847.krg.org
+M848,Ministry of Tourism 848,Zakho,Gen. Mazin Jamal Hasan,6559,721148916,t8848.krg.org
+M849,Ministry of Justice 849,Zakho,Dr. Dilan Mustafa Nasser,2997,766562608,j8849.krg.org
+M850,Ministry of Education 850,Sulaymaniyah,Eng. Kavar Jalal Omar,1557,694352097,e8850.krg.org
+M851,Ministry of Interior 851,Sulaymaniyah,Gen. Tara Jamal Saeed,1313,296213639,i8851.krg.org
+M852,Ministry of Higher Education 852,Sulaymaniyah,Dr. Xezal Rebaz Mustafa,6643,225783664,he8852.krg.org
+M853,Ministry of Health 853,Duhok,Eng. Saman Sherzad Rashid,7018,113938761,h8853.krg.org
+M854,Ministry of Culture 854,Halabja,Eng. Layla Jamal Aziz,1831,609897324,c8854.krg.org
+M855,Ministry of Water Resources 855,Sulaymaniyah,Gen. Fuad Rebaz Karimi,1463,310895437,wr8855.krg.org
+M856,Ministry of Tourism 856,Zakho,Eng. Tara Saeed Nuri,7596,167982735,t8856.krg.org
+M857,Ministry of Education 857,Zakho,Eng. Nawzad Kamaran Karimi,4212,71896487,e8857.krg.org
+M858,Ministry of Health 858,Halabja,Eng. Zhyan Raber Hasan,3873,539149139,h8858.krg.org
+M859,Ministry of Municipalities 859,Duhok,Dr. Tara Mustafa Hasan,6595,282533557,m8859.krg.org
+M860,Ministry of Higher Education 860,Duhok,Gen. Rebaz Omar Omar,6042,762515919,he8860.krg.org
+M861,Ministry of Transport 861,Duhok,Gen. Bestun Salam Nuri,3489,60281060,t8861.krg.org
+M862,Ministry of Electricity 862,Erbil,Dr. Shilan Ihsan Othman,1640,268763019,e8862.krg.org
+M863,Ministry of Planning 863,Sulaymaniyah,Dr. Sardar Ihsan Mahmoud,4371,211302045,p8863.krg.org
+M864,Ministry of Electricity 864,Halabja,Eng. Chnar Ihsan Karimi,4744,132721514,e8864.krg.org
+M865,Ministry of Electricity 865,Halabja,Dr. Helin Hama Hassan,1997,331874119,e8865.krg.org
+M866,Ministry of Finance 866,Erbil,Eng. Avan Latif Qadir,3113,606131857,f8866.krg.org
+M867,Ministry of Health 867,Duhok,Dr. Rozhan Raber Ali,6966,147050734,h8867.krg.org
+M868,Ministry of Planning 868,Zakho,Gen. Farhad Karim Nuri,5090,211796829,p8868.krg.org
+M869,Ministry of Planning 869,Erbil,Eng. Mazin Farhad Mahmoud,4359,631001354,p8869.krg.org
+M870,Ministry of Tourism 870,Halabja,Eng. Lana Salam Othman,2465,455234297,t8870.krg.org
+M871,Ministry of Youth & Sports 871,Zakho,Eng. Zeynep Latif Rashid,5344,263055813,y&s8871.krg.org
+M872,Ministry of Education 872,Erbil,Gen. Rebaz Salam Karim,419,297764202,e8872.krg.org
+M873,Ministry of Trade & Industry 873,Zakho,Eng. Rozhan Nawzad Kadir,2202,585002951,t&i8873.krg.org
+M874,Ministry of Justice 874,Erbil,Gen. Salih Bakr Tahir,5808,524212896,j8874.krg.org
+M875,Ministry of Health 875,Duhok,Eng. Vian Saeed Tahir,2378,215851837,h8875.krg.org
+M876,Ministry of Housing 876,Sulaymaniyah,Eng. Fuad Raber Karim,5450,312733265,h8876.krg.org
+M877,Ministry of Interior 877,Erbil,Dr. Nawzad Saber Nuri,7323,624050826,i8877.krg.org
+M878,Ministry of Education 878,Duhok,Eng. Dashni Mustafa Hasan,5613,323457036,e8878.krg.org
+M879,Ministry of Trade & Industry 879,Halabja,Gen. Lana Aziz Nasser,4568,496956704,t&i8879.krg.org
+M880,Ministry of Education 880,Halabja,Dr. Dashni Barzan Ahmad,7997,276323004,e8880.krg.org
+M881,Ministry of Environment 881,Sulaymaniyah,Gen. Nawzad Raber Tahir,6578,443533045,e8881.krg.org
+M882,Ministry of Water Resources 882,Zakho,Dr. Sardar Saeed Ahmad,2365,234752458,wr8882.krg.org
+M883,Ministry of Labour & Social Affairs 883,Erbil,Gen. Fuad Ihsan Qadir,3668,400273083,l&sa8883.krg.org
+M884,Ministry of Municipalities 884,Halabja,Gen. Nawzad Dara Hama,1914,772176438,m8884.krg.org
+M885,Ministry of Agriculture 885,Halabja,Gen. Layla Karim Tahir,2078,481300882,a8885.krg.org
+M886,Ministry of Culture 886,Duhok,Eng. Shilan Kamaran Mahmoud,4358,579874470,c8886.krg.org
+M887,Ministry of Education 887,Duhok,Eng. Farhad Mohammed Tahir,5462,775719362,e8887.krg.org
+M888,Ministry of Municipalities 888,Duhok,Eng. Naz Aryan Saeed,3336,592621675,m8888.krg.org
+M889,Ministry of Interior 889,Duhok,Gen. Hawkar Dara Said,354,639611522,i8889.krg.org
+M890,Ministry of Water Resources 890,Duhok,Eng. Kamaran Bakr Nasser,5631,584059808,wr8890.krg.org
+M891,Ministry of Environment 891,Sulaymaniyah,Dr. Zhyan Barzan Aziz,7581,555940294,e8891.krg.org
+M892,Ministry of Youth & Sports 892,Halabja,Eng. Azad Karim Kadir,6877,447937183,y&s8892.krg.org
+M893,Ministry of Planning 893,Halabja,Eng. Shilan Jamal Ali,6306,574860866,p8893.krg.org
+M894,Ministry of Planning 894,Duhok,Dr. Rebaz Raber Othman,4007,375222394,p8894.krg.org
+M895,Ministry of Transport 895,Erbil,Eng. Zeynep Nawzad Taha,7506,179265895,t8895.krg.org
+M896,Ministry of Electricity 896,Sulaymaniyah,Eng. Bestun Salam Karimi,1776,405199419,e8896.krg.org
+M897,Ministry of Labour & Social Affairs 897,Halabja,Gen. Alan Hama Nuri,3046,555988765,l&sa8897.krg.org
+M898,Ministry of Housing 898,Zakho,Eng. Zeynep Rebaz Taha,3794,70193692,h8898.krg.org
+M899,Ministry of Culture 899,Sulaymaniyah,Dr. Randa Farhad Othman,6173,218663562,c8899.krg.org
+M900,Ministry of Higher Education 900,Duhok,Gen. Bestun Omar Tahir,7507,334981280,he9900.krg.org
+M901,Ministry of Labour & Social Affairs 901,Halabja,Gen. Fuad Dara Kadir,5947,148761511,l&sa9901.krg.org
+M902,Ministry of Housing 902,Duhok,Dr. Azad Sherzad Omar,4500,258447662,h9902.krg.org
+M903,Ministry of Interior 903,Zakho,Gen. Alan Farid Said,5121,717899678,i9903.krg.org
+M904,Ministry of Education 904,Halabja,Dr. Lana Fuad Nasser,526,441272426,e9904.krg.org
+M905,Ministry of Environment 905,Zakho,Dr. Baran Salam Nuri,5954,691871793,e9905.krg.org
+M906,Ministry of Trade & Industry 906,Erbil,Eng. Chnar Kamaran Nuri,1547,566923639,t&i9906.krg.org
+M907,Ministry of Interior 907,Sulaymaniyah,Eng. Helin Kamaran Karim,7861,378909673,i9907.krg.org
+M908,Ministry of Housing 908,Erbil,Dr. Bestun Farid Tahir,4996,459351103,h9908.krg.org
+M909,Ministry of Water Resources 909,Erbil,Gen. Xezal Omar Nasser,2498,759174682,wr9909.krg.org
+M910,Ministry of Water Resources 910,Zakho,Eng. Randa Jamal Taha,1252,778608572,wr9910.krg.org
+M911,Ministry of Justice 911,Halabja,Dr. Salih Mohammed Qadir,6805,471166652,j9911.krg.org
+M912,Ministry of Finance 912,Zakho,Gen. Zeynep Saeed Nasser,1065,596700923,f9912.krg.org
+M913,Ministry of Environment 913,Erbil,Gen. Baran Raber Nuri,5922,341181471,e9913.krg.org
+M914,Ministry of Higher Education 914,Erbil,Dr. Bestun Farhad Ahmad,7026,88798265,he9914.krg.org
+M915,Ministry of Trade & Industry 915,Sulaymaniyah,Eng. Farhad Karim Said,6415,648351109,t&i9915.krg.org
+M916,Ministry of Water Resources 916,Duhok,Gen. Kavar Barzan Hama,2801,105254918,wr9916.krg.org
+M917,Ministry of Trade & Industry 917,Duhok,Gen. Rozhan Bakr Hassan,2753,696034989,t&i9917.krg.org
+M918,Ministry of Tourism 918,Duhok,Gen. Dara Latif Karim,3483,542115334,t9918.krg.org
+M919,Ministry of Justice 919,Zakho,Eng. Tara Ihsan Aziz,3653,479157488,j9919.krg.org
+M920,Ministry of Housing 920,Halabja,Dr. Saman Hama Hama,2041,675320084,h9920.krg.org
+M921,Ministry of Finance 921,Duhok,Dr. Helin Karim Taha,4301,258741327,f9921.krg.org
+M922,Ministry of Agriculture 922,Sulaymaniyah,Eng. Saman Mohammed Aziz,1091,685005137,a9922.krg.org
+M923,Ministry of Municipalities 923,Duhok,Eng. Farhad Aryan Karimi,6590,196592087,m9923.krg.org
+M924,Ministry of Health 924,Halabja,Eng. Naz Mustafa Faris,2213,422827208,h9924.krg.org
+M925,Ministry of Environment 925,Erbil,Gen. Naz Omar Ali,4203,757294974,e9925.krg.org
+M926,Ministry of Trade & Industry 926,Zakho,Eng. Pishtiwan Kamaran Aziz,7074,215205765,t&i9926.krg.org
+M927,Ministry of Environment 927,Zakho,Dr. Baran Aziz Ali,1514,764765486,e9927.krg.org
+M928,Ministry of Trade & Industry 928,Zakho,Dr. Zhyan Jalal Hasan,690,444446936,t&i9928.krg.org
+M929,Ministry of Interior 929,Duhok,Eng. Xezal Farid Mustafa,5447,753196739,i9929.krg.org
+M930,Ministry of Finance 930,Sulaymaniyah,Eng. Zeynep Farid Kadir,2679,275039379,f9930.krg.org
+M931,Ministry of Water Resources 931,Zakho,Dr. Rami Farid Karimi,3772,489527428,wr9931.krg.org
+M932,Ministry of Tourism 932,Duhok,Eng. Alan Farhad Hama,3745,571914419,t9932.krg.org
+M933,Ministry of Education 933,Sulaymaniyah,Eng. Dilan Rebaz Karimi,849,94844020,e9933.krg.org
+M934,Ministry of Environment 934,Duhok,Gen. Xezal Fuad Tahir,2213,585072865,e9934.krg.org
+M935,Ministry of Trade & Industry 935,Sulaymaniyah,Eng. Chnar Raber Kadir,5934,261050395,t&i9935.krg.org
+M936,Ministry of Water Resources 936,Erbil,Dr. Aryan Farhad Mustafa,7202,766149865,wr9936.krg.org
+M937,Ministry of Housing 937,Duhok,Gen. Zeynep Sherzad Nasser,5937,107198838,h9937.krg.org
+M938,Ministry of Labour & Social Affairs 938,Halabja,Dr. Fuad Raber Karim,6867,393285652,l&sa9938.krg.org
+M939,Ministry of Trade & Industry 939,Erbil,Eng. Farhad Aryan Nasser,4629,717064058,t&i9939.krg.org
+M940,Ministry of Electricity 940,Sulaymaniyah,Dr. Azad Salam Faris,4546,327035516,e9940.krg.org
+M941,Ministry of Education 941,Halabja,Gen. Dashni Omar Hasan,3282,551982397,e9941.krg.org
+M942,Ministry of Planning 942,Duhok,Eng. Dara Saeed Nasser,378,92456148,p9942.krg.org
+M943,Ministry of Health 943,Duhok,Eng. Karwan Mustafa Hasan,6484,352884455,h9943.krg.org
+M944,Ministry of Education 944,Zakho,Gen. Vian Nawzad Aziz,3078,675351768,e9944.krg.org
+M945,Ministry of Education 945,Erbil,Dr. Chnar Aziz Said,7947,487708037,e9945.krg.org
+M946,Ministry of Planning 946,Duhok,Eng. Kavar Aryan Mustafa,742,192180960,p9946.krg.org
+M947,Ministry of Water Resources 947,Duhok,Dr. Kavar Fuad Aziz,1890,519024467,wr9947.krg.org
+M948,Ministry of Electricity 948,Sulaymaniyah,Dr. Randa Karim Kadir,4164,44432308,e9948.krg.org
+M949,Ministry of Planning 949,Sulaymaniyah,Eng. Sardar Karim Tahir,7535,476901478,p9949.krg.org
+M950,Ministry of Interior 950,Halabja,Dr. Zeynep Jamal Hasan,1630,291059568,i9950.krg.org
+M951,Ministry of Youth & Sports 951,Sulaymaniyah,Dr. Hawkar Ihsan Salih,1458,149228841,y&s9951.krg.org
+M952,Ministry of Higher Education 952,Halabja,Eng. Bestun Ihsan Hassan,1506,796829995,he9952.krg.org
+M953,Ministry of Environment 953,Halabja,Eng. Naz Latif Nasser,964,631610698,e9953.krg.org
+M954,Ministry of Health 954,Sulaymaniyah,Dr. Nawzad Jamal Ahmad,4565,623307748,h9954.krg.org
+M955,Ministry of Justice 955,Sulaymaniyah,Eng. Nawzad Omar Taha,6362,414894498,j9955.krg.org
+M956,Ministry of Trade & Industry 956,Sulaymaniyah,Gen. Bestun Ihsan Karim,7742,342646039,t&i9956.krg.org
+M957,Ministry of Water Resources 957,Halabja,Gen. Salih Farid Salih,3013,776092871,wr9957.krg.org
+M958,Ministry of Transport 958,Halabja,Gen. Rebaz Raber Nasser,6229,272534304,t9958.krg.org
+M959,Ministry of Agriculture 959,Halabja,Dr. Rebaz Farid Taha,6540,179722542,a9959.krg.org
+M960,Ministry of Housing 960,Halabja,Dr. Lana Sherzad Saeed,6063,791131669,h9960.krg.org
+M961,Ministry of Water Resources 961,Duhok,Eng. Shilan Saeed Taha,7523,608927572,wr9961.krg.org
+M962,Ministry of Labour & Social Affairs 962,Erbil,Eng. Tara Dara Salih,520,400199194,l&sa9962.krg.org
+M963,Ministry of Municipalities 963,Zakho,Eng. Wrya Salam Saeed,2716,161102884,m9963.krg.org
+M964,Ministry of Agriculture 964,Zakho,Gen. Zhyan Mustafa Karim,580,209807621,a9964.krg.org
+M965,Ministry of Municipalities 965,Halabja,Gen. Randa Saber Othman,1161,53527422,m9965.krg.org
+M966,Ministry of Labour & Social Affairs 966,Erbil,Eng. Farhad Rebaz Aziz,4928,491730300,l&sa9966.krg.org
+M967,Ministry of Labour & Social Affairs 967,Duhok,Gen. Kavar Kamaran Mahmoud,7797,51071114,l&sa9967.krg.org
+M968,Ministry of Health 968,Duhok,Eng. Saman Hama Karim,5269,342755723,h9968.krg.org
+M969,Ministry of Finance 969,Zakho,Eng. Lana Rebaz Taha,4025,262950332,f9969.krg.org
+M970,Ministry of Interior 970,Zakho,Gen. Kamaran Barzan Taha,3994,198088054,i9970.krg.org
+M971,Ministry of Higher Education 971,Duhok,Eng. Kamaran Fuad Nasser,1638,210732637,he9971.krg.org
+M972,Ministry of Youth & Sports 972,Halabja,Eng. Karwan Dara Hama,7571,724118610,y&s9972.krg.org
+M973,Ministry of Culture 973,Zakho,Gen. Baran Mohammed Karimi,5049,143506212,c9973.krg.org
+M974,Ministry of Finance 974,Duhok,Gen. Fuad Barzan Nuri,7374,374983721,f9974.krg.org
+M975,Ministry of Education 975,Sulaymaniyah,Gen. Rebaz Aziz Aziz,7859,658329401,e9975.krg.org
+M976,Ministry of Tourism 976,Sulaymaniyah,Gen. Azad Fuad Hassan,7991,507380411,t9976.krg.org
+M977,Ministry of Higher Education 977,Erbil,Dr. Kavar Fuad Kadir,4841,657114556,he9977.krg.org
+M978,Ministry of Youth & Sports 978,Zakho,Gen. Naz Nawzad Nuri,7714,566425909,y&s9978.krg.org
+M979,Ministry of Youth & Sports 979,Halabja,Dr. Narin Jamal Mustafa,351,395333920,y&s9979.krg.org
+M980,Ministry of Environment 980,Halabja,Gen. Mazin Jalal Said,7737,64704652,e9980.krg.org
+M981,Ministry of Municipalities 981,Duhok,Eng. Azad Dara Hassan,2983,80882139,m9981.krg.org
+M982,Ministry of Justice 982,Erbil,Eng. Nawzad Saber Qadir,404,479313578,j9982.krg.org
+M983,Ministry of Education 983,Sulaymaniyah,Eng. Alan Farhad Saeed,4078,51451822,e9983.krg.org
+M984,Ministry of Youth & Sports 984,Erbil,Dr. Xezal Mohammed Karimi,6614,683394959,y&s9984.krg.org
+M985,Ministry of Transport 985,Zakho,Dr. Rami Farhad Tahir,2304,513342687,t9985.krg.org
+M986,Ministry of Finance 986,Halabja,Dr. Dashni Fuad Kadir,349,639141836,f9986.krg.org
+M987,Ministry of Housing 987,Halabja,Eng. Aryan Aryan Faris,3277,745220290,h9987.krg.org
+M988,Ministry of Agriculture 988,Erbil,Gen. Randa Barzan Salih,2940,108809500,a9988.krg.org
+M989,Ministry of Electricity 989,Duhok,Dr. Mazin Kamaran Hama,5128,607709500,e9989.krg.org
+M990,Ministry of Finance 990,Halabja,Gen. Mazin Jamal Faris,312,83521194,f9990.krg.org
+M991,Ministry of Environment 991,Zakho,Eng. Hawkar Raber Said,3700,632103471,e9991.krg.org
+M992,Ministry of Finance 992,Halabja,Gen. Rebaz Karim Tahir,4310,143065975,f9992.krg.org
+M993,Ministry of Environment 993,Halabja,Gen. Dashni Bakr Hama,6640,776226646,e9993.krg.org
+M994,Ministry of Agriculture 994,Erbil,Gen. Chnar Hama Ahmad,7874,412621385,a9994.krg.org
+M995,Ministry of Labour & Social Affairs 995,Halabja,Eng. Hawkar Jamal Ali,7343,635105760,l&sa9995.krg.org
+M996,Ministry of Higher Education 996,Erbil,Gen. Helin Aziz Karimi,6299,705723893,he9996.krg.org
+M997,Ministry of Agriculture 997,Sulaymaniyah,Dr. Sardar Nawzad Salih,3591,231027266,a9997.krg.org
+M998,Ministry of Health 998,Zakho,Gen. Bestun Fuad Saeed,5347,578191983,h9998.krg.org
+M999,Ministry of Culture 999,Zakho,Dr. Nawzad Farhad Salih,6144,128451708,c9999.krg.org
+M1000,Ministry of Health 1000,Sulaymaniyah,Gen. Dara Sherzad Mahmoud,1948,588601936,h11000.krg.org

@@ -1,0 +1,1001 @@
+patient_id,full_name,age,city,hospital,diagnosis,admission,status,doctor
+P001,Layla Aziz Hassan,22,Erbil,H001,Acute Respiratory Infection,2024-01-10,discharged,Dr. Omar Hasan Aziz
+P002,Sardar Karimi,45,Sulaymaniyah,H003,Type 2 Diabetes,2024-02-14,outpatient,Dr. Karwan Rashid Hama
+P003,Zhyan Mustafa,35,Duhok,H005,Appendicitis (surgery),2024-01-22,discharged,Dr. Bestun Faris Qadir
+P004,Dilan Nasser,58,Erbil,H008,Coronary Artery Disease,2024-03-05,inpatient,Dr. Saman Jalal Omar
+P005,Karwan Rashid,67,Zakho,H006,Hypertension,2024-02-28,outpatient,Dr. Dilan Saeed Nuri
+P006,Shilan Saeed,29,Sulaymaniyah,H004,Lymphoma,2024-01-15,inpatient,Dr. Shilan Azad Tahir
+P007,Hawkar Taha,41,Halabja,H007,Generalised Anxiety,2024-03-10,outpatient,Dr. Rozhan Kamaran Said
+P008,Randa Nuri,33,Duhok,H005,Fracture — Right Femur,2024-02-18,discharged,Dr. Bestun Faris Qadir
+P009,Naz Kadir,50,Erbil,H002,Herniated Disc L4-L5,2024-01-30,outpatient,Dr. Naz Kadir Salih
+P010,Avan Salih,72,Sulaymaniyah,H003,Stroke (Ischaemic),2024-03-02,inpatient,Dr. Karwan Rashid Hama
+P011,Baran Ali,18,Erbil,H001,Viral Pneumonia,2024-01-25,discharged,Dr. Omar Hasan Aziz
+P012,Dara Tahir,44,Sulaymaniyah,H004,Breast Cancer Stage II,2024-02-10,inpatient,Dr. Shilan Azad Tahir
+P013,Helin Mahmoud,61,Erbil,H008,Atrial Fibrillation,2024-03-15,inpatient,Dr. Saman Jalal Omar
+P014,Kavar Omar,38,Zakho,H006,Kidney Stones,2024-01-18,discharged,Dr. Dilan Saeed Nuri
+P015,Lana Hassan,27,Halabja,H007,Depression,2024-02-22,outpatient,Dr. Rozhan Kamaran Said
+P016,Mazin Faris,55,Erbil,H001,COPD,2024-03-08,outpatient,Dr. Omar Hasan Aziz
+P017,Narin Karim,40,Sulaymaniyah,H003,Gallstones (surgery),2024-01-28,discharged,Dr. Karwan Rashid Hama
+P018,Pishtiwan Aziz,31,Duhok,H005,Laceration — Head,2024-02-05,discharged,Dr. Bestun Faris Qadir
+P019,Rozhan Said,65,Erbil,H002,Hip Replacement,2024-03-12,inpatient,Dr. Naz Kadir Salih
+P020,Saman Hasan,48,Sulaymaniyah,H004,Leukaemia,2024-01-20,inpatient,Dr. Shilan Azad Tahir
+P021,Saman Mohammed Saeed,25,Halabja,H705,Hypertension,2024-07-18,outpatient,Dr. Chnar Jamal Karim
+P022,Nawzad Ihsan Tahir,66,Halabja,H467,Type 2 Diabetes,2025-12-11,inpatient,Dr. Shilan Jamal Salih
+P023,Baran Latif Aziz,4,Duhok,H848,Viral Pneumonia,2024-01-29,outpatient,Dr. Zhyan Dara Nuri
+P024,Rebaz Kamaran Othman,66,Duhok,H043,Appendicitis (surgery),2025-08-22,discharged,Dr. Dilan Salam Mahmoud
+P025,Kavar Barzan Kadir,38,Zakho,H992,Thyroid Disorder,2024-05-14,outpatient,Dr. Yara Farid Ali
+P026,Aryan Fuad Karim,62,Sulaymaniyah,H376,Herniated Disc L4-L5,2024-10-19,outpatient,Dr. Baran Farhad Faris
+P027,Narin Mustafa Hasan,32,Halabja,H484,Type 2 Diabetes,2024-11-09,outpatient,Dr. Jalal Latif Faris
+P028,Dilan Nawzad Hassan,50,Duhok,H045,Hip Replacement,2025-06-28,discharged,Dr. Lana Jalal Said
+P029,Saman Raber Omar,17,Sulaymaniyah,H501,Bronchitis,2025-11-18,outpatient,Dr. Sardar Salam Omar
+P030,Kavar Fuad Faris,76,Duhok,H479,Fracture — Right Femur,2025-07-29,outpatient,Dr. Vian Hama Salih
+P031,Yara Aziz Hasan,13,Duhok,H857,Hypertension,2024-05-04,inpatient,Dr. Rozhan Salam Rashid
+P032,Dashni Bakr Tahir,33,Duhok,H025,COVID-19,2024-12-28,discharged,Dr. Bestun Mustafa Qadir
+P033,Bestun Mohammed Mustafa,56,Sulaymaniyah,H777,Type 2 Diabetes,2025-08-10,discharged,Dr. Mazin Karim Mustafa
+P034,Narin Rebaz Hassan,57,Sulaymaniyah,H231,Hip Replacement,2024-05-26,outpatient,Dr. Dilan Mustafa Mustafa
+P035,Hawkar Kamaran Karim,38,Sulaymaniyah,H460,Generalised Anxiety,2024-05-07,discharged,Dr. Karwan Omar Karimi
+P036,Dilan Salam Rashid,48,Zakho,H932,Type 2 Diabetes,2025-10-26,inpatient,Dr. Rozhan Kamaran Karimi
+P037,Mazin Rizgar Hama,77,Halabja,H370,Gallstones (surgery),2025-06-27,outpatient,Dr. Karwan Aryan Hama
+P038,Dashni Raber Hasan,46,Duhok,H161,Hypertension,2025-12-03,inpatient,Dr. Sardar Latif Saeed
+P039,Rebaz Aryan Kadir,73,Zakho,H134,Kidney Stones,2024-09-25,outpatient,Dr. Vian Rizgar Hasan
+P040,Wrya Kamaran Qadir,46,Duhok,H804,Osteoarthritis,2025-04-12,discharged,Dr. Narin Sherzad Hassan
+P041,Dara Rebaz Taha,14,Halabja,H169,COPD,2025-12-27,outpatient,Dr. Jalal Saeed Kadir
+P042,Hawkar Latif Nuri,17,Sulaymaniyah,H553,Urinary Tract Infection,2024-05-28,discharged,Dr. Salih Aziz Hassan
+P043,Baran Salam Qadir,27,Duhok,H025,Atrial Fibrillation,2025-11-12,inpatient,Dr. Bestun Mustafa Qadir
+P044,Hawkar Rebaz Omar,35,Zakho,H465,Gastritis,2024-02-01,discharged,Dr. Bestun Hama Qadir
+P045,Pishtiwan Karim Mahmoud,44,Duhok,H034,Migraine,2025-01-10,inpatient,Dr. Xezal Sherzad Hama
+P046,Farhad Jamal Nuri,65,Erbil,H200,Appendicitis (surgery),2024-05-05,inpatient,Dr. Nawzad Barzan Hasan
+P047,Naz Kamaran Rashid,69,Duhok,H010,Gastritis,2025-09-09,inpatient,Dr. Layla Kamaran Qadir
+P048,Rozhan Rizgar Hama,44,Erbil,H670,Hip Replacement,2024-12-31,inpatient,Dr. Karwan Raber Mustafa
+P049,Naz Rebaz Omar,63,Halabja,H891,COPD,2024-10-06,inpatient,Dr. Nawzad Rizgar Hasan
+P050,Kavar Hama Ahmad,34,Sulaymaniyah,H793,Generalised Anxiety,2024-08-22,discharged,Dr. Narin Karim Aziz
+P051,Naz Kamaran Faris,67,Zakho,H242,Generalised Anxiety,2025-09-14,outpatient,Dr. Saman Salam Hama
+P052,Shilan Barzan Nasser,6,Halabja,H233,Acute Respiratory Infection,2024-05-21,outpatient,Dr. Hawkar Barzan Karimi
+P053,Chnar Saeed Saeed,9,Erbil,H677,Herniated Disc L4-L5,2024-07-17,discharged,Dr. Karwan Kamaran Qadir
+P054,Salih Jamal Hasan,86,Duhok,H907,COVID-19,2025-01-26,outpatient,Dr. Vian Kamaran Kadir
+P055,Karwan Barzan Tahir,61,Sulaymaniyah,H644,Fracture — Right Femur,2024-04-24,inpatient,Dr. Rebaz Mustafa Taha
+P056,Layla Raber Hasan,72,Duhok,H188,Generalised Anxiety,2024-03-08,discharged,Dr. Dilan Mustafa Mustafa
+P057,Sardar Rizgar Hasan,47,Zakho,H287,Type 2 Diabetes,2025-05-02,discharged,Dr. Kamaran Mohammed Omar
+P058,Dashni Rebaz Nuri,14,Sulaymaniyah,H339,Hypertension,2025-09-18,outpatient,Dr. Fuad Fuad Ahmad
+P059,Shilan Karim Salih,67,Sulaymaniyah,H374,Viral Pneumonia,2024-02-22,inpatient,Dr. Zeynep Ihsan Karimi
+P060,Xezal Sherzad Hama,90,Zakho,H794,Acute Respiratory Infection,2025-06-22,inpatient,Dr. Rozhan Latif Said
+P061,Sardar Aziz Qadir,8,Zakho,H635,COPD,2024-06-03,inpatient,Dr. Rebaz Salam Karimi
+P062,Aryan Omar Saeed,16,Erbil,H781,Gallstones (surgery),2025-08-21,outpatient,Dr. Azad Sherzad Othman
+P063,Mazin Sherzad Hama,90,Duhok,H188,Viral Pneumonia,2025-08-06,outpatient,Dr. Dilan Mustafa Mustafa
+P064,Mazin Salam Mustafa,42,Erbil,H121,COVID-19,2025-09-27,discharged,Dr. Fuad Mohammed Kadir
+P065,Dashni Barzan Nasser,59,Halabja,H902,Breast Cancer Stage II,2025-04-01,discharged,Dr. Hawkar Latif Mustafa
+P066,Baran Salam Hassan,71,Erbil,H254,Gallstones (surgery),2025-07-05,inpatient,Dr. Baran Nawzad Saeed
+P067,Azad Dara Mustafa,60,Zakho,H006,Viral Pneumonia,2024-01-13,inpatient,Dr. Dilan Saeed Nuri
+P068,Lana Aziz Karimi,57,Duhok,H142,Gallstones (surgery),2025-10-02,discharged,Dr. Hawkar Jamal Said
+P069,Wrya Latif Ahmad,63,Zakho,H594,Viral Pneumonia,2024-12-14,discharged,Dr. Mazin Fuad Othman
+P070,Layla Aryan Ali,74,Halabja,H427,Anaemia,2024-04-09,outpatient,Dr. Farhad Aryan Nuri
+P071,Rozhan Sherzad Faris,23,Duhok,H043,Peptic Ulcer,2024-09-11,outpatient,Dr. Dilan Salam Mahmoud
+P072,Rozhan Rizgar Mahmoud,17,Zakho,H747,Depression,2024-07-01,discharged,Dr. Bestun Latif Ali
+P073,Hawkar Raber Nasser,37,Zakho,H397,Anaemia,2025-12-07,inpatient,Dr. Shilan Rebaz Kadir
+P074,Lana Farhad Said,35,Erbil,H437,Anaemia,2025-11-09,outpatient,Dr. Saman Sherzad Karimi
+P075,Narin Jamal Rashid,14,Erbil,H950,COPD,2025-01-30,outpatient,Dr. Jalal Jalal Rashid
+P076,Azad Salam Hasan,37,Sulaymaniyah,H400,Coronary Artery Disease,2025-03-11,discharged,Dr. Dara Mohammed Ali
+P077,Narin Mohammed Faris,72,Zakho,H517,Peptic Ulcer,2025-11-26,discharged,Dr. Naz Kamaran Karimi
+P078,Fuad Karim Ahmad,47,Zakho,H658,Laceration — Head,2024-11-18,outpatient,Dr. Layla Saeed Hassan
+P079,Karwan Saeed Mustafa,7,Duhok,H830,Atrial Fibrillation,2025-10-23,outpatient,Dr. Alan Fuad Salih
+P080,Avan Nawzad Salih,12,Zakho,H766,Gallstones (surgery),2025-04-03,discharged,Dr. Narin Salam Ali
+P081,Nawzad Rebaz Said,79,Sulaymaniyah,H836,Peptic Ulcer,2024-11-20,inpatient,Dr. Bestun Rebaz Kadir
+P082,Dilan Omar Saeed,36,Zakho,H548,Hip Replacement,2024-08-05,inpatient,Dr. Avan Ihsan Mustafa
+P083,Pishtiwan Barzan Othman,86,Zakho,H879,Leukaemia,2025-06-18,inpatient,Dr. Baran Farid Karimi
+P084,Chnar Raber Hassan,35,Duhok,H281,Depression,2024-01-03,outpatient,Dr. Zeynep Saeed Said
+P085,Nawzad Salam Mahmoud,45,Erbil,H671,Appendicitis (surgery),2025-06-05,outpatient,Dr. Azad Ihsan Taha
+P086,Nawzad Bakr Omar,90,Duhok,H509,Peptic Ulcer,2025-08-26,inpatient,Dr. Zhyan Saeed Rashid
+P087,Baran Fuad Taha,44,Erbil,H278,Anaemia,2025-05-23,inpatient,Dr. Avan Fuad Aziz
+P088,Yara Fuad Saeed,10,Sulaymaniyah,H477,Hypertension,2024-09-12,inpatient,Dr. Dashni Karim Ahmad
+P089,Vian Rebaz Othman,65,Erbil,H765,Urinary Tract Infection,2025-08-12,outpatient,Dr. Dashni Fuad Hasan
+P090,Xezal Ihsan Rashid,40,Halabja,H169,Lymphoma,2024-12-14,outpatient,Dr. Jalal Saeed Kadir
+P091,Layla Aryan Said,1,Zakho,H037,Peptic Ulcer,2024-12-07,outpatient,Dr. Chnar Jalal Salih
+P092,Alan Farhad Qadir,6,Halabja,H279,Gastritis,2024-07-29,inpatient,Dr. Zeynep Rizgar Nasser
+P093,Karwan Ihsan Hama,52,Sulaymaniyah,H369,Viral Pneumonia,2025-10-31,inpatient,Dr. Lana Karim Faris
+P094,Fuad Hama Omar,69,Sulaymaniyah,H757,Herniated Disc L4-L5,2025-09-23,discharged,Dr. Randa Ihsan Omar
+P095,Chnar Aziz Karim,6,Halabja,H551,Kidney Stones,2024-02-15,inpatient,Dr. Sardar Aziz Tahir
+P096,Yara Jalal Kadir,31,Zakho,H331,Fracture — Right Femur,2025-03-31,inpatient,Dr. Saman Sherzad Taha
+P097,Nawzad Omar Othman,63,Erbil,H390,Stroke (Ischaemic),2024-10-17,inpatient,Dr. Salih Aziz Hasan
+P098,Chnar Omar Othman,82,Zakho,H654,Osteoarthritis,2025-01-25,inpatient,Dr. Bestun Omar Saeed
+P099,Dashni Nawzad Saeed,11,Halabja,H874,Thyroid Disorder,2025-01-01,outpatient,Dr. Nawzad Farhad Mustafa
+P100,Saman Aziz Ali,33,Zakho,H982,Breast Cancer Stage II,2025-05-28,outpatient,Dr. Rebaz Mohammed Ahmad
+P101,Salih Farid Salih,70,Zakho,H163,Bronchitis,2025-05-26,outpatient,Dr. Baran Omar Kadir
+P102,Baran Fuad Aziz,47,Erbil,H388,Peptic Ulcer,2024-08-27,discharged,Dr. Dashni Aziz Hassan
+P103,Hawkar Karim Qadir,65,Erbil,H348,Gallstones (surgery),2025-04-26,inpatient,Dr. Layla Mohammed Othman
+P104,Narin Rizgar Hasan,23,Zakho,H275,Appendicitis (surgery),2025-10-10,inpatient,Dr. Dilan Hama Qadir
+P105,Lana Aryan Hasan,68,Sulaymaniyah,H292,Peptic Ulcer,2024-06-12,inpatient,Dr. Yara Fuad Ahmad
+P106,Sardar Aziz Faris,90,Duhok,H760,Osteoarthritis,2024-05-05,inpatient,Dr. Xezal Latif Nuri
+P107,Layla Dara Ahmad,35,Sulaymaniyah,H843,Gallstones (surgery),2024-09-21,outpatient,Dr. Nawzad Saeed Omar
+P108,Aryan Omar Tahir,86,Zakho,H522,Herniated Disc L4-L5,2024-04-23,discharged,Dr. Tara Jamal Tahir
+P109,Yara Jamal Hassan,38,Zakho,H770,Viral Pneumonia,2025-03-03,discharged,Dr. Rebaz Rebaz Kadir
+P110,Kamaran Omar Nasser,52,Halabja,H297,Migraine,2024-11-13,outpatient,Dr. Kavar Aziz Taha
+P111,Zeynep Fuad Othman,58,Zakho,H773,Anaemia,2025-02-13,outpatient,Dr. Rebaz Mohammed Faris
+P112,Bestun Jamal Mahmoud,33,Zakho,H852,COPD,2025-02-07,inpatient,Dr. Aryan Karim Karimi
+P113,Naz Aziz Aziz,86,Halabja,H450,Bronchitis,2024-12-16,discharged,Dr. Zeynep Latif Karimi
+P114,Bestun Dara Ali,42,Sulaymaniyah,H757,Thyroid Disorder,2024-07-08,inpatient,Dr. Randa Ihsan Omar
+P115,Dilan Dara Hasan,80,Zakho,H432,Laceration — Head,2025-06-15,outpatient,Dr. Naz Fuad Omar
+P116,Nawzad Raber Aziz,63,Halabja,H183,Hypertension,2025-04-24,outpatient,Dr. Layla Farid Saeed
+P117,Pishtiwan Farid Saeed,1,Duhok,H963,Kidney Stones,2024-03-19,discharged,Dr. Dilan Karim Karim
+P118,Zhyan Nawzad Qadir,22,Halabja,H461,Leukaemia,2025-07-03,outpatient,Dr. Rebaz Raber Tahir
+P119,Salih Nawzad Othman,36,Sulaymaniyah,H826,Type 2 Diabetes,2024-03-04,outpatient,Dr. Layla Raber Hasan
+P120,Saman Nawzad Omar,26,Zakho,H178,Hip Replacement,2024-02-08,inpatient,Dr. Zhyan Hama Ahmad
+P121,Narin Ihsan Karimi,25,Sulaymaniyah,H126,Appendicitis (surgery),2025-07-11,discharged,Dr. Azad Kamaran Rashid
+P122,Mazin Ihsan Hassan,11,Sulaymaniyah,H744,Coronary Artery Disease,2024-04-24,discharged,Dr. Kamaran Rebaz Saeed
+P123,Sardar Jamal Tahir,33,Duhok,H870,Gallstones (surgery),2025-06-28,outpatient,Dr. Dashni Aziz Othman
+P124,Rebaz Hama Tahir,18,Duhok,H711,Gastritis,2024-10-23,outpatient,Dr. Wrya Kamaran Faris
+P125,Zeynep Jalal Ali,10,Sulaymaniyah,H744,Herniated Disc L4-L5,2024-07-16,outpatient,Dr. Kamaran Rebaz Saeed
+P126,Narin Barzan Faris,67,Halabja,H558,Generalised Anxiety,2024-11-20,inpatient,Dr. Randa Aryan Omar
+P127,Jalal Salam Hama,65,Zakho,H680,Depression,2025-12-30,inpatient,Dr. Jalal Barzan Hasan
+P128,Wrya Jamal Omar,80,Sulaymaniyah,H433,Kidney Stones,2024-09-10,discharged,Dr. Sardar Latif Saeed
+P129,Kamaran Barzan Ahmad,69,Sulaymaniyah,H703,Kidney Stones,2025-11-11,outpatient,Dr. Salih Rizgar Said
+P130,Jalal Farid Ali,88,Erbil,H663,Atrial Fibrillation,2024-02-17,discharged,Dr. Layla Raber Hassan
+P131,Rami Karim Hasan,15,Erbil,H849,Anaemia,2025-03-18,inpatient,Dr. Dara Nawzad Omar
+P132,Azad Dara Hama,61,Duhok,H571,Kidney Stones,2025-12-21,inpatient,Dr. Bestun Aziz Hassan
+P133,Zeynep Mustafa Othman,69,Halabja,H260,Stroke (Ischaemic),2024-05-20,outpatient,Dr. Sardar Saber Ali
+P134,Randa Fuad Hasan,59,Halabja,H461,Generalised Anxiety,2025-03-20,outpatient,Dr. Rebaz Raber Tahir
+P135,Azad Mohammed Mustafa,1,Halabja,H904,Hypertension,2025-11-01,outpatient,Dr. Karwan Jalal Mustafa
+P136,Dilan Rizgar Qadir,41,Erbil,H860,Urinary Tract Infection,2025-11-23,inpatient,Dr. Dilan Sherzad Nuri
+P137,Jalal Rizgar Faris,21,Erbil,H239,Coronary Artery Disease,2024-05-11,inpatient,Dr. Dara Dara Said
+P138,Karwan Aryan Karimi,82,Duhok,H844,Herniated Disc L4-L5,2024-12-26,discharged,Dr. Wrya Sherzad Qadir
+P139,Saman Karim Kadir,54,Zakho,H220,Gastritis,2024-07-06,inpatient,Dr. Zeynep Nawzad Taha
+P140,Zeynep Hama Omar,53,Erbil,H086,Generalised Anxiety,2025-10-09,inpatient,Dr. Rami Omar Hassan
+P141,Wrya Mohammed Aziz,20,Halabja,H279,Stroke (Ischaemic),2024-07-12,discharged,Dr. Zeynep Rizgar Nasser
+P142,Naz Hama Nuri,87,Sulaymaniyah,H498,Laceration — Head,2024-04-03,outpatient,Dr. Nawzad Mohammed Ali
+P143,Dilan Farhad Karim,41,Erbil,H322,Viral Pneumonia,2025-09-01,discharged,Dr. Narin Sherzad Hama
+P144,Pishtiwan Bakr Karimi,19,Duhok,H061,Peptic Ulcer,2024-10-16,discharged,Dr. Alan Latif Karim
+P145,Wrya Mohammed Karim,36,Duhok,H198,Breast Cancer Stage II,2024-01-15,discharged,Dr. Pishtiwan Raber Karimi
+P146,Mazin Bakr Aziz,7,Halabja,H279,Urinary Tract Infection,2025-08-21,discharged,Dr. Zeynep Rizgar Nasser
+P147,Dashni Aziz Rashid,34,Halabja,H738,Herniated Disc L4-L5,2024-01-05,outpatient,Dr. Dara Karim Taha
+P148,Sardar Sherzad Hassan,60,Sulaymaniyah,H126,COPD,2024-04-08,discharged,Dr. Azad Kamaran Rashid
+P149,Mazin Rizgar Ali,90,Halabja,H221,Gastritis,2024-09-04,inpatient,Dr. Salih Fuad Taha
+P150,Lana Fuad Omar,46,Zakho,H548,Viral Pneumonia,2024-09-20,outpatient,Dr. Avan Ihsan Mustafa
+P151,Chnar Farid Faris,46,Zakho,H089,COPD,2024-08-18,outpatient,Dr. Pishtiwan Fuad Hasan
+P152,Farhad Jalal Salih,60,Duhok,H387,Coronary Artery Disease,2024-07-03,outpatient,Dr. Pishtiwan Saber Mustafa
+P153,Hawkar Hama Othman,32,Zakho,H495,Hip Replacement,2024-08-10,discharged,Dr. Alan Omar Ali
+P154,Pishtiwan Bakr Faris,7,Sulaymaniyah,H784,Osteoarthritis,2024-05-22,inpatient,Dr. Azad Barzan Taha
+P155,Hawkar Salam Kadir,29,Duhok,H059,Asthma,2024-09-12,discharged,Dr. Shilan Omar Said
+P156,Baran Fuad Qadir,70,Erbil,H618,Leukaemia,2025-10-21,outpatient,Dr. Jalal Mustafa Aziz
+P157,Rozhan Mustafa Faris,61,Halabja,H229,Generalised Anxiety,2024-08-08,discharged,Dr. Dilan Fuad Said
+P158,Naz Sherzad Qadir,6,Halabja,H114,Fracture — Right Femur,2025-04-05,inpatient,Dr. Salih Jamal Othman
+P159,Avan Rebaz Tahir,77,Halabja,H165,Fracture — Right Femur,2025-08-03,discharged,Dr. Tara Rebaz Kadir
+P160,Dashni Rizgar Mustafa,37,Duhok,H393,COVID-19,2024-07-04,inpatient,Dr. Fuad Raber Taha
+P161,Dara Bakr Karimi,51,Erbil,H601,Urinary Tract Infection,2025-10-31,discharged,Dr. Salih Saeed Karimi
+P162,Shilan Mohammed Hassan,36,Duhok,H802,Osteoarthritis,2024-09-14,inpatient,Dr. Bestun Farid Taha
+P163,Kavar Jamal Kadir,38,Zakho,H320,Herniated Disc L4-L5,2024-08-03,inpatient,Dr. Narin Mustafa Tahir
+P164,Alan Aryan Mustafa,33,Halabja,H978,Hypertension,2024-06-09,discharged,Dr. Zhyan Rebaz Rashid
+P165,Dilan Rebaz Hama,20,Erbil,H887,Lymphoma,2025-03-28,outpatient,Dr. Xezal Ihsan Othman
+P166,Tara Bakr Faris,66,Halabja,H310,Type 2 Diabetes,2025-10-04,discharged,Dr. Mazin Rebaz Mustafa
+P167,Tara Rizgar Karim,14,Zakho,H635,Type 2 Diabetes,2025-09-08,inpatient,Dr. Rebaz Salam Karimi
+P168,Xezal Salam Karimi,2,Sulaymaniyah,H703,Type 2 Diabetes,2025-08-25,inpatient,Dr. Salih Rizgar Said
+P169,Bestun Salam Hama,18,Erbil,H933,Viral Pneumonia,2025-06-10,discharged,Dr. Sardar Kamaran Othman
+P170,Aryan Rebaz Ali,37,Zakho,H767,Atrial Fibrillation,2025-01-13,discharged,Dr. Sardar Mustafa Tahir
+P171,Aryan Bakr Said,85,Zakho,H158,Stroke (Ischaemic),2025-04-18,discharged,Dr. Lana Nawzad Mahmoud
+P172,Rozhan Saber Omar,82,Erbil,H325,Generalised Anxiety,2024-08-13,inpatient,Dr. Lana Omar Ahmad
+P173,Wrya Farhad Othman,53,Duhok,H496,Urinary Tract Infection,2025-06-25,outpatient,Dr. Lana Barzan Omar
+P174,Rozhan Karim Omar,26,Erbil,H464,Viral Pneumonia,2024-05-03,outpatient,Dr. Azad Fuad Kadir
+P175,Kavar Hama Mustafa,66,Duhok,H679,Breast Cancer Stage II,2024-04-20,discharged,Dr. Zhyan Nawzad Rashid
+P176,Kamaran Rizgar Mahmoud,46,Zakho,H470,Gastritis,2025-08-02,outpatient,Dr. Azad Rizgar Karimi
+P177,Tara Mustafa Omar,2,Halabja,H512,Type 2 Diabetes,2025-10-17,inpatient,Dr. Salih Jamal Ali
+P178,Tara Farid Saeed,73,Sulaymaniyah,H566,Osteoarthritis,2025-02-08,discharged,Dr. Karwan Omar Omar
+P179,Narin Farhad Rashid,12,Duhok,H710,Acute Respiratory Infection,2025-07-31,inpatient,Dr. Yara Omar Kadir
+P180,Tara Omar Kadir,44,Sulaymaniyah,H211,Breast Cancer Stage II,2025-05-06,discharged,Dr. Sardar Jamal Hasan
+P181,Helin Rebaz Hama,17,Duhok,H946,Fracture — Right Femur,2025-05-11,outpatient,Dr. Randa Karim Ahmad
+P182,Pishtiwan Omar Salih,19,Zakho,H053,Thyroid Disorder,2025-03-15,outpatient,Dr. Helin Dara Mustafa
+P183,Dara Sherzad Karim,6,Sulaymaniyah,H088,Laceration — Head,2024-03-20,inpatient,Dr. Zeynep Bakr Hama
+P184,Dara Aryan Said,19,Zakho,H202,Coronary Artery Disease,2024-01-17,discharged,Dr. Vian Rebaz Rashid
+P185,Avan Dara Othman,25,Sulaymaniyah,H460,Leukaemia,2024-06-05,inpatient,Dr. Karwan Omar Karimi
+P186,Xezal Mohammed Mustafa,87,Halabja,H774,Migraine,2024-11-08,discharged,Dr. Helin Mustafa Hassan
+P187,Farhad Saber Hassan,59,Zakho,H175,COVID-19,2025-03-18,discharged,Dr. Rebaz Farid Karimi
+P188,Helin Sherzad Karimi,70,Halabja,H420,Depression,2025-07-05,inpatient,Dr. Layla Ihsan Taha
+P189,Rebaz Jamal Faris,88,Duhok,H980,Leukaemia,2024-01-25,inpatient,Dr. Jalal Kamaran Hassan
+P190,Avan Dara Salih,52,Zakho,H611,Kidney Stones,2025-02-05,outpatient,Dr. Zeynep Karim Karim
+P191,Farhad Ihsan Omar,88,Halabja,H389,Osteoarthritis,2024-01-05,discharged,Dr. Vian Karim Hama
+P192,Saman Salam Aziz,53,Halabja,H772,Gallstones (surgery),2024-06-11,discharged,Dr. Nawzad Omar Karimi
+P193,Sardar Latif Ali,43,Duhok,H952,Hip Replacement,2024-07-04,outpatient,Dr. Nawzad Nawzad Nuri
+P194,Kamaran Fuad Saeed,49,Zakho,H218,Atrial Fibrillation,2025-08-02,inpatient,Dr. Zeynep Aziz Othman
+P195,Avan Hama Faris,21,Sulaymaniyah,H995,COPD,2024-09-07,discharged,Dr. Xezal Farid Saeed
+P196,Alan Raber Ahmad,78,Duhok,H935,Gastritis,2024-06-18,outpatient,Dr. Dara Fuad Omar
+P197,Pishtiwan Rebaz Saeed,25,Erbil,H999,Anaemia,2025-11-19,discharged,Dr. Tara Raber Rashid
+P198,Narin Nawzad Omar,51,Sulaymaniyah,H358,Coronary Artery Disease,2024-02-17,outpatient,Dr. Pishtiwan Aziz Nuri
+P199,Azad Karim Mahmoud,12,Erbil,H414,Laceration — Head,2024-02-19,outpatient,Dr. Vian Aryan Hama
+P200,Baran Latif Said,50,Halabja,H499,Anaemia,2025-06-16,discharged,Dr. Jalal Latif Saeed
+P201,Rami Bakr Kadir,33,Halabja,H565,Leukaemia,2024-09-17,inpatient,Dr. Shilan Barzan Faris
+P202,Rami Barzan Mustafa,67,Sulaymaniyah,H873,Kidney Stones,2025-09-28,discharged,Dr. Randa Raber Omar
+P203,Shilan Ihsan Othman,39,Duhok,H569,Herniated Disc L4-L5,2024-02-18,discharged,Dr. Mazin Jamal Aziz
+P204,Mazin Jalal Said,32,Halabja,H294,Laceration — Head,2024-01-29,inpatient,Dr. Naz Barzan Salih
+P205,Helin Saber Karim,54,Zakho,H686,Hip Replacement,2024-03-10,inpatient,Dr. Jalal Jamal Omar
+P206,Rebaz Sherzad Nuri,81,Sulaymaniyah,H624,Leukaemia,2025-07-18,inpatient,Dr. Bestun Latif Aziz
+P207,Baran Bakr Hassan,10,Erbil,H944,Atrial Fibrillation,2024-08-08,inpatient,Dr. Pishtiwan Karim Saeed
+P208,Xezal Bakr Hassan,1,Halabja,H938,Asthma,2024-06-05,inpatient,Dr. Wrya Rebaz Hama
+P209,Xezal Farid Taha,10,Halabja,H153,Thyroid Disorder,2024-07-18,inpatient,Dr. Randa Karim Tahir
+P210,Kavar Rizgar Mustafa,38,Zakho,H762,Anaemia,2024-01-05,discharged,Dr. Naz Fuad Taha
+P211,Shilan Bakr Karim,6,Halabja,H224,Lymphoma,2024-09-07,inpatient,Dr. Zhyan Bakr Aziz
+P212,Bestun Fuad Saeed,5,Halabja,H723,Osteoarthritis,2024-04-25,inpatient,Dr. Baran Fuad Said
+P213,Azad Aziz Nuri,13,Halabja,H449,Migraine,2025-04-12,outpatient,Dr. Bestun Omar Rashid
+P214,Kamaran Kamaran Ahmad,2,Duhok,H516,Acute Respiratory Infection,2025-12-16,inpatient,Dr. Pishtiwan Mohammed Karim
+P215,Nawzad Farhad Mustafa,60,Erbil,H906,Atrial Fibrillation,2024-12-16,inpatient,Dr. Saman Hama Ali
+P216,Saman Latif Nuri,33,Sulaymaniyah,H400,Generalised Anxiety,2025-06-06,outpatient,Dr. Dara Mohammed Ali
+P217,Karwan Hama Salih,64,Erbil,H546,Stroke (Ischaemic),2025-03-21,discharged,Dr. Narin Aryan Tahir
+P218,Dashni Farhad Karimi,89,Erbil,H098,Laceration — Head,2025-04-08,inpatient,Dr. Fuad Raber Karim
+P219,Avan Raber Saeed,5,Sulaymaniyah,H609,Urinary Tract Infection,2024-09-17,inpatient,Dr. Chnar Ihsan Nuri
+P220,Mazin Rizgar Aziz,2,Erbil,H878,Urinary Tract Infection,2025-07-12,discharged,Dr. Bestun Aziz Karim
+P221,Kamaran Farhad Nasser,23,Sulaymaniyah,H377,Osteoarthritis,2024-07-28,inpatient,Dr. Dara Aziz Karim
+P222,Layla Aziz Tahir,77,Erbil,H557,Urinary Tract Infection,2025-12-28,inpatient,Dr. Avan Rizgar Tahir
+P223,Karwan Raber Nuri,18,Sulaymaniyah,H368,Migraine,2024-12-24,inpatient,Dr. Jalal Mustafa Hassan
+P224,Baran Barzan Rashid,84,Zakho,H453,Urinary Tract Infection,2024-02-13,inpatient,Dr. Saman Fuad Hasan
+P225,Randa Jalal Omar,60,Erbil,H278,Hip Replacement,2024-12-20,discharged,Dr. Avan Fuad Aziz
+P226,Salih Karim Taha,22,Duhok,H173,Peptic Ulcer,2025-01-30,outpatient,Dr. Aryan Nawzad Nasser
+P227,Shilan Jamal Faris,65,Erbil,H087,Coronary Artery Disease,2024-04-25,outpatient,Dr. Randa Jamal Said
+P228,Jalal Nawzad Rashid,77,Zakho,H975,Acute Respiratory Infection,2024-07-02,outpatient,Dr. Farhad Rizgar Kadir
+P229,Helin Latif Mahmoud,33,Erbil,H464,Anaemia,2024-06-22,outpatient,Dr. Azad Fuad Kadir
+P230,Sardar Bakr Saeed,6,Zakho,H304,Leukaemia,2025-08-10,outpatient,Dr. Kamaran Karim Karimi
+P231,Vian Salam Hama,3,Erbil,H671,Stroke (Ischaemic),2025-11-20,inpatient,Dr. Azad Ihsan Taha
+P232,Karwan Sherzad Aziz,36,Duhok,H209,Anaemia,2024-03-17,inpatient,Dr. Dara Rizgar Karimi
+P233,Chnar Hama Ali,1,Duhok,H027,Gallstones (surgery),2024-09-22,discharged,Dr. Zhyan Saeed Hasan
+P234,Farhad Dara Omar,63,Duhok,H166,Depression,2024-03-04,inpatient,Dr. Pishtiwan Dara Mustafa
+P235,Narin Nawzad Faris,79,Zakho,H611,COPD,2024-02-20,discharged,Dr. Zeynep Karim Karim
+P236,Lana Aziz Hama,58,Erbil,H781,Atrial Fibrillation,2024-10-06,discharged,Dr. Azad Sherzad Othman
+P237,Vian Latif Nuri,42,Duhok,H034,Viral Pneumonia,2024-01-08,inpatient,Dr. Xezal Sherzad Hama
+P238,Chnar Bakr Faris,83,Zakho,H210,Leukaemia,2025-03-29,inpatient,Dr. Mazin Mohammed Rashid
+P239,Dara Aryan Hassan,16,Sulaymaniyah,H709,Urinary Tract Infection,2025-12-07,discharged,Dr. Rozhan Kamaran Mustafa
+P240,Layla Barzan Nasser,12,Sulaymaniyah,H213,Anaemia,2024-06-10,inpatient,Dr. Saman Omar Rashid
+P241,Sardar Nawzad Taha,50,Sulaymaniyah,H359,Laceration — Head,2024-02-01,inpatient,Dr. Vian Farid Said
+P242,Zhyan Barzan Hassan,23,Halabja,H723,Stroke (Ischaemic),2024-02-12,outpatient,Dr. Baran Fuad Said
+P243,Karwan Rizgar Karim,82,Duhok,H061,Gastritis,2024-10-06,outpatient,Dr. Alan Latif Karim
+P244,Shilan Rebaz Karimi,86,Erbil,H994,Atrial Fibrillation,2024-10-05,discharged,Dr. Layla Fuad Nasser
+P245,Kamaran Nawzad Aziz,72,Duhok,H605,Atrial Fibrillation,2024-07-18,discharged,Dr. Zeynep Barzan Othman
+P246,Narin Mohammed Faris,85,Erbil,H200,Leukaemia,2024-01-26,outpatient,Dr. Nawzad Barzan Hasan
+P247,Shilan Ihsan Said,85,Duhok,H727,Gallstones (surgery),2024-05-03,discharged,Dr. Farhad Omar Nasser
+P248,Hawkar Saeed Kadir,43,Erbil,H118,Gastritis,2025-02-20,outpatient,Dr. Randa Jamal Taha
+P249,Chnar Nawzad Mustafa,75,Zakho,H538,Urinary Tract Infection,2024-12-12,inpatient,Dr. Randa Saeed Nasser
+P250,Zeynep Karim Hassan,13,Duhok,H760,COPD,2024-02-09,discharged,Dr. Xezal Latif Nuri
+P251,Chnar Nawzad Salih,43,Sulaymaniyah,H159,Appendicitis (surgery),2025-05-09,outpatient,Dr. Karwan Kamaran Kadir
+P252,Avan Rizgar Taha,72,Erbil,H121,Acute Respiratory Infection,2024-09-14,discharged,Dr. Fuad Mohammed Kadir
+P253,Saman Rebaz Aziz,21,Duhok,H255,Depression,2025-04-16,discharged,Dr. Helin Farid Qadir
+P254,Helin Karim Rashid,8,Sulaymaniyah,H422,Leukaemia,2024-12-27,discharged,Dr. Tara Kamaran Othman
+P255,Dara Raber Kadir,68,Halabja,H779,Hip Replacement,2025-07-22,outpatient,Dr. Dara Farhad Karimi
+P256,Fuad Fuad Saeed,59,Sulaymaniyah,H460,Lymphoma,2025-09-26,discharged,Dr. Karwan Omar Karimi
+P257,Vian Kamaran Karim,88,Sulaymaniyah,H302,Asthma,2024-01-17,inpatient,Dr. Layla Bakr Rashid
+P258,Rami Ihsan Hasan,65,Duhok,H027,Atrial Fibrillation,2025-11-12,outpatient,Dr. Zhyan Saeed Hasan
+P259,Azad Mustafa Aziz,40,Sulaymaniyah,H915,Anaemia,2025-01-28,outpatient,Dr. Vian Sherzad Mustafa
+P260,Pishtiwan Farid Othman,59,Halabja,H361,Fracture — Right Femur,2025-08-22,discharged,Dr. Tara Bakr Qadir
+P261,Zeynep Mustafa Othman,45,Sulaymaniyah,H419,Hypertension,2025-12-28,inpatient,Dr. Jalal Salam Mahmoud
+P262,Farhad Karim Said,54,Halabja,H127,Migraine,2025-04-09,outpatient,Dr. Xezal Karim Karimi
+P263,Aryan Ihsan Ali,29,Sulaymaniyah,H245,Osteoarthritis,2024-08-28,outpatient,Dr. Aryan Aryan Omar
+P264,Baran Mohammed Nasser,53,Erbil,H561,Kidney Stones,2024-07-18,inpatient,Dr. Saman Nawzad Omar
+P265,Randa Saber Ahmad,18,Duhok,H059,Appendicitis (surgery),2025-01-18,outpatient,Dr. Shilan Omar Said
+P266,Vian Bakr Omar,28,Sulaymaniyah,H359,Atrial Fibrillation,2024-06-24,discharged,Dr. Vian Farid Said
+P267,Dara Salam Taha,47,Halabja,H523,Depression,2024-02-02,outpatient,Dr. Rebaz Hama Hasan
+P268,Xezal Barzan Ahmad,16,Duhok,H311,Bronchitis,2025-10-30,outpatient,Dr. Zhyan Kamaran Rashid
+P269,Rozhan Farid Mustafa,10,Sulaymaniyah,H371,Coronary Artery Disease,2025-04-23,outpatient,Dr. Aryan Rizgar Taha
+P270,Narin Dara Hasan,43,Duhok,H783,COPD,2025-10-18,outpatient,Dr. Pishtiwan Mustafa Karimi
+P271,Shilan Farhad Said,69,Sulaymaniyah,H964,Gastritis,2024-11-02,inpatient,Dr. Dashni Farid Othman
+P272,Mazin Latif Nasser,47,Duhok,H496,Appendicitis (surgery),2024-06-14,discharged,Dr. Lana Barzan Omar
+P273,Alan Saber Karim,83,Erbil,H118,Leukaemia,2024-06-26,outpatient,Dr. Randa Jamal Taha
+P274,Dara Aryan Qadir,65,Zakho,H341,Depression,2024-06-26,outpatient,Dr. Shilan Ihsan Kadir
+P275,Kavar Hama Taha,84,Zakho,H871,Thyroid Disorder,2025-09-28,discharged,Dr. Layla Fuad Said
+P276,Xezal Saeed Hama,73,Halabja,H589,COVID-19,2024-05-01,outpatient,Dr. Alan Hama Mahmoud
+P277,Dilan Rebaz Ali,16,Sulaymaniyah,H003,Herniated Disc L4-L5,2025-01-12,discharged,Dr. Karwan Rashid Hama
+P278,Lana Saber Karim,73,Erbil,H708,Lymphoma,2025-12-04,inpatient,Dr. Helin Jalal Tahir
+P279,Dashni Raber Saeed,34,Erbil,H468,Viral Pneumonia,2024-07-20,inpatient,Dr. Helin Ihsan Faris
+P280,Fuad Omar Rashid,33,Erbil,H996,Atrial Fibrillation,2024-11-03,inpatient,Dr. Mazin Karim Tahir
+P281,Yara Bakr Salih,27,Zakho,H630,Bronchitis,2024-02-18,discharged,Dr. Avan Raber Hasan
+P282,Alan Aziz Omar,54,Erbil,H364,Bronchitis,2025-08-27,outpatient,Dr. Shilan Hama Ali
+P283,Sardar Jamal Qadir,81,Erbil,H996,Kidney Stones,2024-09-05,discharged,Dr. Mazin Karim Tahir
+P284,Azad Jalal Rashid,9,Zakho,H373,Gallstones (surgery),2025-05-17,discharged,Dr. Rozhan Karim Saeed
+P285,Vian Aziz Omar,10,Erbil,H559,Urinary Tract Infection,2024-09-29,outpatient,Dr. Jalal Raber Taha
+P286,Nawzad Aziz Nasser,14,Erbil,H476,Peptic Ulcer,2024-06-17,outpatient,Dr. Lana Bakr Mustafa
+P287,Helin Omar Omar,6,Erbil,H136,Acute Respiratory Infection,2024-09-17,inpatient,Dr. Saman Ihsan Omar
+P288,Baran Raber Qadir,70,Sulaymaniyah,H609,Kidney Stones,2025-06-07,inpatient,Dr. Chnar Ihsan Nuri
+P289,Dara Mohammed Said,51,Sulaymaniyah,H180,Peptic Ulcer,2024-03-22,outpatient,Dr. Chnar Rizgar Karimi
+P290,Rozhan Farid Tahir,5,Halabja,H652,Urinary Tract Infection,2025-04-18,discharged,Dr. Vian Dara Omar
+P291,Yara Sherzad Qadir,82,Zakho,H928,Anaemia,2025-04-08,discharged,Dr. Layla Farid Ali
+P292,Zhyan Mohammed Hama,9,Duhok,H166,Stroke (Ischaemic),2024-03-27,outpatient,Dr. Pishtiwan Dara Mustafa
+P293,Narin Jamal Hassan,83,Duhok,H145,COPD,2024-08-16,outpatient,Dr. Avan Mustafa Aziz
+P294,Jalal Nawzad Mustafa,46,Sulaymaniyah,H357,Hip Replacement,2025-01-12,inpatient,Dr. Mazin Nawzad Aziz
+P295,Tara Karim Qadir,77,Halabja,H875,Herniated Disc L4-L5,2025-04-12,outpatient,Dr. Dilan Salam Rashid
+P296,Bestun Salam Karim,90,Zakho,H822,Anaemia,2025-09-15,discharged,Dr. Bestun Nawzad Nuri
+P297,Lana Aziz Ali,41,Sulaymaniyah,H759,COPD,2025-05-04,discharged,Dr. Dara Mustafa Ahmad
+P298,Azad Farhad Said,27,Zakho,H778,Atrial Fibrillation,2025-03-30,outpatient,Dr. Pishtiwan Mohammed Said
+P299,Saman Karim Hama,13,Erbil,H667,Type 2 Diabetes,2025-01-12,discharged,Dr. Avan Kamaran Faris
+P300,Pishtiwan Karim Othman,69,Sulaymaniyah,H777,Coronary Artery Disease,2024-11-20,inpatient,Dr. Mazin Karim Mustafa
+P301,Kamaran Mohammed Nuri,44,Duhok,H255,COVID-19,2025-03-20,discharged,Dr. Helin Farid Qadir
+P302,Salih Barzan Said,81,Erbil,H122,Kidney Stones,2025-09-25,discharged,Dr. Vian Ihsan Faris
+P303,Layla Sherzad Omar,28,Zakho,H493,Breast Cancer Stage II,2024-11-10,discharged,Dr. Dashni Barzan Omar
+P304,Sardar Fuad Ali,11,Zakho,H466,COVID-19,2024-06-24,inpatient,Dr. Yara Rizgar Othman
+P305,Fuad Dara Rashid,50,Erbil,H080,Lymphoma,2025-11-10,inpatient,Dr. Shilan Hama Hama
+P306,Rozhan Jalal Aziz,3,Zakho,H373,Peptic Ulcer,2024-05-13,outpatient,Dr. Rozhan Karim Saeed
+P307,Rozhan Mohammed Aziz,45,Duhok,H788,COVID-19,2025-09-13,discharged,Dr. Rebaz Sherzad Faris
+P308,Zeynep Barzan Nuri,44,Sulaymaniyah,H422,Lymphoma,2024-10-10,discharged,Dr. Tara Kamaran Othman
+P309,Dashni Saeed Hasan,43,Sulaymaniyah,H586,Type 2 Diabetes,2025-04-02,discharged,Dr. Rozhan Omar Ahmad
+P310,Xezal Saeed Ali,59,Zakho,H806,Peptic Ulcer,2024-08-16,outpatient,Dr. Randa Kamaran Hama
+P311,Wrya Karim Rashid,43,Duhok,H756,Appendicitis (surgery),2024-06-23,inpatient,Dr. Lana Raber Taha
+P312,Farhad Dara Omar,59,Duhok,H969,COVID-19,2025-08-29,discharged,Dr. Lana Saber Nasser
+P313,Rebaz Mustafa Ali,22,Erbil,H077,Urinary Tract Infection,2024-06-10,outpatient,Dr. Yara Salam Kadir
+P314,Dara Sherzad Kadir,73,Halabja,H926,Migraine,2025-03-14,outpatient,Dr. Jalal Saeed Saeed
+P315,Rami Jamal Karim,33,Sulaymaniyah,H299,Migraine,2025-08-21,discharged,Dr. Rebaz Kamaran Ahmad
+P316,Avan Mohammed Nuri,86,Halabja,H104,Gallstones (surgery),2024-12-13,outpatient,Dr. Lana Dara Faris
+P317,Layla Mohammed Said,34,Erbil,H627,Anaemia,2024-04-01,outpatient,Dr. Fuad Barzan Hasan
+P318,Shilan Farid Salih,19,Halabja,H889,Kidney Stones,2025-07-31,discharged,Dr. Mazin Hama Ali
+P319,Tara Ihsan Ahmad,70,Duhok,H648,Viral Pneumonia,2024-03-11,discharged,Dr. Zhyan Jamal Saeed
+P320,Azad Fuad Mahmoud,32,Sulaymaniyah,H864,Viral Pneumonia,2024-06-13,discharged,Dr. Randa Bakr Ali
+P321,Karwan Dara Rashid,56,Duhok,H569,Bronchitis,2024-06-20,inpatient,Dr. Mazin Jamal Aziz
+P322,Fuad Barzan Rashid,3,Duhok,H059,Atrial Fibrillation,2024-09-08,inpatient,Dr. Shilan Omar Said
+P323,Karwan Omar Aziz,77,Duhok,H537,COPD,2025-06-22,outpatient,Dr. Dashni Nawzad Said
+P324,Avan Latif Saeed,84,Sulaymaniyah,H566,Atrial Fibrillation,2024-12-23,discharged,Dr. Karwan Omar Omar
+P325,Kavar Kamaran Aziz,6,Sulaymaniyah,H841,Stroke (Ischaemic),2024-04-14,discharged,Dr. Kavar Salam Said
+P326,Aryan Omar Mahmoud,7,Halabja,H112,Fracture — Right Femur,2024-07-26,discharged,Dr. Helin Omar Karim
+P327,Fuad Barzan Salih,37,Sulaymaniyah,H091,Appendicitis (surgery),2025-06-25,discharged,Dr. Sardar Mohammed Hama
+P328,Alan Farhad Omar,7,Duhok,H281,Migraine,2024-07-04,discharged,Dr. Zeynep Saeed Said
+P329,Azad Salam Mustafa,29,Erbil,H887,COPD,2025-07-20,discharged,Dr. Xezal Ihsan Othman
+P330,Karwan Mohammed Hasan,31,Erbil,H197,Thyroid Disorder,2025-03-01,outpatient,Dr. Vian Saeed Karim
+P331,Dashni Mustafa Faris,59,Zakho,H595,Fracture — Right Femur,2025-03-02,outpatient,Dr. Aryan Raber Said
+P332,Saman Barzan Tahir,39,Zakho,H442,Viral Pneumonia,2025-09-24,inpatient,Dr. Rami Raber Ali
+P333,Fuad Jalal Qadir,43,Sulaymaniyah,H358,COVID-19,2025-12-13,outpatient,Dr. Pishtiwan Aziz Nuri
+P334,Randa Jalal Karimi,18,Sulaymaniyah,H459,Atrial Fibrillation,2025-10-01,inpatient,Dr. Yara Rebaz Ahmad
+P335,Xezal Salam Nuri,7,Halabja,H398,Laceration — Head,2025-09-25,discharged,Dr. Jalal Mustafa Aziz
+P336,Mazin Salam Hama,11,Sulaymaniyah,H273,Generalised Anxiety,2025-01-08,discharged,Dr. Naz Omar Othman
+P337,Salih Hama Ali,4,Erbil,H445,Depression,2024-01-24,inpatient,Dr. Nawzad Hama Rashid
+P338,Sardar Nawzad Rashid,55,Zakho,H320,Acute Respiratory Infection,2025-01-29,outpatient,Dr. Narin Mustafa Tahir
+P339,Hawkar Hama Hama,16,Duhok,H935,Bronchitis,2024-10-31,outpatient,Dr. Dara Fuad Omar
+P340,Bestun Bakr Nasser,54,Halabja,H579,Stroke (Ischaemic),2025-07-29,inpatient,Dr. Kamaran Hama Salih
+P341,Naz Rebaz Ahmad,75,Duhok,H866,Depression,2024-09-12,inpatient,Dr. Zhyan Barzan Qadir
+P342,Rozhan Mohammed Omar,73,Sulaymaniyah,H754,Viral Pneumonia,2025-05-04,inpatient,Dr. Pishtiwan Rizgar Aziz
+P343,Zhyan Bakr Nuri,47,Duhok,H173,Gallstones (surgery),2025-09-26,inpatient,Dr. Aryan Nawzad Nasser
+P344,Randa Bakr Tahir,70,Zakho,H538,Lymphoma,2025-07-03,outpatient,Dr. Randa Saeed Nasser
+P345,Farhad Sherzad Mustafa,76,Halabja,H940,Migraine,2025-08-26,outpatient,Dr. Mazin Dara Ahmad
+P346,Shilan Jamal Othman,43,Halabja,H451,Leukaemia,2025-08-19,inpatient,Dr. Narin Jalal Faris
+P347,Tara Jamal Othman,38,Halabja,H335,Stroke (Ischaemic),2025-03-18,outpatient,Dr. Lana Aryan Nasser
+P348,Mazin Aryan Hassan,4,Duhok,H147,Herniated Disc L4-L5,2024-03-15,outpatient,Dr. Narin Jamal Hasan
+P349,Avan Karim Aziz,49,Sulaymaniyah,H405,COPD,2025-07-05,outpatient,Dr. Helin Saber Faris
+P350,Rebaz Aziz Mustafa,65,Duhok,H298,Hip Replacement,2025-04-26,outpatient,Dr. Nawzad Omar Salih
+P351,Wrya Saeed Karimi,16,Halabja,H838,Peptic Ulcer,2025-12-02,outpatient,Dr. Alan Barzan Hama
+P352,Zhyan Karim Qadir,87,Zakho,H521,Anaemia,2024-08-21,outpatient,Dr. Naz Farhad Hama
+P353,Vian Mohammed Rashid,65,Zakho,H190,Gastritis,2024-01-29,inpatient,Dr. Rebaz Fuad Mustafa
+P354,Karwan Rebaz Karim,5,Duhok,H868,Osteoarthritis,2025-10-12,outpatient,Dr. Karwan Fuad Hasan
+P355,Bestun Mohammed Othman,32,Sulaymaniyah,H371,Coronary Artery Disease,2025-02-27,inpatient,Dr. Aryan Rizgar Taha
+P356,Saman Aziz Karim,76,Sulaymaniyah,H843,Leukaemia,2024-05-10,discharged,Dr. Nawzad Saeed Omar
+P357,Pishtiwan Barzan Karim,42,Erbil,H559,Osteoarthritis,2024-06-30,outpatient,Dr. Jalal Raber Taha
+P358,Dara Kamaran Aziz,86,Duhok,H343,Urinary Tract Infection,2024-07-25,inpatient,Dr. Azad Farid Nasser
+P359,Zeynep Fuad Othman,65,Halabja,H934,Viral Pneumonia,2024-04-02,outpatient,Dr. Pishtiwan Bakr Omar
+P360,Zeynep Latif Aziz,9,Erbil,H603,Breast Cancer Stage II,2025-01-02,discharged,Dr. Rebaz Karim Salih
+P361,Tara Barzan Omar,87,Zakho,H155,Kidney Stones,2024-03-23,outpatient,Dr. Azad Nawzad Karimi
+P362,Nawzad Dara Karimi,73,Zakho,H654,Fracture — Right Femur,2025-03-06,discharged,Dr. Bestun Omar Saeed
+P363,Narin Nawzad Hama,2,Sulaymaniyah,H501,Viral Pneumonia,2025-08-05,outpatient,Dr. Sardar Salam Omar
+P364,Alan Jalal Mustafa,29,Duhok,H140,Generalised Anxiety,2025-08-24,outpatient,Dr. Karwan Rizgar Kadir
+P365,Dara Farid Kadir,48,Zakho,H240,Thyroid Disorder,2024-03-17,discharged,Dr. Shilan Latif Said
+P366,Zeynep Sherzad Mahmoud,9,Sulaymaniyah,H482,Hip Replacement,2024-05-11,inpatient,Dr. Dara Omar Kadir
+P367,Bestun Aryan Faris,40,Sulaymaniyah,H825,Laceration — Head,2025-12-17,outpatient,Dr. Bestun Jamal Salih
+P368,Farhad Dara Aziz,62,Halabja,H584,Hip Replacement,2025-06-03,discharged,Dr. Chnar Aziz Faris
+P369,Helin Omar Hasan,55,Halabja,H512,Thyroid Disorder,2024-08-17,inpatient,Dr. Salih Jamal Ali
+P370,Rebaz Farhad Karimi,34,Duhok,H166,Gastritis,2024-07-28,outpatient,Dr. Pishtiwan Dara Mustafa
+P371,Dara Saeed Tahir,73,Halabja,H229,Bronchitis,2024-03-21,outpatient,Dr. Dilan Fuad Said
+P372,Mazin Aziz Nasser,18,Duhok,H145,COPD,2024-10-15,outpatient,Dr. Avan Mustafa Aziz
+P373,Layla Jalal Karim,50,Halabja,H891,Generalised Anxiety,2024-04-20,discharged,Dr. Nawzad Rizgar Hasan
+P374,Fuad Nawzad Nuri,60,Erbil,H801,Migraine,2025-10-29,inpatient,Dr. Azad Dara Said
+P375,Wrya Ihsan Mahmoud,1,Halabja,H461,Kidney Stones,2024-06-02,inpatient,Dr. Rebaz Raber Tahir
+P376,Alan Salam Tahir,54,Sulaymaniyah,H014,COPD,2024-07-30,discharged,Dr. Dara Jamal Mustafa
+P377,Dashni Barzan Mahmoud,80,Duhok,H668,Bronchitis,2024-10-23,inpatient,Dr. Dara Nawzad Rashid
+P378,Saman Mustafa Mustafa,1,Halabja,H617,COVID-19,2024-11-01,inpatient,Dr. Kavar Karim Faris
+P379,Baran Fuad Taha,3,Erbil,H269,Generalised Anxiety,2024-05-10,outpatient,Dr. Lana Latif Karimi
+P380,Chnar Dara Ahmad,49,Halabja,H221,Generalised Anxiety,2024-11-28,inpatient,Dr. Salih Fuad Taha
+P381,Alan Omar Nasser,72,Sulaymaniyah,H439,Gallstones (surgery),2025-12-08,inpatient,Dr. Baran Aryan Mahmoud
+P382,Jalal Aziz Othman,55,Erbil,H344,Urinary Tract Infection,2025-11-19,discharged,Dr. Farhad Sherzad Taha
+P383,Fuad Rizgar Omar,18,Halabja,H420,Migraine,2024-03-09,discharged,Dr. Layla Ihsan Taha
+P384,Karwan Kamaran Nasser,13,Duhok,H212,Asthma,2024-06-16,discharged,Dr. Wrya Farhad Rashid
+P385,Rebaz Mustafa Qadir,4,Erbil,H665,COVID-19,2024-08-02,discharged,Dr. Naz Omar Taha
+P386,Yara Jamal Nuri,51,Zakho,H493,Asthma,2025-09-23,outpatient,Dr. Dashni Barzan Omar
+P387,Fuad Omar Hama,32,Zakho,H223,Lymphoma,2025-02-28,outpatient,Dr. Mazin Salam Saeed
+P388,Pishtiwan Hama Hassan,25,Halabja,H604,Generalised Anxiety,2025-12-01,outpatient,Dr. Dilan Fuad Salih
+P389,Dara Rizgar Othman,77,Halabja,H103,Herniated Disc L4-L5,2024-02-01,inpatient,Dr. Rozhan Dara Mustafa
+P390,Kavar Barzan Hama,89,Zakho,H426,Generalised Anxiety,2025-11-13,discharged,Dr. Narin Mustafa Tahir
+P391,Helin Farid Ahmad,33,Erbil,H909,Bronchitis,2024-12-17,inpatient,Dr. Yara Jamal Karimi
+P392,Vian Nawzad Faris,13,Zakho,H810,Hip Replacement,2025-10-08,outpatient,Dr. Saman Mustafa Hasan
+P393,Dilan Barzan Mahmoud,65,Erbil,H347,Depression,2025-07-22,inpatient,Dr. Tara Farid Qadir
+P394,Karwan Farid Ahmad,51,Zakho,H966,Viral Pneumonia,2024-06-04,outpatient,Dr. Karwan Farid Taha
+P395,Jalal Sherzad Mustafa,65,Halabja,H363,Breast Cancer Stage II,2024-06-12,discharged,Dr. Zhyan Nawzad Kadir
+P396,Mazin Latif Aziz,22,Halabja,H600,Thyroid Disorder,2024-01-05,discharged,Dr. Helin Rizgar Karim
+P397,Randa Saber Hasan,60,Erbil,H458,Depression,2025-05-23,outpatient,Dr. Rozhan Mohammed Salih
+P398,Shilan Ihsan Mahmoud,11,Duhok,H783,Kidney Stones,2024-12-26,outpatient,Dr. Pishtiwan Mustafa Karimi
+P399,Naz Latif Saeed,18,Zakho,H406,Gastritis,2025-01-31,inpatient,Dr. Rebaz Saber Mahmoud
+P400,Tara Rizgar Kadir,73,Halabja,H803,Migraine,2024-01-25,inpatient,Dr. Xezal Aryan Nuri
+P401,Farhad Saber Hasan,38,Halabja,H384,Generalised Anxiety,2025-11-18,discharged,Dr. Pishtiwan Salam Faris
+P402,Tara Rebaz Karim,53,Duhok,H963,Urinary Tract Infection,2025-02-08,inpatient,Dr. Dilan Karim Karim
+P403,Jalal Nawzad Ali,81,Sulaymaniyah,H703,Viral Pneumonia,2024-01-17,discharged,Dr. Salih Rizgar Said
+P404,Nawzad Omar Ahmad,48,Erbil,H984,Leukaemia,2024-12-20,discharged,Dr. Rozhan Rizgar Salih
+P405,Chnar Latif Taha,19,Zakho,H885,Generalised Anxiety,2025-07-31,discharged,Dr. Zhyan Omar Qadir
+P406,Nawzad Saeed Taha,50,Duhok,H981,COVID-19,2024-01-16,inpatient,Dr. Aryan Omar Aziz
+P407,Rozhan Omar Rashid,82,Halabja,H967,Depression,2024-02-01,outpatient,Dr. Dashni Farhad Hama
+P408,Farhad Saeed Ali,86,Zakho,H152,Fracture — Right Femur,2025-02-23,inpatient,Dr. Jalal Nawzad Ahmad
+P409,Jalal Mohammed Faris,18,Halabja,H589,Acute Respiratory Infection,2025-11-15,inpatient,Dr. Alan Hama Mahmoud
+P410,Kavar Raber Said,13,Erbil,H285,Appendicitis (surgery),2024-06-10,inpatient,Dr. Chnar Latif Qadir
+P411,Bestun Jamal Karim,55,Halabja,H755,Fracture — Right Femur,2025-03-29,inpatient,Dr. Sardar Ihsan Faris
+P412,Chnar Ihsan Salih,33,Erbil,H258,Gallstones (surgery),2024-08-17,outpatient,Dr. Rami Fuad Qadir
+P413,Aryan Aziz Faris,82,Duhok,H570,Coronary Artery Disease,2025-08-16,discharged,Dr. Rozhan Mustafa Othman
+P414,Zeynep Rizgar Ali,63,Erbil,H473,COVID-19,2024-10-20,inpatient,Dr. Kamaran Sherzad Hasan
+P415,Rebaz Fuad Karimi,41,Halabja,H512,Herniated Disc L4-L5,2025-02-04,outpatient,Dr. Salih Jamal Ali
+P416,Mazin Omar Mahmoud,33,Sulaymaniyah,H775,Bronchitis,2025-09-03,inpatient,Dr. Vian Rizgar Salih
+P417,Vian Saber Omar,71,Halabja,H919,Asthma,2025-06-29,outpatient,Dr. Kavar Latif Tahir
+P418,Dilan Saeed Tahir,67,Sulaymaniyah,H918,Gallstones (surgery),2025-03-15,discharged,Dr. Baran Aryan Hasan
+P419,Baran Hama Taha,13,Erbil,H055,Hypertension,2025-08-26,inpatient,Dr. Zeynep Barzan Aziz
+P420,Naz Hama Kadir,64,Zakho,H491,Anaemia,2025-06-04,inpatient,Dr. Yara Mohammed Rashid
+P421,Tara Latif Karimi,40,Erbil,H785,Acute Respiratory Infection,2024-04-02,outpatient,Dr. Shilan Rizgar Said
+P422,Tara Sherzad Faris,2,Zakho,H163,Type 2 Diabetes,2024-01-27,inpatient,Dr. Baran Omar Kadir
+P423,Dilan Mohammed Faris,27,Halabja,H819,Gallstones (surgery),2025-06-02,outpatient,Dr. Pishtiwan Mustafa Rashid
+P424,Chnar Saeed Ahmad,30,Duhok,H509,Asthma,2024-11-12,discharged,Dr. Zhyan Saeed Rashid
+P425,Mazin Jamal Hasan,30,Zakho,H338,Osteoarthritis,2025-08-10,discharged,Dr. Mazin Jalal Faris
+P426,Azad Saber Nasser,27,Erbil,H765,Coronary Artery Disease,2025-08-11,discharged,Dr. Dashni Fuad Hasan
+P427,Yara Fuad Mustafa,68,Duhok,H783,Fracture — Right Femur,2024-05-26,inpatient,Dr. Pishtiwan Mustafa Karimi
+P428,Wrya Dara Rashid,85,Sulaymaniyah,H014,Laceration — Head,2025-10-14,outpatient,Dr. Dara Jamal Mustafa
+P429,Karwan Jalal Mustafa,75,Sulaymaniyah,H459,Asthma,2024-02-12,inpatient,Dr. Yara Rebaz Ahmad
+P430,Saman Karim Hassan,74,Duhok,H802,Stroke (Ischaemic),2024-06-19,discharged,Dr. Bestun Farid Taha
+P431,Karwan Bakr Ali,73,Halabja,H350,Depression,2025-09-28,discharged,Dr. Fuad Omar Rashid
+P432,Lana Saeed Rashid,32,Halabja,H095,Laceration — Head,2025-07-09,discharged,Dr. Alan Mustafa Tahir
+P433,Alan Rebaz Mahmoud,56,Zakho,H805,Type 2 Diabetes,2025-10-09,outpatient,Dr. Avan Rizgar Karim
+P434,Salih Aryan Ali,10,Sulaymaniyah,H929,Peptic Ulcer,2024-07-25,outpatient,Dr. Zhyan Rebaz Karim
+P435,Kavar Aryan Qadir,61,Erbil,H897,Laceration — Head,2024-08-11,discharged,Dr. Pishtiwan Latif Karimi
+P436,Rozhan Rizgar Ahmad,84,Zakho,H341,Generalised Anxiety,2024-01-22,discharged,Dr. Shilan Ihsan Kadir
+P437,Helin Nawzad Nuri,21,Erbil,H691,Gastritis,2025-08-05,discharged,Dr. Yara Omar Faris
+P438,Rami Rizgar Faris,2,Sulaymaniyah,H813,Lymphoma,2025-01-29,outpatient,Dr. Alan Mohammed Aziz
+P439,Baran Aziz Karim,16,Sulaymaniyah,H655,Breast Cancer Stage II,2024-11-12,discharged,Dr. Wrya Raber Omar
+P440,Tara Jalal Nuri,29,Erbil,H765,Osteoarthritis,2024-04-17,inpatient,Dr. Dashni Fuad Hasan
+P441,Alan Mohammed Ali,57,Zakho,H614,Osteoarthritis,2025-04-04,outpatient,Dr. Jalal Barzan Ahmad
+P442,Karwan Aryan Rashid,86,Zakho,H594,Laceration — Head,2025-07-19,discharged,Dr. Mazin Fuad Othman
+P443,Zhyan Ihsan Karimi,20,Sulaymaniyah,H964,Gallstones (surgery),2025-03-30,outpatient,Dr. Dashni Farid Othman
+P444,Zhyan Barzan Aziz,80,Zakho,H331,Anaemia,2024-07-09,inpatient,Dr. Saman Sherzad Taha
+P445,Alan Aziz Mahmoud,57,Erbil,H267,COPD,2025-06-26,outpatient,Dr. Nawzad Saber Hama
+P446,Baran Saber Qadir,61,Erbil,H847,Migraine,2024-06-28,outpatient,Dr. Nawzad Rebaz Salih
+P447,Dashni Omar Taha,52,Duhok,H431,Stroke (Ischaemic),2025-08-13,outpatient,Dr. Bestun Aziz Karim
+P448,Xezal Jalal Ahmad,40,Zakho,H324,Viral Pneumonia,2024-08-22,outpatient,Dr. Karwan Aziz Mahmoud
+P449,Dara Barzan Faris,39,Duhok,H988,COVID-19,2024-10-31,discharged,Dr. Helin Mohammed Mustafa
+P450,Avan Hama Rashid,54,Halabja,H634,Asthma,2025-09-10,discharged,Dr. Rozhan Nawzad Tahir
+P451,Randa Latif Tahir,14,Erbil,H984,Anaemia,2024-04-15,inpatient,Dr. Rozhan Rizgar Salih
+P452,Bestun Fuad Nuri,30,Duhok,H962,Laceration — Head,2024-12-18,inpatient,Dr. Helin Jalal Nuri
+P453,Bestun Dara Omar,64,Duhok,H631,Type 2 Diabetes,2025-10-26,outpatient,Dr. Saman Farid Karim
+P454,Alan Saeed Said,2,Erbil,H921,Leukaemia,2025-07-11,inpatient,Dr. Dilan Sherzad Aziz
+P455,Kavar Omar Hasan,29,Halabja,H911,Herniated Disc L4-L5,2025-03-20,outpatient,Dr. Zeynep Salam Ali
+P456,Rebaz Hama Aziz,55,Erbil,H226,Type 2 Diabetes,2024-09-11,discharged,Dr. Zeynep Saber Aziz
+P457,Wrya Jamal Taha,89,Duhok,H977,Fracture — Right Femur,2024-07-30,discharged,Dr. Dashni Kamaran Aziz
+P458,Mazin Dara Qadir,47,Halabja,H199,Hypertension,2024-10-12,outpatient,Dr. Shilan Barzan Mahmoud
+P459,Vian Omar Ali,44,Zakho,H071,Bronchitis,2025-04-26,discharged,Dr. Kavar Omar Taha
+P460,Helin Raber Said,1,Sulaymaniyah,H528,Osteoarthritis,2025-10-17,inpatient,Dr. Tara Farid Karimi
+P461,Avan Rebaz Mustafa,49,Sulaymaniyah,H369,Coronary Artery Disease,2025-11-12,discharged,Dr. Lana Karim Faris
+P462,Baran Kamaran Ahmad,66,Zakho,H931,Thyroid Disorder,2025-10-09,outpatient,Dr. Jalal Kamaran Karim
+P463,Narin Fuad Omar,24,Halabja,H560,Peptic Ulcer,2024-08-08,discharged,Dr. Mazin Raber Hassan
+P464,Kavar Rizgar Said,45,Zakho,H039,Asthma,2024-10-12,outpatient,Dr. Rozhan Aryan Nuri
+P465,Chnar Saeed Ahmad,24,Halabja,H934,Kidney Stones,2025-06-23,inpatient,Dr. Pishtiwan Bakr Omar
+P466,Randa Mustafa Qadir,20,Halabja,H253,Lymphoma,2025-08-08,outpatient,Dr. Aryan Mustafa Karim
+P467,Dara Kamaran Nuri,18,Erbil,H991,Gallstones (surgery),2025-12-14,inpatient,Dr. Avan Barzan Mahmoud
+P468,Wrya Ihsan Othman,75,Zakho,H237,Herniated Disc L4-L5,2024-04-07,discharged,Dr. Jalal Farhad Tahir
+P469,Vian Barzan Kadir,9,Duhok,H317,Osteoarthritis,2025-07-06,discharged,Dr. Tara Farhad Nasser
+P470,Jalal Latif Nuri,11,Sulaymaniyah,H419,Herniated Disc L4-L5,2024-01-04,inpatient,Dr. Jalal Salam Mahmoud
+P471,Zeynep Ihsan Hassan,26,Sulaymaniyah,H441,Peptic Ulcer,2024-06-11,discharged,Dr. Fuad Ihsan Hama
+P472,Aryan Salam Ali,86,Sulaymaniyah,H543,Stroke (Ischaemic),2025-09-19,inpatient,Dr. Chnar Farid Nuri
+P473,Nawzad Saeed Said,49,Duhok,H612,Breast Cancer Stage II,2025-03-29,inpatient,Dr. Kamaran Aryan Hassan
+P474,Fuad Aryan Ahmad,56,Zakho,H975,Asthma,2024-05-22,inpatient,Dr. Farhad Rizgar Kadir
+P475,Xezal Mohammed Aziz,54,Sulaymaniyah,H236,Lymphoma,2025-07-06,outpatient,Dr. Kamaran Farhad Taha
+P476,Yara Dara Hama,27,Halabja,H398,Stroke (Ischaemic),2025-03-24,outpatient,Dr. Jalal Mustafa Aziz
+P477,Salih Raber Saeed,27,Erbil,H955,Acute Respiratory Infection,2025-08-13,inpatient,Dr. Sardar Ihsan Ahmad
+P478,Chnar Bakr Aziz,77,Duhok,H727,COVID-19,2025-10-28,discharged,Dr. Farhad Omar Nasser
+P479,Dashni Rizgar Taha,51,Duhok,H510,Generalised Anxiety,2024-03-20,outpatient,Dr. Chnar Rebaz Hama
+P480,Sardar Raber Salih,50,Sulaymaniyah,H355,Type 2 Diabetes,2024-04-15,outpatient,Dr. Sardar Nawzad Taha
+P481,Zeynep Farid Aziz,2,Sulaymaniyah,H945,Fracture — Right Femur,2024-07-31,discharged,Dr. Tara Sherzad Mustafa
+P482,Azad Mohammed Aziz,37,Zakho,H373,COVID-19,2025-11-14,outpatient,Dr. Rozhan Karim Saeed
+P483,Shilan Farhad Mustafa,56,Duhok,H771,COVID-19,2024-09-02,outpatient,Dr. Mazin Fuad Omar
+P484,Zhyan Ihsan Nasser,8,Sulaymaniyah,H873,Gastritis,2025-12-07,inpatient,Dr. Randa Raber Omar
+P485,Mazin Saeed Mahmoud,56,Zakho,H489,Lymphoma,2024-05-27,discharged,Dr. Randa Omar Tahir
+P486,Tara Dara Mustafa,38,Duhok,H471,Anaemia,2024-01-03,discharged,Dr. Pishtiwan Aryan Qadir
+P487,Rami Jamal Rashid,21,Duhok,H625,Peptic Ulcer,2025-08-11,outpatient,Dr. Farhad Salam Hama
+P488,Layla Latif Salih,68,Erbil,H090,Kidney Stones,2024-03-22,inpatient,Dr. Wrya Fuad Rashid
+P489,Alan Karim Karimi,85,Zakho,H876,COVID-19,2024-03-02,inpatient,Dr. Salih Rebaz Faris
+P490,Rozhan Nawzad Hasan,3,Zakho,H017,Asthma,2024-04-16,outpatient,Dr. Lana Raber Mahmoud
+P491,Vian Salam Aziz,82,Duhok,H812,Leukaemia,2024-04-18,discharged,Dr. Nawzad Rebaz Hasan
+P492,Saman Saber Mustafa,4,Zakho,H175,Kidney Stones,2025-02-02,discharged,Dr. Rebaz Farid Karimi
+P493,Jalal Dara Ali,61,Zakho,H635,Urinary Tract Infection,2024-08-14,inpatient,Dr. Rebaz Salam Karimi
+P494,Wrya Mohammed Saeed,88,Erbil,H613,Herniated Disc L4-L5,2024-06-05,inpatient,Dr. Kavar Salam Rashid
+P495,Helin Barzan Kadir,33,Halabja,H683,Urinary Tract Infection,2024-01-15,outpatient,Dr. Wrya Salam Karimi
+P496,Layla Rizgar Faris,22,Erbil,H062,Leukaemia,2025-06-12,outpatient,Dr. Farhad Farid Ahmad
+P497,Mazin Rizgar Othman,4,Erbil,H205,Breast Cancer Stage II,2025-10-16,discharged,Dr. Karwan Salam Aziz
+P498,Bestun Rebaz Nasser,33,Erbil,H603,Laceration — Head,2024-12-13,inpatient,Dr. Rebaz Karim Salih
+P499,Helin Saeed Nasser,64,Sulaymaniyah,H841,Anaemia,2024-03-23,outpatient,Dr. Kavar Salam Said
+P500,Tara Barzan Kadir,9,Zakho,H685,Lymphoma,2025-07-30,discharged,Dr. Azad Mustafa Faris
+P501,Nawzad Bakr Saeed,1,Sulaymaniyah,H391,Osteoarthritis,2024-07-03,discharged,Dr. Sardar Farhad Qadir
+P502,Wrya Mustafa Hama,24,Halabja,H120,Type 2 Diabetes,2025-06-05,discharged,Dr. Yara Nawzad Said
+P503,Randa Rebaz Mahmoud,71,Duhok,H146,Acute Respiratory Infection,2024-05-03,inpatient,Dr. Kavar Karim Hama
+P504,Bestun Bakr Ali,6,Zakho,H733,Urinary Tract Infection,2024-12-01,inpatient,Dr. Rebaz Barzan Hasan
+P505,Lana Kamaran Rashid,36,Zakho,H877,Bronchitis,2025-09-06,inpatient,Dr. Yara Latif Rashid
+P506,Rozhan Ihsan Karimi,32,Sulaymaniyah,H775,Osteoarthritis,2025-12-05,inpatient,Dr. Vian Rizgar Salih
+P507,Baran Fuad Kadir,77,Duhok,H043,Atrial Fibrillation,2024-06-04,inpatient,Dr. Dilan Salam Mahmoud
+P508,Fuad Dara Salih,7,Halabja,H294,Anaemia,2025-11-26,inpatient,Dr. Naz Barzan Salih
+P509,Zeynep Barzan Kadir,27,Zakho,H766,Leukaemia,2025-08-21,discharged,Dr. Narin Salam Ali
+P510,Farhad Saeed Tahir,68,Duhok,H161,Acute Respiratory Infection,2024-07-14,inpatient,Dr. Sardar Latif Saeed
+P511,Alan Farhad Kadir,13,Erbil,H696,Stroke (Ischaemic),2025-07-23,outpatient,Dr. Lana Saber Ahmad
+P512,Nawzad Farhad Karimi,66,Sulaymaniyah,H211,Viral Pneumonia,2024-01-21,outpatient,Dr. Sardar Jamal Hasan
+P513,Fuad Fuad Othman,14,Erbil,H381,Viral Pneumonia,2025-08-21,inpatient,Dr. Saman Kamaran Said
+P514,Farhad Farid Taha,60,Duhok,H140,COPD,2024-06-23,inpatient,Dr. Karwan Rizgar Kadir
+P515,Dilan Fuad Kadir,37,Erbil,H863,Herniated Disc L4-L5,2025-04-26,discharged,Dr. Chnar Mohammed Hama
+P516,Hawkar Kamaran Mustafa,61,Sulaymaniyah,H744,Coronary Artery Disease,2025-05-11,outpatient,Dr. Kamaran Rebaz Saeed
+P517,Helin Kamaran Kadir,46,Erbil,H031,Atrial Fibrillation,2025-06-24,discharged,Dr. Kavar Mustafa Aziz
+P518,Pishtiwan Latif Mahmoud,43,Halabja,H855,Migraine,2025-05-13,inpatient,Dr. Mazin Barzan Taha
+P519,Pishtiwan Sherzad Mahmoud,52,Zakho,H354,Atrial Fibrillation,2024-01-06,outpatient,Dr. Alan Omar Qadir
+P520,Zeynep Jamal Karimi,38,Sulaymaniyah,H303,Urinary Tract Infection,2025-04-26,outpatient,Dr. Yara Karim Faris
+P521,Layla Raber Nasser,70,Erbil,H167,Acute Respiratory Infection,2024-07-16,outpatient,Dr. Kavar Jamal Faris
+P522,Kavar Latif Hama,20,Halabja,H723,Breast Cancer Stage II,2024-05-15,discharged,Dr. Baran Fuad Said
+P523,Rozhan Aziz Salih,28,Halabja,H761,Hip Replacement,2024-09-09,outpatient,Dr. Dashni Saber Hama
+P524,Sardar Farid Mahmoud,78,Erbil,H576,Anaemia,2025-12-26,outpatient,Dr. Mazin Saber Aziz
+P525,Xezal Farid Ahmad,56,Zakho,H507,Kidney Stones,2025-07-28,outpatient,Dr. Kavar Hama Aziz
+P526,Kavar Rizgar Nasser,55,Halabja,H104,Generalised Anxiety,2025-02-13,outpatient,Dr. Lana Dara Faris
+P527,Dashni Hama Rashid,34,Halabja,H114,Osteoarthritis,2025-10-25,discharged,Dr. Salih Jamal Othman
+P528,Vian Ihsan Karim,50,Erbil,H347,Peptic Ulcer,2024-10-01,inpatient,Dr. Tara Farid Qadir
+P529,Lana Saeed Qadir,29,Halabja,H604,Acute Respiratory Infection,2024-08-02,discharged,Dr. Dilan Fuad Salih
+P530,Azad Barzan Rashid,90,Duhok,H272,Peptic Ulcer,2025-02-10,inpatient,Dr. Fuad Farhad Hama
+P531,Jalal Barzan Taha,24,Halabja,H803,Leukaemia,2025-07-26,outpatient,Dr. Xezal Aryan Nuri
+P532,Sardar Omar Mustafa,33,Sulaymaniyah,H391,Leukaemia,2025-09-08,outpatient,Dr. Sardar Farhad Qadir
+P533,Vian Saber Karim,26,Duhok,H625,Migraine,2025-10-31,outpatient,Dr. Farhad Salam Hama
+P534,Pishtiwan Saeed Hasan,79,Zakho,H048,Type 2 Diabetes,2025-08-12,outpatient,Dr. Mazin Jamal Faris
+P535,Karwan Sherzad Salih,47,Zakho,H630,Osteoarthritis,2025-02-02,outpatient,Dr. Avan Raber Hasan
+P536,Chnar Ihsan Qadir,50,Halabja,H579,Coronary Artery Disease,2024-02-02,discharged,Dr. Kamaran Hama Salih
+P537,Narin Aziz Ali,61,Sulaymaniyah,H976,Generalised Anxiety,2025-02-15,discharged,Dr. Lana Rizgar Ali
+P538,Dilan Latif Hassan,38,Halabja,H141,COVID-19,2024-04-22,discharged,Dr. Fuad Hama Mahmoud
+P539,Bestun Sherzad Hama,36,Zakho,H379,Peptic Ulcer,2024-08-07,inpatient,Dr. Bestun Saeed Taha
+P540,Baran Mustafa Nasser,88,Zakho,H845,Gallstones (surgery),2025-11-07,discharged,Dr. Fuad Salam Karimi
+P541,Dashni Mustafa Mustafa,87,Zakho,H780,Bronchitis,2025-03-10,discharged,Dr. Bestun Sherzad Qadir
+P542,Yara Hama Aziz,60,Halabja,H153,Lymphoma,2024-08-25,outpatient,Dr. Randa Karim Tahir
+P543,Karwan Jalal Karimi,34,Sulaymaniyah,H410,Laceration — Head,2024-12-05,outpatient,Dr. Layla Farhad Hassan
+P544,Alan Rebaz Nasser,19,Halabja,H889,Atrial Fibrillation,2024-12-01,outpatient,Dr. Mazin Hama Ali
+P545,Karwan Raber Rashid,76,Sulaymaniyah,H709,Osteoarthritis,2024-04-30,inpatient,Dr. Rozhan Kamaran Mustafa
+P546,Farhad Sherzad Hama,69,Zakho,H920,Gallstones (surgery),2025-01-10,discharged,Dr. Tara Farid Hassan
+P547,Kamaran Rizgar Hasan,9,Sulaymaniyah,H360,Leukaemia,2025-02-18,inpatient,Dr. Azad Ihsan Faris
+P548,Hawkar Karim Ahmad,45,Halabja,H363,Migraine,2025-07-27,outpatient,Dr. Zhyan Nawzad Kadir
+P549,Dashni Kamaran Nuri,8,Duhok,H201,Gastritis,2024-10-11,inpatient,Dr. Aryan Aryan Karim
+P550,Kavar Jalal Aziz,42,Zakho,H490,Breast Cancer Stage II,2025-08-02,outpatient,Dr. Dashni Aziz Othman
+P551,Rebaz Jalal Omar,80,Zakho,H037,Osteoarthritis,2024-09-18,outpatient,Dr. Chnar Jalal Salih
+P552,Hawkar Saber Salih,1,Halabja,H881,Acute Respiratory Infection,2024-03-01,discharged,Dr. Hawkar Nawzad Faris
+P553,Chnar Barzan Omar,6,Duhok,H032,Hypertension,2024-09-01,inpatient,Dr. Alan Nawzad Ali
+P554,Bestun Dara Karimi,57,Erbil,H999,Anaemia,2025-09-13,outpatient,Dr. Tara Raber Rashid
+P555,Alan Latif Saeed,23,Sulaymaniyah,H754,Bronchitis,2025-07-29,discharged,Dr. Pishtiwan Rizgar Aziz
+P556,Saman Farid Faris,27,Duhok,H977,Bronchitis,2024-09-30,outpatient,Dr. Dashni Kamaran Aziz
+P557,Rebaz Aryan Qadir,20,Halabja,H889,Peptic Ulcer,2025-01-18,inpatient,Dr. Mazin Hama Ali
+P558,Helin Mustafa Omar,53,Halabja,H579,Asthma,2024-11-25,outpatient,Dr. Kamaran Hama Salih
+P559,Xezal Latif Faris,72,Zakho,H876,Gastritis,2025-11-14,discharged,Dr. Salih Rebaz Faris
+P560,Aryan Omar Karimi,90,Sulaymaniyah,H853,Viral Pneumonia,2024-07-11,discharged,Dr. Farhad Fuad Karimi
+P561,Nawzad Mohammed Omar,89,Sulaymaniyah,H455,COVID-19,2025-05-22,outpatient,Dr. Zeynep Mustafa Hassan
+P562,Tara Salam Ahmad,52,Erbil,H776,Acute Respiratory Infection,2025-10-12,inpatient,Dr. Dilan Sherzad Hassan
+P563,Lana Kamaran Hassan,33,Zakho,H352,Type 2 Diabetes,2024-06-10,outpatient,Dr. Naz Salam Othman
+P564,Dilan Mohammed Salih,16,Zakho,H975,Generalised Anxiety,2024-04-11,outpatient,Dr. Farhad Rizgar Kadir
+P565,Dashni Barzan Rashid,62,Zakho,H594,Anaemia,2024-01-01,outpatient,Dr. Mazin Fuad Othman
+P566,Chnar Aryan Ahmad,89,Erbil,H184,Depression,2024-04-15,outpatient,Dr. Pishtiwan Latif Hassan
+P567,Tara Aziz Omar,38,Zakho,H280,Lymphoma,2025-12-14,outpatient,Dr. Wrya Omar Aziz
+P568,Azad Aziz Ahmad,38,Sulaymaniyah,H744,Generalised Anxiety,2025-06-08,discharged,Dr. Kamaran Rebaz Saeed
+P569,Alan Rebaz Mahmoud,18,Erbil,H672,Thyroid Disorder,2024-06-20,outpatient,Dr. Naz Mohammed Omar
+P570,Wrya Dara Nuri,10,Erbil,H151,Atrial Fibrillation,2025-10-17,inpatient,Dr. Chnar Karim Karimi
+P571,Tara Latif Salih,54,Halabja,H114,Herniated Disc L4-L5,2025-05-09,inpatient,Dr. Salih Jamal Othman
+P572,Dilan Dara Mahmoud,60,Duhok,H570,Peptic Ulcer,2025-06-08,inpatient,Dr. Rozhan Mustafa Othman
+P573,Kavar Nawzad Qadir,3,Erbil,H950,Atrial Fibrillation,2025-12-11,inpatient,Dr. Jalal Jalal Rashid
+P574,Wrya Mohammed Othman,24,Duhok,H922,Atrial Fibrillation,2024-03-07,inpatient,Dr. Xezal Sherzad Salih
+P575,Rami Fuad Nuri,12,Duhok,H027,Urinary Tract Infection,2024-05-18,inpatient,Dr. Zhyan Saeed Hasan
+P576,Bestun Jamal Faris,56,Erbil,H991,Atrial Fibrillation,2024-11-26,outpatient,Dr. Avan Barzan Mahmoud
+P577,Lana Karim Hama,23,Erbil,H458,Herniated Disc L4-L5,2024-06-09,discharged,Dr. Rozhan Mohammed Salih
+P578,Alan Aryan Kadir,29,Erbil,H965,Viral Pneumonia,2024-08-17,discharged,Dr. Dashni Fuad Omar
+P579,Bestun Omar Faris,71,Sulaymaniyah,H645,Migraine,2024-01-13,outpatient,Dr. Fuad Aryan Hassan
+P580,Mazin Latif Karimi,43,Halabja,H114,Depression,2024-08-17,inpatient,Dr. Salih Jamal Othman
+P581,Yara Saeed Faris,72,Erbil,H285,Anaemia,2025-10-31,discharged,Dr. Chnar Latif Qadir
+P582,Wrya Hama Tahir,18,Zakho,H354,Kidney Stones,2024-04-22,outpatient,Dr. Alan Omar Qadir
+P583,Chnar Aziz Tahir,86,Erbil,H031,Breast Cancer Stage II,2025-05-24,inpatient,Dr. Kavar Mustafa Aziz
+P584,Rami Barzan Karimi,72,Duhok,H162,Atrial Fibrillation,2025-06-28,outpatient,Dr. Avan Latif Aziz
+P585,Shilan Farid Taha,44,Duhok,H345,Thyroid Disorder,2025-11-20,discharged,Dr. Hawkar Dara Othman
+P586,Jalal Aryan Omar,84,Halabja,H865,Lymphoma,2024-11-21,discharged,Dr. Chnar Farhad Said
+P587,Avan Jamal Nuri,41,Zakho,H718,Kidney Stones,2024-01-26,inpatient,Dr. Baran Bakr Nuri
+P588,Dara Hama Othman,45,Zakho,H767,Appendicitis (surgery),2025-01-09,inpatient,Dr. Sardar Mustafa Tahir
+P589,Nawzad Saeed Faris,89,Zakho,H982,Breast Cancer Stage II,2024-03-18,discharged,Dr. Rebaz Mohammed Ahmad
+P590,Salih Saber Hasan,43,Sulaymaniyah,H588,Generalised Anxiety,2024-03-09,inpatient,Dr. Zeynep Rizgar Karim
+P591,Helin Saber Kadir,43,Zakho,H986,Gallstones (surgery),2025-10-23,inpatient,Dr. Dilan Saber Nuri
+P592,Rebaz Nawzad Ahmad,21,Erbil,H878,Coronary Artery Disease,2024-07-21,outpatient,Dr. Bestun Aziz Karim
+P593,Shilan Jamal Kadir,88,Zakho,H928,Atrial Fibrillation,2024-03-19,outpatient,Dr. Layla Farid Ali
+P594,Bestun Saeed Ali,32,Sulaymaniyah,H898,Hypertension,2024-05-24,inpatient,Dr. Dara Sherzad Kadir
+P595,Zhyan Karim Othman,66,Duhok,H621,Coronary Artery Disease,2024-01-03,inpatient,Dr. Sardar Farhad Hama
+P596,Hawkar Bakr Hasan,57,Duhok,H715,Appendicitis (surgery),2025-09-22,discharged,Dr. Alan Farhad Mustafa
+P597,Zhyan Saeed Said,77,Halabja,H329,Peptic Ulcer,2025-11-05,outpatient,Dr. Narin Latif Mustafa
+P598,Saman Raber Othman,83,Sulaymaniyah,H566,Bronchitis,2024-05-02,inpatient,Dr. Karwan Omar Omar
+P599,Randa Fuad Qadir,32,Zakho,H615,Acute Respiratory Infection,2024-01-15,discharged,Dr. Dara Hama Hasan
+P600,Fuad Raber Hasan,78,Erbil,H457,Urinary Tract Infection,2024-01-13,outpatient,Dr. Hawkar Barzan Saeed
+P601,Jalal Jalal Kadir,3,Halabja,H099,Generalised Anxiety,2024-08-09,outpatient,Dr. Rami Ihsan Mustafa
+P602,Zhyan Raber Nasser,89,Erbil,H472,Bronchitis,2024-02-19,outpatient,Dr. Zeynep Bakr Salih
+P603,Lana Hama Hama,67,Zakho,H837,Bronchitis,2025-11-04,outpatient,Dr. Mazin Hama Mustafa
+P604,Zhyan Farhad Saeed,14,Halabja,H719,Anaemia,2024-08-29,inpatient,Dr. Chnar Salam Othman
+P605,Alan Aryan Salih,54,Erbil,H593,Acute Respiratory Infection,2024-05-20,discharged,Dr. Saman Bakr Salih
+P606,Rozhan Nawzad Faris,55,Erbil,H200,Anaemia,2024-09-21,inpatient,Dr. Nawzad Barzan Hasan
+P607,Avan Kamaran Othman,45,Halabja,H169,Hip Replacement,2025-06-20,inpatient,Dr. Jalal Saeed Kadir
+P608,Baran Mohammed Faris,35,Zakho,H932,Leukaemia,2025-06-05,discharged,Dr. Rozhan Kamaran Karimi
+P609,Tara Sherzad Mustafa,23,Duhok,H788,Atrial Fibrillation,2024-01-05,discharged,Dr. Rebaz Sherzad Faris
+P610,Mazin Ihsan Mustafa,34,Sulaymaniyah,H003,Bronchitis,2025-03-19,outpatient,Dr. Karwan Rashid Hama
+P611,Wrya Fuad Ahmad,16,Zakho,H809,Anaemia,2025-03-05,outpatient,Dr. Xezal Mustafa Othman
+P612,Fuad Farhad Nasser,28,Duhok,H668,Acute Respiratory Infection,2024-10-19,discharged,Dr. Dara Nawzad Rashid
+P613,Dilan Dara Nuri,65,Halabja,H440,Hip Replacement,2025-11-22,outpatient,Dr. Aryan Omar Saeed
+P614,Hawkar Jamal Kadir,46,Duhok,H851,Type 2 Diabetes,2025-06-25,outpatient,Dr. Vian Hama Rashid
+P615,Kamaran Hama Taha,17,Sulaymaniyah,H927,Anaemia,2024-05-10,inpatient,Dr. Avan Karim Kadir
+P616,Avan Saber Said,63,Erbil,H667,Atrial Fibrillation,2024-09-17,inpatient,Dr. Avan Kamaran Faris
+P617,Hawkar Salam Othman,73,Sulaymaniyah,H531,Breast Cancer Stage II,2025-01-06,outpatient,Dr. Helin Saeed Omar
+P618,Jalal Jamal Nasser,65,Duhok,H401,Bronchitis,2024-01-14,discharged,Dr. Azad Omar Nasser
+P619,Helin Aryan Nuri,40,Duhok,H700,Peptic Ulcer,2024-02-07,discharged,Dr. Fuad Fuad Faris
+P620,Pishtiwan Farhad Kadir,19,Sulaymaniyah,H478,Migraine,2025-10-16,outpatient,Dr. Avan Rizgar Omar
+P621,Wrya Aryan Said,66,Halabja,H626,Coronary Artery Disease,2025-08-26,inpatient,Dr. Kavar Rizgar Taha
+P622,Rami Jamal Tahir,49,Erbil,H613,Leukaemia,2024-07-19,inpatient,Dr. Kavar Salam Rashid
+P623,Azad Nawzad Rashid,59,Duhok,H868,Kidney Stones,2025-12-05,inpatient,Dr. Karwan Fuad Hasan
+P624,Alan Raber Nuri,11,Sulaymaniyah,H353,COVID-19,2024-06-27,outpatient,Dr. Randa Fuad Othman
+P625,Narin Jalal Said,27,Duhok,H257,Leukaemia,2025-09-13,discharged,Dr. Tara Hama Kadir
+P626,Aryan Raber Karimi,21,Duhok,H430,Peptic Ulcer,2024-05-17,discharged,Dr. Narin Barzan Tahir
+P627,Dashni Fuad Mustafa,87,Erbil,H080,Acute Respiratory Infection,2025-03-06,inpatient,Dr. Shilan Hama Hama
+P628,Xezal Aziz Rashid,50,Halabja,H366,Migraine,2025-08-08,outpatient,Dr. Sardar Kamaran Kadir
+P629,Lana Saeed Tahir,86,Duhok,H625,Generalised Anxiety,2024-10-11,inpatient,Dr. Farhad Salam Hama
+P630,Mazin Sherzad Mustafa,4,Duhok,H907,Bronchitis,2024-08-10,inpatient,Dr. Vian Kamaran Kadir
+P631,Randa Latif Omar,85,Sulaymaniyah,H939,Bronchitis,2025-03-13,outpatient,Dr. Shilan Karim Omar
+P632,Dilan Nawzad Omar,82,Halabja,H774,COPD,2024-09-20,outpatient,Dr. Helin Mustafa Hassan
+P633,Naz Saeed Karimi,13,Zakho,H767,Appendicitis (surgery),2025-11-08,inpatient,Dr. Sardar Mustafa Tahir
+P634,Farhad Ihsan Aziz,33,Duhok,H005,Fracture — Right Femur,2025-04-24,discharged,Dr. Bestun Faris Qadir
+P635,Sardar Mustafa Mustafa,83,Sulaymaniyah,H514,Laceration — Head,2025-04-02,outpatient,Dr. Azad Hama Tahir
+P636,Rami Saeed Tahir,83,Zakho,H956,Fracture — Right Femur,2024-07-11,discharged,Dr. Naz Omar Aziz
+P637,Naz Hama Taha,76,Duhok,H147,Fracture — Right Femur,2025-09-22,inpatient,Dr. Narin Jamal Hasan
+P638,Naz Barzan Karim,62,Sulaymaniyah,H368,Depression,2024-07-04,outpatient,Dr. Jalal Mustafa Hassan
+P639,Xezal Rebaz Othman,44,Zakho,H320,Type 2 Diabetes,2024-06-17,inpatient,Dr. Narin Mustafa Tahir
+P640,Wrya Bakr Mustafa,13,Halabja,H620,Thyroid Disorder,2024-10-15,discharged,Dr. Hawkar Aryan Aziz
+P641,Zhyan Ihsan Ahmad,49,Duhok,H587,Generalised Anxiety,2025-06-27,inpatient,Dr. Jalal Salam Hama
+P642,Jalal Fuad Said,65,Halabja,H499,Urinary Tract Infection,2024-10-31,inpatient,Dr. Jalal Latif Saeed
+P643,Rozhan Rebaz Ali,89,Erbil,H933,Asthma,2025-12-09,discharged,Dr. Sardar Kamaran Othman
+P644,Xezal Rizgar Aziz,77,Halabja,H314,Stroke (Ischaemic),2025-04-02,outpatient,Dr. Yara Rizgar Othman
+P645,Kamaran Kamaran Nuri,88,Erbil,H559,Hip Replacement,2024-06-30,discharged,Dr. Jalal Raber Taha
+P646,Naz Farhad Hama,7,Duhok,H272,Hypertension,2024-11-20,outpatient,Dr. Fuad Farhad Hama
+P647,Alan Kamaran Othman,83,Zakho,H129,COPD,2025-08-29,outpatient,Dr. Baran Jamal Saeed
+P648,Chnar Farhad Faris,68,Zakho,H894,Migraine,2024-03-10,discharged,Dr. Aryan Saeed Hasan
+P649,Bestun Salam Ahmad,54,Halabja,H607,Bronchitis,2024-03-21,inpatient,Dr. Saman Hama Rashid
+P650,Rami Kamaran Salih,82,Halabja,H417,Viral Pneumonia,2025-08-22,inpatient,Dr. Zhyan Fuad Ahmad
+P651,Farhad Hama Faris,23,Erbil,H098,Fracture — Right Femur,2025-10-09,outpatient,Dr. Fuad Raber Karim
+P652,Rami Saber Faris,28,Erbil,H080,COPD,2025-05-14,discharged,Dr. Shilan Hama Hama
+P653,Zeynep Rizgar Taha,65,Zakho,H178,Thyroid Disorder,2025-08-20,outpatient,Dr. Zhyan Hama Ahmad
+P654,Kamaran Sherzad Karim,87,Duhok,H345,Depression,2025-08-06,inpatient,Dr. Hawkar Dara Othman
+P655,Avan Mustafa Rashid,3,Zakho,H643,Type 2 Diabetes,2025-07-17,discharged,Dr. Rozhan Barzan Karim
+P656,Sardar Jalal Kadir,23,Erbil,H016,Gallstones (surgery),2025-02-21,discharged,Dr. Bestun Aryan Othman
+P657,Dilan Jamal Saeed,41,Zakho,H718,Appendicitis (surgery),2024-11-25,outpatient,Dr. Baran Bakr Nuri
+P658,Vian Jalal Kadir,75,Duhok,H795,Anaemia,2024-02-13,discharged,Dr. Rozhan Nawzad Ahmad
+P659,Hawkar Farhad Ahmad,86,Zakho,H513,COVID-19,2024-01-15,discharged,Dr. Rebaz Karim Nuri
+P660,Layla Kamaran Kadir,81,Halabja,H028,Breast Cancer Stage II,2025-06-11,discharged,Dr. Pishtiwan Dara Qadir
+P661,Pishtiwan Bakr Othman,23,Zakho,H227,COPD,2025-11-20,discharged,Dr. Pishtiwan Jamal Omar
+P662,Nawzad Jamal Omar,45,Duhok,H946,Gastritis,2025-11-06,inpatient,Dr. Randa Karim Ahmad
+P663,Salih Salam Karimi,45,Halabja,H370,Coronary Artery Disease,2025-04-12,inpatient,Dr. Karwan Aryan Hama
+P664,Avan Karim Ali,9,Halabja,H560,Lymphoma,2025-10-30,inpatient,Dr. Mazin Raber Hassan
+P665,Mazin Hama Nuri,56,Duhok,H217,Depression,2025-01-17,discharged,Dr. Vian Mustafa Hassan
+P666,Aryan Fuad Faris,28,Zakho,H806,Herniated Disc L4-L5,2024-05-13,outpatient,Dr. Randa Kamaran Hama
+P667,Aryan Hama Karimi,27,Duhok,H721,Migraine,2024-03-12,inpatient,Dr. Wrya Jamal Hassan
+P668,Nawzad Rebaz Qadir,12,Duhok,H922,Herniated Disc L4-L5,2024-01-02,outpatient,Dr. Xezal Sherzad Salih
+P669,Dara Latif Hassan,53,Zakho,H124,Appendicitis (surgery),2025-11-07,discharged,Dr. Rami Nawzad Karim
+P670,Aryan Saber Mahmoud,51,Halabja,H095,Peptic Ulcer,2025-12-25,outpatient,Dr. Alan Mustafa Tahir
+P671,Rebaz Rizgar Kadir,61,Halabja,H938,Hypertension,2024-04-02,outpatient,Dr. Wrya Rebaz Hama
+P672,Rozhan Saeed Nuri,48,Erbil,H205,Atrial Fibrillation,2025-03-09,discharged,Dr. Karwan Salam Aziz
+P673,Dilan Salam Rashid,45,Sulaymaniyah,H997,Anaemia,2024-07-20,outpatient,Dr. Randa Nawzad Nasser
+P674,Avan Barzan Ali,69,Halabja,H469,Depression,2025-01-23,outpatient,Dr. Jalal Jalal Othman
+P675,Layla Fuad Said,12,Sulaymaniyah,H419,Bronchitis,2024-02-26,discharged,Dr. Jalal Salam Mahmoud
+P676,Salih Kamaran Nuri,84,Zakho,H225,Leukaemia,2024-10-31,outpatient,Dr. Baran Karim Ahmad
+P677,Alan Karim Othman,10,Zakho,H330,Lymphoma,2025-11-27,outpatient,Dr. Dashni Aziz Mustafa
+P678,Rami Kamaran Hama,78,Erbil,H351,Generalised Anxiety,2025-11-03,outpatient,Dr. Salih Dara Othman
+P679,Kamaran Jamal Saeed,57,Sulaymaniyah,H179,Viral Pneumonia,2025-02-07,discharged,Dr. Rebaz Farhad Hassan
+P680,Lana Aryan Karimi,75,Duhok,H298,Viral Pneumonia,2024-03-06,discharged,Dr. Nawzad Omar Salih
+P681,Zeynep Jamal Taha,3,Halabja,H427,Type 2 Diabetes,2025-10-29,outpatient,Dr. Farhad Aryan Nuri
+P682,Avan Kamaran Nasser,7,Sulaymaniyah,H501,Breast Cancer Stage II,2025-11-26,inpatient,Dr. Sardar Salam Omar
+P683,Dilan Rebaz Aziz,60,Zakho,H324,Urinary Tract Infection,2025-12-30,discharged,Dr. Karwan Aziz Mahmoud
+P684,Fuad Jalal Mustafa,27,Erbil,H414,Bronchitis,2025-10-31,outpatient,Dr. Vian Aryan Hama
+P685,Aryan Karim Hama,86,Sulaymaniyah,H890,Asthma,2024-09-09,discharged,Dr. Rebaz Saber Karim
+P686,Baran Fuad Hama,21,Zakho,H432,Anaemia,2025-09-01,outpatient,Dr. Naz Fuad Omar
+P687,Jalal Jamal Faris,59,Halabja,H923,COPD,2025-12-14,inpatient,Dr. Yara Rebaz Othman
+P688,Saman Latif Hasan,75,Duhok,H471,Gastritis,2024-02-07,outpatient,Dr. Pishtiwan Aryan Qadir
+P689,Nawzad Sherzad Mahmoud,78,Erbil,H234,Anaemia,2025-09-07,inpatient,Dr. Rami Farid Tahir
+P690,Farhad Bakr Karim,2,Duhok,H345,Type 2 Diabetes,2025-11-03,inpatient,Dr. Hawkar Dara Othman
+P691,Kavar Saeed Ahmad,14,Halabja,H314,Generalised Anxiety,2024-05-11,outpatient,Dr. Yara Rizgar Othman
+P692,Helin Fuad Kadir,54,Halabja,H683,Acute Respiratory Infection,2024-06-09,inpatient,Dr. Wrya Salam Karimi
+P693,Jalal Raber Salih,10,Sulaymaniyah,H545,Breast Cancer Stage II,2025-05-26,outpatient,Dr. Zhyan Hama Hassan
+P694,Naz Karim Qadir,9,Erbil,H965,Gallstones (surgery),2024-09-29,inpatient,Dr. Dashni Fuad Omar
+P695,Nawzad Barzan Omar,11,Duhok,H061,COPD,2025-03-22,discharged,Dr. Alan Latif Karim
+P696,Farhad Sherzad Saeed,20,Duhok,H430,Fracture — Right Femur,2025-12-10,outpatient,Dr. Narin Barzan Tahir
+P697,Jalal Hama Said,63,Duhok,H144,Migraine,2024-01-27,outpatient,Dr. Azad Dara Karim
+P698,Avan Saeed Rashid,71,Sulaymaniyah,H004,Anaemia,2025-12-31,inpatient,Dr. Shilan Azad Tahir
+P699,Mazin Barzan Rashid,70,Halabja,H293,Urinary Tract Infection,2025-03-25,discharged,Dr. Hawkar Barzan Salih
+P700,Hawkar Barzan Taha,45,Halabja,H597,COVID-19,2025-09-04,discharged,Dr. Nawzad Mohammed Qadir
+P701,Rebaz Bakr Omar,68,Zakho,H362,Migraine,2024-11-13,discharged,Dr. Bestun Saeed Ahmad
+P702,Alan Saber Othman,47,Zakho,H330,Viral Pneumonia,2024-02-04,outpatient,Dr. Dashni Aziz Mustafa
+P703,Mazin Jalal Hassan,16,Sulaymaniyah,H676,Laceration — Head,2024-12-27,discharged,Dr. Hawkar Kamaran Said
+P704,Jalal Mohammed Said,62,Erbil,H698,Viral Pneumonia,2025-02-16,discharged,Dr. Rebaz Sherzad Hasan
+P705,Sardar Karim Othman,44,Duhok,H447,Laceration — Head,2024-04-23,discharged,Dr. Farhad Rebaz Ahmad
+P706,Salih Aziz Nasser,1,Erbil,H456,Laceration — Head,2025-10-19,discharged,Dr. Sardar Latif Faris
+P707,Azad Fuad Kadir,33,Zakho,H582,COPD,2025-03-21,inpatient,Dr. Tara Rizgar Nasser
+P708,Chnar Raber Said,55,Halabja,H279,Atrial Fibrillation,2024-07-17,outpatient,Dr. Zeynep Rizgar Nasser
+P709,Vian Ihsan Nuri,30,Duhok,H508,Stroke (Ischaemic),2025-03-30,outpatient,Dr. Naz Bakr Said
+P710,Kamaran Nawzad Nuri,26,Duhok,H969,COPD,2025-08-14,inpatient,Dr. Lana Saber Nasser
+P711,Bestun Bakr Aziz,15,Sulaymaniyah,H892,Leukaemia,2024-03-17,outpatient,Dr. Naz Aryan Nuri
+P712,Kavar Fuad Salih,27,Erbil,H234,Laceration — Head,2025-10-16,outpatient,Dr. Rami Farid Tahir
+P713,Tara Mohammed Ali,22,Sulaymaniyah,H378,Coronary Artery Disease,2025-09-06,outpatient,Dr. Rozhan Farid Said
+P714,Layla Saber Karim,17,Erbil,H456,Anaemia,2025-03-02,inpatient,Dr. Sardar Latif Faris
+P715,Kamaran Nawzad Saeed,77,Halabja,H579,Appendicitis (surgery),2024-10-03,outpatient,Dr. Kamaran Hama Salih
+P716,Chnar Ihsan Omar,49,Halabja,H584,Acute Respiratory Infection,2025-08-08,discharged,Dr. Chnar Aziz Faris
+P717,Randa Sherzad Said,12,Duhok,H787,Depression,2024-11-01,outpatient,Dr. Mazin Mohammed Tahir
+P718,Bestun Barzan Taha,79,Sulaymaniyah,H501,Depression,2025-10-23,discharged,Dr. Sardar Salam Omar
+P719,Salih Rebaz Salih,65,Halabja,H449,Bronchitis,2025-09-01,discharged,Dr. Bestun Omar Rashid
+P720,Xezal Rebaz Nasser,32,Duhok,H857,Coronary Artery Disease,2025-10-08,discharged,Dr. Rozhan Salam Rashid
+P721,Narin Saber Qadir,50,Halabja,H315,Appendicitis (surgery),2025-03-21,inpatient,Dr. Karwan Mohammed Nuri
+P722,Dara Hama Karim,33,Halabja,H409,COPD,2025-05-03,outpatient,Dr. Hawkar Raber Kadir
+P723,Chnar Farhad Saeed,11,Duhok,H264,Hypertension,2024-08-15,discharged,Dr. Sardar Farhad Hasan
+P724,Dashni Rebaz Tahir,50,Duhok,H707,Peptic Ulcer,2024-03-15,discharged,Dr. Aryan Hama Taha
+P725,Kamaran Latif Karim,43,Erbil,H764,Breast Cancer Stage II,2025-05-19,discharged,Dr. Zhyan Fuad Said
+P726,Naz Karim Saeed,77,Halabja,H286,Type 2 Diabetes,2025-10-16,inpatient,Dr. Azad Raber Taha
+P727,Nawzad Aziz Ali,37,Erbil,H457,Breast Cancer Stage II,2024-04-26,outpatient,Dr. Hawkar Barzan Saeed
+P728,Tara Raber Tahir,37,Sulaymaniyah,H494,Type 2 Diabetes,2024-11-26,discharged,Dr. Jalal Kamaran Hassan
+P729,Kamaran Ihsan Kadir,39,Halabja,H114,Thyroid Disorder,2024-07-08,outpatient,Dr. Salih Jamal Othman
+P730,Aryan Jalal Rashid,25,Zakho,H170,Leukaemia,2024-08-27,inpatient,Dr. Karwan Saber Othman
+P731,Vian Ihsan Taha,48,Erbil,H592,Peptic Ulcer,2024-07-18,discharged,Dr. Narin Jamal Ahmad
+P732,Aryan Hama Hasan,86,Duhok,H812,Laceration — Head,2024-01-21,discharged,Dr. Nawzad Rebaz Hasan
+P733,Baran Latif Saeed,16,Zakho,H1000,Leukaemia,2025-02-17,inpatient,Dr. Jalal Jalal Kadir
+P734,Farhad Fuad Hama,42,Halabja,H585,Asthma,2025-04-26,discharged,Dr. Chnar Jamal Mustafa
+P735,Aryan Salam Faris,55,Halabja,H196,Fracture — Right Femur,2024-02-18,discharged,Dr. Aryan Saeed Nuri
+P736,Lana Aryan Hama,66,Zakho,H522,Bronchitis,2024-09-10,outpatient,Dr. Tara Jamal Tahir
+P737,Sardar Aryan Karim,85,Zakho,H489,Hip Replacement,2025-05-25,discharged,Dr. Randa Omar Tahir
+P738,Layla Mustafa Karimi,88,Duhok,H423,Asthma,2024-10-26,outpatient,Dr. Dilan Salam Rashid
+P739,Zhyan Rebaz Ahmad,18,Duhok,H866,Leukaemia,2025-02-13,inpatient,Dr. Zhyan Barzan Qadir
+P740,Sardar Rizgar Mustafa,3,Halabja,H904,Thyroid Disorder,2025-03-28,discharged,Dr. Karwan Jalal Mustafa
+P741,Dara Kamaran Rashid,52,Sulaymaniyah,H912,Breast Cancer Stage II,2024-05-31,outpatient,Dr. Layla Bakr Saeed
+P742,Wrya Dara Mahmoud,31,Halabja,H208,Acute Respiratory Infection,2024-12-06,discharged,Dr. Chnar Saeed Nuri
+P743,Shilan Karim Tahir,55,Duhok,H870,COPD,2024-05-03,inpatient,Dr. Dashni Aziz Othman
+P744,Tara Salam Hasan,71,Zakho,H513,Osteoarthritis,2025-03-28,inpatient,Dr. Rebaz Karim Nuri
+P745,Tara Raber Mustafa,76,Duhok,H844,COVID-19,2025-07-20,outpatient,Dr. Wrya Sherzad Qadir
+P746,Fuad Dara Hassan,64,Erbil,H687,Viral Pneumonia,2025-12-29,outpatient,Dr. Farhad Sherzad Hama
+P747,Farhad Mustafa Hassan,47,Sulaymaniyah,H890,Generalised Anxiety,2025-02-05,outpatient,Dr. Rebaz Saber Karim
+P748,Aryan Farid Omar,67,Halabja,H761,Generalised Anxiety,2025-09-26,outpatient,Dr. Dashni Saber Hama
+P749,Sardar Barzan Mustafa,25,Erbil,H661,Urinary Tract Infection,2024-02-16,outpatient,Dr. Zeynep Farhad Tahir
+P750,Chnar Bakr Mustafa,17,Halabja,H520,Laceration — Head,2024-04-19,outpatient,Dr. Xezal Salam Taha
+P751,Mazin Raber Faris,4,Zakho,H637,Osteoarthritis,2024-07-06,outpatient,Dr. Dara Bakr Taha
+P752,Lana Rebaz Hasan,72,Halabja,H425,Anaemia,2024-06-08,inpatient,Dr. Avan Mohammed Karimi
+P753,Kamaran Bakr Salih,11,Duhok,H948,Fracture — Right Femur,2025-04-29,inpatient,Dr. Rebaz Ihsan Karim
+P754,Layla Nawzad Ahmad,25,Zakho,H308,Hip Replacement,2024-02-06,discharged,Dr. Rozhan Dara Salih
+P755,Kavar Mohammed Omar,72,Duhok,H715,Herniated Disc L4-L5,2025-11-30,discharged,Dr. Alan Farhad Mustafa
+P756,Salih Jalal Omar,57,Sulaymaniyah,H539,Lymphoma,2024-07-22,discharged,Dr. Shilan Ihsan Karimi
+P757,Vian Rizgar Omar,6,Zakho,H493,Thyroid Disorder,2025-02-12,outpatient,Dr. Dashni Barzan Omar
+P758,Wrya Aryan Tahir,58,Zakho,H438,COVID-19,2024-09-06,discharged,Dr. Farhad Farhad Taha
+P759,Hawkar Mustafa Hassan,41,Duhok,H345,Bronchitis,2025-10-16,discharged,Dr. Hawkar Dara Othman
+P760,Naz Barzan Hassan,38,Zakho,H575,Type 2 Diabetes,2024-07-02,outpatient,Dr. Xezal Mohammed Said
+P761,Rami Karim Aziz,71,Halabja,H798,Appendicitis (surgery),2024-01-27,discharged,Dr. Vian Dara Faris
+P762,Tara Latif Faris,20,Halabja,H409,Generalised Anxiety,2024-12-16,outpatient,Dr. Hawkar Raber Kadir
+P763,Xezal Mustafa Karim,81,Halabja,H363,Hypertension,2024-02-17,discharged,Dr. Zhyan Nawzad Kadir
+P764,Rozhan Jalal Hassan,37,Erbil,H184,Appendicitis (surgery),2025-01-13,inpatient,Dr. Pishtiwan Latif Hassan
+P765,Saman Aryan Nuri,15,Zakho,H877,Atrial Fibrillation,2025-01-23,inpatient,Dr. Yara Latif Rashid
+P766,Randa Nawzad Othman,15,Halabja,H819,Appendicitis (surgery),2024-12-17,discharged,Dr. Pishtiwan Mustafa Rashid
+P767,Yara Nawzad Mustafa,30,Duhok,H835,Asthma,2024-10-18,inpatient,Dr. Narin Mustafa Kadir
+P768,Wrya Mohammed Karimi,6,Duhok,H605,Urinary Tract Infection,2024-11-15,outpatient,Dr. Zeynep Barzan Othman
+P769,Zhyan Farhad Said,76,Halabja,H375,Hypertension,2024-05-13,discharged,Dr. Naz Latif Faris
+P770,Zeynep Aryan Qadir,88,Zakho,H037,Type 2 Diabetes,2025-10-28,outpatient,Dr. Chnar Jalal Salih
+P771,Saman Sherzad Nuri,43,Duhok,H808,Kidney Stones,2025-10-26,outpatient,Dr. Rami Hama Tahir
+P772,Lana Mustafa Hama,51,Halabja,H099,Generalised Anxiety,2025-07-29,inpatient,Dr. Rami Ihsan Mustafa
+P773,Rebaz Farid Saeed,39,Zakho,H352,Breast Cancer Stage II,2024-11-29,discharged,Dr. Naz Salam Othman
+P774,Zhyan Latif Nuri,31,Erbil,H672,Breast Cancer Stage II,2024-03-07,outpatient,Dr. Naz Mohammed Omar
+P775,Pishtiwan Farhad Hama,79,Sulaymaniyah,H360,Asthma,2025-12-28,outpatient,Dr. Azad Ihsan Faris
+P776,Mazin Rizgar Qadir,5,Zakho,H823,Anaemia,2024-02-11,discharged,Dr. Saman Saber Qadir
+P777,Wrya Salam Hasan,71,Erbil,H351,Acute Respiratory Infection,2024-10-06,discharged,Dr. Salih Dara Othman
+P778,Jalal Mustafa Omar,64,Halabja,H937,Asthma,2024-06-18,outpatient,Dr. Farhad Farhad Omar
+P779,Layla Rizgar Hasan,49,Erbil,H429,Coronary Artery Disease,2025-03-24,inpatient,Dr. Sardar Barzan Mahmoud
+P780,Fuad Rebaz Taha,10,Halabja,H705,COPD,2024-01-15,discharged,Dr. Chnar Jamal Karim
+P781,Zeynep Nawzad Said,72,Halabja,H169,Coronary Artery Disease,2024-08-16,inpatient,Dr. Jalal Saeed Kadir
+P782,Jalal Dara Mahmoud,78,Sulaymaniyah,H800,Coronary Artery Disease,2025-11-26,inpatient,Dr. Azad Fuad Qadir
+P783,Xezal Mohammed Nasser,49,Halabja,H141,Herniated Disc L4-L5,2024-11-29,outpatient,Dr. Fuad Hama Mahmoud
+P784,Avan Barzan Faris,30,Zakho,H453,Coronary Artery Disease,2024-06-07,outpatient,Dr. Saman Fuad Hasan
+P785,Hawkar Farid Faris,52,Sulaymaniyah,H535,Hip Replacement,2025-05-27,outpatient,Dr. Layla Omar Said
+P786,Baran Mustafa Hasan,46,Zakho,H223,Thyroid Disorder,2025-05-25,discharged,Dr. Mazin Salam Saeed
+P787,Rebaz Saber Tahir,5,Halabja,H389,Laceration — Head,2024-03-02,discharged,Dr. Vian Karim Hama
+P788,Fuad Sherzad Faris,16,Halabja,H782,Depression,2024-08-25,discharged,Dr. Wrya Jamal Tahir
+P789,Vian Saeed Karim,13,Sulaymaniyah,H126,Thyroid Disorder,2025-03-10,inpatient,Dr. Azad Kamaran Rashid
+P790,Yara Omar Kadir,33,Duhok,H186,Depression,2024-03-30,outpatient,Dr. Xezal Rebaz Nuri
+P791,Narin Saber Nasser,48,Duhok,H032,Lymphoma,2025-03-16,outpatient,Dr. Alan Nawzad Ali
+P792,Fuad Karim Hama,19,Duhok,H446,Leukaemia,2025-02-28,discharged,Dr. Narin Rebaz Rashid
+P793,Xezal Saber Mustafa,85,Halabja,H361,Migraine,2025-08-10,inpatient,Dr. Tara Bakr Qadir
+P794,Dashni Raber Karimi,33,Sulaymaniyah,H929,Leukaemia,2025-06-02,outpatient,Dr. Zhyan Rebaz Karim
+P795,Sardar Sherzad Taha,71,Zakho,H175,COVID-19,2024-07-15,outpatient,Dr. Rebaz Farid Karimi
+P796,Zeynep Hama Saeed,40,Sulaymaniyah,H768,Peptic Ulcer,2024-06-26,outpatient,Dr. Zeynep Latif Karim
+P797,Rebaz Dara Othman,87,Zakho,H006,Coronary Artery Disease,2024-11-14,outpatient,Dr. Dilan Saeed Nuri
+P798,Pishtiwan Aziz Saeed,56,Duhok,H988,Gastritis,2024-05-06,inpatient,Dr. Helin Mohammed Mustafa
+P799,Rozhan Farid Ali,46,Duhok,H198,Viral Pneumonia,2025-01-29,inpatient,Dr. Pishtiwan Raber Karimi
+P800,Avan Nawzad Rashid,12,Halabja,H260,Generalised Anxiety,2025-06-30,outpatient,Dr. Sardar Saber Ali
+P801,Xezal Barzan Mustafa,2,Erbil,H960,Hip Replacement,2025-11-14,outpatient,Dr. Kavar Karim Taha
+P802,Xezal Saeed Rashid,62,Duhok,H144,Viral Pneumonia,2024-01-07,outpatient,Dr. Azad Dara Karim
+P803,Fuad Farhad Karimi,66,Zakho,H633,Peptic Ulcer,2024-10-07,discharged,Dr. Azad Sherzad Kadir
+P804,Layla Rebaz Saeed,61,Halabja,H221,Appendicitis (surgery),2024-06-03,outpatient,Dr. Salih Fuad Taha
+P805,Saman Mohammed Ahmad,85,Sulaymaniyah,H292,Lymphoma,2025-11-03,discharged,Dr. Yara Fuad Ahmad
+P806,Salih Jalal Nuri,20,Sulaymaniyah,H619,Kidney Stones,2025-04-26,inpatient,Dr. Xezal Farhad Karim
+P807,Mazin Farid Omar,17,Zakho,H318,Depression,2025-04-02,discharged,Dr. Xezal Nawzad Hassan
+P808,Rozhan Nawzad Qadir,43,Zakho,H507,Thyroid Disorder,2025-06-02,discharged,Dr. Kavar Hama Aziz
+P809,Rozhan Saeed Mahmoud,69,Erbil,H820,Depression,2025-10-17,discharged,Dr. Rozhan Bakr Mahmoud
+P810,Rozhan Aryan Othman,20,Zakho,H908,Hip Replacement,2024-10-23,outpatient,Dr. Rozhan Aziz Karim
+P811,Helin Mustafa Mustafa,26,Halabja,H741,Kidney Stones,2025-05-15,outpatient,Dr. Sardar Jamal Faris
+P812,Zeynep Nawzad Aziz,34,Zakho,H207,Gastritis,2025-09-10,inpatient,Dr. Lana Fuad Faris
+P813,Zeynep Farhad Omar,57,Duhok,H255,Asthma,2025-05-28,inpatient,Dr. Helin Farid Qadir
+P814,Helin Omar Mahmoud,16,Sulaymaniyah,H056,Peptic Ulcer,2025-12-31,discharged,Dr. Vian Farhad Othman
+P815,Aryan Rebaz Qadir,2,Sulaymaniyah,H179,Viral Pneumonia,2024-09-06,outpatient,Dr. Rebaz Farhad Hassan
+P816,Farhad Rizgar Said,29,Erbil,H267,Generalised Anxiety,2024-07-23,inpatient,Dr. Nawzad Saber Hama
+P817,Hawkar Latif Hassan,14,Duhok,H868,Atrial Fibrillation,2025-02-16,outpatient,Dr. Karwan Fuad Hasan
+P818,Baran Ihsan Omar,18,Halabja,H028,Laceration — Head,2024-02-29,inpatient,Dr. Pishtiwan Dara Qadir
+P819,Fuad Latif Ahmad,79,Halabja,H286,Asthma,2025-01-09,inpatient,Dr. Azad Raber Taha
+P820,Wrya Saber Othman,31,Erbil,H097,Hip Replacement,2025-05-10,discharged,Dr. Narin Salam Karimi
+P821,Rebaz Ihsan Kadir,12,Erbil,H525,Urinary Tract Infection,2024-11-21,discharged,Dr. Karwan Raber Nuri
+P822,Yara Saeed Omar,2,Erbil,H016,Gallstones (surgery),2025-03-06,inpatient,Dr. Bestun Aryan Othman
+P823,Yara Barzan Karimi,38,Sulaymaniyah,H918,Atrial Fibrillation,2024-02-08,inpatient,Dr. Baran Aryan Hasan
+P824,Dara Mustafa Rashid,40,Zakho,H773,Urinary Tract Infection,2025-05-21,discharged,Dr. Rebaz Mohammed Faris
+P825,Avan Hama Nasser,82,Halabja,H182,COVID-19,2025-07-17,discharged,Dr. Vian Ihsan Mustafa
+P826,Hawkar Mustafa Nuri,44,Sulaymaniyah,H542,Type 2 Diabetes,2025-03-01,inpatient,Dr. Nawzad Mohammed Aziz
+P827,Salih Dara Karimi,10,Erbil,H058,Viral Pneumonia,2025-05-06,discharged,Dr. Dilan Karim Nuri
+P828,Sardar Jamal Rashid,79,Halabja,H597,Peptic Ulcer,2025-06-20,inpatient,Dr. Nawzad Mohammed Qadir
+P829,Rami Fuad Hama,46,Erbil,H785,Lymphoma,2025-03-08,discharged,Dr. Shilan Rizgar Said
+P830,Xezal Mohammed Said,28,Zakho,H491,Kidney Stones,2025-07-19,inpatient,Dr. Yara Mohammed Rashid
+P831,Baran Jalal Salih,6,Zakho,H647,Depression,2024-08-19,outpatient,Dr. Pishtiwan Ihsan Kadir
+P832,Salih Rizgar Faris,11,Sulaymaniyah,H079,Thyroid Disorder,2024-10-14,inpatient,Dr. Aryan Salam Salih
+P833,Helin Sherzad Hassan,78,Halabja,H049,Peptic Ulcer,2024-06-07,inpatient,Dr. Narin Mustafa Karim
+P834,Zeynep Bakr Mahmoud,6,Erbil,H472,COPD,2024-01-08,discharged,Dr. Zeynep Bakr Salih
+P835,Rozhan Fuad Salih,66,Sulaymaniyah,H829,Osteoarthritis,2024-11-30,discharged,Dr. Rebaz Kamaran Said
+P836,Salih Kamaran Said,68,Zakho,H747,Leukaemia,2024-06-24,inpatient,Dr. Bestun Latif Ali
+P837,Dashni Ihsan Said,16,Sulaymaniyah,H252,Peptic Ulcer,2024-12-04,inpatient,Dr. Saman Bakr Saeed
+P838,Kavar Bakr Rashid,74,Sulaymaniyah,H768,Depression,2025-11-17,discharged,Dr. Zeynep Latif Karim
+P839,Tara Saber Karimi,15,Sulaymaniyah,H976,Stroke (Ischaemic),2025-08-29,discharged,Dr. Lana Rizgar Ali
+P840,Rozhan Fuad Tahir,38,Sulaymaniyah,H709,Fracture — Right Femur,2025-10-18,inpatient,Dr. Rozhan Kamaran Mustafa
+P841,Zeynep Mustafa Salih,47,Halabja,H639,Leukaemia,2024-10-01,outpatient,Dr. Salih Nawzad Mahmoud
+P842,Dilan Fuad Hama,74,Halabja,H104,Lymphoma,2024-10-03,outpatient,Dr. Lana Dara Faris
+P843,Alan Sherzad Aziz,31,Sulaymaniyah,H519,COPD,2024-12-24,outpatient,Dr. Rami Mohammed Ali
+P844,Sardar Saber Ali,70,Duhok,H848,Fracture — Right Femur,2025-07-06,outpatient,Dr. Zhyan Dara Nuri
+P845,Layla Karim Karim,60,Duhok,H032,Type 2 Diabetes,2025-09-23,discharged,Dr. Alan Nawzad Ali
+P846,Randa Rebaz Rashid,13,Erbil,H239,Asthma,2024-03-20,inpatient,Dr. Dara Dara Said
+P847,Fuad Aziz Salih,25,Duhok,H795,Generalised Anxiety,2024-08-30,inpatient,Dr. Rozhan Nawzad Ahmad
+P848,Alan Aryan Omar,34,Duhok,H872,Acute Respiratory Infection,2024-04-28,inpatient,Dr. Randa Aryan Othman
+P849,Zeynep Aziz Mustafa,80,Erbil,H445,Migraine,2024-07-23,inpatient,Dr. Nawzad Hama Rashid
+P850,Layla Nawzad Saeed,23,Duhok,H193,COVID-19,2025-01-27,inpatient,Dr. Mazin Rebaz Mahmoud
+P851,Karwan Jamal Kadir,17,Halabja,H276,Anaemia,2025-01-30,outpatient,Dr. Chnar Rebaz Mustafa
+P852,Randa Jamal Nasser,38,Sulaymaniyah,H339,Type 2 Diabetes,2025-07-16,inpatient,Dr. Fuad Fuad Ahmad
+P853,Layla Omar Karim,11,Sulaymaniyah,H168,Gastritis,2025-04-04,inpatient,Dr. Kavar Raber Hama
+P854,Nawzad Dara Ali,60,Halabja,H978,Thyroid Disorder,2024-09-13,inpatient,Dr. Zhyan Rebaz Rashid
+P855,Randa Sherzad Othman,82,Duhok,H988,Hip Replacement,2025-01-05,inpatient,Dr. Helin Mohammed Mustafa
+P856,Azad Kamaran Hassan,1,Halabja,H120,Osteoarthritis,2024-12-06,outpatient,Dr. Yara Nawzad Said
+P857,Lana Farhad Tahir,21,Zakho,H982,COVID-19,2025-03-03,inpatient,Dr. Rebaz Mohammed Ahmad
+P858,Xezal Omar Karim,56,Duhok,H802,Fracture — Right Femur,2025-01-05,inpatient,Dr. Bestun Farid Taha
+P859,Mazin Farhad Hassan,20,Duhok,H125,Gastritis,2024-07-09,discharged,Dr. Dilan Farhad Ali
+P860,Hawkar Mohammed Mahmoud,54,Zakho,H549,Viral Pneumonia,2025-03-09,inpatient,Dr. Rebaz Farhad Aziz
+P861,Nawzad Bakr Taha,47,Sulaymaniyah,H400,Peptic Ulcer,2025-04-01,outpatient,Dr. Dara Mohammed Ali
+P862,Shilan Rizgar Salih,75,Zakho,H341,Type 2 Diabetes,2025-01-11,outpatient,Dr. Shilan Ihsan Kadir
+P863,Vian Salam Rashid,17,Erbil,H682,Gastritis,2025-05-22,discharged,Dr. Tara Salam Othman
+P864,Rebaz Kamaran Othman,45,Halabja,H755,Lymphoma,2025-02-07,inpatient,Dr. Sardar Ihsan Faris
+P865,Dashni Latif Qadir,68,Duhok,H712,Leukaemia,2024-04-28,outpatient,Dr. Randa Rizgar Tahir
+P866,Hawkar Fuad Nasser,41,Halabja,H314,Urinary Tract Infection,2024-04-26,inpatient,Dr. Yara Rizgar Othman
+P867,Baran Karim Kadir,15,Erbil,H351,Lymphoma,2024-10-26,discharged,Dr. Salih Dara Othman
+P868,Xezal Dara Omar,57,Halabja,H389,Generalised Anxiety,2024-03-17,discharged,Dr. Vian Karim Hama
+P869,Karwan Karim Karim,34,Sulaymaniyah,H555,Appendicitis (surgery),2025-08-10,inpatient,Dr. Rebaz Dara Salih
+P870,Azad Hama Salih,41,Zakho,H483,Asthma,2024-02-24,discharged,Dr. Wrya Mustafa Rashid
+P871,Layla Salam Kadir,1,Duhok,H649,Peptic Ulcer,2024-05-05,discharged,Dr. Zeynep Mustafa Qadir
+P872,Zeynep Omar Faris,4,Erbil,H681,Atrial Fibrillation,2024-04-16,inpatient,Dr. Avan Rizgar Qadir
+P873,Hawkar Rizgar Rashid,58,Erbil,H098,Generalised Anxiety,2025-06-29,inpatient,Dr. Fuad Raber Karim
+P874,Salih Farhad Hama,12,Erbil,H933,Depression,2024-06-15,inpatient,Dr. Sardar Kamaran Othman
+P875,Aryan Aryan Mahmoud,46,Sulaymaniyah,H419,Osteoarthritis,2025-03-08,outpatient,Dr. Jalal Salam Mahmoud
+P876,Karwan Aryan Mustafa,86,Erbil,H031,Anaemia,2025-10-27,discharged,Dr. Kavar Mustafa Aziz
+P877,Naz Saeed Mahmoud,8,Duhok,H345,Gastritis,2025-03-24,discharged,Dr. Hawkar Dara Othman
+P878,Karwan Jalal Omar,36,Sulaymaniyah,H391,Generalised Anxiety,2024-10-04,discharged,Dr. Sardar Farhad Qadir
+P879,Karwan Jalal Kadir,61,Sulaymaniyah,H405,Viral Pneumonia,2024-10-25,discharged,Dr. Helin Saber Faris
+P880,Avan Saber Aziz,19,Zakho,H505,Hypertension,2024-08-22,inpatient,Dr. Pishtiwan Farhad Hama
+P881,Naz Karim Mustafa,11,Zakho,H354,Kidney Stones,2025-06-07,outpatient,Dr. Alan Omar Qadir
+P882,Lana Latif Qadir,45,Zakho,H073,Coronary Artery Disease,2025-10-04,discharged,Dr. Randa Fuad Said
+P883,Avan Ihsan Kadir,89,Duhok,H816,Kidney Stones,2025-02-04,outpatient,Dr. Kavar Aryan Omar
+P884,Rebaz Dara Omar,33,Sulaymaniyah,H093,Viral Pneumonia,2024-07-11,inpatient,Dr. Vian Rizgar Aziz
+P885,Pishtiwan Aryan Ali,2,Erbil,H613,Kidney Stones,2024-02-04,outpatient,Dr. Kavar Salam Rashid
+P886,Hawkar Kamaran Taha,61,Duhok,H113,Thyroid Disorder,2025-10-30,inpatient,Dr. Rami Fuad Kadir
+P887,Rozhan Farhad Omar,31,Sulaymaniyah,H825,Asthma,2024-04-17,discharged,Dr. Bestun Jamal Salih
+P888,Jalal Sherzad Othman,6,Erbil,H682,Asthma,2025-05-10,discharged,Dr. Tara Salam Othman
+P889,Tara Rebaz Mahmoud,7,Zakho,H685,Coronary Artery Disease,2025-07-24,discharged,Dr. Azad Mustafa Faris
+P890,Pishtiwan Jalal Ahmad,87,Sulaymaniyah,H014,Viral Pneumonia,2025-10-11,outpatient,Dr. Dara Jamal Mustafa
+P891,Saman Fuad Nuri,31,Duhok,H668,Herniated Disc L4-L5,2025-12-19,inpatient,Dr. Dara Nawzad Rashid
+P892,Azad Fuad Nuri,56,Duhok,H857,Anaemia,2025-09-09,outpatient,Dr. Rozhan Salam Rashid
+P893,Bestun Latif Tahir,20,Erbil,H086,Osteoarthritis,2025-01-06,inpatient,Dr. Rami Omar Hassan
+P894,Aryan Mustafa Ali,7,Erbil,H933,Herniated Disc L4-L5,2024-01-05,discharged,Dr. Sardar Kamaran Othman
+P895,Sardar Omar Nasser,67,Sulaymaniyah,H588,Viral Pneumonia,2025-09-28,outpatient,Dr. Zeynep Rizgar Karim
+P896,Chnar Saber Hama,3,Halabja,H683,Bronchitis,2025-09-27,outpatient,Dr. Wrya Salam Karimi
+P897,Sardar Hama Othman,46,Sulaymaniyah,H736,Type 2 Diabetes,2025-09-05,outpatient,Dr. Azad Aziz Othman
+P898,Avan Latif Mustafa,68,Zakho,H680,Herniated Disc L4-L5,2025-04-02,discharged,Dr. Jalal Barzan Hasan
+P899,Zeynep Latif Karimi,51,Sulaymaniyah,H501,Generalised Anxiety,2025-09-12,discharged,Dr. Sardar Salam Omar
+P900,Karwan Nawzad Hama,13,Sulaymaniyah,H378,Appendicitis (surgery),2025-09-03,outpatient,Dr. Rozhan Farid Said
+P901,Yara Bakr Karim,66,Duhok,H032,Asthma,2025-09-18,inpatient,Dr. Alan Nawzad Ali
+P902,Dilan Jamal Aziz,26,Halabja,H634,Appendicitis (surgery),2024-05-05,inpatient,Dr. Rozhan Nawzad Tahir
+P903,Nawzad Hama Qadir,18,Erbil,H662,Peptic Ulcer,2025-07-21,inpatient,Dr. Alan Raber Faris
+P904,Mazin Omar Saeed,43,Sulaymaniyah,H299,Atrial Fibrillation,2025-05-12,outpatient,Dr. Rebaz Kamaran Ahmad
+P905,Layla Kamaran Ahmad,28,Sulaymaniyah,H441,Gallstones (surgery),2024-12-18,outpatient,Dr. Fuad Ihsan Hama
+P906,Dara Kamaran Faris,90,Erbil,H603,Coronary Artery Disease,2024-09-24,inpatient,Dr. Rebaz Karim Salih
+P907,Dara Fuad Hama,64,Sulaymaniyah,H376,Generalised Anxiety,2024-05-27,inpatient,Dr. Baran Farhad Faris
+P908,Rebaz Ihsan Ahmad,63,Duhok,H851,Urinary Tract Infection,2024-09-17,inpatient,Dr. Vian Hama Rashid
+P909,Saman Karim Rashid,2,Erbil,H947,Leukaemia,2024-09-15,inpatient,Dr. Bestun Ihsan Mahmoud
+P910,Azad Ihsan Karim,34,Erbil,H627,Coronary Artery Disease,2025-01-13,discharged,Dr. Fuad Barzan Hasan
+P911,Karwan Sherzad Ahmad,79,Halabja,H556,Stroke (Ischaemic),2024-05-26,outpatient,Dr. Dashni Hama Qadir
+P912,Vian Aryan Rashid,85,Erbil,H921,Urinary Tract Infection,2024-12-03,inpatient,Dr. Dilan Sherzad Aziz
+P913,Xezal Barzan Ahmad,88,Erbil,H811,Laceration — Head,2025-05-18,outpatient,Dr. Shilan Fuad Mustafa
+P914,Azad Ihsan Mahmoud,38,Halabja,H987,Migraine,2024-07-05,outpatient,Dr. Zeynep Aryan Saeed
+P915,Nawzad Barzan Faris,20,Sulaymaniyah,H574,Fracture — Right Femur,2025-06-17,discharged,Dr. Tara Rizgar Hama
+P916,Karwan Farid Hasan,20,Erbil,H603,Appendicitis (surgery),2024-09-02,outpatient,Dr. Rebaz Karim Salih
+P917,Karwan Ihsan Hama,27,Erbil,H090,Type 2 Diabetes,2024-04-19,inpatient,Dr. Wrya Fuad Rashid
+P918,Helin Barzan Othman,6,Zakho,H392,Lymphoma,2024-09-23,outpatient,Dr. Baran Kamaran Ali
+P919,Salih Saeed Salih,14,Halabja,H342,Lymphoma,2024-08-04,inpatient,Dr. Zhyan Nawzad Hassan
+P920,Lana Bakr Karimi,72,Sulaymaniyah,H262,COPD,2024-09-12,discharged,Dr. Mazin Aziz Karim
+P921,Aryan Mohammed Hasan,39,Duhok,H916,Generalised Anxiety,2025-08-21,inpatient,Dr. Hawkar Rizgar Tahir
+P922,Layla Latif Tahir,72,Sulaymaniyah,H608,Peptic Ulcer,2025-03-26,discharged,Dr. Lana Mohammed Taha
+P923,Rami Bakr Nasser,29,Sulaymaniyah,H608,Coronary Artery Disease,2025-03-10,discharged,Dr. Lana Mohammed Taha
+P924,Naz Jamal Hama,7,Halabja,H233,Gallstones (surgery),2024-01-07,discharged,Dr. Hawkar Barzan Karimi
+P925,Chnar Omar Tahir,14,Halabja,H276,Leukaemia,2024-08-25,inpatient,Dr. Chnar Rebaz Mustafa
+P926,Saman Saber Ahmad,77,Zakho,H635,Laceration — Head,2025-07-26,inpatient,Dr. Rebaz Salam Karimi
+P927,Helin Rebaz Hama,36,Halabja,H007,Asthma,2025-03-24,discharged,Dr. Rozhan Kamaran Said
+P928,Randa Jalal Nuri,27,Sulaymaniyah,H704,Depression,2024-03-03,discharged,Dr. Vian Barzan Nuri
+P929,Pishtiwan Jamal Saeed,40,Duhok,H783,Osteoarthritis,2025-01-10,outpatient,Dr. Pishtiwan Mustafa Karimi
+P930,Chnar Fuad Hassan,2,Duhok,H027,Viral Pneumonia,2024-08-26,outpatient,Dr. Zhyan Saeed Hasan
+P931,Fuad Latif Rashid,27,Duhok,H851,Thyroid Disorder,2024-09-27,discharged,Dr. Vian Hama Rashid
+P932,Randa Saeed Aziz,4,Erbil,H933,Migraine,2025-07-22,inpatient,Dr. Sardar Kamaran Othman
+P933,Lana Latif Ali,8,Halabja,H798,COVID-19,2024-05-19,discharged,Dr. Vian Dara Faris
+P934,Rebaz Fuad Hasan,71,Halabja,H342,Anaemia,2024-06-18,outpatient,Dr. Zhyan Nawzad Hassan
+P935,Wrya Ihsan Faris,9,Halabja,H584,Breast Cancer Stage II,2025-03-12,outpatient,Dr. Chnar Aziz Faris
+P936,Mazin Salam Karimi,58,Erbil,H457,Anaemia,2024-01-17,outpatient,Dr. Hawkar Barzan Saeed
+P937,Rebaz Mohammed Hama,85,Zakho,H490,Gastritis,2025-02-15,inpatient,Dr. Dashni Aziz Othman
+P938,Hawkar Aryan Mustafa,56,Sulaymaniyah,H128,Gastritis,2024-04-05,inpatient,Dr. Mazin Aziz Othman
+P939,Vian Karim Nuri,4,Halabja,H425,Leukaemia,2024-09-07,outpatient,Dr. Avan Mohammed Karimi
+P940,Randa Salam Kadir,88,Sulaymaniyah,H927,Type 2 Diabetes,2024-08-23,outpatient,Dr. Avan Karim Kadir
+P941,Karwan Rebaz Hassan,28,Zakho,H747,COPD,2025-08-08,discharged,Dr. Bestun Latif Ali
+P942,Alan Jalal Said,75,Sulaymaniyah,H051,Hypertension,2024-02-22,inpatient,Dr. Sardar Saeed Nuri
+P943,Salih Farid Karimi,62,Duhok,H481,Hypertension,2024-04-08,outpatient,Dr. Rozhan Bakr Hasan
+P944,Chnar Kamaran Salih,17,Sulaymaniyah,H371,Stroke (Ischaemic),2025-03-17,discharged,Dr. Aryan Rizgar Taha
+P945,Mazin Farid Tahir,42,Duhok,H660,Type 2 Diabetes,2025-03-10,outpatient,Dr. Dilan Jamal Hama
+P946,Azad Aziz Ali,29,Sulaymaniyah,H750,Atrial Fibrillation,2025-03-27,discharged,Dr. Helin Farid Karim
+P947,Sardar Rebaz Saeed,5,Erbil,H121,Leukaemia,2024-12-19,outpatient,Dr. Fuad Mohammed Kadir
+P948,Azad Aziz Nuri,41,Halabja,H815,Gastritis,2025-12-19,outpatient,Dr. Zhyan Bakr Mahmoud
+P949,Hawkar Aryan Qadir,54,Erbil,H722,Laceration — Head,2024-09-26,outpatient,Dr. Avan Jalal Saeed
+P950,Tara Kamaran Faris,90,Duhok,H590,Bronchitis,2025-07-05,inpatient,Dr. Salih Raber Rashid
+P951,Rozhan Bakr Karimi,41,Zakho,H328,Herniated Disc L4-L5,2024-02-26,discharged,Dr. Salih Jamal Faris
+P952,Xezal Kamaran Othman,42,Duhok,H084,Kidney Stones,2025-05-10,outpatient,Dr. Nawzad Jalal Rashid
+P953,Dara Mohammed Nasser,51,Erbil,H785,Asthma,2025-05-25,outpatient,Dr. Shilan Rizgar Said
+P954,Azad Rizgar Nuri,5,Halabja,H911,Thyroid Disorder,2024-01-25,inpatient,Dr. Zeynep Salam Ali
+P955,Shilan Dara Karimi,45,Sulaymaniyah,H359,Bronchitis,2025-10-06,discharged,Dr. Vian Farid Said
+P956,Aryan Aziz Hasan,10,Erbil,H561,Osteoarthritis,2024-09-17,outpatient,Dr. Saman Nawzad Omar
+P957,Saman Latif Kadir,1,Zakho,H421,Type 2 Diabetes,2024-01-14,inpatient,Dr. Dara Ihsan Mustafa
+P958,Sardar Dara Ahmad,53,Duhok,H032,Herniated Disc L4-L5,2025-01-02,outpatient,Dr. Alan Nawzad Ali
+P959,Yara Latif Taha,38,Halabja,H560,Bronchitis,2025-07-02,outpatient,Dr. Mazin Raber Hassan
+P960,Xezal Nawzad Hassan,37,Duhok,H176,Peptic Ulcer,2025-07-18,discharged,Dr. Hawkar Latif Mahmoud
+P961,Rozhan Jamal Omar,18,Halabja,H194,Viral Pneumonia,2025-03-30,outpatient,Dr. Dashni Rebaz Othman
+P962,Helin Latif Karimi,90,Erbil,H077,COPD,2025-09-08,outpatient,Dr. Yara Salam Kadir
+P963,Fuad Jalal Saeed,86,Erbil,H080,Peptic Ulcer,2024-04-19,outpatient,Dr. Shilan Hama Hama
+P964,Xezal Mohammed Said,87,Duhok,H187,Coronary Artery Disease,2025-01-11,discharged,Dr. Kavar Saeed Ahmad
+P965,Sardar Dara Nuri,14,Duhok,H804,Viral Pneumonia,2024-01-23,outpatient,Dr. Narin Sherzad Hassan
+P966,Narin Omar Hama,56,Erbil,H682,Migraine,2024-10-08,outpatient,Dr. Tara Salam Othman
+P967,Yara Salam Nasser,81,Zakho,H930,Type 2 Diabetes,2025-12-08,inpatient,Dr. Nawzad Saeed Said
+P968,Mazin Jalal Hasan,59,Sulaymaniyah,H898,Atrial Fibrillation,2025-04-28,inpatient,Dr. Dara Sherzad Kadir
+P969,Saman Jamal Nasser,53,Sulaymaniyah,H460,Gallstones (surgery),2024-09-17,outpatient,Dr. Karwan Omar Karimi
+P970,Nawzad Nawzad Salih,47,Duhok,H497,Anaemia,2025-10-21,discharged,Dr. Farhad Rizgar Aziz
+P971,Dara Saber Othman,40,Halabja,H937,Appendicitis (surgery),2025-11-11,discharged,Dr. Farhad Farhad Omar
+P972,Fuad Saeed Mustafa,12,Sulaymaniyah,H263,Urinary Tract Infection,2024-09-04,outpatient,Dr. Dara Ihsan Omar
+P973,Pishtiwan Saeed Karim,77,Sulaymaniyah,H371,Osteoarthritis,2025-12-28,inpatient,Dr. Aryan Rizgar Taha
+P974,Tara Aryan Mustafa,35,Halabja,H558,Thyroid Disorder,2024-11-02,discharged,Dr. Randa Aryan Omar
+P975,Sardar Aziz Hasan,85,Halabja,H384,Stroke (Ischaemic),2025-01-28,outpatient,Dr. Pishtiwan Salam Faris
+P976,Zeynep Ihsan Hasan,20,Halabja,H319,Asthma,2024-10-23,discharged,Dr. Rozhan Rizgar Aziz
+P977,Farhad Aziz Hama,62,Halabja,H589,Anaemia,2024-09-06,outpatient,Dr. Alan Hama Mahmoud
+P978,Aryan Nawzad Kadir,74,Zakho,H792,COPD,2024-07-29,outpatient,Dr. Vian Aryan Karimi
+P979,Tara Ihsan Kadir,19,Halabja,H102,Breast Cancer Stage II,2024-04-24,discharged,Dr. Randa Saeed Kadir
+P980,Dashni Jalal Omar,17,Erbil,H722,Urinary Tract Infection,2025-07-05,discharged,Dr. Avan Jalal Saeed
+P981,Chnar Nawzad Faris,56,Zakho,H372,Kidney Stones,2025-12-11,outpatient,Dr. Wrya Jamal Hama
+P982,Rami Omar Hasan,16,Erbil,H965,Leukaemia,2024-07-13,outpatient,Dr. Dashni Fuad Omar
+P983,Narin Farid Ali,74,Sulaymaniyah,H494,Migraine,2025-10-26,discharged,Dr. Jalal Kamaran Hassan
+P984,Chnar Nawzad Hasan,64,Sulaymaniyah,H180,Urinary Tract Infection,2024-01-16,discharged,Dr. Chnar Rizgar Karimi
+P985,Chnar Hama Hasan,15,Duhok,H570,Acute Respiratory Infection,2025-10-05,outpatient,Dr. Rozhan Mustafa Othman
+P986,Kavar Mustafa Hasan,84,Zakho,H876,Migraine,2025-03-01,outpatient,Dr. Salih Rebaz Faris
+P987,Saman Saber Faris,62,Erbil,H921,COPD,2024-04-23,outpatient,Dr. Dilan Sherzad Aziz
+P988,Chnar Rebaz Karimi,18,Erbil,H504,Breast Cancer Stage II,2024-01-19,discharged,Dr. Farhad Ihsan Kadir
+P989,Xezal Dara Kadir,80,Erbil,H525,Stroke (Ischaemic),2024-02-06,discharged,Dr. Karwan Raber Nuri
+P990,Rami Raber Ali,59,Halabja,H856,COVID-19,2024-11-27,inpatient,Dr. Rozhan Karim Hasan
+P991,Kavar Fuad Kadir,35,Duhok,H508,Thyroid Disorder,2025-07-16,outpatient,Dr. Naz Bakr Said
+P992,Vian Kamaran Othman,84,Duhok,H430,COPD,2025-02-03,discharged,Dr. Narin Barzan Tahir
+P993,Mazin Hama Ahmad,35,Zakho,H275,Lymphoma,2024-01-04,discharged,Dr. Dilan Hama Qadir
+P994,Kamaran Hama Taha,2,Duhok,H025,Migraine,2025-04-05,inpatient,Dr. Bestun Mustafa Qadir
+P995,Aryan Farid Aziz,81,Zakho,H876,Gastritis,2025-12-13,inpatient,Dr. Salih Rebaz Faris
+P996,Kamaran Hama Othman,65,Zakho,H465,Peptic Ulcer,2025-07-23,outpatient,Dr. Bestun Hama Qadir
+P997,Farhad Aryan Kadir,21,Erbil,H993,Bronchitis,2025-10-22,outpatient,Dr. Hawkar Farhad Mustafa
+P998,Mazin Nawzad Omar,79,Zakho,H037,Laceration — Head,2024-02-01,discharged,Dr. Chnar Jalal Salih
+P999,Dashni Nawzad Othman,40,Sulaymaniyah,H995,Herniated Disc L4-L5,2025-07-07,inpatient,Dr. Xezal Farid Saeed
+P1000,Rozhan Salam Ahmad,47,Halabja,H989,Type 2 Diabetes,2024-02-27,outpatient,Dr. Wrya Kamaran Mahmoud

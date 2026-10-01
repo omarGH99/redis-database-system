@@ -1,0 +1,130 @@
+{% extends "base.html" %}
+{% block title %}Dashboard · Redis Database System{% endblock %}
+{% block content %}
+
+<h1>Redis Database <span class="slash">/</span> Dashboard</h1>
+<p class="lede">
+  A multi-domain dataset (universities, hospitals, companies, properties, events and more)
+  stored <em>entirely in Redis</em> — hashes for rows, sets and sorted sets for indexes, RediSearch for full-text.
+  Every chart below shows the Redis command that produced it. Click any bar to see the matching rows.
+</p>
+
+<div class="gap8" style="margin-bottom:20px;">
+  <a class="btn" href="/browse">Browse the tables →</a>
+  <a class="btn btn-ghost" href="/ask">Ask a question</a>
+  <a class="btn btn-ghost" href="/tasks">Run the 10 tasks</a>
+</div>
+
+<div class="stats" id="stats">
+  {% for i in range(4) %}<div class="stat"><div class="skeleton" style="height:44px"></div></div>{% endfor %}
+</div>
+
+<div class="grid3" id="charts"></div>
+
+<style>
+  .stats { display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); margin-bottom: 18px; }
+  .stat { background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 14px 16px; }
+  .stat .v { font-family: 'JetBrains Mono', monospace; font-size: 26px; font-weight: 700; color: var(--cream); }
+  .stat .k { font-size: 11px; text-transform: uppercase; letter-spacing: .08em; color: var(--faint); margin-top: 2px; }
+  .chart-box { height: 260px; position: relative; }
+  .chart-box.clickable canvas { cursor: pointer; }
+  .timing { font-family: 'JetBrains Mono', monospace; font-size: 11px; color: var(--faint); margin-top: 14px; }
+</style>
+
+<p class="timing" id="timing"></p>
+
+<script src="{{ url_for('static', filename='vendor/chart.umd.min.js') }}"></script>
+<script>
+const RED='#DC382D', AMBER='#F0B90B', GREEN='#5DD24E', BLUE='#4A9EFF',
+      PURPLE='#B968FF', CREAM='#F2EFD2', ORANGE='#FF8A4A', TEAL='#3FC8C0';
+const PAL=[RED,AMBER,GREEN,BLUE,PURPLE,CREAM,ORANGE,TEAL,'#A41E11','#888'];
+
+Chart.defaults.color='#9a9a9a';
+Chart.defaults.font.family='JetBrains Mono, monospace';
+Chart.defaults.font.size=11;
+Chart.defaults.borderColor='#2C2C2C';
+
+const TIP = { backgroundColor:'#0F0F0F', borderColor:'#2C2C2C', borderWidth:1,
+              titleColor:CREAM, bodyColor:'#E8E8E8', padding:10 };
+
+// key in /api/dashboard → chart definition.
+// `link` (table, search-prefix) makes bars clickable → /browse?table=..&search=<label>
+const CHARTS = [
+  { key:'row_counts',               title:'Rows per table',                 cmd:'SCARD all:*',                          type:'bar',  color:RED },
+  { key:'students_per_university',  title:'Students per university (top 10)', cmd:'SCARD idx:student:by_university:*',  type:'hbar', color:RED,    link:'students' },
+  { key:'students_per_major',       title:'Students per major',              cmd:'SCARD idx:student:by_major:*',         type:'hbar', color:GREEN,  link:'students' },
+  { key:'gpa_distribution',         title:'GPA distribution',                cmd:'ZCOUNT idx:student:by_gpa lo hi',      type:'bar',  color:AMBER },
+  { key:'enrollments_per_semester', title:'Enrollments per semester',        cmd:'SCARD idx:enroll:by_semester:*',       type:'bar',  color:BLUE,   link:'enrollments' },
+  { key:'courses_per_department',   title:'Courses per department (top 10)', cmd:'SCARD idx:course:by_department:*',     type:'hbar', color:PURPLE },
+  { key:'events_per_type',          title:'Events per type',                 cmd:'SCARD idx:event:by_type:*',            type:'hbar', color:TEAL,   link:'events' },
+  { key:'events_per_city',          title:'Events per city',                 cmd:'SCARD idx:event:by_city:*',            type:'pie',  link:'events' },
+  { key:'properties_per_city',      title:'Properties per city',             cmd:'SCARD idx:property:by_city:*',         type:'hbar', color:ORANGE, link:'properties' },
+  { key:'properties_per_status',    title:'Properties by status',            cmd:'SCARD idx:property:by_status:*',       type:'pie',  link:'properties' },
+  { key:'hospitals_per_city',       title:'Hospitals per city',              cmd:'SCARD idx:hospital:by_city:*',         type:'hbar', color:RED,    link:'hospitals' },
+  { key:'patients_per_status',      title:'Patients by status',              cmd:'SCARD idx:patient:by_status:*',        type:'pie',  link:'patients' },
+  { key:'companies_per_sector',     title:'Companies per sector (top 10)',   cmd:'SCARD idx:company:by_sector:*',        type:'hbar', color:BLUE,   link:'companies' },
+];
+
+function opts(horiz) { return {
+  responsive:true, maintainAspectRatio:false,
+  plugins:{ legend:{display:false}, tooltip:TIP },
+  scales:{ x:{grid:{color:'#1F1F1F'}}, y:{grid:{color:'#1F1F1F'}, beginAtZero:true} },
+  ...(horiz ? {indexAxis:'y'} : {})
+};}
+
+function goto(table, label) {
+  location.href = `/browse?table=${encodeURIComponent(table)}&search=${encodeURIComponent(label)}`;
+}
+
+function build(def, data) {
+  const id = 'c-' + def.key;
+  const labels = data.map(d => d.label), values = data.map(d => d.value);
+  // Shorten long category names so axis labels are not cropped; tooltips keep the full text.
+  const shown = labels.map(l => l.length > 20 ? l.slice(0, 19) + '…' : l);
+  const tip = { ...TIP, callbacks: { title: items => labels[items[0].dataIndex] } };
+  const clickable = def.link ? ' clickable' : '';
+  const panel = document.createElement('div');
+  panel.className = 'panel';
+  panel.innerHTML =
+    `<div class="ph"><h3>${esc(def.title)}</h3></div>
+     <p class="phelp"><code>${esc(def.cmd)}</code></p>
+     <div class="chart-box${clickable}"><canvas id="${id}" role="img" aria-label="${esc(def.title)}"></canvas></div>`;
+  $('charts').appendChild(panel);
+
+  const onClick = def.link ? (e, els) => { if (els.length) goto(def.link, labels[els[0].index]); } : undefined;
+  if (def.type === 'pie') {
+    new Chart($(id), { type:'doughnut',
+      data:{ labels: shown, datasets:[{ data:values, backgroundColor:PAL, borderColor:'#0F0F0F', borderWidth:2 }] },
+      options:{ responsive:true, maintainAspectRatio:false, onClick,
+        plugins:{ legend:{ position:'right', labels:{ color:'#9a9a9a', boxWidth:12, padding:10 } }, tooltip:tip } } });
+  } else {
+    new Chart($(id), { type:'bar',
+      data:{ labels: shown, datasets:[{ data:values, backgroundColor:def.color, borderColor:def.color, borderWidth:1, borderRadius:2 }] },
+      options:{ ...opts(def.type === 'hbar'), onClick,
+        plugins:{ legend:{ display:false }, tooltip:tip } } });
+  }
+}
+
+function stat(v, k) { return `<div class="stat"><div class="v">${esc(v)}</div><div class="k">${esc(k)}</div></div>`; }
+
+(async () => {
+  let d;
+  try {
+    d = await api('/api/dashboard');
+  } catch (e) {
+    $('stats').innerHTML = '';
+    showError(e.message);
+    return;
+  }
+  const s = d.stats || {};
+  $('stats').innerHTML =
+    stat(Number(s.total_rows).toLocaleString(), 'rows across all tables') +
+    stat(s.tables, 'tables') +
+    stat(Number(s.redis_keys).toLocaleString(), 'keys in Redis') +
+    stat(s.avg_gpa ?? '–', 'average student GPA');
+  CHARTS.forEach(def => { if (d[def.key]?.length) build(def, d[def.key]); });
+  $('timing').textContent =
+    `> ${CHARTS.length} aggregations computed in ${d.elapsed_ms} ms` + (d.cached ? ' (cached)' : '');
+})();
+</script>
+{% endblock %}

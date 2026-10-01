@@ -1,0 +1,396 @@
+{% extends "base.html" %}
+{% block title %}Tasks · Redis Database System{% endblock %}
+{% block content %}
+
+<h1>Tasks <span class="slash">/</span> 10</h1>
+<p class="lede">Click a task on the right to paste its query into the bar. Edit the values, then press <strong>Run</strong>. Results appear as a JSON output box and a table below.</p>
+
+<div class="split" style="display:flex; gap:18px; align-items:flex-start;">
+
+  <!-- ── LEFT: table area (matches Browse layout) ── -->
+  <div style="flex:1; min-width:0;">
+
+    <!-- table chips — same row style as Browse -->
+    <div class="panel">
+      <label>Dataset</label>
+      <div id="chips" style="display:flex; gap:8px; flex-wrap:wrap; margin-top:8px;">
+        {% for name, id_col in table_chips %}
+        <button class="btn btn-ghost btn-sm chip"
+                data-table="{{ name }}" data-id="{{ id_col }}">
+          {{ name }}
+          <span id="cnt-{{ name }}" style="color:var(--faint); margin-left:3px;">…</span>
+        </button>
+        {% endfor %}
+      </div>
+
+      <!-- query bar — replaces the search bar from Browse -->
+      <div style="margin-top:14px; border-top:1px solid var(--line); padding-top:12px;">
+        <label>Query</label>
+        <div style="display:flex; gap:8px; align-items:center; margin-top:6px; flex-wrap:wrap;">
+          <input id="qbar" type="text" style="flex:1; min-width:200px;"
+                 placeholder="Click a task on the right to paste a query, or type your own…">
+          <button onclick="runQuery()">▶ Run</button>
+          <button class="btn btn-ghost btn-sm" onclick="clearAll()">Clear</button>
+        </div>
+        <div id="qhint" style="font-size:11px; color:var(--faint); margin-top:4px; font-family:'JetBrains Mono',monospace; min-height:16px;"></div>
+      </div>
+
+      <!-- sort + page controls (same as Browse) -->
+      <div class="frow mt8" id="controls" style="display:none;">
+        <div class="field">
+          <label>Sort column</label>
+          <select id="sort-col"></select>
+        </div>
+        <div class="field" style="max-width:150px;">
+          <label>Direction</label>
+          <select id="sort-dir">
+            <option value="asc">Ascending ↑</option>
+            <option value="desc">Descending ↓</option>
+          </select>
+        </div>
+        <div class="field" style="max-width:130px;">
+          <label>Rows per page</label>
+          <select id="pgsz">
+            <option>25</option><option selected>50</option>
+            <option>100</option><option>250</option>
+          </select>
+        </div>
+      </div>
+    </div>
+
+    <!-- output box -->
+    <div class="panel mt16" id="outpanel" style="display:none;">
+      <div class="ph">
+        <span class="badge" style="background:var(--green);color:#000;">OUT</span>
+        <h3>Output</h3>
+        <span id="outsummary" style="font-size:12px;color:var(--dim);margin-left:6px;"></span>
+      </div>
+      <pre id="outraw" style="max-height:240px;"></pre>
+    </div>
+
+    <!-- status + results table -->
+    <div id="status" class="mono mt8" style="font-size:11px; color:var(--faint); min-height:16px;"></div>
+    <div id="result" class="mt8"></div>
+    <div id="pager"  class="mt8" style="display:flex; gap:6px; flex-wrap:wrap; align-items:center;"></div>
+  </div>
+
+  <!-- ── RIGHT: task side panel ── -->
+  <div class="side" style="width:268px; flex-shrink:0;">
+    <div style="position:sticky; top:70px;">
+      <div class="panel">
+        <div class="ph"><span class="badge">10</span><h3>Tasks</h3></div>
+        <p class="phelp" style="margin-bottom:10px;">Click a task to paste its query. Edit values if needed, then press <strong>Run</strong>.</p>
+        <div id="tasklist" style="display:flex; flex-direction:column; gap:5px;"></div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<style>
+  .chip.active { background:var(--red)!important; color:#fff!important; border-color:var(--red)!important; }
+  .chip.active span { color:rgba(255,255,255,.55)!important; }
+  .tbtn {
+    display:flex; align-items:flex-start; gap:9px;
+    background:var(--panel2); border:1px solid var(--line); border-radius:4px;
+    padding:8px 10px; cursor:pointer; text-align:left; width:100%;
+    transition:border-color .12s, background .12s;
+  }
+  .tbtn:hover { border-color:var(--red); background:#1f1f1f; }
+  .tbtn.active { border-color:var(--red); }
+  .tbtn-n { font-family:'JetBrains Mono',monospace; font-weight:700; font-size:13px; min-width:22px; padding-top:1px; }
+  .tbtn-b { display:flex; flex-direction:column; gap:2px; }
+  .tbtn-name { font-size:12px; font-weight:600; color:var(--text); }
+  .tbtn-cmd  { font-family:'JetBrains Mono',monospace; font-size:10px; color:var(--dim); }
+  .n-basic { color:var(--amber); }
+  .n-inter { color:var(--green); }
+  .n-adv   { color:var(--red);   }
+  .pager-btn[disabled]{ opacity:.4; cursor:not-allowed; }
+</style>
+
+<script>
+// ── Task definitions — query is what gets pasted into the bar ─────────
+const TASKS = [
+  { n:'01', tier:'basic', name:'Load & count all rows',
+    cmd:'SCARD all:*',
+    query:'count all rows',
+    apiUrl: () => '/api/task/1',
+    isBrowse: false },
+
+  { n:'02', tier:'basic', name:'Filter students by university + major',
+    cmd:'SINTER idx:student:by_university:UKH idx:student:by_major:Computer Science',
+    query:'university=UKH major=Computer Science',
+    apiUrl: () => `/api/task/2?university=${encodeURIComponent(qval('university=','UKH'))}&major=${encodeURIComponent(qval('major=','Computer Science'))}`,
+    isBrowse: false },
+
+  { n:'03', tier:'basic', name:'Top N students by GPA',
+    cmd:'ZREVRANGE idx:student:by_gpa 0 N',
+    query:'top 10 students gpa',
+    apiUrl: () => `/api/task/3?n=${(($('qbar').value||'').match(/\d+/)||['10'])[0]}`,
+    isBrowse: false },
+
+  { n:'04', tier:'inter', name:'Read a student record',
+    cmd:'HGETALL student:S001',
+    query:'read student S001',
+    apiUrl: () => { const sid=qval('student ','S001'); return api('/api/task/4',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({action:'read',student_id:sid})}); },
+    isCustom: true },
+
+  { n:'05', tier:'inter', name:'Average GPA by university',
+    cmd:'ZSCORE idx:student:by_gpa (fan-out)',
+    query:'average gpa all universities',
+    apiUrl: () => '/api/task/5',
+    isBrowse: false },
+
+  { n:'06', tier:'inter', name:'Multi-condition: uni × major × GPA range',
+    cmd:'SINTER + ZSCORE filter',
+    query:'university=UKH major=Computer Science min_gpa=3.0 max_gpa=4.0',
+    apiUrl: () => `/api/task/6?university=${encodeURIComponent(qval('university=','UKH'))}&major=${encodeURIComponent(qval('major=','Computer Science'))}&min_gpa=${qval('min_gpa=','3.0')}&max_gpa=${qval('max_gpa=','4.0')}`,
+    isBrowse: false },
+
+  { n:'07', tier:'inter', name:'Students × universities × departments',
+    cmd:'HGETALL student:* + university:* + department:*',
+    query:'students universities departments join',
+    apiUrl: () => '/api/task/7',
+    isBrowse: false },
+
+  { n:'08', tier:'adv', name:'Full-text search on courses',
+    cmd:'FT.SEARCH idx_courses_ft',
+    query:'search query=database',
+    apiUrl: () => `/api/task/8?q=${encodeURIComponent(qval('query=','database'))}`,
+    isBrowse: false },
+
+  { n:'09', tier:'adv', name:'Referential integrity check',
+    cmd:'EXISTS across all relations',
+    query:'validate all relations',
+    apiUrl: () => '/api/task/9',
+    isBrowse: false },
+
+  { n:'10', tier:'adv', name:'Composite dashboard query',
+    cmd:'Top courses + unis + majors + events',
+    query:'composite dashboard query',
+    apiUrl: () => '/api/task/10',
+    isBrowse: false },
+];
+
+// Parse simple key=value from qbar
+function qval(prefix, def) {
+  const q = document.getElementById('qbar').value || '';
+  const m = q.match(new RegExp(prefix.replace('=','\\s*=\\s*')+'(.+?)(?=\\s+\\w+\\s*=|$)'));
+  return m ? m[1] : def;
+}
+
+function $(id){ return document.getElementById(id); }
+function enc(v){ return encodeURIComponent(v||''); }
+function esc(s){ return String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+
+// Render task buttons
+const tl = $('tasklist');
+TASKS.forEach(t => {
+  const b = document.createElement('button');
+  b.className = 'tbtn';
+  b.dataset.n = t.n;
+  b.innerHTML = `<span class="tbtn-n n-${t.tier}">${t.n}</span>
+    <span class="tbtn-b">
+      <span class="tbtn-name">${esc(t.name)}</span>
+      <span class="tbtn-cmd">${esc(t.cmd)}</span>
+    </span>`;
+  b.addEventListener('click', () => pasteTask(t, b));
+  tl.appendChild(b);
+});
+
+function pasteTask(t, btn) {
+  document.querySelectorAll('.tbtn').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active');
+  $('qbar').value = t.query;
+  $('qhint').textContent = `↑ Task ${t.n} pasted — edit values if needed, then press Run`;
+  $('qbar').focus();
+}
+
+// ── state for browse mode ─────────────────────────────────────────────
+let browseState = { table:null, id_col:null, sort_col:null, sort_dir:'asc',
+                    page:1, page_size:50 };
+
+// Load row counts into chips
+(async()=>{
+  try {
+    const tables = await api('/api/tables');
+    tables.forEach(t=>{ const el=$(`cnt-${t.name}`); if(el) el.textContent=t.rows.toLocaleString(); });
+  } catch(e) { showError(e.message); }
+  // Default: show students
+  activateChip('students','student_id');
+})();
+
+document.querySelectorAll('.chip').forEach(b=>{
+  b.addEventListener('click',()=>{
+    document.querySelectorAll('.chip').forEach(c=>c.classList.remove('active'));
+    b.classList.add('active');
+    activateChip(b.dataset.table, b.dataset.id);
+  });
+});
+
+function activateChip(name, id_col) {
+  browseState = { ...browseState, table:name, id_col, sort_col:id_col,
+                  sort_dir:'asc', page:1 };
+  $('controls').style.display='';
+  loadBrowse();
+}
+
+$('sort-col').addEventListener('change',()=>{ browseState.sort_col=$('sort-col').value; browseState.page=1; loadBrowse(); });
+$('sort-dir').addEventListener('change',()=>{ browseState.sort_dir=$('sort-dir').value; browseState.page=1; loadBrowse(); });
+$('pgsz').addEventListener('change',()=>{ browseState.page_size=parseInt($('pgsz').value); browseState.page=1; loadBrowse(); });
+
+async function loadBrowse() {
+  const s = browseState;
+  if (!s.table) return;
+  $('status').textContent=`> querying ${s.table}…`;
+  $('result').innerHTML=''; $('pager').innerHTML='';
+  const p = new URLSearchParams({sort_col:s.sort_col||'', sort_dir:s.sort_dir,
+    page:s.page, page_size:s.page_size, search:''});
+  let j;
+  try { j = await api(`/api/browse/${s.table}?${p}`); }
+  catch(e){ $('status').textContent=''; showError(e.message); return; }
+  if(j.error){ $('status').textContent='ERROR: '+j.error; return; }
+  browseState.total=j.total; browseState.pages=j.pages;
+  const sc=$('sort-col');
+  if(j.columns?.length && sc.dataset.table !== s.table){
+    sc.innerHTML=j.columns.map(c=>`<option value="${esc(c)}">${esc(c)}</option>`).join('');
+    sc.dataset.table=s.table;
+  }
+  sc.value=j.sort_col;
+  $('status').innerHTML=
+    `<span class="pill pill-red">${esc(j.table)}</span> `+
+    `<span style="color:var(--faint)">${j.total.toLocaleString()} rows · `+
+    `page ${j.page}/${j.pages} · sorted by <span style="color:var(--cream)">${j.sort_col}</span> `+
+    `${j.sort_dir.toUpperCase()} · engine=${j.engine}</span>`;
+  $('result').innerHTML = renderTable(j.columns, j.rows, j.sort_col, j.sort_dir);
+  $('result').querySelectorAll('th[data-col]').forEach(th=>{
+    th.addEventListener('click',()=>{
+      if(browseState.sort_col===th.dataset.col) browseState.sort_dir=browseState.sort_dir==='asc'?'desc':'asc';
+      else{ browseState.sort_col=th.dataset.col; browseState.sort_dir='asc'; }
+      $('sort-col').value=browseState.sort_col; $('sort-dir').value=browseState.sort_dir;
+      browseState.page=1; loadBrowse();
+    });
+  });
+  renderPager(j.page, j.pages, browseState, loadBrowse);
+}
+
+// ── Run query (tasks) ─────────────────────────────────────────────────
+async function runQuery() {
+  const raw = ($('qbar').value||'').trim().toLowerCase();
+  if (!raw) return;
+  $('outpanel').style.display='none';
+  $('result').innerHTML='';
+  $('pager').innerHTML='';
+  $('qhint').textContent='running…';
+
+  // Figure out which task to run based on query content
+  const activeTask = document.querySelector('.tbtn.active');
+  const taskN = activeTask ? parseInt(activeTask.dataset.n) : null;
+
+  let data, isTaskResult=true;
+
+  try {
+    if (raw.includes('count all') || taskN===1) {
+      data = await api('/api/task/1');
+    } else if (raw.includes('university=') || taskN===2) {
+      const uni = qval('university=','UKH');
+      const maj = qval('major=','Computer Science');
+      data = await api(`/api/task/2?university=${enc(uni)}&major=${enc(maj)}`);
+    } else if ((raw.includes('top') && raw.includes('student') && raw.includes('gpa')) || (raw.includes('top') && raw.includes('gpa')) || taskN===3) {
+      const n = (raw.match(/\d+/)||['10'])[0];
+      data = await api(`/api/task/3?n=${n}`);
+    } else if (raw.includes('student') && raw.includes('read') || taskN===4) {
+      const sid=(raw.match(/[Ss]\d{3,}/)||['S001'])[0].toUpperCase();
+      data = await api('/api/task/4',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({action:'read',student_id:sid})});
+    } else if (raw.includes('average gpa') || raw.includes('avg gpa') || taskN===5) {
+      data = await api('/api/task/5');
+    } else if (raw.includes('min_gpa') || raw.includes('max_gpa') || taskN===6) {
+      const uni=qval('university=','UKH'), maj=qval('major=','Computer Science');
+      const lo=qval('min_gpa=','3.0'), hi=qval('max_gpa=','4.0');
+      data = await api(`/api/task/6?university=${enc(uni)}&major=${enc(maj)}&min_gpa=${lo}&max_gpa=${hi}`);
+    } else if (raw.includes('join') || raw.includes('departments') || taskN===7) {
+      data = await api('/api/task/7');
+    } else if ((raw.includes('search') && raw.includes('query=')) || taskN===8) {
+      const q=qval('query=','database');
+      data = await api(`/api/task/8?q=${enc(q)}`);
+    } else if (raw.includes('validate') || raw.includes('integrity') || taskN===9) {
+      data = await api('/api/task/9');
+    } else if (raw.includes('composite') || raw.includes('dashboard') || taskN===10) {
+      data = await api('/api/task/10');
+    } else {
+      // Fall back to browse/search on current active table
+      isTaskResult = false;
+      browseState.search = ($('qbar').value||'').trim();
+      browseState.page = 1;
+      await loadBrowse();
+      $('qhint').textContent = `Searched "${browseState.search}" in ${browseState.table}`;
+      return;
+    }
+  } catch(e) {
+    $('qhint').textContent = ''; showError(e.message); return;
+  }
+
+  // Show output
+  const n = Array.isArray(data) ? data.length : (typeof data==='object' ? Object.keys(data).length : 1);
+  $('outraw').textContent = JSON.stringify(data, null, 2);
+  $('outsummary').textContent = Array.isArray(data) ? `${data.length} row(s)` : 'object';
+  $('outpanel').style.display='';
+  $('qhint').textContent = `✓ ${Array.isArray(data)?data.length+' results':'done'}`;
+
+  // Render table
+  let rows = null;
+  if (Array.isArray(data) && data.length && typeof data[0]==='object') rows=data;
+  else if (data && typeof data==='object') {
+    const ak = Object.keys(data).find(k=>Array.isArray(data[k])&&data[k].length);
+    rows = ak ? data[ak] : [data];
+  }
+  if (rows?.length) {
+    const cols = [...new Set(rows.flatMap(r=>Object.keys(r)))];
+    $('result').innerHTML = renderTable(cols, rows, null, null);
+  }
+}
+
+function clearAll() {
+  $('qbar').value=''; $('qhint').textContent='';
+  $('outpanel').style.display='none'; $('result').innerHTML=''; $('pager').innerHTML='';
+  document.querySelectorAll('.tbtn').forEach(b=>b.classList.remove('active'));
+  loadBrowse();
+}
+
+function renderTable(cols, rows, sortCol, sortDir) {
+  if (!rows?.length) return '<div class="panel"><p style="color:var(--dim)">No rows.</p></div>';
+  let h='<div class="tbl-wrap" style="max-height:60vh;"><table class="dt"><thead><tr>';
+  cols.forEach(c=>{
+    const cls=c===sortCol?(sortDir==='desc'?'sd':'sa'):'';
+    h+=`<th data-col="${esc(c)}" class="${cls}">${esc(c)}</th>`;
+  });
+  h+='</tr></thead><tbody>';
+  rows.forEach(row=>{ h+='<tr>'+cols.map(c=>`<td>${esc(row[c]??'')}</td>`).join('')+'</tr>'; });
+  return h+'</tbody></table></div>';
+}
+
+function renderPager(cur, last, state, reload) {
+  const $p=$('pager'); $p.innerHTML='';
+  if(last<=1) return;
+  const pages=[...new Set([1,last,cur-1,cur,cur+1])].filter(p=>p>=1&&p<=last).sort((a,b)=>a-b);
+  let h=`<button class="btn btn-ghost btn-sm pager-btn" data-p="${Math.max(1,cur-1)}" ${cur===1?'disabled':''}>← Prev</button>`;
+  let prev=0;
+  pages.forEach(p=>{ if(p-prev>1) h+='<span style="color:var(--faint)">…</span>';
+    h+=`<button class="${p===cur?'btn':'btn btn-ghost'} btn-sm pager-btn" data-p="${p}">${p}</button>`;prev=p;});
+  h+=`<button class="btn btn-ghost btn-sm pager-btn" data-p="${Math.min(last,cur+1)}" ${cur===last?'disabled':''}>Next →</button>`;
+  $p.innerHTML=h;
+  $p.querySelectorAll('.pager-btn').forEach(b=>{
+    b.addEventListener('click',()=>{ state.page=parseInt(b.dataset.p); reload(); window.scrollTo({top:0,behavior:'smooth'}); });
+  });
+}
+
+function activateChip(name, id_col) {
+  browseState = { ...browseState, table:name, id_col, sort_col:id_col,
+                  sort_dir:'asc', page:1 };
+  $('controls').style.display='';
+  loadBrowse();
+}
+
+$('qbar').addEventListener('keydown', e=>{ if(e.key==='Enter') runQuery(); });
+</script>
+{% endblock %}

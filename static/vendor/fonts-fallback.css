@@ -1,0 +1,10 @@
+
+/* Fallback for environments without internet (local fonts) */
+/* JetBrains Mono and Inter are loaded from Google Fonts in base.html
+   if internet is available; otherwise these system stack fallbacks
+   keep the look readable. */
+@font-face {
+  font-family: 'JetBrains Mono';
+  src: local('JetBrains Mono'), local('Cascadia Code'), local('Consolas'), local('Menlo'), local('Monaco');
+  font-weight: 400 700;
+}
